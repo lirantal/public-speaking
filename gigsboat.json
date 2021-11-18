@@ -1,0 +1,8 @@
+{
+  "input": {
+    "sourceDirectory": "pages"
+  },
+  "output": {
+    "markdownFile": "README-gigs.md"
+  }
+}
