@@ -1,6 +1,12 @@
 name: Create gigs
 
 on:
+  workflow_dispatch:
+    inputs:
+      reason:
+        description: 'Reason for running workflow'
+        required: true
+        default: 'Re-generate README'
   push:
     branches: [main, master]
 
