@@ -1,4 +1,6 @@
-<p align='center'><h1 align='center'>Liran Tal - Public Speaking</h1><p align='center'>I love doing Open Source, Node.js, JavaScript, Web Security & InfoSec, Public Speaking, and Building CLIs.</p></p><p align='center'><a href='liran_tal'><img alt='Twitter Follow' src='https://img.shields.io/twitter/follow/liran_tal?style=social'></a> <a href='https://www.linkedin.com/in/talliran'><img alt='LinkedIn Add Me' src='https://img.shields.io/badge/-Add&nbsp;Me&nbsp;on&nbsp;LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white'></a></p><p align='center'><img src='https://github.com/lirantal/public-speaking/blob/main/static/liran-tal-header-image.png' alt='Liran Tal public speaking profile' /></p>
+<div align='center'><p><img src="https://img.shields.io/badge/total-88-blue?style=flat-square" alt="Total Events"> <img src="https://img.shields.io/badge/meetups-12-violet?style=flat-square" alt="Total Meetups"> <img src="https://img.shields.io/badge/conferences-46-red?style=flat-square" alt="Total Conferences"> <img src="https://img.shields.io/badge/podcasts-12-yellow?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/webinars-9-lightgrey?style=flat-square" alt="Total Webinars"> <img src="https://img.shields.io/badge/articles-1-green?style=flat-square" alt="Total Podcasts"></p>
+</div>
+  <p align='center'><h1 align='center'>Liran Tal - Public Speaking</h1><p align='center'>I love doing Open Source, Node.js, JavaScript, Web Security & InfoSec, Public Speaking, and Building CLIs.</p></p><p align='center'><a href='liran_tal'><img alt='Twitter Follow' src='https://img.shields.io/twitter/follow/liran_tal?style=social'></a> <a href='https://www.linkedin.com/in/talliran'><img alt='LinkedIn Add Me' src='https://img.shields.io/badge/-Add&nbsp;Me&nbsp;on&nbsp;LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white'></a></p><p align='center'><img src='https://github.com/lirantal/public-speaking/blob/main/static/liran-tal-header-image.png' alt='Liran Tal public speaking profile' /></p>
 
 Liran is...
 
@@ -12,17 +14,18 @@ Liran is...
 # Table of Contents
 
 
- - [Events in 2021](#2021)
- - [Events in 2020](#2020)
- - [Events in 2019](#2019)
- - [Events in 2018](#2018)
- - [Events in 2017](#2017)
- - [Events in 2016](#2016)
+ - [Year of 2021](#2021) - total events 53
+ - [Year of 2020](#2020) - total events 15
+ - [Year of 2019](#2019) - total events 15
+ - [Year of 2018](#2018) - total events 1
+ - [Year of 2017](#2017) - total events 2
+ - [Year of 2016](#2016) - total events 2
 
 # 2021
 
 
-[53] total events for 2021
+![Total Events](https://img.shields.io/badge/total-53-blue?style=flat-square) ![Total Meetups](https://img.shields.io/badge/meetups-6-violet?style=flat-square) ![Total Conferences](https://img.shields.io/badge/conferences-24-red?style=flat-square) ![Total Podcasts](https://img.shields.io/badge/podcasts-7-yellow?style=flat-square) ![Total Webinars](https://img.shields.io/badge/webinars-8-lightgrey?style=flat-square) 
+
 
 | Date | Event | Title | Slides | Recording | Location | Language |
 | ---- | ----- | ----- | ------ | --------- | -------- | -------- |
@@ -84,7 +87,8 @@ Liran is...
 # 2020
 
 
-[15] total events for 2020
+![Total Events](https://img.shields.io/badge/total-15-blue?style=flat-square) ![Total Meetups](https://img.shields.io/badge/meetups-1-violet?style=flat-square) ![Total Conferences](https://img.shields.io/badge/conferences-10-red?style=flat-square) ![Total Podcasts](https://img.shields.io/badge/podcasts-4-yellow?style=flat-square)  
+
 
 | Date | Event | Title | Slides | Recording | Location | Language |
 | ---- | ----- | ----- | ------ | --------- | -------- | -------- |
@@ -108,7 +112,8 @@ Liran is...
 # 2019
 
 
-[15] total events for 2019
+![Total Events](https://img.shields.io/badge/total-15-blue?style=flat-square) ![Total Meetups](https://img.shields.io/badge/meetups-5-violet?style=flat-square) ![Total Conferences](https://img.shields.io/badge/conferences-8-red?style=flat-square) ![Total Podcasts](https://img.shields.io/badge/podcasts-1-yellow?style=flat-square) ![Total Webinars](https://img.shields.io/badge/webinars-1-lightgrey?style=flat-square) 
+
 
 | Date | Event | Title | Slides | Recording | Location | Language |
 | ---- | ----- | ----- | ------ | --------- | -------- | -------- |
@@ -132,7 +137,8 @@ Liran is...
 # 2018
 
 
-[1] total events for 2018
+![Total Events](https://img.shields.io/badge/total-1-blue?style=flat-square)  ![Total Conferences](https://img.shields.io/badge/conferences-1-red?style=flat-square)   
+
 
 | Date | Event | Title | Slides | Recording | Location | Language |
 | ---- | ----- | ----- | ------ | --------- | -------- | -------- |
@@ -142,7 +148,8 @@ Liran is...
 # 2017
 
 
-[2] total events for 2017
+![Total Events](https://img.shields.io/badge/total-2-blue?style=flat-square)  ![Total Conferences](https://img.shields.io/badge/conferences-1-red?style=flat-square)   ![Total Podcasts](https://img.shields.io/badge/articles-1-green?style=flat-square)
+
 
 | Date | Event | Title | Slides | Recording | Location | Language |
 | ---- | ----- | ----- | ------ | --------- | -------- | -------- |
@@ -153,7 +160,8 @@ Liran is...
 # 2016
 
 
-[2] total events for 2016
+![Total Events](https://img.shields.io/badge/total-2-blue?style=flat-square)  ![Total Conferences](https://img.shields.io/badge/conferences-2-red?style=flat-square)   
+
 
 | Date | Event | Title | Slides | Recording | Location | Language |
 | ---- | ----- | ----- | ------ | --------- | -------- | -------- |
