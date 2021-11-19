@@ -3,14 +3,11 @@
   <p align='center'><h1 align='center'>Liran Tal - Public Speaking</h1>
 <p align='center'>I love doing Open Source, Node.js, JavaScript, Web Security & InfoSec, Public Speaking, and Building CLIs.</p></p><p align='center'><a href='liran_tal'><img alt='Twitter Follow' src='https://img.shields.io/twitter/follow/liran_tal?style=social'></a> <a href='https://www.linkedin.com/in/talliran'><img alt='LinkedIn Add Me' src='https://img.shields.io/badge/-Add&nbsp;Me&nbsp;on&nbsp;LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white'></a></p><p align='center'><img src='https://github.com/lirantal/public-speaking/blob/main/static/liran-tal-header-image.png' alt='Liran Tal public speaking profile' /></p>
 
-Liran is...
-
-
+ - 🌟 [GitHub Star](https://stars.github.com/profiles/lirantal)
  - ✍️  Author of [Essential Node.js Security 2020](http://bit.ly/securenodejs)
  - 🔥  [Node.js CLI Best Practices](https://github.com/lirantal/nodejs-cli-apps-best-practices)
  - 💚  Member of the [NodeJS Security WG](https://github.com/nodejs/security-wg)
- - 🦸‍♂️  Ambassador at @[JSHeroes](https://jsheroes.io/) @[MyDevSecOps](https://www.mydevsecops.io/)
- - 🥑  DevRel @[Snyk](https://snyk.io/)
+ - 🥑  Developer Advocate @[Snyk](https://snyk.io/)
 
 # Table of Contents
 
