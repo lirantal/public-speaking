@@ -9,6 +9,7 @@
  - 💚  Member of the [NodeJS Security WG](https://github.com/nodejs/security-wg)
  - 🥑  Developer Advocate @[Snyk](https://snyk.io/)
 
+
 # Table of Contents
 
 
@@ -165,5 +166,6 @@
 | ---- | ----- | ----- | ------ | --------- | -------- | -------- |
 | 2016-9-19 | OWASP AppSec Israel | Node.js Security Done Right | [Slides](https://www.slideshare.net/LiranTal1/nodejs-security-done-right-tips-and-tricks-they-wont-teach-you-in-school) | [Recording](https://www.youtube.com/watch?v=n9HIfhaSOyc&list=PLA4gj-PiNukcnP0M8exLzXywWI71W4q4R&index=11) | IL | English |
 | 2016-2-18 | helloJS | The Rise of Open Source && MEAN Stack in the Enterprise |  | [Recording](https://www.youtube.com/watch?v=su0mysF0zN4) | RO | English |
+
 
 
