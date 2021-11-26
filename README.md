@@ -1,4 +1,4 @@
-<div align='center'><p><img src="https://img.shields.io/badge/total-89-blue?style=flat-square" alt="Total Events"> <img src="https://img.shields.io/badge/meetups-12-violet?style=flat-square" alt="Total Meetups"> <img src="https://img.shields.io/badge/conferences-46-red?style=flat-square" alt="Total Conferences"> <img src="https://img.shields.io/badge/podcasts-12-yellow?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/webinars-9-lightgrey?style=flat-square" alt="Total Webinars"> <img src="https://img.shields.io/badge/articles-2-green?style=flat-square" alt="Total Podcasts"></p>
+<div align='center'><p><img src="https://img.shields.io/badge/total-88-blue?style=flat-square" alt="Total Events"> <img src="https://img.shields.io/badge/meetups-12-violet?style=flat-square" alt="Total Meetups"> <img src="https://img.shields.io/badge/conferences-46-red?style=flat-square" alt="Total Conferences"> <img src="https://img.shields.io/badge/podcasts-12-yellow?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/webinars-9-lightgrey?style=flat-square" alt="Total Webinars"> <img src="https://img.shields.io/badge/articles-2-green?style=flat-square" alt="Total Podcasts"></p>
 </div>
   <p align='center'><h1 align='center'>Liran Tal - Public Speaking</h1>
 <p align='center'>I love doing Open Source, Node.js, JavaScript, Web Security & InfoSec, Public Speaking, and Building CLIs.</p></p><p align='center'><a href='liran_tal'><img alt='Twitter Follow' src='https://img.shields.io/twitter/follow/liran_tal?style=social'></a> <a href='https://www.linkedin.com/in/talliran'><img alt='LinkedIn Add Me' src='https://img.shields.io/badge/-Add&nbsp;Me&nbsp;on&nbsp;LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white'></a></p><p align='center'><img src='https://github.com/lirantal/public-speaking/blob/main/static/liran-tal-header-image.png' alt='Liran Tal public speaking profile' /></p>
@@ -13,7 +13,7 @@
 # Table of Contents
 
 
- - [Year of 2021](#2021) - total events 54
+ - [Year of 2021](#2021) - total events 53
  - [Year of 2020](#2020) - total events 15
  - [Year of 2019](#2019) - total events 15
  - [Year of 2018](#2018) - total events 1
@@ -23,7 +23,7 @@
 # 2021
 
 
-![Total Events](https://img.shields.io/badge/total-54-blue?style=flat-square) ![Total Meetups](https://img.shields.io/badge/meetups-6-violet?style=flat-square) ![Total Conferences](https://img.shields.io/badge/conferences-24-red?style=flat-square) ![Total Podcasts](https://img.shields.io/badge/podcasts-7-yellow?style=flat-square) ![Total Webinars](https://img.shields.io/badge/webinars-8-lightgrey?style=flat-square) ![Total Podcasts](https://img.shields.io/badge/articles-1-green?style=flat-square)
+![Total Events](https://img.shields.io/badge/total-53-blue?style=flat-square) ![Total Meetups](https://img.shields.io/badge/meetups-6-violet?style=flat-square) ![Total Conferences](https://img.shields.io/badge/conferences-24-red?style=flat-square) ![Total Podcasts](https://img.shields.io/badge/podcasts-7-yellow?style=flat-square) ![Total Webinars](https://img.shields.io/badge/webinars-8-lightgrey?style=flat-square) ![Total Podcasts](https://img.shields.io/badge/articles-1-green?style=flat-square)
 
 
 | Date | Event | Title | Slides | Recording | Location | Language |
@@ -43,7 +43,6 @@
 | 2021-9-28 | DevOps World | Stranger Danger: Finding vulnerabilities before they find you! |  |  |  | English |
 | 2021-9-27 | Open Source Summit | Are We Forever Doomed to Software Supply Chain Security? |  |  |  | English |
 | 2021-9-21 | The Monthly Dev | GitHub Stars Special Edition: The Monthly Dev #9 |  | [Recording](https://www.youtube.com/watch?v=jJUtzXXFBr0&ab_channel=dailydev) |  | English |
-| 2021-9-8 | Infobip Shift 2021 | Are We Forever Doomed By Software Supply Chain Risks? |  |  |  | English |
 | 2021-9-3 | React Finland | You thought your React application is secure? Think again |  |  |  | English |
 | 2021-8-25 | SANS.org Webcast | Live Hacking Session - Your app is only as secure as your weakest line of code. Shall we hack it? |  |  |  | English |
 | 2021-8-4 | Black Haat USA 2021 | Cloud Native Application Security: Embracing Developer-First Security for the Cloud Era |  |  |  | English |
