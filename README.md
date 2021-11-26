@@ -29,8 +29,8 @@
 | Date | Event | Title | Slides | Recording | Location | Language |
 | ---- | ----- | ----- | ------ | --------- | -------- | -------- |
 | 2021-12-26 | Reversim Summit 2021 | Stranger Danger: Your Node.js Attack Surface Just Got Bigger |  |  |  | Hebrew |
-| 2021-12-24 | DevOpsDays Tel Aviv 2021 | I can hack your container faster than you can build it |  |  |  | English |
 | 2021-12-15 | ReactNext | You thought your React application is secure? Think again |  |  | IL | English |
+| 2021-11-25 | DevOpsDays Tel Aviv 2021 | I can hack your container faster than you can build it |  |  |  | English |
 | 2021-11-18 | DevSecCon Lightning | ARE WE FOREVER DOOMED BY SOFTWARE SUPPLY CHAIN RISKS? |  |  |  | English |
 | 2021-11-18 | TestJS Summit | Are we Forever Doomed to Software Supply Chain Security? |  |  |  | English |
 | 2021-11-15 | NodeTLV | Mastering Production-grade Best Practices to Build your Node.js Docker Images |  |  | IL | English |
