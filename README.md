@@ -51,7 +51,7 @@
 | 2021-7-21 | Cyber Week | Are We Forever Doomed By Software Supply Chain Risks? |  | [Recording](https://www.youtube.com/watch?v=x74sMCaZKbg&ab_channel=Snyk) | IL | English |
 | 2021-7-20 | JavaScript Jabber | JSJ 493: How to Check Your Application Security featuring Liran Tal |  | [Recording](https://devchat.tv/js-jabber/how-to-check-your-application-security-featuring-liran-tal-jsj-493/?utm_campaign=07-20-21+-+Check+out+this&utm_source=Message&utm_medium=Twitter) |  | English |
 | 2021-7-13 | Docker Blog | Docker for Node.js Developers: 5 Things You Need to Know Not to Fail Your Security |  |  |  | English |
-| 2021-7-7 | Swimm Upstream | Developer Advocacy learnings with Liran Tal |  |  |  | English |
+| 2021-7-7 | Swimm Upstream | EP. 6, Converting Contributors to Core Members of OS Projects With Liran Tal |  | [Recording](https://swimm.io/podcast/converting-contributors-to-core-members-of-os-projects-with-liran-tal-S01E06/) |  | English |
 | 2021-6-17 | SaaStock | SaaStock Local SG: Community-led Growth in Dev Tools |  |  |  | English |
 | 2021-6-15 | Voxxed Days Zurich | Securing Containers by Breaking |  | [Recording](https://rokkit.live/event/zurichvd/talk/4434) |  | English |
 | 2021-6-9 | The Destro Dev Show | How to become a Secure Developer in 2021 with Liran Tal |  | [Recording](https://www.youtube.com/watch?v=1hczYOdrA_o) |  | English |
