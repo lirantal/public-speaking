@@ -1,4 +1,4 @@
-<div align='center'><p><img src="https://img.shields.io/badge/total-88-blue?style=flat-square" alt="Total Events"> <img src="https://img.shields.io/badge/meetups-12-violet?style=flat-square" alt="Total Meetups"> <img src="https://img.shields.io/badge/conferences-46-red?style=flat-square" alt="Total Conferences"> <img src="https://img.shields.io/badge/podcasts-12-yellow?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/webinars-9-lightgrey?style=flat-square" alt="Total Webinars"> <img src="https://img.shields.io/badge/articles-2-green?style=flat-square" alt="Total Podcasts"> </p>
+<div align='center'><p><img src="https://img.shields.io/badge/total-89-blue?style=flat-square" alt="Total Events"> <img src="https://img.shields.io/badge/meetups-12-violet?style=flat-square" alt="Total Meetups"> <img src="https://img.shields.io/badge/conferences-47-red?style=flat-square" alt="Total Conferences"> <img src="https://img.shields.io/badge/podcasts-12-yellow?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/webinars-9-lightgrey?style=flat-square" alt="Total Webinars"> <img src="https://img.shields.io/badge/articles-2-green?style=flat-square" alt="Total Podcasts"> </p>
 </div>
   <p align='center'><h1 align='center'>Liran Tal - Public Speaking</h1>
 <p align='center'>I love doing Open Source, Node.js, JavaScript, Web Security & InfoSec, Public Speaking, and Building CLIs.</p></p><p align='center'><a href='liran_tal'><img alt='Twitter Follow' src='https://img.shields.io/twitter/follow/liran_tal?style=social'></a> <a href='https://www.linkedin.com/in/talliran'><img alt='LinkedIn Add Me' src='https://img.shields.io/badge/-Add&nbsp;Me&nbsp;on&nbsp;LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white'></a></p><p align='center'><img src='https://github.com/lirantal/public-speaking/blob/main/static/liran-tal-header-image.png' alt='Liran Tal public speaking profile' /></p>
@@ -13,12 +13,24 @@
 # Table of Contents
 
 
+ - [Year of 2022](#2022) - total events 1
  - [Year of 2021](#2021) - total events 53
  - [Year of 2020](#2020) - total events 15
  - [Year of 2019](#2019) - total events 15
  - [Year of 2018](#2018) - total events 1
  - [Year of 2017](#2017) - total events 2
  - [Year of 2016](#2016) - total events 2
+
+# 2022
+
+
+![Total Events](https://img.shields.io/badge/total-1-blue?style=flat-square)  ![Total Conferences](https://img.shields.io/badge/conferences-1-red?style=flat-square)    
+
+
+| Date | Event | Title | Slides | Recording | Location | Language |
+| ---- | ----- | ----- | ------ | --------- | -------- | -------- |
+| 2022-5-26 | DevOps Pro Europe 2022 | Mastering Node.js best practices for Docker-based applications |  |  | LT | English |
+
 
 # 2021
 
