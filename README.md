@@ -50,7 +50,7 @@
 | 2021-10-18 | NodeConf Remote | How React Applications Get Hacked in the Real-World |  | [Recording](https://www.youtube.com/watch?v=3WmkGSiiu2E) |  | English |
 | 2021-10-7 | SnykCon 2021 | Hacking your infra from the outside by exploiting npm Dependency Confusion attacks |  |  |  | English |
 | 2021-10-4 | Developing Communities: The DevRel Podcast | Episode 7: Contributing to open-source communities and building developer in DevRel with Liran Tal |  | [Recording](https://anchor.fm/developingcommunities/episodes/Episode-7-Contributing-to-open-source-communities-and-building-developer-in-DevRel-with-Liran-Tal-e189ids) |  | English |
-| 2021-9-29 | SecuriTEA with Lewis Arden | Episode 13 |  | [Recording](https://www.youtube.com/c/karlbaskin) |  | English |
+| 2021-9-29 | SecuriTEA with Lewis Arden | Episode 13 - Liran Tal |  | [Recording](https://www.youtube.com/watch?v=WbM0fkOrzqI&ab_channel=LewisArdern) |  | English |
 | 2021-9-29 | O'Reilly Infrastructure & Ops conference | Proactive controls for supply chain security |  |  |  | English |
 | 2021-9-28 | DevOps World | Stranger Danger: Finding vulnerabilities before they find you! |  |  |  | English |
 | 2021-9-27 | Open Source Summit | Are We Forever Doomed to Software Supply Chain Security? |  |  |  | English |
