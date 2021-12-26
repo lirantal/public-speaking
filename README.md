@@ -50,7 +50,7 @@
 | 2021-11-15 | NodeTLV | Mastering Production-grade Best Practices to Build your Node.js Docker Images |  |  | IL | English |
 | 2021-10-25 | React Advanced | Let me show you how React applications get hacked in the real-world |  | [Recording](https://portal.gitnation.org/contents/let-me-show-you-how-react-applications-get-hacked-in-the-real-world) | UK | English |
 | 2021-10-18 | NodeConf Remote | How React Applications Get Hacked in the Real-World |  | [Recording](https://www.youtube.com/watch?v=3WmkGSiiu2E) |  | English |
-| 2021-10-7 | SnykCon 2021 | Hacking your infra from the outside by exploiting npm Dependency Confusion attacks |  |  |  | English |
+| 2021-10-7 | SnykCon 2021 | Hacking your infra from the outside by exploiting npm Dependency Confusion attacks |  | [Recording](https://snyk.io/video/hacking-infra-from-outside-exploiting-npm-dependency-confusion-attacks/) |  | English |
 | 2021-10-4 | Developing Communities: The DevRel Podcast | Episode 7: Contributing to open-source communities and building developer in DevRel with Liran Tal |  | [Recording](https://anchor.fm/developingcommunities/episodes/Episode-7-Contributing-to-open-source-communities-and-building-developer-in-DevRel-with-Liran-Tal-e189ids) |  | English |
 | 2021-9-29 | SecuriTEA with Lewis Arden | Episode 13 - Liran Tal |  | [Recording](https://www.youtube.com/watch?v=WbM0fkOrzqI&ab_channel=LewisArdern) |  | English |
 | 2021-9-29 | O'Reilly Infrastructure & Ops conference | Proactive controls for supply chain security |  |  |  | English |
@@ -184,4 +184,4 @@
 
 
 
-<i>Updated on 2021-12-26T09:05:18.625Z</i>
+<i>Updated on 2021-12-26T10:22:05.986Z</i>
