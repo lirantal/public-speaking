@@ -27,6 +27,8 @@
 ![Total Events](https://img.shields.io/badge/total-2-blue?style=flat-square)  ![Total Conferences](https://img.shields.io/badge/conferences-2-red?style=flat-square)    
 
 
+
+
 | Date | Event | Title | Slides | Recording | Location | Language |
 | ---- | ----- | ----- | ------ | --------- | -------- | -------- |
 | 2022-5-26 | DevOps Pro Europe 2022 | [Mastering Node.js best practices for Docker-based applications](pages/2022/2022-05-26.md) |  |  | LT | English |
@@ -37,6 +39,99 @@
 
 
 ![Total Events](https://img.shields.io/badge/total-55-blue?style=flat-square) ![Total Meetups](https://img.shields.io/badge/meetups-6-violet?style=flat-square) ![Total Conferences](https://img.shields.io/badge/conferences-24-red?style=flat-square) ![Total Podcasts](https://img.shields.io/badge/podcasts-8-yellow?style=flat-square) ![Total Webinars](https://img.shields.io/badge/webinars-8-lightgrey?style=flat-square) ![Total Podcasts](https://img.shields.io/badge/articles-2-green?style=flat-square) 
+
+
+<table>
+  <tr>
+    <td align="center"> <img src="https://pbs.twimg.com/media/FHJK81TXMAQYMY5?format=jpg&name=medium" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://pbs.twimg.com/media/FEelWSJXIAcuz_2?format=jpg&name=medium" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://pbs.twimg.com/media/FGo_cedXEAE5zRi?format=jpg&name=large" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://pbs.twimg.com/media/FGpBz0xXoAQM9_Y?format=jpg&name=large" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://pbs.twimg.com/media/FG-e8yaXIA4B6y1?format=jpg&name=large" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://pbs.twimg.com/media/FEyUsqtXoAA7mse?format=jpg&name=medium" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://pbs.twimg.com/media/FE4-eceWUAUn8so?format=jpg&name=medium" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://pbs.twimg.com/media/FFB8p6FXEAMdx-W?format=jpg&name=large" width="85" height="50" /> </td>
+  </tr>
+  <tr>
+    <td align="center"> <img src="https://pbs.twimg.com/media/FFB9mkaWQAQamBy?format=jpg&name=medium" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://pbs.twimg.com/media/FFB9mSOXMAMC3to?format=jpg&name=medium" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://pbs.twimg.com/media/FFCAsBsXoAYLSbA?format=jpg&name=large" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://pbs.twimg.com/media/FFIF4K2XwAAoCbz?format=jpg&name=4096x4096" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://pbs.twimg.com/media/FFIF4d3XMAEsLKX?format=jpg&name=medium" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://pbs.twimg.com/media/FEUqROTXwAUlT1M?format=jpg&name=medium" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://pbs.twimg.com/media/FEUgM6TXIAYamEK?format=jpg&name=4096x4096" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://pbs.twimg.com/ad_img/1458587092062281728/G0UzLigZ?format=png&name=small" width="85" height="50" /> </td>
+  </tr>
+  <tr>
+    <td align="center"> <img src="https://pbs.twimg.com/media/FEfbRXbVkAE1HsY?format=jpg&name=large" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://pbs.twimg.com/media/FEO38f7X0AMFLvf?format=jpg&name=large" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://pbs.twimg.com/media/FEOO_RoX0AIKIIq?format=jpg&name=large" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://pbs.twimg.com/media/FEN0-EGXwAAfCxr?format=jpg&name=large" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://pbs.twimg.com/media/FEOTE39XoAAw8jr?format=jpg&name=large" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://pbs.twimg.com/media/FEPxnsnXEAolozs?format=jpg&name=large" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://pbs.twimg.com/media/FEbVxBAWUAIVI3f?format=jpg&name=large" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://pbs.twimg.com/ad_img/1427281583640387603/zJi-JBn7?format=png&name=large" width="85" height="50" /> </td>
+  </tr>
+  <tr>
+    <td align="center"> <img src="https://media.graphcms.com/resize=fit:crop,height:500,width:500/output=format:jpg/VSOFG9kpRiGufuSoOPh3" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://pbs.twimg.com/media/E-r3VOcXMAAiy0V?format=jpg&name=medium" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://pbs.twimg.com/media/FBfCgPZXMAYTAtg?format=jpg&name=large" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://pbs.twimg.com/media/FBcSJjqXEAkvZ9_?format=jpg&name=medium" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://pbs.twimg.com/media/FBHV8MbXIAMv5Py?format=jpg&name=900x900" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://secure.meetupstatic.com/photos/event/3/6/4/1/clean_497953889.jpeg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://pbs.twimg.com/media/E_pik5UWEAMN5dc?format=jpg&name=4096x4096" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://pbs.twimg.com/media/E_03_TeVQBIldtw?format=jpg&name=4096x4096" width="85" height="50" /> </td>
+  </tr>
+  <tr>
+    <td align="center"> <img src="https://pbs.twimg.com/media/E_31vfAUYAk0BC0?format=jpg&name=large" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://pbs.twimg.com/media/E9ewrrAXoAMeBmK?format=jpg&name=large" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://pbs.twimg.com/media/E_9VW5GXIAQrgAh?format=jpg&name=large" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://pbs.twimg.com/media/E7zC2doWYAEibbF?format=jpg&name=4096x4096" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://pbs.twimg.com/media/E6wktHbXoAI_DL0?format=jpg&name=large" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://pbs.twimg.com/media/FF8dl4JWUAgTU4F?format=jpg&name=large" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://pbs.twimg.com/media/E7DtxxYWEAscXd9?format=jpg&name=large" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://pbs.twimg.com/media/E61MqWJXoAMJdHM?format=jpg&name=4096x4096" width="85" height="50" /> </td>
+  </tr>
+  <tr>
+    <td align="center"> <img src="https://pbs.twimg.com/media/E6vxlboWUAM8sDH?format=jpg&name=medium" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://swimm.io/_nuxt/image/c61b37.png" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://media-exp1.licdn.com/dms/image/C4D22AQFsnMuGgDK8aQ/feedshare-shrink_1280/0/1623400796505?e=1626307200&v=beta&t=DWmLbLUbQJSn1P294skhD8d28gh0VBoYQQ5-5CbTJlU" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://pbs.twimg.com/media/E3mZPPLWYAU9kBG?format=jpg&name=large" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://pbs.twimg.com/media/E2i5Li3XIAAw7Ml?format=jpg&name=large" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://pbs.twimg.com/media/E2z7ag4WEAEiLSM?format=jpg&name=medium" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://pbs.twimg.com/media/E2ans68XIAcDjou?format=png&name=900x900" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://pbs.twimg.com/media/E0q3DXlUUAAnRRg?format=jpg&name=4096x4096" width="85" height="50" /> </td>
+  </tr>
+  <tr>
+    <td align="center"> <img src="https://pbs.twimg.com/media/EzmTFVzXEAAPRjf?format=jpg&name=medium" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://pbs.twimg.com/media/EwNtWoHWEAEKoNQ?format=png&name=medium" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://pbs.twimg.com/media/Exv00xsXEAYnPn3?format=jpg&name=4096x4096" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://pbs.twimg.com/media/ExAkDmNWYAQdUi0?format=jpg&name=medium" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://pbs.twimg.com/media/E3sMBZaXMAQT8mf?format=jpg&name=medium" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://pbs.twimg.com/media/E3sMBfNWEAAG4Xb?format=jpg&name=large" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://pbs.twimg.com/media/ExK48xJXAAguL-n?format=jpg&name=900x900" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://pbs.twimg.com/media/ExK4-1PWQAs3x40?format=jpg&name=large" width="85" height="50" /> </td>
+  </tr>
+  <tr>
+    <td align="center"> <img src="https://pbs.twimg.com/media/E3s1N6bWYAQ3k2c?format=jpg&name=medium" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://pbs.twimg.com/media/E3s1OGIXIAsR_jA?format=jpg&name=large" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://pbs.twimg.com/media/EwlPIKOW8AEtPvc?format=jpg&name=large" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://pbs.twimg.com/media/EvpQhjVXIAYQnuk?format=jpg&name=large" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://pbs.twimg.com/media/Et-qly6XYAAuKGv?format=jpg&name=large" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://img.youtube.com/vi/jORr4-PkCDs/maxresdefault.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://pbs.twimg.com/media/Et8h51LXEAMCTSr?format=jpg&name=medium" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://pbs.twimg.com/media/Et8c8fmXYAkuigk?format=jpg&name=medium" width="85" height="50" /> </td>
+  </tr>
+  <tr>
+    <td align="center"> <img src="https://pbs.twimg.com/ad_img/1354724809884770305/wJu65e0A?format=png&name=small" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://pbs.twimg.com/media/EsrHaBxXUAA1Rst?format=jpg&name=large" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://pbs.twimg.com/media/Es138-MXUAoi6m-?format=png&name=900x900" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://pbs.twimg.com/media/FF85DlkXwAUYU0x?format=jpg&name=4096x4096" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://pbs.twimg.com/media/FF85D0hWUAQL008?format=jpg&name=4096x4096" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://pbs.twimg.com/media/Erig37BXMAANo28?format=jpg&name=large" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://pbs.twimg.com/media/EsRnNR-XAAAcEWC?format=jpg&name=large" width="85" height="50" /> </td>
+  </tr>
+</table>
 
 
 | Date | Event | Title | Slides | Recording | Location | Language |
@@ -104,6 +199,38 @@
 ![Total Events](https://img.shields.io/badge/total-15-blue?style=flat-square) ![Total Meetups](https://img.shields.io/badge/meetups-1-violet?style=flat-square) ![Total Conferences](https://img.shields.io/badge/conferences-10-red?style=flat-square) ![Total Podcasts](https://img.shields.io/badge/podcasts-4-yellow?style=flat-square)   
 
 
+<table>
+  <tr>
+    <td align="center"> <img src="https://pbs.twimg.com/media/EpcL5WoWMAAO8n7?format=jpg&name=large" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://pbs.twimg.com/media/EpcL35PWMAEk769?format=jpg&name=large" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://pbs.twimg.com/media/EpcL6e7WMAETBPz?format=jpg&name=large" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://pbs.twimg.com/media/EpcJhwyXMAQ70b6?format=jpg&name=4096x4096" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://pbs.twimg.com/media/EouHngAVEAARCVe?format=jpg&name=large" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://pbs.twimg.com/media/ElVGLf0XYAAa2TP?format=jpg&name=900x900" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://pbs.twimg.com/media/ElVLAb4XIAAqR6V?format=png&name=900x900" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://pbs.twimg.com/media/Ek9FPfYWAAAsRly?format=jpg&name=large" width="85" height="50" /> </td>
+  </tr>
+  <tr>
+    <td align="center"> <img src="https://pbs.twimg.com/media/Ek9FtgkWkAIAL05?format=jpg&name=large" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://pbs.twimg.com/media/Ek9F4-wWAAEQyLF?format=jpg&name=large" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://pbs.twimg.com/media/EgwVFLPXYAACzTT?format=jpg&name=medium" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://pbs.twimg.com/media/EhjD4NVWsAALvwY?format=jpg&name=large" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://pbs.twimg.com/media/EhjEOXgXYAA87g8?format=jpg&name=large" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://pbs.twimg.com/media/EhBDqh5X0AwB79c?format=jpg&name=large" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://pbs.twimg.com/media/EZSTXYfX0AEfbHX?format=jpg&name=900x900" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://pbs.twimg.com/media/ESLxXALWAAABuBS?format=jpg&name=large" width="85" height="50" /> </td>
+  </tr>
+  <tr>
+    <td align="center"> <img src="https://pbs.twimg.com/media/ESL5qn-XsAAzrXy?format=jpg&name=large" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://pbs.twimg.com/media/EUxXvvRX0AEXdla?format=jpg&name=large" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://pbs.twimg.com/media/EUxXvv1XgAMqksT?format=jpg&name=4096x4096" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://pbs.twimg.com/media/EUxXvv8XkAAm6l2?format=jpg&name=4096x4096" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://pbs.twimg.com/media/ESWayBMXkAAhRQz?format=jpg&name=large" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://pbs.twimg.com/media/EO8sCpbWAAAUAw0?format=jpg&name=4096x4096" width="85" height="50" /> </td>
+  </tr>
+</table>
+
+
 | Date | Event | Title | Slides | Recording | Location | Language |
 | ---- | ----- | ----- | ------ | --------- | -------- | -------- |
 | 2020-12-17 | Community Summit TLV | [Trick or Treat, Hello Dependency Defeat](pages/2020/2020-12-17.md) |  | [Recording](https://www.youtube.com/watch?v=keSjO4EwSZc&ab_channel=DevOpsDaysTelAviv) |  | English |
@@ -127,6 +254,55 @@
 
 
 ![Total Events](https://img.shields.io/badge/total-15-blue?style=flat-square) ![Total Meetups](https://img.shields.io/badge/meetups-5-violet?style=flat-square) ![Total Conferences](https://img.shields.io/badge/conferences-8-red?style=flat-square) ![Total Podcasts](https://img.shields.io/badge/podcasts-1-yellow?style=flat-square) ![Total Webinars](https://img.shields.io/badge/webinars-1-lightgrey?style=flat-square)  
+
+
+<table>
+  <tr>
+    <td align="center"> <img src="https://pbs.twimg.com/media/EMIX4_9W4AAHU1r?format=jpg&name=large" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://pbs.twimg.com/media/EINzdmoWsAAIvDo?format=jpg&name=large" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://pbs.twimg.com/media/EINYbcAXkAAF44s?format=jpg&name=large" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://pbs.twimg.com/media/EF-CqEsXkAMHUhc?format=jpg&name=large" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://pbs.twimg.com/media/EF-Fpu6X0AETxJL?format=jpg&name=large" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://scontent.ftlv18-1.fna.fbcdn.net/v/t1.6435-9/71471387_10162363849325313_8222921635032727552_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=730e14&_nc_ohc=vnCRcYD6ATkAX9FmZLu&_nc_ht=scontent.ftlv18-1.fna&oh=396eaccb61c033d0f7a73bd2a999df02&oe=6171FFFC" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://scontent.ftlv18-1.fna.fbcdn.net/v/t1.6435-9/71711399_10162363849305313_8929317989992366080_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=730e14&_nc_ohc=sqbLUdY983MAX8G15gN&_nc_ht=scontent.ftlv18-1.fna&oh=ca943d4453f05f3fbcefde64b15c87cb&oe=617253C4" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://pbs.twimg.com/media/EFeULhIW4AARwZa?format=jpg&name=large" width="85" height="50" /> </td>
+  </tr>
+  <tr>
+    <td align="center"> <img src="https://pbs.twimg.com/media/EEXo7K-WwAAVvyL?format=jpg&name=large" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://pbs.twimg.com/media/EEQPqXlXUAEoafi?format=jpg&name=large" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://pbs.twimg.com/media/ECJ2Zv6WsAEPUFF?format=jpg&name=large" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://pbs.twimg.com/media/EDd0tvlWsAAxg_U?format=jpg&name=medium" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://secure.meetupstatic.com/photos/event/7/2/8/8/600_483629320.jpeg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://pbs.twimg.com/media/EAviYtmXYAEOH0E?format=jpg&name=large" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://secure.meetupstatic.com/photos/event/2/f/4/5/600_483612101.jpeg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://pbs.twimg.com/media/D_6_LltXoAAYlhi?format=jpg&name=large" width="85" height="50" /> </td>
+  </tr>
+  <tr>
+    <td align="center"> <img src="https://pbs.twimg.com/media/D6tXC4EXsAAEI3N?format=jpg&name=large" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://pbs.twimg.com/media/D_wyQgmWsAI8dQ5?format=jpg&name=medium" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://pbs.twimg.com/media/D7z7G5dXsAA3ulw?format=jpg&name=small" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://pbs.twimg.com/media/D7K8ahlXoAAoURn?format=jpg&name=4096x4096" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://pbs.twimg.com/media/D7K82j0XsAAFuo6?format=jpg&name=large" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://pbs.twimg.com/media/D7K85UEXsAAti7S?format=jpg&name=large" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://pbs.twimg.com/media/D7K88EmW4AMfILa?format=jpg&name=large" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://pbs.twimg.com/media/D7K893SWwAAZEU8?format=jpg&name=large" width="85" height="50" /> </td>
+  </tr>
+  <tr>
+    <td align="center"> <img src="https://pbs.twimg.com/media/D4NtqgjW0AEMx6E?format=jpg&name=large" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://pbs.twimg.com/profile_banners/1028952774506160130/1555328430/1500x500" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://pbs.twimg.com/media/D8xQTxPW4AAaNzK?format=jpg&name=medium" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://pbs.twimg.com/media/D9RiE46W4AMYRBC?format=jpg&name=large" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://pbs.twimg.com/media/D9RiE5DX4AIWzYr?format=jpg&name=large" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://pbs.twimg.com/media/D9RiE4_XkAAV70z?format=jpg&name=large" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://pbs.twimg.com/media/D9RiE5BXUAM4671?format=jpg&name=large" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://pbs.twimg.com/media/D2Pz71aWwAA6Sst?format=jpg&name=large" width="85" height="50" /> </td>
+  </tr>
+  <tr>
+    <td align="center"> <img src="https://pbs.twimg.com/media/D66FYG6XkAELeI9?format=jpg&name=large" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://pbs.twimg.com/media/D6mWVTgWwAMC-DI?format=jpg&name=small" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://pbs.twimg.com/media/D3uT_rMXkAErMwr?format=jpg&name=large" width="85" height="50" /> </td>
+  </tr>
+</table>
 
 
 | Date | Event | Title | Slides | Recording | Location | Language |
@@ -154,6 +330,15 @@
 ![Total Events](https://img.shields.io/badge/total-1-blue?style=flat-square)  ![Total Conferences](https://img.shields.io/badge/conferences-1-red?style=flat-square)    
 
 
+<table>
+  <tr>
+    <td align="center"> <img src="https://pbs.twimg.com/media/DbOKkJ7XkAAsdSI?format=jpg&name=medium" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://pbs.twimg.com/media/DbOMrhlX0AAxHg9?format=jpg&name=large" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://pbs.twimg.com/media/DbOMrhXX0AIVWEp?format=jpg&name=large" width="85" height="50" /> </td>
+  </tr>
+</table>
+
+
 | Date | Event | Title | Slides | Recording | Location | Language |
 | ---- | ----- | ----- | ------ | --------- | -------- | -------- |
 | 2018-4-20 | JSHeroes | [Making The Terminal Great Again](pages/2018/2018-04-20.md) | [Slides](http://slides.com/lirantal/makeing-the-console-great-again) | [Recording](https://www.youtube.com/watch?v=uOsVBHgHZY0&ab_channel=JSHeroes) | RO | English |
@@ -163,6 +348,24 @@
 
 
 ![Total Events](https://img.shields.io/badge/total-2-blue?style=flat-square)  ![Total Conferences](https://img.shields.io/badge/conferences-1-red?style=flat-square)   ![Total Podcasts](https://img.shields.io/badge/articles-1-green?style=flat-square) 
+
+
+<table>
+  <tr>
+    <td align="center"> <img src="https://pbs.twimg.com/media/DB3aiOZVwAEFy4t?format=jpg&name=4096x4096" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://pbs.twimg.com/media/DBvQN7fWAAcDL5C?format=jpg&name=large" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://pbs.twimg.com/media/DB3e0DRUwAUB_a5?format=jpg&name=large" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://pbs.twimg.com/media/DB3e0DSVYAAFMLT?format=jpg&name=large" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://pbs.twimg.com/media/DB3YcfmU0AAEFUX?format=jpg&name=large" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://pbs.twimg.com/media/DB3gqn7UAAAcGry?format=jpg&name=large" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://pbs.twimg.com/media/DB3mo95UAAAhdKi?format=jpg&name=large" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://pbs.twimg.com/media/DB3m5zqU0AARCsr?format=jpg&name=large" width="85" height="50" /> </td>
+  </tr>
+  <tr>
+    <td align="center"> <img src="https://pbs.twimg.com/media/DB3nf87UwAEflv5?format=jpg&name=large" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://pbs.twimg.com/media/DB3nf9AVwAEa8--?format=jpg&name=large" width="85" height="50" /> </td>
+  </tr>
+</table>
 
 
 | Date | Event | Title | Slides | Recording | Location | Language |
@@ -177,6 +380,15 @@
 ![Total Events](https://img.shields.io/badge/total-2-blue?style=flat-square)  ![Total Conferences](https://img.shields.io/badge/conferences-2-red?style=flat-square)    
 
 
+<table>
+  <tr>
+    <td align="center"> <img src="https://pbs.twimg.com/media/CstqM_xXEAA_IgI?format=jpg&name=4096x4096" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://pbs.twimg.com/media/CbgOxYzWAAAjvgp?format=jpg&name=4096x4096" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://pbs.twimg.com/media/CbgOy-pXEAE4PVp?format=jpg&name=4096x4096" width="85" height="50" /> </td>
+  </tr>
+</table>
+
+
 | Date | Event | Title | Slides | Recording | Location | Language |
 | ---- | ----- | ----- | ------ | --------- | -------- | -------- |
 | 2016-9-19 | OWASP AppSec Israel | [Node.js Security Done Right](pages/2016/2016-09-19.md) | [Slides](https://www.slideshare.net/LiranTal1/nodejs-security-done-right-tips-and-tricks-they-wont-teach-you-in-school) | [Recording](https://www.youtube.com/watch?v=n9HIfhaSOyc&list=PLA4gj-PiNukcnP0M8exLzXywWI71W4q4R&index=11) | IL | English |
@@ -185,4 +397,4 @@
 
 
 
-<i>Updated on 2022-01-07T09:05:21.855Z</i>
+<i>Updated on 2022-01-08T09:05:18.339Z</i>
