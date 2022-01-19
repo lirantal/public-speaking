@@ -1,4 +1,4 @@
-<div align='center'><p><img src="https://img.shields.io/badge/total-92-blue?style=flat-square" alt="Total Events"> <img src="https://img.shields.io/badge/meetups-12-violet?style=flat-square" alt="Total Meetups"> <img src="https://img.shields.io/badge/conferences-48-red?style=flat-square" alt="Total Conferences"> <img src="https://img.shields.io/badge/podcasts-13-yellow?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/webinars-9-lightgrey?style=flat-square" alt="Total Webinars"> <img src="https://img.shields.io/badge/articles-3-green?style=flat-square" alt="Total Podcasts"> </p>
+<div align='center'><p><img src="https://img.shields.io/badge/total-93-blue?style=flat-square" alt="Total Events"> <img src="https://img.shields.io/badge/meetups-12-violet?style=flat-square" alt="Total Meetups"> <img src="https://img.shields.io/badge/conferences-48-red?style=flat-square" alt="Total Conferences"> <img src="https://img.shields.io/badge/podcasts-13-yellow?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/webinars-10-lightgrey?style=flat-square" alt="Total Webinars"> <img src="https://img.shields.io/badge/articles-3-green?style=flat-square" alt="Total Podcasts"> </p>
 </div>
   <p align='center'><h1 align='center'>Liran Tal - Public Speaking</h1>
 <p align='center'>I love doing Open Source, Node.js, JavaScript, Web Security & InfoSec, Public Speaking, and Building CLIs.</p></p><p align='center'><a href='liran_tal'><img alt='Twitter Follow' src='https://img.shields.io/twitter/follow/liran_tal?style=social'></a> <a href='https://www.linkedin.com/in/talliran'><img alt='LinkedIn Add Me' src='https://img.shields.io/badge/-Add&nbsp;Me&nbsp;on&nbsp;LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white'></a></p><p align='center'><img src='https://github.com/lirantal/public-speaking/blob/main/static/liran-tal-header-image.png' alt='Liran Tal public speaking profile' /></p>
@@ -13,7 +13,7 @@
 # Table of Contents
 
 
- - [Year of 2022](#2022) - total events 2
+ - [Year of 2022](#2022) - total events 3
  - [Year of 2021](#2021) - total events 55
  - [Year of 2020](#2020) - total events 15
  - [Year of 2019](#2019) - total events 15
@@ -24,7 +24,7 @@
 # 2022
 
 
-![Total Events](https://img.shields.io/badge/total-2-blue?style=flat-square)  ![Total Conferences](https://img.shields.io/badge/conferences-2-red?style=flat-square)    
+![Total Events](https://img.shields.io/badge/total-3-blue?style=flat-square)  ![Total Conferences](https://img.shields.io/badge/conferences-2-red?style=flat-square)  ![Total Webinars](https://img.shields.io/badge/webinars-1-lightgrey?style=flat-square)  
 
 
 
@@ -33,6 +33,7 @@
 | ---- | ----- | ----- | ------ | --------- | -------- | -------- |
 | 2022-5-26 | DevOps Pro Europe 2022 | [Mastering Node.js best practices for Docker-based applications](pages/2022/2022-05-26.md) |  |  | LT | English |
 | 2022-3-17 | Stranger Danger: Your Node.js Attack Surface Just Got Bigger | [Stranger Danger: Your Node.js Attack Surface Just Got Bigger](pages/2022/2022-03-17.md) |  |  | CH | English |
+| 2022-1-17 | AWS Startup Showcase Season 2 Episode 1 | [How Snyk’s approach to application security remedies shift-left shortcomings](pages/2022/2022-01-17.md) |  | [Recording](https://www.youtube.com/watch?v=owNNCYLYfPw&ab_channel=SiliconANGLEtheCUBE) |  | English |
 
 
 # 2021
@@ -397,4 +398,4 @@
 
 
 
-<i>Updated on 2022-01-19T09:06:56.973Z</i>
+<i>Updated on 2022-01-19T21:30:00.780Z</i>
