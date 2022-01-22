@@ -138,7 +138,7 @@
 | Date | Event | Title | Slides | Recording | Location | Language |
 | ---- | ----- | ----- | ------ | --------- | -------- | -------- |
 | 2021-12-29 | אל התפקיד ומעבר לו - developer advocate | [פודקאסט קוד פתוח](pages/2021/2021-12-29.md) |  |  | IL | Hebrew |
-| 2021-12-27 | Reversim Summit 2021 | [Stranger Danger: Your Node.js Attack Surface Just Got Bigger](pages/2021/2021-12-27.md) |  |  | IL | English |
+| 2021-12-27 | Reversim Summit 2021 | [Stranger Danger: Your Node.js Attack Surface Just Got Bigger](pages/2021/2021-12-27.md) |  | [Recording](https://www.youtube.com/watch?v=Qa-UfhkflIM&list=PLqXy0aX6TzQryGoAdbyPevKocQxMJzg8_&index=32&ab_channel=Reversim) | IL | English |
 | 2021-12-15 | ReactNext | [You thought your React application is secure? Think again](pages/2021/2021-12-15.md) |  |  | IL | English |
 | 2021-12-13 | Developer Advocados with Liran Tal | [Adventcados 2021](pages/2021/2021-12-13.md) |  |  |  | English |
 | 2021-11-25 | DevOpsDays Tel Aviv 2021 | [I can hack your container faster than you can build it](pages/2021/2021-11-25.md) |  |  |  | English |
@@ -398,4 +398,4 @@
 
 
 
-<i>Updated on 2022-01-22T09:05:30.169Z</i>
+<i>Updated on 2022-01-22T19:29:44.686Z</i>
