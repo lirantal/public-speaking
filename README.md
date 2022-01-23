@@ -32,7 +32,7 @@
 | Date | Event | Title | Slides | Recording | Location | Language |
 | ---- | ----- | ----- | ------ | --------- | -------- | -------- |
 | 2022-5-26 | DevOps Pro Europe 2022 | [Mastering Node.js best practices for Docker-based applications](pages/2022/2022-05-26.md) |  |  | LT | English |
-| 2022-3-17 | Stranger Danger: Your Node.js Attack Surface Just Got Bigger | [Stranger Danger: Your Node.js Attack Surface Just Got Bigger](pages/2022/2022-03-17.md) |  |  | CH | English |
+| 2022-5-17 | Stranger Danger: Your Node.js Attack Surface Just Got Bigger | [Stranger Danger: Your Node.js Attack Surface Just Got Bigger](pages/2022/2022-05-17.md) |  |  | CH | English |
 | 2022-1-17 | AWS Startup Showcase Season 2 Episode 1 | [How Snyk’s approach to application security remedies shift-left shortcomings](pages/2022/2022-01-17.md) |  | [Recording](https://www.youtube.com/watch?v=owNNCYLYfPw&ab_channel=SiliconANGLEtheCUBE) |  | English |
 
 
@@ -398,4 +398,4 @@
 
 
 
-<i>Updated on 2022-01-22T19:29:44.686Z</i>
+<i>Updated on 2022-01-23T06:43:18.619Z</i>
