@@ -145,7 +145,7 @@
 | 2021-11-25 | DevOpsDays Tel Aviv 2021 | [I can hack your container faster than you can build it](pages/2021/2021-11-25.md) |  |  |  | English |
 | 2021-11-18 | DevSecCon Lightning | [ARE WE FOREVER DOOMED BY SOFTWARE SUPPLY CHAIN RISKS?](pages/2021/2021-11-18-1.md) |  | [Recording](https://www.youtube.com/watch?v=86lmXA2siOY&list=PLKWDDWZ_ETtAbYZHD6-4D5pRVihW8COIT&index=14&ab_channel=DevSecCon-) |  | English |
 | 2021-11-18 | TestJS Summit | [Are we Forever Doomed to Software Supply Chain Security?](pages/2021/2021-11-18.md) |  |  |  | English |
-| 2021-11-15 | NodeTLV | [Mastering Production-grade Best Practices to Build your Node.js Docker Images](pages/2021/2021-11-15.md) |  |  | IL | English |
+| 2021-11-15 | NodeTLV | [Mastering Production-grade Best Practices to Build your Node.js Docker Images](pages/2021/2021-11-15.md) |  | [Recording](https://www.youtube.com/watch?v=VSEx8gV51lY&ab_channel=NodeTLV) | IL | English |
 | 2021-10-25 | React Advanced | [Let me show you how React applications get hacked in the real-world](pages/2021/2021-10-25.md) |  | [Recording](https://portal.gitnation.org/contents/let-me-show-you-how-react-applications-get-hacked-in-the-real-world) | UK | English |
 | 2021-10-18 | NodeConf Remote | [How React Applications Get Hacked in the Real-World](pages/2021/2021-10-18.md) |  | [Recording](https://www.youtube.com/watch?v=3WmkGSiiu2E) |  | English |
 | 2021-10-7 | SnykCon 2021 | [Hacking your infra from the outside by exploiting npm Dependency Confusion attacks](pages/2021/2021-10-07.md) |  | [Recording](https://snyk.io/video/hacking-infra-from-outside-exploiting-npm-dependency-confusion-attacks/) |  | English |
@@ -399,4 +399,4 @@
 
 
 
-<i>Updated on 2022-01-24T09:06:21.212Z</i>
+<i>Updated on 2022-01-24T15:04:28.190Z</i>
