@@ -31,9 +31,9 @@
 
 | Date | Event | Title | Slides | Recording | Location | Language |
 | ---- | ----- | ----- | ------ | --------- | -------- | -------- |
-| 2022-5-26 | DevOps Pro Europe 2022 | [Mastering Node.js best practices for Docker-based applications](pages/2022/2022-05-26.md) |  |  | LT | English |
-| 2022-5-17 | Stranger Danger: Your Node.js Attack Surface Just Got Bigger | [Stranger Danger: Your Node.js Attack Surface Just Got Bigger](pages/2022/2022-05-17.md) |  |  | CH | English |
-| 2022-3-23 | Let me show you how React applications get hacked in the real-world | [Voxxed Days Bucharesst](pages/2022/2022-03-23.md) |  |  | RO | English |
+| 2022-5-26 | DevOps Pro Europe 2022 | [Mastering Node.js best practices for Docker-based applications](pages/2022/2022-05-26.md) |  |  | [🇱🇹](## "Lithuania") | English |
+| 2022-5-17 | Stranger Danger: Your Node.js Attack Surface Just Got Bigger | [Stranger Danger: Your Node.js Attack Surface Just Got Bigger](pages/2022/2022-05-17.md) |  |  | [🇨🇭](## "Switzerland") | English |
+| 2022-3-23 | Let me show you how React applications get hacked in the real-world | [Voxxed Days Bucharesst](pages/2022/2022-03-23.md) |  |  | [🇷🇴](## "Romania") | English |
 | 2022-1-17 | AWS Startup Showcase Season 2 Episode 1 | [How Snyk’s approach to application security remedies shift-left shortcomings](pages/2022/2022-01-17.md) |  | [Recording](https://www.youtube.com/watch?v=owNNCYLYfPw&ab_channel=SiliconANGLEtheCUBE) |  | English |
 
 
@@ -138,15 +138,15 @@
 
 | Date | Event | Title | Slides | Recording | Location | Language |
 | ---- | ----- | ----- | ------ | --------- | -------- | -------- |
-| 2021-12-29 | אל התפקיד ומעבר לו - developer advocate | [פודקאסט קוד פתוח](pages/2021/2021-12-29.md) |  |  | IL | Hebrew |
-| 2021-12-27 | Reversim Summit 2021 | [Stranger Danger: Your Node.js Attack Surface Just Got Bigger](pages/2021/2021-12-27.md) |  | [Recording](https://www.youtube.com/watch?v=Qa-UfhkflIM&list=PLqXy0aX6TzQryGoAdbyPevKocQxMJzg8_&index=32&ab_channel=Reversim) | IL | English |
-| 2021-12-15 | ReactNext | [You thought your React application is secure? Think again](pages/2021/2021-12-15.md) |  |  | IL | English |
+| 2021-12-29 | אל התפקיד ומעבר לו - developer advocate | [פודקאסט קוד פתוח](pages/2021/2021-12-29.md) |  |  | [🇮🇱](## "Israel") | Hebrew |
+| 2021-12-27 | Reversim Summit 2021 | [Stranger Danger: Your Node.js Attack Surface Just Got Bigger](pages/2021/2021-12-27.md) |  | [Recording](https://www.youtube.com/watch?v=Qa-UfhkflIM&list=PLqXy0aX6TzQryGoAdbyPevKocQxMJzg8_&index=32&ab_channel=Reversim) | [🇮🇱](## "Israel") | English |
+| 2021-12-15 | ReactNext | [You thought your React application is secure? Think again](pages/2021/2021-12-15.md) |  |  | [🇮🇱](## "Israel") | English |
 | 2021-12-13 | Developer Advocados with Liran Tal | [Adventcados 2021](pages/2021/2021-12-13.md) |  |  |  | English |
 | 2021-11-25 | DevOpsDays Tel Aviv 2021 | [I can hack your container faster than you can build it](pages/2021/2021-11-25.md) |  |  |  | English |
 | 2021-11-18 | DevSecCon Lightning | [ARE WE FOREVER DOOMED BY SOFTWARE SUPPLY CHAIN RISKS?](pages/2021/2021-11-18-1.md) |  | [Recording](https://www.youtube.com/watch?v=86lmXA2siOY&list=PLKWDDWZ_ETtAbYZHD6-4D5pRVihW8COIT&index=14&ab_channel=DevSecCon-) |  | English |
 | 2021-11-18 | TestJS Summit | [Are we Forever Doomed to Software Supply Chain Security?](pages/2021/2021-11-18.md) |  |  |  | English |
-| 2021-11-15 | NodeTLV | [Mastering Production-grade Best Practices to Build your Node.js Docker Images](pages/2021/2021-11-15.md) |  | [Recording](https://www.youtube.com/watch?v=VSEx8gV51lY&ab_channel=NodeTLV) | IL | English |
-| 2021-10-25 | React Advanced | [Let me show you how React applications get hacked in the real-world](pages/2021/2021-10-25.md) |  | [Recording](https://portal.gitnation.org/contents/let-me-show-you-how-react-applications-get-hacked-in-the-real-world) | UK | English |
+| 2021-11-15 | NodeTLV | [Mastering Production-grade Best Practices to Build your Node.js Docker Images](pages/2021/2021-11-15.md) |  | [Recording](https://www.youtube.com/watch?v=VSEx8gV51lY&ab_channel=NodeTLV) | [🇮🇱](## "Israel") | English |
+| 2021-10-25 | React Advanced | [Let me show you how React applications get hacked in the real-world](pages/2021/2021-10-25.md) |  | [Recording](https://portal.gitnation.org/contents/let-me-show-you-how-react-applications-get-hacked-in-the-real-world) | [🇬🇧](## "undefined") | English |
 | 2021-10-18 | NodeConf Remote | [How React Applications Get Hacked in the Real-World](pages/2021/2021-10-18.md) |  | [Recording](https://www.youtube.com/watch?v=3WmkGSiiu2E) |  | English |
 | 2021-10-7 | SnykCon 2021 | [Hacking your infra from the outside by exploiting npm Dependency Confusion attacks](pages/2021/2021-10-07.md) |  | [Recording](https://snyk.io/video/hacking-infra-from-outside-exploiting-npm-dependency-confusion-attacks/) |  | English |
 | 2021-10-4 | Developing Communities: The DevRel Podcast | [Episode 7: Contributing to open-source communities and building developer in DevRel with Liran Tal](pages/2021/2021-10-04.md) |  | [Recording](https://anchor.fm/developingcommunities/episodes/Episode-7-Contributing-to-open-source-communities-and-building-developer-in-DevRel-with-Liran-Tal-e189ids) |  | English |
@@ -158,9 +158,9 @@
 | 2021-9-3 | React Finland | [You thought your React application is secure? Think again](pages/2021/2021-09-03.md) |  |  |  | English |
 | 2021-8-25 | SANS.org Webcast | [Live Hacking Session - Your app is only as secure as your weakest line of code. Shall we hack it?](pages/2021/2021-08-25.md) |  |  |  | English |
 | 2021-8-4 | Black Haat USA 2021 | [Cloud Native Application Security: Embracing Developer-First Security for the Cloud Era](pages/2021/2021-08-04.md) |  |  |  | English |
-| 2021-7-28 | Open source meetup at The Big Web Theory Meetup | [The Secret Life of Developer Advocates](pages/2021/2021-07-28.md) |  | [Recording](https://www.youtube.com/watch?v=bX6rgc38PWs&ab_channel=BigWebTheorybyNielsen) | Tel Aviv | Hebrew |
+| 2021-7-28 | Open source meetup at The Big Web Theory Meetup | [The Secret Life of Developer Advocates](pages/2021/2021-07-28.md) |  | [Recording](https://www.youtube.com/watch?v=bX6rgc38PWs&ab_channel=BigWebTheorybyNielsen) | [undefined](## "undefined") | Hebrew |
 | 2021-7-26 | OWASP Developer Summit 2021 | [Are We Forever Doomed By Software Supply Chain Risks?](pages/2021/2021-07-26.md) |  | [Recording](https://www.youtube.com/watch?v=kPXhO63WlUo&list=PLih2FWMlyF3LqK4jTaaF5AWYhG4xiqquU&index=14&ab_channel=OWASPDeveloperOutreachProgram) |  | English |
-| 2021-7-21 | Cyber Week | [Are We Forever Doomed By Software Supply Chain Risks?](pages/2021/2021-07-21.md) |  | [Recording](https://www.youtube.com/watch?v=x74sMCaZKbg&ab_channel=Snyk) | IL | English |
+| 2021-7-21 | Cyber Week | [Are We Forever Doomed By Software Supply Chain Risks?](pages/2021/2021-07-21.md) |  | [Recording](https://www.youtube.com/watch?v=x74sMCaZKbg&ab_channel=Snyk) | [🇮🇱](## "Israel") | English |
 | 2021-7-20 | JavaScript Jabber | [JSJ 493: How to Check Your Application Security featuring Liran Tal](pages/2021/2021-07-20.md) |  | [Recording](https://devchat.tv/js-jabber/how-to-check-your-application-security-featuring-liran-tal-jsj-493/?utm_campaign=07-20-21+-+Check+out+this&utm_source=Message&utm_medium=Twitter) |  | English |
 | 2021-7-13 | Docker Blog | [Docker for Node.js Developers: 5 Things You Need to Know Not to Fail Your Security](pages/2021/2021-07-13.md) |  |  |  | English |
 | 2021-7-7 | Swimm Upstream | [EP. 6, Converting Contributors to Core Members of OS Projects With Liran Tal](pages/2021/2021-07-07.md) |  | [Recording](https://swimm.io/podcast/converting-contributors-to-core-members-of-os-projects-with-liran-tal-S01E06/) |  | English |
@@ -239,17 +239,17 @@
 | 2020-12-11 | DevSecOps Days (Southwest) | [Packages for Mass Consumption](pages/2020/2020-12-11.md) |  |  |  | English |
 | 2020-11-24 | Codemotion Italy | [The State of Open Source Security](pages/2020/2020-11-24.md) |  |  |  | English |
 | 2020-11-3 | JavaScript Jabber | [JSJ 456: Developer-First Security and Security Tooling For Developers with Liran Tal & Brian Vermeer](pages/2020/2020-11-03.md) |  | [Recording](https://www.devshows.dev/podcasts/javascript-jabber/jsj-456-developer-first-security-and-security-tooling-for-developers-with-liran-tal-and-brian-vermeer) |  | English |
-| 2020-10-27 | Codecamp: The One With Frontend | [Packages for mass consumption](pages/2020/2020-10-27.md) |  | [Recording](https://www.youtube.com/watch?v=JkOhxuIicAU&ab_channel=CodecampRomania) | RO | English |
+| 2020-10-27 | Codecamp: The One With Frontend | [Packages for mass consumption](pages/2020/2020-10-27.md) |  | [Recording](https://www.youtube.com/watch?v=JkOhxuIicAU&ab_channel=CodecampRomania) | [🇷🇴](## "Romania") | English |
 | 2020-10-22 | SnykCon | [Securing Front-end Attack Surfaces](pages/2020/2020-10-22.md) |  |  |  | English |
 | 2020-10-20 | Vonage Developer Hacktoberfest event 2020 | [Turn a weekend side-project into a 1500 stars GitHub project](pages/2020/2020-10-20-2.md) |  | [Recording](https://www.youtube.com/watch?v=m4ZT9PcUWUI&ab_channel=VonageDev) |  | English |
 | 2020-10-20 | Page it to the Limit | [Dependency Security](pages/2020/2020-10-20.md) |  | [Recording](https://www.pageittothelimit.com/dependency-security-with-liran-tal/) |  | English |
-| 2020-9-10 | jsday | [Packages for mass consumption](pages/2020/2020-09-10.md) |  |  | IT | English |
+| 2020-9-10 | jsday | [Packages for mass consumption](pages/2020/2020-09-10.md) |  |  | [🇮🇹](## "Italy") | English |
 | 2020-8-14 | Developer Advocate Stories | [Developer Advocate Stories - Liran Tal - Snyk](pages/2020/2020-08-14.md) |  | [Recording](https://www.youtube.com/watch?v=7zd_iku_1MY) |  | English |
 | 2020-6-9 | Openhive JS | [OpenHive.JS Podcast \| EP 2 - Liran Tal on Empowering Open Source](pages/2020/2020-06-09.md) |  | [Recording](https://www.youtube.com/watch?v=JnJ2hdP_kA4&ab_channel=NearForm) |  | English |
 | 2020-5-11 | DevOps Pro 2020 | [Securing Containers by Breaking In](pages/2020/2020-05-11.md) |  | [Recording](https://www.youtube.com/watch?v=PCF1gKwL50A&ab_channel=LiranTal) |  | English |
 | 2020-4-7 | Geekle Online Conference | [Black Clouds and Silver Linings in Node.js Security](pages/2020/2020-04-07.md) | [Slides](https://slides.com/lirantal/malicious-modules-on-npm-a-series-of-unfortunate-events-0c7d30#/2) | [Recording](https://www.youtube.com/watch?v=Wr5cRndoPYQ&ab_channel=GeekleOfficial) |  | English |
-| 2020-3-3 | NodeTLV | [Black Clouds and Silver Linings in Node.js Security](pages/2020/2020-03-03.md) |  | [Recording](https://www.youtube.com/watch?v=_oXazLDVQGM&list=PLrMJuhj99E6BWVrWbdZqs4OC1GYFy46Ay&index=16&t=139s&ab_channel=NodeTLV) | IL | English |
-| 2020-2-18 | SAP Labs dkom 2020 Israel | [The State of Open Source Security](pages/2020/2020-02-18.md) |  |  | IL | English |
+| 2020-3-3 | NodeTLV | [Black Clouds and Silver Linings in Node.js Security](pages/2020/2020-03-03.md) |  | [Recording](https://www.youtube.com/watch?v=_oXazLDVQGM&list=PLrMJuhj99E6BWVrWbdZqs4OC1GYFy46Ay&index=16&t=139s&ab_channel=NodeTLV) | [🇮🇱](## "Israel") | English |
+| 2020-2-18 | SAP Labs dkom 2020 Israel | [The State of Open Source Security](pages/2020/2020-02-18.md) |  |  | [🇮🇱](## "Israel") | English |
 
 
 # 2019
@@ -310,20 +310,20 @@
 | Date | Event | Title | Slides | Recording | Location | Language |
 | ---- | ----- | ----- | ------ | --------- | -------- | -------- |
 | 2019-12-19 | MyDevSecOps | [Practical DevSecOps](pages/2019/2019-12-19.md) |  | [Recording](https://www.youtube.com/watch?v=aUL5JdpNQlQ&feature=emb_logo&ab_channel=MyDevSecOps-) |  | English |
-| 2019-10-31 | ReactiveConf | [StrangerDanger: Finding Security Vulnerabilities Before They Find You!](pages/2019/2019-10-31.md) |  | [Recording](https://www.youtube.com/watch?v=ensQEPBHOO0&ab_channel=ReactiveConf) | CZ | English |
-| 2019-10-3 | SaronaHub Hacktoberfest | [Stranger Danger: Finding Vulnerabilities Before They Find You!](pages/2019/2019-10-03.md) |  |  | IL | Hebrew |
-| 2019-9-27 | JSConf Budapest | [StrangerDanger: Finding Security Vulnerabilities Before They Find You!](pages/2019/2019-09-27.md) |  | [Recording](https://www.youtube.com/watch?v=3H8pF6yoSgU&list=PL37ZVnwpeshEMCvdYDdZ09Sy-toTftWu0&index=15&ab_channel=JSConf) | HU | English |
-| 2019-9-13 | APIdays Barcelona meetup | [Stranger Danger: Finding Security Vulnerabilities Before They Find You!](pages/2019/2019-09-13.md) |  |  | ES | English |
-| 2019-9-12 | APIdays Barcelona | [Consumer-Driven Contracts: A better approach for API Testing](pages/2019/2019-09-12.md) | [Slides](https://slides.com/lirantal/consumer-driven-contracts) | [Recording](https://www.youtube.com/watch?v=zfGKX5iKSis&list=PLmEaqnTJ40Oqo9VlbcUakVmFZgx5weLrs&index=25&t=141s&ab_channel=apidays) | ES | English |
+| 2019-10-31 | ReactiveConf | [StrangerDanger: Finding Security Vulnerabilities Before They Find You!](pages/2019/2019-10-31.md) |  | [Recording](https://www.youtube.com/watch?v=ensQEPBHOO0&ab_channel=ReactiveConf) | [🇨🇿](## "Czechia") | English |
+| 2019-10-3 | SaronaHub Hacktoberfest | [Stranger Danger: Finding Vulnerabilities Before They Find You!](pages/2019/2019-10-03.md) |  |  | [🇮🇱](## "Israel") | Hebrew |
+| 2019-9-27 | JSConf Budapest | [StrangerDanger: Finding Security Vulnerabilities Before They Find You!](pages/2019/2019-09-27.md) |  | [Recording](https://www.youtube.com/watch?v=3H8pF6yoSgU&list=PL37ZVnwpeshEMCvdYDdZ09Sy-toTftWu0&index=15&ab_channel=JSConf) | [🇭🇺](## "Hungary") | English |
+| 2019-9-13 | APIdays Barcelona meetup | [Stranger Danger: Finding Security Vulnerabilities Before They Find You!](pages/2019/2019-09-13.md) |  |  | [🇪🇸](## "Spain") | English |
+| 2019-9-12 | APIdays Barcelona | [Consumer-Driven Contracts: A better approach for API Testing](pages/2019/2019-09-12.md) | [Slides](https://slides.com/lirantal/consumer-driven-contracts) | [Recording](https://www.youtube.com/watch?v=zfGKX5iKSis&list=PLmEaqnTJ40Oqo9VlbcUakVmFZgx5weLrs&index=25&t=141s&ab_channel=apidays) | [🇪🇸](## "Spain") | English |
 | 2019-9-6 | Application Security PodCast | [Liran Tal — The state of open source software security](pages/2019/2019-09-06.md) |  | [Recording](https://podcast.securityjourney.com/liran-tal-the-state-of-open-source-software-security/) |  | English |
-| 2019-9-2 | Node.js Israel Meetup | [Stranger Danger: Finding Security Vulnerabilities Before They Find You!](pages/2019/2019-09-02.md) |  |  | IL | Hebrew |
-| 2019-7-30 | DevRel IL | [So you want to engage with developers?](pages/2019/2019-07-30.md) |  |  | IL | Hebrew |
-| 2019-7-20 | OdessaJS | [StrangerDanger: Finding Security Vulnerabilities Before They Find You!](pages/2019/2019-07-20.md) |  |  | UA | English |
-| 2019-5-30 | OWASP Global AppSec | [Black Clouds Silver Linings In Nodejs Security](pages/2019/2019-05-30.md) | [Slides](https://drive.google.com/file/d/1s0YIvnlF7ByoESu3rHV2i5M9_jQSXjyR/view) | [Recording](https://www.youtube.com/watch?v=4XdF4OiAAzU&feature=emb_logo&ab_channel=OWASP) | IL | English |
-| 2019-5-21 | VOXXED DAYS FRONTEND BUCHAREST | [StrangerDanger: Finding Security Vulnerabilities Before They Find You!](pages/2019/2019-05-21.md) |  | [Recording](https://youtu.be/4_x4_RXYGnA) | RO | English |
-| 2019-5-19 | NodeUkraine - Ukrainian Node.js Conference | [StrangerDanger: Finding Security Vulnerabilities Before They Find You!](pages/2019/2019-05-19.md) | [Slides](http://slides.com/lirantal/makeing-the-console-great-again) | [Recording](https://www.youtube.com/watch?v=vUkn-304xnU&list=PLqYhGsQ9iSEqp4vWUhgzQVgWlBaDTrhlf&index=46&t=9s&ab_channel=DATAMINER) | UA | English |
-| 2019-5-15 | DevDays Europe | [StrangerDanger: Finding Security Vulnerabilities Before They Find You!](pages/2019/2019-05-15.md) | [Slides](http://slides.com/lirantal/makeing-the-console-great-again) | [Recording](https://www.youtube.com/watch?v=vUkn-304xnU&list=PLqYhGsQ9iSEqp4vWUhgzQVgWlBaDTrhlf&index=46&t=9s&ab_channel=DATAMINER) | LT | English |
-| 2019-4-9 | JSHeroes Meetup | [Let's talk about Open Source Security](pages/2019/2019-04-09.md) |  |  | RO | English |
+| 2019-9-2 | Node.js Israel Meetup | [Stranger Danger: Finding Security Vulnerabilities Before They Find You!](pages/2019/2019-09-02.md) |  |  | [🇮🇱](## "Israel") | Hebrew |
+| 2019-7-30 | DevRel IL | [So you want to engage with developers?](pages/2019/2019-07-30.md) |  |  | [🇮🇱](## "Israel") | Hebrew |
+| 2019-7-20 | OdessaJS | [StrangerDanger: Finding Security Vulnerabilities Before They Find You!](pages/2019/2019-07-20.md) |  |  | [🇺🇦](## "Ukraine") | English |
+| 2019-5-30 | OWASP Global AppSec | [Black Clouds Silver Linings In Nodejs Security](pages/2019/2019-05-30.md) | [Slides](https://drive.google.com/file/d/1s0YIvnlF7ByoESu3rHV2i5M9_jQSXjyR/view) | [Recording](https://www.youtube.com/watch?v=4XdF4OiAAzU&feature=emb_logo&ab_channel=OWASP) | [🇮🇱](## "Israel") | English |
+| 2019-5-21 | VOXXED DAYS FRONTEND BUCHAREST | [StrangerDanger: Finding Security Vulnerabilities Before They Find You!](pages/2019/2019-05-21.md) |  | [Recording](https://youtu.be/4_x4_RXYGnA) | [🇷🇴](## "Romania") | English |
+| 2019-5-19 | NodeUkraine - Ukrainian Node.js Conference | [StrangerDanger: Finding Security Vulnerabilities Before They Find You!](pages/2019/2019-05-19.md) | [Slides](http://slides.com/lirantal/makeing-the-console-great-again) | [Recording](https://www.youtube.com/watch?v=vUkn-304xnU&list=PLqYhGsQ9iSEqp4vWUhgzQVgWlBaDTrhlf&index=46&t=9s&ab_channel=DATAMINER) | [🇺🇦](## "Ukraine") | English |
+| 2019-5-15 | DevDays Europe | [StrangerDanger: Finding Security Vulnerabilities Before They Find You!](pages/2019/2019-05-15.md) | [Slides](http://slides.com/lirantal/makeing-the-console-great-again) | [Recording](https://www.youtube.com/watch?v=vUkn-304xnU&list=PLqYhGsQ9iSEqp4vWUhgzQVgWlBaDTrhlf&index=46&t=9s&ab_channel=DATAMINER) | [🇱🇹](## "Lithuania") | English |
+| 2019-4-9 | JSHeroes Meetup | [Let's talk about Open Source Security](pages/2019/2019-04-09.md) |  |  | [🇷🇴](## "Romania") | English |
 
 
 # 2018
@@ -343,7 +343,7 @@
 
 | Date | Event | Title | Slides | Recording | Location | Language |
 | ---- | ----- | ----- | ------ | --------- | -------- | -------- |
-| 2018-4-20 | JSHeroes | [Making The Terminal Great Again](pages/2018/2018-04-20.md) | [Slides](http://slides.com/lirantal/makeing-the-console-great-again) | [Recording](https://www.youtube.com/watch?v=uOsVBHgHZY0&ab_channel=JSHeroes) | RO | English |
+| 2018-4-20 | JSHeroes | [Making The Terminal Great Again](pages/2018/2018-04-20.md) | [Slides](http://slides.com/lirantal/makeing-the-console-great-again) | [Recording](https://www.youtube.com/watch?v=uOsVBHgHZY0&ab_channel=JSHeroes) | [🇷🇴](## "Romania") | English |
 
 
 # 2017
@@ -373,7 +373,7 @@
 | Date | Event | Title | Slides | Recording | Location | Language |
 | ---- | ----- | ----- | ------ | --------- | -------- | -------- |
 | 2017-7-24 | GitHub Blog | [Lessons from Snyk: Make smarter decisions about your application's security](pages/2017/2017-07-24.md) |  |  |  | English |
-| 2017-6-9 | JSHeroes | [Node.js Security: Breaking The Loop](pages/2017/2017-06-09.md) |  | [Recording](https://www.youtube.com/watch?v=DX8FSC_7wRI) | RO | English |
+| 2017-6-9 | JSHeroes | [Node.js Security: Breaking The Loop](pages/2017/2017-06-09.md) |  | [Recording](https://www.youtube.com/watch?v=DX8FSC_7wRI) | [🇷🇴](## "Romania") | English |
 
 
 # 2016
@@ -393,10 +393,10 @@
 
 | Date | Event | Title | Slides | Recording | Location | Language |
 | ---- | ----- | ----- | ------ | --------- | -------- | -------- |
-| 2016-9-19 | OWASP AppSec Israel | [Node.js Security Done Right](pages/2016/2016-09-19.md) | [Slides](https://www.slideshare.net/LiranTal1/nodejs-security-done-right-tips-and-tricks-they-wont-teach-you-in-school) | [Recording](https://www.youtube.com/watch?v=n9HIfhaSOyc&list=PLA4gj-PiNukcnP0M8exLzXywWI71W4q4R&index=11) | IL | English |
-| 2016-2-18 | helloJS | [The Rise of Open Source && MEAN Stack in the Enterprise](pages/2016/2016-02-18.md) |  | [Recording](https://www.youtube.com/watch?v=su0mysF0zN4) | RO | English |
+| 2016-9-19 | OWASP AppSec Israel | [Node.js Security Done Right](pages/2016/2016-09-19.md) | [Slides](https://www.slideshare.net/LiranTal1/nodejs-security-done-right-tips-and-tricks-they-wont-teach-you-in-school) | [Recording](https://www.youtube.com/watch?v=n9HIfhaSOyc&list=PLA4gj-PiNukcnP0M8exLzXywWI71W4q4R&index=11) | [🇮🇱](## "Israel") | English |
+| 2016-2-18 | helloJS | [The Rise of Open Source && MEAN Stack in the Enterprise](pages/2016/2016-02-18.md) |  | [Recording](https://www.youtube.com/watch?v=su0mysF0zN4) | [🇷🇴](## "Romania") | English |
 
 
 
 
-<i>Updated on 2022-01-28T09:06:57.198Z</i>
+<i>Updated on 2022-01-29T09:05:40.600Z</i>
