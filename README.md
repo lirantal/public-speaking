@@ -1,4 +1,4 @@
-<div align='center'><p><img src="https://img.shields.io/badge/total-94-blue?style=flat-square" alt="Total Events"> <img src="https://img.shields.io/badge/meetups-12-violet?style=flat-square" alt="Total Meetups"> <img src="https://img.shields.io/badge/conferences-49-red?style=flat-square" alt="Total Conferences"> <img src="https://img.shields.io/badge/podcasts-13-yellow?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/webinars-10-lightgrey?style=flat-square" alt="Total Webinars"> <img src="https://img.shields.io/badge/articles-3-green?style=flat-square" alt="Total Podcasts"> </p>
+<div align='center'><p><img src="https://img.shields.io/badge/total-95-blue?style=flat-square" alt="Total Events"> <img src="https://img.shields.io/badge/meetups-12-violet?style=flat-square" alt="Total Meetups"> <img src="https://img.shields.io/badge/conferences-49-red?style=flat-square" alt="Total Conferences"> <img src="https://img.shields.io/badge/podcasts-14-yellow?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/webinars-10-lightgrey?style=flat-square" alt="Total Webinars"> <img src="https://img.shields.io/badge/articles-3-green?style=flat-square" alt="Total Podcasts"> </p>
 </div>
   <p align='center'><h1 align='center'>Liran Tal - Public Speaking</h1>
 <p align='center'>I love doing Open Source, Node.js, JavaScript, Web Security & InfoSec, Public Speaking, and Building CLIs.</p></p><p align='center'><a href='liran_tal'><img alt='Twitter Follow' src='https://img.shields.io/twitter/follow/liran_tal?style=social'></a> <a href='https://www.linkedin.com/in/talliran'><img alt='LinkedIn Add Me' src='https://img.shields.io/badge/-Add&nbsp;Me&nbsp;on&nbsp;LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white'></a></p><p align='center'><img src='https://github.com/lirantal/public-speaking/blob/main/static/liran-tal-header-image.png' alt='Liran Tal public speaking profile' /></p>
@@ -15,7 +15,7 @@
 
  - [Year of 2022](#2022) - total events 4
  - [Year of 2021](#2021) - total events 55
- - [Year of 2020](#2020) - total events 15
+ - [Year of 2020](#2020) - total events 16
  - [Year of 2019](#2019) - total events 15
  - [Year of 2018](#2018) - total events 1
  - [Year of 2017](#2017) - total events 2
@@ -198,7 +198,7 @@
 # 2020
 
 
-![Total Events](https://img.shields.io/badge/total-15-blue?style=flat-square) ![Total Meetups](https://img.shields.io/badge/meetups-1-violet?style=flat-square) ![Total Conferences](https://img.shields.io/badge/conferences-10-red?style=flat-square) ![Total Podcasts](https://img.shields.io/badge/podcasts-4-yellow?style=flat-square)   
+![Total Events](https://img.shields.io/badge/total-16-blue?style=flat-square) ![Total Meetups](https://img.shields.io/badge/meetups-1-violet?style=flat-square) ![Total Conferences](https://img.shields.io/badge/conferences-10-red?style=flat-square) ![Total Podcasts](https://img.shields.io/badge/podcasts-5-yellow?style=flat-square)   
 
 
 <table>
@@ -250,6 +250,7 @@
 | 2020-4-7 | Geekle Online Conference | [Black Clouds and Silver Linings in Node.js Security](pages/2020/2020-04-07.md) | [Slides](https://slides.com/lirantal/malicious-modules-on-npm-a-series-of-unfortunate-events-0c7d30#/2) | [Recording](https://www.youtube.com/watch?v=Wr5cRndoPYQ&ab_channel=GeekleOfficial) |  | English |
 | 2020-3-3 | NodeTLV | [Black Clouds and Silver Linings in Node.js Security](pages/2020/2020-03-03.md) |  | [Recording](https://www.youtube.com/watch?v=_oXazLDVQGM&list=PLrMJuhj99E6BWVrWbdZqs4OC1GYFy46Ay&index=16&t=139s&ab_channel=NodeTLV) | [🇮🇱](## "Israel") | English |
 | 2020-2-18 | SAP Labs dkom 2020 Israel | [The State of Open Source Security](pages/2020/2020-02-18.md) |  |  | [🇮🇱](## "Israel") | English |
+| 2020-1-21 | עושים תוכנה | [מה הקשר בין האקרים וקוד פתוח?](pages/2020/2020-01-21.md) |  | [Recording](https://www.osimhistoria.com/software/osim-tochna-44) | [🇮🇱](## "Israel") | Hebrew |
 
 
 # 2019
@@ -399,4 +400,4 @@
 
 
 
-<i>Updated on 2022-01-31T09:08:30.460Z</i>
+<i>Updated on 2022-02-02T09:35:20.152Z</i>
