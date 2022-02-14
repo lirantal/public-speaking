@@ -1,4 +1,4 @@
-<div align='center'><p><img src="https://img.shields.io/badge/total-98-blue?style=flat-square" alt="Total Events"> <img src="https://img.shields.io/badge/meetups-12-violet?style=flat-square" alt="Total Meetups"> <img src="https://img.shields.io/badge/conferences-49-red?style=flat-square" alt="Total Conferences"> <img src="https://img.shields.io/badge/podcasts-15-yellow?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/webinars-12-lightgrey?style=flat-square" alt="Total Webinars"> <img src="https://img.shields.io/badge/articles-3-green?style=flat-square" alt="Total Podcasts"> </p>
+<div align='center'><p><img src="https://img.shields.io/badge/total-99-blue?style=flat-square" alt="Total Events"> <img src="https://img.shields.io/badge/meetups-12-violet?style=flat-square" alt="Total Meetups"> <img src="https://img.shields.io/badge/conferences-49-red?style=flat-square" alt="Total Conferences"> <img src="https://img.shields.io/badge/podcasts-15-yellow?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/webinars-13-lightgrey?style=flat-square" alt="Total Webinars"> <img src="https://img.shields.io/badge/articles-3-green?style=flat-square" alt="Total Podcasts"> </p>
 </div>
   <p align='center'><h1 align='center'>Liran Tal - Public Speaking</h1>
 <p align='center'>I love doing Open Source, Node.js, JavaScript, Web Security & InfoSec, Public Speaking, and Building CLIs.</p></p><p align='center'><a href='liran_tal'><img alt='Twitter Follow' src='https://img.shields.io/twitter/follow/liran_tal?style=social'></a> <a href='https://www.linkedin.com/in/talliran'><img alt='LinkedIn Add Me' src='https://img.shields.io/badge/-Add&nbsp;Me&nbsp;on&nbsp;LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white'></a></p><p align='center'><img src='https://github.com/lirantal/public-speaking/blob/main/static/liran-tal-header-image.png' alt='Liran Tal public speaking profile' /></p>
@@ -13,7 +13,7 @@
 # Table of Contents
 
 
- - [Year of 2022](#2022) - total events 7
+ - [Year of 2022](#2022) - total events 8
  - [Year of 2021](#2021) - total events 55
  - [Year of 2020](#2020) - total events 16
  - [Year of 2019](#2019) - total events 15
@@ -24,12 +24,13 @@
 # 2022
 
 
-![Total Events](https://img.shields.io/badge/total-7-blue?style=flat-square)  ![Total Conferences](https://img.shields.io/badge/conferences-3-red?style=flat-square) ![Total Podcasts](https://img.shields.io/badge/podcasts-1-yellow?style=flat-square) ![Total Webinars](https://img.shields.io/badge/webinars-3-lightgrey?style=flat-square)  
+![Total Events](https://img.shields.io/badge/total-8-blue?style=flat-square)  ![Total Conferences](https://img.shields.io/badge/conferences-3-red?style=flat-square) ![Total Podcasts](https://img.shields.io/badge/podcasts-1-yellow?style=flat-square) ![Total Webinars](https://img.shields.io/badge/webinars-4-lightgrey?style=flat-square)  
 
 
 <table>
   <tr>
     <td align="center"> <img src="https://pbs.twimg.com/media/FLkUlAkWUAEE-q2?format=jpg&name=large" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://pbs.twimg.com/media/FLkPH41aIAUOCcZ?format=jpg&name=large" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/FLFFmkMXMAQlcFf?format=jpg&name=large" width="85" height="50" /> </td>
   </tr>
 </table>
@@ -41,6 +42,7 @@
 | 2022-5-17 | Stranger Danger: Your Node.js Attack Surface Just Got Bigger | [Stranger Danger: Your Node.js Attack Surface Just Got Bigger](pages/2022/2022-05-17.md) |  |  | [🇨🇭](## "Switzerland") | English |
 | 2022-3-23 | Let me show you how React applications get hacked in the real-world | [Voxxed Days Bucharesst](pages/2022/2022-03-23.md) |  |  | [🇷🇴](## "Romania") | English |
 | 2022-2-16 | This Is Learning | [Node.js Security with Liran Tal](pages/2022/2022-02-16.md) |  | [Recording](https://www.youtube.com/watch?v=x6KMk2q9ZIs&ab_channel=ThisisTechTalks) |  | English |
+| 2022-2-15 | SLIIT FOSS Community | [Application Security for Node.js](pages/2022/2022-02-15.md) |  |  |  | English |
 | 2022-2-10 | Node.js Security | [SheHacks Kenya invites Liran Tal to a Node.js security session](pages/2022/2022-02-10.md) |  |  |  | English |
 | 2022-1-17 | AWS Startup Showcase Season 2 Episode 1 | [How Snyk’s approach to application security remedies shift-left shortcomings](pages/2022/2022-01-17.md) |  | [Recording](https://www.youtube.com/watch?v=owNNCYLYfPw&ab_channel=SiliconANGLEtheCUBE) |  | English |
 | 2022-1-2 | Cyber Security & Cloud Podcast (CSCP) | [Cloud Native Application Security](pages/2022/2022-01-02.md) |  |  |  | English |
@@ -418,4 +420,4 @@
 
 
 
-<i>Updated on 2022-02-14T16:34:45.344Z</i>
+<i>Updated on 2022-02-14T21:30:21.263Z</i>
