@@ -44,7 +44,7 @@
 | 2022-3-23 | Let me show you how React applications get hacked in the real-world | [Voxxed Days Bucharesst](pages/2022/2022-03-23.md) |  |  | [🇷🇴](## "Romania") | English |
 | 2022-2-27 | WixEngineering | [Twitter Spaces: Career navigation done right](pages/2022/2022-02-27.md) |  |  |  | English |
 | 2022-2-16 | This Is Learning | [Node.js Security with Liran Tal](pages/2022/2022-02-16.md) |  | [Recording](https://www.youtube.com/watch?v=x6KMk2q9ZIs&ab_channel=ThisisTechTalks) |  | English |
-| 2022-2-15 | SLIIT FOSS Community | [Application Security for Node.js](pages/2022/2022-02-15.md) |  |  |  | English |
+| 2022-2-15 | SLIIT FOSS Community | [Application Security for Node.js](pages/2022/2022-02-15.md) |  | [Recording](https://www.twitch.tv/videos/1298789598) |  | English |
 | 2022-2-10 | Node.js Security | [SheHacks Kenya invites Liran Tal to a Node.js security session](pages/2022/2022-02-10.md) |  |  |  | English |
 | 2022-1-17 | AWS Startup Showcase Season 2 Episode 1 | [How Snyk’s approach to application security remedies shift-left shortcomings](pages/2022/2022-01-17.md) |  | [Recording](https://www.youtube.com/watch?v=owNNCYLYfPw&ab_channel=SiliconANGLEtheCUBE) |  | English |
 | 2022-1-2 | Cyber Security & Cloud Podcast (CSCP) | [Cloud Native Application Security](pages/2022/2022-01-02.md) |  |  |  | English |
@@ -422,4 +422,4 @@
 
 
 
-<i>Updated on 2022-02-16T09:07:25.232Z</i>
+<i>Updated on 2022-02-16T10:29:37.084Z</i>
