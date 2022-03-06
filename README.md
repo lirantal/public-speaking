@@ -46,7 +46,7 @@
 | 2022-5-17 | Stranger Danger: Your Node.js Attack Surface Just Got Bigger | [Stranger Danger: Your Node.js Attack Surface Just Got Bigger](pages/2022/2022-05-17.md) |  |  | [🇨🇭](## "Switzerland") | English |
 | 2022-4-6 | Tikal Meetup | [Packages for mass consumption: the mechanics of npm dependencies](pages/2022/2022-04-06.md) |  |  |  | Hebrew |
 | 2022-3-30 | Pull Request community | [Why You Should Care About Open Source Security](pages/2022/2022-03-30.md) |  |  | [🇮🇱](## "Israel") | Hebrew |
-| 2022-3-23 | Let me show you how React applications get hacked in the real-world | [Voxxed Days Bucharesst](pages/2022/2022-03-23.md) |  |  | [🇷🇴](## "Romania") | English |
+| 2022-3-25 | Let me show you how React applications get hacked in the real-world | [Voxxed Days Bucharesst](pages/2022/2022-03-25.md) |  |  |  | English |
 | 2022-3-21 | React Israel meetup | [How React Applications Get Hacked in the Real-World](pages/2022/2022-03-21.md) |  |  |  | Hebrew |
 | 2022-2-27 | WixEngineering | [Twitter Spaces: Career navigation done right](pages/2022/2022-02-27.md) |  |  |  | English |
 | 2022-2-16 | This Is Learning | [Node.js Security with Liran Tal](pages/2022/2022-02-16.md) |  | [Recording](https://www.youtube.com/watch?v=x6KMk2q9ZIs&ab_channel=ThisisTechTalks) |  | English |
@@ -428,4 +428,4 @@
 
 
 
-<i>Updated on 2022-03-06T09:05:24.068Z</i>
+<i>Updated on 2022-03-06T11:44:10.450Z</i>
