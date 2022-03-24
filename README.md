@@ -30,9 +30,9 @@
 <table>
   <tr>
     <td align="center"> <img src="https://media-exp1.licdn.com/dms/image/C4D22AQGbIa-SDOk8Gg/feedshare-shrink_1280/0/1646200701578?e=1649289600&v=beta&t=yH1tT6tU8VLJtY2WKjbxfJhOQA09q6GZA2-1JS1lQ3Y" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://pbs.twimg.com/media/FLnr4LMXwAA4nR2?format=jpg&name=4096x4096" width="85" height="50" /> </td>
     <td align="center"> <img src="https://scontent.ftlv18-1.fna.fbcdn.net/v/t39.30808-6/273812789_4825196864232470_4759239175253428787_n.png?_nc_cat=102&ccb=1-5&_nc_sid=730e14&_nc_ohc=O-lKAcc26FAAX_bNKdg&_nc_ht=scontent.ftlv18-1.fna&oh=00_AT8jRmLhUGdVrmPMcWJMPVQpk11tZa_fF2J_0kO6nNuLww&oe=6216A5D9" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/FLtJGsWWUAApQVR?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/FLnr4LMXwAA4nR2?format=jpg&name=4096x4096" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/FLkUlAkWUAEE-q2?format=jpg&name=large" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/FLkPH41aIAUOCcZ?format=jpg&name=large" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/FLFFmkMXMAQlcFf?format=jpg&name=large" width="85" height="50" /> </td>
@@ -46,10 +46,10 @@
 | 2022-5-17 | Stranger Danger: Your Node.js Attack Surface Just Got Bigger | [Stranger Danger: Your Node.js Attack Surface Just Got Bigger](pages/2022/2022-05-17.md) |  |  | [🇨🇭](## "Switzerland") | English |
 | 2022-4-6 | Tikal Meetup | [Packages for mass consumption: the mechanics of npm dependencies](pages/2022/2022-04-06.md) |  |  |  | Hebrew |
 | 2022-3-30 | Pull Request community | [Why You Should Care About Open Source Security](pages/2022/2022-03-30.md) |  |  | [🇮🇱](## "Israel") | Hebrew |
+| 2022-3-28 | WixEngineering | [Twitter Spaces: Career navigation done right](pages/2022/2022-03-28.md) |  |  |  | English |
 | 2022-3-25 | Let me show you how React applications get hacked in the real-world | [Voxxed Days Bucharesst](pages/2022/2022-03-25.md) |  |  |  | English |
 | 2022-3-21 | React Israel meetup | [How React Applications Get Hacked in the Real-World](pages/2022/2022-03-21.md) |  |  |  | Hebrew |
 | 2022-3-15 | Developer Advocast | [User Zero & Product Feedback Loops](pages/2022/2022-03-15.md) |  |  |  | English |
-| 2022-2-27 | WixEngineering | [Twitter Spaces: Career navigation done right](pages/2022/2022-02-27.md) |  |  |  | English |
 | 2022-2-16 | This Is Learning | [Node.js Security with Liran Tal](pages/2022/2022-02-16.md) |  | [Recording](https://www.youtube.com/watch?v=x6KMk2q9ZIs&ab_channel=ThisisTechTalks) |  | English |
 | 2022-2-15 | SLIIT FOSS Community | [Application Security for Node.js](pages/2022/2022-02-15.md) |  | [Recording](https://www.twitch.tv/videos/1298789598) |  | English |
 | 2022-2-10 | Node.js Security | [SheHacks Kenya invites Liran Tal to a Node.js security session](pages/2022/2022-02-10.md) |  |  |  | English |
@@ -429,4 +429,4 @@
 
 
 
-<i>Updated on 2022-03-24T22:30:33.595Z</i>
+<i>Updated on 2022-03-24T22:33:14.961Z</i>
