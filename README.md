@@ -43,7 +43,7 @@
 | Date | Event | Title | Slides | Recording | Location | Language |
 | ---- | ----- | ----- | ------ | --------- | -------- | -------- |
 | 2022-6-30 | Hack in Paris 2022 | [Why React applications get hacked in the real-world](pages/2022/2022-06-30.md) |  |  | [🇫🇷](## "France") | English |
-| 2022-5-17 | Stranger Danger: Your Node.js Attack Surface Just Got Bigger | [Stranger Danger: Your Node.js Attack Surface Just Got Bigger](pages/2022/2022-05-17.md) |  |  | [🇨🇭](## "Switzerland") | English |
+| 2022-5-17 | Voxxed Days Zurich | [Stranger Danger: Your Node.js Attack Surface Just Got Bigger](pages/2022/2022-05-17.md) |  |  | [🇨🇭](## "Switzerland") | English |
 | 2022-4-6 | Tikal Meetup | [Packages for mass consumption: the mechanics of npm dependencies](pages/2022/2022-04-06.md) |  |  |  | Hebrew |
 | 2022-3-30 | Pull Request community | [Why You Should Care About Open Source Security](pages/2022/2022-03-30.md) |  |  | [🇮🇱](## "Israel") | Hebrew |
 | 2022-3-28 | WixEngineering | [Twitter Spaces: Career navigation done right](pages/2022/2022-03-28.md) |  |  |  | English |
@@ -429,4 +429,4 @@
 
 
 
-<i>Updated on 2022-03-27T12:21:36.115Z</i>
+<i>Updated on 2022-03-27T12:22:11.876Z</i>
