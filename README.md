@@ -1,4 +1,4 @@
-<div align='center'><p><img src="https://img.shields.io/badge/total-105-blue?style=flat-square" alt="Total Events"> <img src="https://img.shields.io/badge/meetups-13-violet?style=flat-square" alt="Total Meetups"> <img src="https://img.shields.io/badge/conferences-51-red?style=flat-square" alt="Total Conferences"> <img src="https://img.shields.io/badge/podcasts-18-yellow?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/webinars-13-lightgrey?style=flat-square" alt="Total Webinars"> <img src="https://img.shields.io/badge/articles-3-green?style=flat-square" alt="Total Podcasts"> </p>
+<div align='center'><p><img src="https://img.shields.io/badge/total-106-blue?style=flat-square" alt="Total Events"> <img src="https://img.shields.io/badge/meetups-13-violet?style=flat-square" alt="Total Meetups"> <img src="https://img.shields.io/badge/conferences-52-red?style=flat-square" alt="Total Conferences"> <img src="https://img.shields.io/badge/podcasts-18-yellow?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/webinars-13-lightgrey?style=flat-square" alt="Total Webinars"> <img src="https://img.shields.io/badge/articles-3-green?style=flat-square" alt="Total Podcasts"> </p>
 </div>
   <p align='center'><h1 align='center'>Liran Tal - Public Speaking</h1>
 <p align='center'>I love doing Open Source, Node.js, JavaScript, Web Security & InfoSec, Public Speaking, and Building CLIs.</p></p><p align='center'><a href='liran_tal'><img alt='Twitter Follow' src='https://img.shields.io/twitter/follow/liran_tal?style=social'></a> <a href='https://www.linkedin.com/in/talliran'><img alt='LinkedIn Add Me' src='https://img.shields.io/badge/-Add&nbsp;Me&nbsp;on&nbsp;LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white'></a></p><p align='center'><img src='https://github.com/lirantal/public-speaking/blob/main/static/liran-tal-header-image.png' alt='Liran Tal public speaking profile' /></p>
@@ -13,7 +13,7 @@
 # Table of Contents
 
 
- - [Year of 2022](#2022) - total events 14
+ - [Year of 2022](#2022) - total events 15
  - [Year of 2021](#2021) - total events 55
  - [Year of 2020](#2020) - total events 16
  - [Year of 2019](#2019) - total events 15
@@ -24,17 +24,21 @@
 # 2022
 
 
-![Total Events](https://img.shields.io/badge/total-14-blue?style=flat-square) ![Total Meetups](https://img.shields.io/badge/meetups-1-violet?style=flat-square) ![Total Conferences](https://img.shields.io/badge/conferences-5-red?style=flat-square) ![Total Podcasts](https://img.shields.io/badge/podcasts-4-yellow?style=flat-square) ![Total Webinars](https://img.shields.io/badge/webinars-4-lightgrey?style=flat-square)  
+![Total Events](https://img.shields.io/badge/total-15-blue?style=flat-square) ![Total Meetups](https://img.shields.io/badge/meetups-1-violet?style=flat-square) ![Total Conferences](https://img.shields.io/badge/conferences-6-red?style=flat-square) ![Total Podcasts](https://img.shields.io/badge/podcasts-4-yellow?style=flat-square) ![Total Webinars](https://img.shields.io/badge/webinars-4-lightgrey?style=flat-square)  
 
 
 <table>
   <tr>
+    <td align="center"> <img src="https://pbs.twimg.com/media/FOnP4gNWQAYpRMJ?format=jpg&name=medium" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://pbs.twimg.com/media/FOnP6t2XIAwyLt9?format=jpg&name=medium" width="85" height="50" /> </td>
     <td align="center"> <img src="https://media-exp1.licdn.com/dms/image/C4D22AQGbIa-SDOk8Gg/feedshare-shrink_1280/0/1646200701578?e=1649289600&v=beta&t=yH1tT6tU8VLJtY2WKjbxfJhOQA09q6GZA2-1JS1lQ3Y" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/FLnr4LMXwAA4nR2?format=jpg&name=4096x4096" width="85" height="50" /> </td>
     <td align="center"> <img src="https://scontent.ftlv18-1.fna.fbcdn.net/v/t39.30808-6/273812789_4825196864232470_4759239175253428787_n.png?_nc_cat=102&ccb=1-5&_nc_sid=730e14&_nc_ohc=O-lKAcc26FAAX_bNKdg&_nc_ht=scontent.ftlv18-1.fna&oh=00_AT8jRmLhUGdVrmPMcWJMPVQpk11tZa_fF2J_0kO6nNuLww&oe=6216A5D9" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/FLtJGsWWUAApQVR?format=jpg&name=large" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/FLkUlAkWUAEE-q2?format=jpg&name=large" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/FLkPH41aIAUOCcZ?format=jpg&name=large" width="85" height="50" /> </td>
+  </tr>
+  <tr>
     <td align="center"> <img src="https://pbs.twimg.com/media/FLFFmkMXMAQlcFf?format=jpg&name=large" width="85" height="50" /> </td>
   </tr>
 </table>
@@ -45,6 +49,7 @@
 | 2022-6-30 | Hack in Paris 2022 | [Why React applications get hacked in the real-world](pages/2022/2022-06-30.md) |  |  | [🇫🇷](## "France") | English |
 | 2022-5-17 | Voxxed Days Zurich | [Stranger Danger: Your Node.js Attack Surface Just Got Bigger](pages/2022/2022-05-17.md) |  |  | [🇨🇭](## "Switzerland") | English |
 | 2022-5-16 | Cloud Native SecurityCon Europe 2022 | [The Unexpected Demise of Open Source Libraries](pages/2022/2022-05-16.md) |  |  | [🇪🇸](## "Spain") | English |
+| 2022-5-8 | JSDay Canarias | [Let me show you how React applications get hacked in the real-world](pages/2022/2022-05-08.md) |  |  | [undefined](## "undefined") | English |
 | 2022-3-30 | Pull Request community | [Why You Should Care About Open Source Security](pages/2022/2022-03-30.md) |  |  | [🇮🇱](## "Israel") | Hebrew |
 | 2022-3-28 | WixEngineering | [Twitter Spaces: Career navigation done right](pages/2022/2022-03-28.md) |  |  |  | English |
 | 2022-3-27 | Weekly Sync | [Twitter Spaces: Weekly Sync](pages/2022/2022-03-27.md) |  |  |  | Hebrew |
@@ -430,4 +435,4 @@
 
 
 
-<i>Updated on 2022-03-27T12:28:43.055Z</i>
+<i>Updated on 2022-03-27T12:33:35.036Z</i>
