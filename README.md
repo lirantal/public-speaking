@@ -1,4 +1,4 @@
-<div align='center'><p><img src="https://img.shields.io/badge/total-105-blue?style=flat-square" alt="Total Events"> <img src="https://img.shields.io/badge/meetups-14-violet?style=flat-square" alt="Total Meetups"> <img src="https://img.shields.io/badge/conferences-51-red?style=flat-square" alt="Total Conferences"> <img src="https://img.shields.io/badge/podcasts-17-yellow?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/webinars-13-lightgrey?style=flat-square" alt="Total Webinars"> <img src="https://img.shields.io/badge/articles-3-green?style=flat-square" alt="Total Podcasts"> </p>
+<div align='center'><p><img src="https://img.shields.io/badge/total-104-blue?style=flat-square" alt="Total Events"> <img src="https://img.shields.io/badge/meetups-14-violet?style=flat-square" alt="Total Meetups"> <img src="https://img.shields.io/badge/conferences-50-red?style=flat-square" alt="Total Conferences"> <img src="https://img.shields.io/badge/podcasts-17-yellow?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/webinars-13-lightgrey?style=flat-square" alt="Total Webinars"> <img src="https://img.shields.io/badge/articles-3-green?style=flat-square" alt="Total Podcasts"> </p>
 </div>
   <p align='center'><h1 align='center'>Liran Tal - Public Speaking</h1>
 <p align='center'>I love doing Open Source, Node.js, JavaScript, Web Security & InfoSec, Public Speaking, and Building CLIs.</p></p><p align='center'><a href='liran_tal'><img alt='Twitter Follow' src='https://img.shields.io/twitter/follow/liran_tal?style=social'></a> <a href='https://www.linkedin.com/in/talliran'><img alt='LinkedIn Add Me' src='https://img.shields.io/badge/-Add&nbsp;Me&nbsp;on&nbsp;LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white'></a></p><p align='center'><img src='https://github.com/lirantal/public-speaking/blob/main/static/liran-tal-header-image.png' alt='Liran Tal public speaking profile' /></p>
@@ -13,7 +13,7 @@
 # Table of Contents
 
 
- - [Year of 2022](#2022) - total events 14
+ - [Year of 2022](#2022) - total events 13
  - [Year of 2021](#2021) - total events 55
  - [Year of 2020](#2020) - total events 16
  - [Year of 2019](#2019) - total events 15
@@ -24,7 +24,7 @@
 # 2022
 
 
-![Total Events](https://img.shields.io/badge/total-14-blue?style=flat-square) ![Total Meetups](https://img.shields.io/badge/meetups-2-violet?style=flat-square) ![Total Conferences](https://img.shields.io/badge/conferences-5-red?style=flat-square) ![Total Podcasts](https://img.shields.io/badge/podcasts-3-yellow?style=flat-square) ![Total Webinars](https://img.shields.io/badge/webinars-4-lightgrey?style=flat-square)  
+![Total Events](https://img.shields.io/badge/total-13-blue?style=flat-square) ![Total Meetups](https://img.shields.io/badge/meetups-2-violet?style=flat-square) ![Total Conferences](https://img.shields.io/badge/conferences-4-red?style=flat-square) ![Total Podcasts](https://img.shields.io/badge/podcasts-3-yellow?style=flat-square) ![Total Webinars](https://img.shields.io/badge/webinars-4-lightgrey?style=flat-square)  
 
 
 <table>
@@ -43,7 +43,6 @@
 | Date | Event | Title | Slides | Recording | Location | Language |
 | ---- | ----- | ----- | ------ | --------- | -------- | -------- |
 | 2022-6-30 | Hack in Paris 2022 | [Why React applications get hacked in the real-world](pages/2022/2022-06-30.md) |  |  | [🇫🇷](## "France") | English |
-| 2022-5-26 | DevOps Pro Europe 2022 | [Mastering Node.js best practices for Docker-based applications](pages/2022/2022-05-26.md) |  |  | [🇱🇹](## "Lithuania") | English |
 | 2022-5-17 | Stranger Danger: Your Node.js Attack Surface Just Got Bigger | [Stranger Danger: Your Node.js Attack Surface Just Got Bigger](pages/2022/2022-05-17.md) |  |  | [🇨🇭](## "Switzerland") | English |
 | 2022-4-6 | Tikal Meetup | [Packages for mass consumption: the mechanics of npm dependencies](pages/2022/2022-04-06.md) |  |  |  | Hebrew |
 | 2022-3-30 | Pull Request community | [Why You Should Care About Open Source Security](pages/2022/2022-03-30.md) |  |  | [🇮🇱](## "Israel") | Hebrew |
@@ -430,4 +429,4 @@
 
 
 
-<i>Updated on 2022-03-27T09:06:10.467Z</i>
+<i>Updated on 2022-03-27T12:21:36.115Z</i>
