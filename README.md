@@ -51,8 +51,8 @@
 | 2022-6-30 | Hack in Paris 2022 | [Why React applications get hacked in the real-world](pages/2022/2022-06-30.md) |  |  | [🇫🇷](## "France") | English |
 | 2022-5-17 | Voxxed Days Zurich | [Stranger Danger: Your Node.js Attack Surface Just Got Bigger](pages/2022/2022-05-17.md) |  |  | [🇨🇭](## "Switzerland") | English |
 | 2022-5-16 | Cloud Native SecurityCon Europe 2022 | [The Unexpected Demise of Open Source Libraries](pages/2022/2022-05-16.md) |  |  | [🇪🇸](## "Spain") | English |
-| 2022-5-8 | JSDay Canarias | [Let me show you how React applications get hacked in the real-world](pages/2022/2022-05-08.md) |  |  | [undefined](## "undefined") | English |
-| 2022-5-7 | JSDay Canarias | [Hands on Node.js and JavaScript security workshop: How safe is your application?](pages/2022/2022-05-07.md) |  |  | [undefined](## "undefined") | English |
+| 2022-5-8 | JSDay Canarias | [Let me show you how React applications get hacked in the real-world](pages/2022/2022-05-08.md) |  |  | [🇪🇸](## "Spain") | English |
+| 2022-5-7 | JSDay Canarias | [Hands on Node.js and JavaScript security workshop: How safe is your application?](pages/2022/2022-05-07.md) |  |  | [🇪🇸](## "Spain") | English |
 | 2022-3-30 | Pull Request community | [Why You Should Care About Open Source Security](pages/2022/2022-03-30.md) |  |  | [🇮🇱](## "Israel") | Hebrew |
 | 2022-3-28 | WixEngineering | [Twitter Spaces: Career navigation done right](pages/2022/2022-03-28.md) |  |  |  | English |
 | 2022-3-27 | Weekly Sync | [Twitter Spaces: Weekly Sync](pages/2022/2022-03-27.md) |  |  |  | Hebrew |
@@ -438,4 +438,4 @@
 
 
 
-<i>Updated on 2022-03-27T12:34:15.685Z</i>
+<i>Updated on 2022-03-27T16:50:21.798Z</i>
