@@ -1,4 +1,4 @@
-<div align='center'><p><img src="https://img.shields.io/badge/total-108-blue?style=flat-square" alt="Total Events"> <img src="https://img.shields.io/badge/meetups-13-violet?style=flat-square" alt="Total Meetups"> <img src="https://img.shields.io/badge/conferences-52-red?style=flat-square" alt="Total Conferences"> <img src="https://img.shields.io/badge/podcasts-19-yellow?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/webinars-13-lightgrey?style=flat-square" alt="Total Webinars"> <img src="https://img.shields.io/badge/articles-3-green?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/workshops-1-orange?style=flat-square" alt="Total Workshops"></p>
+<div align='center'><p><img src="https://img.shields.io/badge/total-109-blue?style=flat-square" alt="Total Events"> <img src="https://img.shields.io/badge/meetups-14-violet?style=flat-square" alt="Total Meetups"> <img src="https://img.shields.io/badge/conferences-52-red?style=flat-square" alt="Total Conferences"> <img src="https://img.shields.io/badge/podcasts-19-yellow?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/webinars-13-lightgrey?style=flat-square" alt="Total Webinars"> <img src="https://img.shields.io/badge/articles-3-green?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/workshops-1-orange?style=flat-square" alt="Total Workshops"></p>
 </div>
   <p align='center'><h1 align='center'>Liran Tal - Public Speaking</h1>
 <p align='center'>I love doing Open Source, Node.js, JavaScript, Web Security & InfoSec, Public Speaking, and Building CLIs.</p></p><p align='center'><a href='liran_tal'><img alt='Twitter Follow' src='https://img.shields.io/twitter/follow/liran_tal?style=social'></a> <a href='https://www.linkedin.com/in/talliran'><img alt='LinkedIn Add Me' src='https://img.shields.io/badge/-Add&nbsp;Me&nbsp;on&nbsp;LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white'></a></p><p align='center'><img src='https://github.com/lirantal/public-speaking/blob/main/static/liran-tal-header-image.png' alt='Liran Tal public speaking profile' /></p>
@@ -13,7 +13,7 @@
 # Table of Contents
 
 
- - [Year of 2022](#2022) - total events 17
+ - [Year of 2022](#2022) - total events 18
  - [Year of 2021](#2021) - total events 55
  - [Year of 2020](#2020) - total events 16
  - [Year of 2019](#2019) - total events 15
@@ -24,7 +24,7 @@
 # 2022
 
 
-![Total Events](https://img.shields.io/badge/total-17-blue?style=flat-square) ![Total Meetups](https://img.shields.io/badge/meetups-1-violet?style=flat-square) ![Total Conferences](https://img.shields.io/badge/conferences-6-red?style=flat-square) ![Total Podcasts](https://img.shields.io/badge/podcasts-5-yellow?style=flat-square) ![Total Webinars](https://img.shields.io/badge/webinars-4-lightgrey?style=flat-square)  ![Total Workshops](https://img.shields.io/badge/workshops-1-orange?style=flat-square)
+![Total Events](https://img.shields.io/badge/total-18-blue?style=flat-square) ![Total Meetups](https://img.shields.io/badge/meetups-2-violet?style=flat-square) ![Total Conferences](https://img.shields.io/badge/conferences-6-red?style=flat-square) ![Total Podcasts](https://img.shields.io/badge/podcasts-5-yellow?style=flat-square) ![Total Webinars](https://img.shields.io/badge/webinars-4-lightgrey?style=flat-square)  ![Total Workshops](https://img.shields.io/badge/workshops-1-orange?style=flat-square)
 
 
 <table>
@@ -54,6 +54,7 @@
 | 2022-5-16 | Cloud Native SecurityCon Europe 2022 | [The Unexpected Demise of Open Source Libraries](pages/2022/2022-05-16.md) |  |  | [🇪🇸](## "Spain") | English |
 | 2022-5-8 | JSDay Canarias | [Let me show you how React applications get hacked in the real-world](pages/2022/2022-05-08.md) |  |  | [🇪🇸](## "Spain") | English |
 | 2022-5-7 | JSDay Canarias | [Hands on Node.js and JavaScript security workshop: How safe is your application?](pages/2022/2022-05-07.md) |  |  | [🇪🇸](## "Spain") | English |
+| 2022-4-11 | VueJS Israel | [Vue.js developers are victims of weaponized NPM packages for protest and malware](pages/2022/2022-04-11.md) |  |  |  | English |
 | 2022-3-30 | Pull Request community | [Why You Should Care About Open Source Security](pages/2022/2022-03-30.md) |  |  | [🇮🇱](## "Israel") | Hebrew |
 | 2022-3-29 | Weekly Sync (וויקלי סינק) | [מלחמות מנועי המשחקים והאקרים גילו דרך יצירתית להיות אקטיביסטים](pages/2022/2022-03-29.md) |  | [Recording](https://anchor.fm/weeklysync/episodes/ep-e1gdq0d) |  | Hebrew |
 | 2022-3-28 | WixEngineering | [Twitter Spaces: Career navigation done right](pages/2022/2022-03-28.md) |  |  |  | English |
@@ -440,4 +441,4 @@
 
 
 
-<i>Updated on 2022-03-31T10:00:52.195Z</i>
+<i>Updated on 2022-03-31T12:40:07.900Z</i>
