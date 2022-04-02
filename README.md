@@ -40,11 +40,15 @@
   </tr>
   <tr>
     <td align="center"> <img src="https://secure.meetupstatic.com/photos/event/1/3/1/2/highres_503044882.jpeg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://pbs.twimg.com/media/FPHTUl8WUAMksDw?format=jpg&name=large" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://pbs.twimg.com/media/FPHTUl6XwAoAxiR?format=jpg&name=large" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/FLnr4LMXwAA4nR2?format=jpg&name=4096x4096" width="85" height="50" /> </td>
     <td align="center"> <img src="https://scontent.ftlv18-1.fna.fbcdn.net/v/t39.30808-6/273812789_4825196864232470_4759239175253428787_n.png?_nc_cat=102&ccb=1-5&_nc_sid=730e14&_nc_ohc=O-lKAcc26FAAX_bNKdg&_nc_ht=scontent.ftlv18-1.fna&oh=00_AT8jRmLhUGdVrmPMcWJMPVQpk11tZa_fF2J_0kO6nNuLww&oe=6216A5D9" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/FLtJGsWWUAApQVR?format=jpg&name=large" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/FLkUlAkWUAEE-q2?format=jpg&name=large" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/FLkPH41aIAUOCcZ?format=jpg&name=large" width="85" height="50" /> </td>
+  </tr>
+  <tr>
     <td align="center"> <img src="https://pbs.twimg.com/media/FLFFmkMXMAQlcFf?format=jpg&name=large" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/FO7PRY3WQAEXThU?format=jpg&name=large" width="85" height="50" /> </td>
   </tr>
@@ -446,4 +450,4 @@
 
 
 
-<i>Updated on 2022-04-02T09:05:30.042Z</i>
+<i>Updated on 2022-04-02T10:23:43.031Z</i>
