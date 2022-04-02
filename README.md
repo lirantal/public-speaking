@@ -68,7 +68,7 @@
 | 2022-3-29 | Weekly Sync (וויקלי סינק) | [מלחמות מנועי המשחקים והאקרים גילו דרך יצירתית להיות אקטיביסטים](pages/2022/2022-03-29.md) |  | [Recording](https://anchor.fm/weeklysync/episodes/ep-e1gdq0d) |  | Hebrew |
 | 2022-3-28 | WixEngineering | [Twitter Spaces: Career navigation done right](pages/2022/2022-03-28.md) |  |  |  | English |
 | 2022-3-27 | Weekly Sync | [Twitter Spaces: Weekly Sync](pages/2022/2022-03-27.md) |  |  |  | Hebrew |
-| 2022-3-25 | Let me show you how React applications get hacked in the real-world | [Voxxed Days Bucharesst](pages/2022/2022-03-25.md) |  |  |  | English |
+| 2022-3-25 | Voxxed Days Bucharesst | [Let me show you how React applications get hacked in the real-world ](pages/2022/2022-03-25.md) |  |  |  | English |
 | 2022-3-21 | React Israel meetup | [How React Applications Get Hacked in the Real-World](pages/2022/2022-03-21.md) |  |  |  | Hebrew |
 | 2022-3-15 | Developer Advocast | [User Zero & Product Feedback Loops](pages/2022/2022-03-15.md) |  |  |  | English |
 | 2022-2-16 | This Is Learning | [Node.js Security with Liran Tal](pages/2022/2022-02-16.md) |  | [Recording](https://www.youtube.com/watch?v=x6KMk2q9ZIs&ab_channel=ThisisTechTalks) |  | English |
@@ -450,4 +450,4 @@
 
 
 
-<i>Updated on 2022-04-02T11:48:22.840Z</i>
+<i>Updated on 2022-04-02T12:17:18.318Z</i>
