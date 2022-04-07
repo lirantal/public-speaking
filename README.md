@@ -71,7 +71,7 @@
 | 2022-3-27 | Weekly Sync | [Twitter Spaces: Weekly Sync](pages/2022/2022-03-27.md) |  |  |  | Hebrew |
 | 2022-3-25 | Voxxed Days Bucharesst | [Let me show you how React applications get hacked in the real-world ](pages/2022/2022-03-25.md) |  |  |  | English |
 | 2022-3-21 | React Israel meetup | [How React Applications Get Hacked in the Real-World](pages/2022/2022-03-21.md) |  |  |  | Hebrew |
-| 2022-3-15 | Developer Advocast | [User Zero & Product Feedback Loops](pages/2022/2022-03-15.md) |  |  |  | English |
+| 2022-3-15 | Developer Advocast | [User Zero & Product Feedback Loops](pages/2022/2022-03-15.md) |  | [Recording](https://www.youtube.com/watch?v=LdggfJifBC8&t=1s&ab_channel=DeveloperAdvocast) |  | English |
 | 2022-2-16 | This Is Learning | [Node.js Security with Liran Tal](pages/2022/2022-02-16.md) |  | [Recording](https://www.youtube.com/watch?v=x6KMk2q9ZIs&ab_channel=ThisisTechTalks) |  | English |
 | 2022-2-15 | SLIIT FOSS Community | [Application Security for Node.js](pages/2022/2022-02-15.md) |  | [Recording](https://www.twitch.tv/videos/1298789598) |  | English |
 | 2022-2-10 | Node.js Security | [SheHacks Kenya invites Liran Tal to a Node.js security session](pages/2022/2022-02-10.md) |  |  |  | English |
@@ -451,4 +451,4 @@
 
 
 
-<i>Updated on 2022-04-06T12:05:13.953Z</i>
+<i>Updated on 2022-04-07T05:47:04.062Z</i>
