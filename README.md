@@ -1,4 +1,4 @@
-<div align='center'><p><img src="https://img.shields.io/badge/total-116-blue?style=flat-square" alt="Total Events"> <img src="https://img.shields.io/badge/meetups-18-violet?style=flat-square" alt="Total Meetups"> <img src="https://img.shields.io/badge/conferences-55-red?style=flat-square" alt="Total Conferences"> <img src="https://img.shields.io/badge/podcasts-19-yellow?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/webinars-13-lightgrey?style=flat-square" alt="Total Webinars"> <img src="https://img.shields.io/badge/articles-3-green?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/workshops-1-orange?style=flat-square" alt="Total Workshops"></p>
+<div align='center'><p><img src="https://img.shields.io/badge/total-117-blue?style=flat-square" alt="Total Events"> <img src="https://img.shields.io/badge/meetups-19-violet?style=flat-square" alt="Total Meetups"> <img src="https://img.shields.io/badge/conferences-55-red?style=flat-square" alt="Total Conferences"> <img src="https://img.shields.io/badge/podcasts-19-yellow?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/webinars-13-lightgrey?style=flat-square" alt="Total Webinars"> <img src="https://img.shields.io/badge/articles-3-green?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/workshops-1-orange?style=flat-square" alt="Total Workshops"></p>
 </div>
   <p align='center'><h1 align='center'>Liran Tal - Public Speaking</h1>
 <p align='center'>I love doing Open Source, Node.js, JavaScript, Web Security & InfoSec, Public Speaking, and Building CLIs.</p></p><p align='center'><a href='liran_tal'><img alt='Twitter Follow' src='https://img.shields.io/twitter/follow/liran_tal?style=social'></a> <a href='https://www.linkedin.com/in/talliran'><img alt='LinkedIn Add Me' src='https://img.shields.io/badge/-Add&nbsp;Me&nbsp;on&nbsp;LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white'></a></p><p align='center'><img src='https://github.com/lirantal/public-speaking/blob/main/static/liran-tal-header-image.png' alt='Liran Tal public speaking profile' /></p>
@@ -13,7 +13,7 @@
 # Table of Contents
 
 
- - [Year of 2022](#2022) - total events 25
+ - [Year of 2022](#2022) - total events 26
  - [Year of 2021](#2021) - total events 55
  - [Year of 2020](#2020) - total events 16
  - [Year of 2019](#2019) - total events 15
@@ -24,11 +24,12 @@
 # 2022
 
 
-![Total Events](https://img.shields.io/badge/total-25-blue?style=flat-square) ![Total Meetups](https://img.shields.io/badge/meetups-6-violet?style=flat-square) ![Total Conferences](https://img.shields.io/badge/conferences-9-red?style=flat-square) ![Total Podcasts](https://img.shields.io/badge/podcasts-5-yellow?style=flat-square) ![Total Webinars](https://img.shields.io/badge/webinars-4-lightgrey?style=flat-square)  ![Total Workshops](https://img.shields.io/badge/workshops-1-orange?style=flat-square)
+![Total Events](https://img.shields.io/badge/total-26-blue?style=flat-square) ![Total Meetups](https://img.shields.io/badge/meetups-7-violet?style=flat-square) ![Total Conferences](https://img.shields.io/badge/conferences-9-red?style=flat-square) ![Total Podcasts](https://img.shields.io/badge/podcasts-5-yellow?style=flat-square) ![Total Webinars](https://img.shields.io/badge/webinars-4-lightgrey?style=flat-square)  ![Total Workshops](https://img.shields.io/badge/workshops-1-orange?style=flat-square)
 
 
 <table>
   <tr>
+    <td align="center"> <img src="https://www.meetup.com/_next/image/?url=https%3A%2F%2Fsecure-content.meetupstatic.com%2Fimages%2Fclassic-events%2F503828916%2F676x380.webp&w=3840&q=75" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/FOnP4gNWQAYpRMJ?format=jpg&name=medium" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/FOnP6t2XIAwyLt9?format=jpg&name=medium" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/FOnP4gNWQAYpRMJ?format=jpg&name=medium" width="85" height="50" /> </td>
@@ -36,9 +37,9 @@
     <td align="center"> <img src="https://pbs.twimg.com/media/FRutQ6kX0AEaHuD?format=jpg&name=large" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/FRutQ6eXEAAPwNy?format=jpg&name=large" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/FRutQ6mXIAA0SVU?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://secure.meetupstatic.com/photos/event/9/d/7/c/highres_503020316.jpeg" width="85" height="50" /> </td>
   </tr>
   <tr>
+    <td align="center"> <img src="https://secure.meetupstatic.com/photos/event/9/d/7/c/highres_503020316.jpeg" width="85" height="50" /> </td>
     <td align="center"> <img src="https://media-exp1.licdn.com/dms/image/C4D22AQGDwDcgmgJKRQ/feedshare-shrink_2048_1536/0/1649878744564?e=2147483647&v=beta&t=p34bmFv9gGKVqH7I3tPsd7jTGh0r4ImrmbTglMaCM44" width="85" height="50" /> </td>
     <td align="center"> <img src="https://media-exp1.licdn.com/dms/image/C4D22AQHVx-qhY9hgDw/feedshare-shrink_2048_1536/0/1649878766091?e=2147483647&v=beta&t=5LqUgSPxYsAId0MDz6P9HoSEub2Ejy7nmFGSoprAPpI" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/FQTnBKUXoAQbNmZ?format=jpg&name=large" width="85" height="50" /> </td>
@@ -46,9 +47,9 @@
     <td align="center"> <img src="https://pbs.twimg.com/media/FQTnB0sXwAQRPIa?format=jpg&name=large" width="85" height="50" /> </td>
     <td align="center"> <img src="https://scontent.ftlv6-1.fna.fbcdn.net/v/t39.30808-6/278102772_10166350659375313_8425188378617904281_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=730e14&_nc_ohc=ZUQOYgvGU80AX9Cekam&_nc_ht=scontent.ftlv6-1.fna&oh=00_AT-ozlTIPKjIIoSfbPhnywFLPTsCtpVC9S94MUbCkfAfag&oe=625C5149" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/FQK0kPuWYAE9mbI?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/FQK0khBWUAM0ef5?format=jpg&name=large" width="85" height="50" /> </td>
   </tr>
   <tr>
+    <td align="center"> <img src="https://pbs.twimg.com/media/FQK0khBWUAM0ef5?format=jpg&name=large" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/FQK0kvdXsA0Mb6x?format=jpg&name=large" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/FQK0lTYXEAggcLE?format=jpg&name=large" width="85" height="50" /> </td>
     <td align="center"> <img src="https://secure.meetupstatic.com/photos/event/8/b/3/highres_503162227.jpeg" width="85" height="50" /> </td>
@@ -56,9 +57,9 @@
     <td align="center"> <img src="https://scontent.fhfa2-2.fna.fbcdn.net/v/t39.30808-6/278143901_1535268536868757_7386688975907454901_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=8bfeb9&_nc_ohc=_oKEnUJ2SNEAX_9_BXY&_nc_ht=scontent.fhfa2-2.fna&oh=00_AT9wUTCBqmiXmYh1nbcGZJVQkiqzprBdumEgWdeaWHlxhQ&oe=62596DCF" width="85" height="50" /> </td>
     <td align="center"> <img src="https://scontent.fhfa2-2.fna.fbcdn.net/v/t39.30808-6/278127523_1535268440202100_5605321498941405013_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=8bfeb9&_nc_ohc=155kkLGBNroAX9IX3Ff&_nc_ht=scontent.fhfa2-2.fna&oh=00_AT9b5fGxoHbdxVke24zHw608vc7ksUAoiCK6uSY_inYXyw&oe=625935CF" width="85" height="50" /> </td>
     <td align="center"> <img src="https://scontent.fhfa2-2.fna.fbcdn.net/v/t39.30808-6/278287641_1535268496868761_9188999189406913532_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=8bfeb9&_nc_ohc=9wMfnGzWoHwAX8cQoqx&_nc_ht=scontent.fhfa2-2.fna&oh=00_AT_Dd4SKDGyiKI7IBrEV-vs_91ZeTRTrxQua0ed4k8pIZw&oe=625A6D14" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://scontent.fhfa2-2.fna.fbcdn.net/v/t39.30808-6/278123898_1535268403535437_4937168906872406578_n.jpg?_nc_cat=106&ccb=1-5&_nc_sid=8bfeb9&_nc_ohc=NqZ3K73Eu3EAX9ZBjEQ&tn=ltt6cif7GWAoRbk-&_nc_ht=scontent.fhfa2-2.fna&oh=00_AT9N1aPFdBB-EfKj47nxJYsOdhwZjqe9g77Ff4sPoN7OlA&oe=6259EB10" width="85" height="50" /> </td>
   </tr>
   <tr>
+    <td align="center"> <img src="https://scontent.fhfa2-2.fna.fbcdn.net/v/t39.30808-6/278123898_1535268403535437_4937168906872406578_n.jpg?_nc_cat=106&ccb=1-5&_nc_sid=8bfeb9&_nc_ohc=NqZ3K73Eu3EAX9ZBjEQ&tn=ltt6cif7GWAoRbk-&_nc_ht=scontent.fhfa2-2.fna&oh=00_AT9N1aPFdBB-EfKj47nxJYsOdhwZjqe9g77Ff4sPoN7OlA&oe=6259EB10" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/FQEwkpkWYAk33Vm?format=jpg&name=large" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/FQEtapTX0AI66_S?format=jpg&name=large" width="85" height="50" /> </td>
     <td align="center"> <img src="https://media-exp1.licdn.com/dms/image/C4D22AQH4xlWTAJIA4A/feedshare-shrink_2048_1536/0/1649925348286?e=2147483647&v=beta&t=nMacSCPGTWctrkP-jSepnYjf_WQTtyJHl95akJ3ZPhQ" width="85" height="50" /> </td>
@@ -66,9 +67,9 @@
     <td align="center"> <img src="https://media-exp1.licdn.com/dms/image/C4D22AQGbIa-SDOk8Gg/feedshare-shrink_1280/0/1646200701578?e=1649289600&v=beta&t=yH1tT6tU8VLJtY2WKjbxfJhOQA09q6GZA2-1JS1lQ3Y" width="85" height="50" /> </td>
     <td align="center"> <img src="https://secure.meetupstatic.com/photos/event/1/3/0/b/600_503044875.jpeg" width="85" height="50" /> </td>
     <td align="center"> <img src="https://secure.meetupstatic.com/photos/event/1/3/0/f/highres_503044879.jpeg" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://secure.meetupstatic.com/photos/event/1/3/1/2/highres_503044882.jpeg" width="85" height="50" /> </td>
   </tr>
   <tr>
+    <td align="center"> <img src="https://secure.meetupstatic.com/photos/event/1/3/1/2/highres_503044882.jpeg" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/FPHTUl8WUAMksDw?format=jpg&name=large" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/FPHTUl6XwAoAxiR?format=jpg&name=large" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/FLnr4LMXwAA4nR2?format=jpg&name=4096x4096" width="85" height="50" /> </td>
@@ -76,9 +77,9 @@
     <td align="center"> <img src="https://pbs.twimg.com/media/FLtJGsWWUAApQVR?format=jpg&name=large" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/FLkUlAkWUAEE-q2?format=jpg&name=large" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/FLkPH41aIAUOCcZ?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/FLFFmkMXMAQlcFf?format=jpg&name=large" width="85" height="50" /> </td>
   </tr>
   <tr>
+    <td align="center"> <img src="https://pbs.twimg.com/media/FLFFmkMXMAQlcFf?format=jpg&name=large" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/FJe5mwjXEAQHXK9?format=jpg&name=large" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/FJdJpCxXIAAZBUL?format=jpg&name=medium" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/FJdJsRJXMAEQLhd?format=jpg&name=large" width="85" height="50" /> </td>
@@ -92,6 +93,7 @@
 | 2022-6-30 | Hack in Paris 2022 | [Why React applications get hacked in the real-world](pages/2022/2022-06-30.md) |  |  | [🇫🇷](## "France") | English |
 | 2022-6-17 | React Summit | [How React applications get hacked in the real-world](pages/2022/2022-06-17.md) |  |  | [🇳🇱](## "Netherlands") | English |
 | 2022-6-16 | JSNation | [Security Controls in the JavaScript Supply Chain](pages/2022/2022-06-16.md) |  |  | [🇳🇱](## "Netherlands") | English |
+| 2022-5-23 | GitBurger Track: GitHub and Open-Source & startup story | [null](pages/2022/2022-05-23.md) |  |  | [🇮🇱](## "Israel") | Hebrew |
 | 2022-5-19 | Cloud Native Computing Switzerland | [Weaponizing NPM Packages for Protest and Malware](pages/2022/2022-05-19.md) |  |  | [🇨🇭](## "Switzerland") | English |
 | 2022-5-17 | Voxxed Days Zurich | [Stranger Danger: Your Node.js Attack Surface Just Got Bigger](pages/2022/2022-05-17.md) |  |  | [🇨🇭](## "Switzerland") | English |
 | 2022-5-16 | Cloud Native SecurityCon Europe 2022 | [The Unexpected Demise of Open Source Libraries](pages/2022/2022-05-16.md) |  |  | [🇪🇸](## "Spain") | English |
@@ -493,4 +495,4 @@
 
 
 
-<i>Updated on 2022-05-10T09:11:07.977Z</i>
+<i>Updated on 2022-05-10T22:01:36.955Z</i>
