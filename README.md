@@ -93,7 +93,7 @@
 | 2022-6-30 | Hack in Paris 2022 | [Why React applications get hacked in the real-world](pages/2022/2022-06-30.md) |  |  | [🇫🇷](## "France") | English |
 | 2022-6-17 | React Summit | [How React applications get hacked in the real-world](pages/2022/2022-06-17.md) |  |  | [🇳🇱](## "Netherlands") | English |
 | 2022-6-16 | JSNation | [Security Controls in the JavaScript Supply Chain](pages/2022/2022-06-16.md) |  |  | [🇳🇱](## "Netherlands") | English |
-| 2022-5-23 | GitBurger Track: GitHub and Open-Source & startup story | [null](pages/2022/2022-05-23.md) |  |  | [🇮🇱](## "Israel") | Hebrew |
+| 2022-5-23 | GitBurger - Open Source Stories | [GitBurger Track: GitHub and Open-Source & startup story](pages/2022/2022-05-23.md) |  |  | [🇮🇱](## "Israel") | Hebrew |
 | 2022-5-19 | Cloud Native Computing Switzerland | [Weaponizing NPM Packages for Protest and Malware](pages/2022/2022-05-19.md) |  |  | [🇨🇭](## "Switzerland") | English |
 | 2022-5-17 | Voxxed Days Zurich | [Stranger Danger: Your Node.js Attack Surface Just Got Bigger](pages/2022/2022-05-17.md) |  |  | [🇨🇭](## "Switzerland") | English |
 | 2022-5-16 | Cloud Native SecurityCon Europe 2022 | [The Unexpected Demise of Open Source Libraries](pages/2022/2022-05-16.md) |  |  | [🇪🇸](## "Spain") | English |
@@ -495,4 +495,4 @@
 
 
 
-<i>Updated on 2022-05-11T09:10:53.229Z</i>
+<i>Updated on 2022-05-11T14:20:46.102Z</i>
