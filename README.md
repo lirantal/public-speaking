@@ -35,70 +35,72 @@
     <td align="center"> <img src="https://pbs.twimg.com/media/FTILFtwUsAIP1Ls?format=jpg&name=large" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/FS93_WHWUAE-qD6?format=jpg&name=large" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/FS-MMcpWUAA0r6q?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/FOnP4gNWQAYpRMJ?format=jpg&name=medium" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/FOnP6t2XIAwyLt9?format=jpg&name=medium" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://pbs.twimg.com/media/FS5WqNXWQAAMmNN?format=jpg&name=large" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://pbs.twimg.com/media/FS5WrD7X0AAgrlM?format=jpg&name=large" width="85" height="50" /> </td>
   </tr>
   <tr>
+    <td align="center"> <img src="https://pbs.twimg.com/media/FOnP4gNWQAYpRMJ?format=jpg&name=medium" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://pbs.twimg.com/media/FOnP6t2XIAwyLt9?format=jpg&name=medium" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/FSJha_kXoAAxLxa?format=jpg&name=large" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/FSJlgLLXMAAbfp5?format=jpg&name=large" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/FSJojIfXIAc7N8y?format=jpg&name=large" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/FSO_nEgXMAAMili?format=jpg&name=large" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/FSKoYFFWQAI0zAh?format=jpg&name=large" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/FSJhzkqXIAEWfvw?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/FSJlW_dXEAEG-ri?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/FSJmwXzWUAEtViE?format=jpg&name=large" width="85" height="50" /> </td>
   </tr>
   <tr>
+    <td align="center"> <img src="https://pbs.twimg.com/media/FSJlW_dXEAEG-ri?format=jpg&name=large" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://pbs.twimg.com/media/FSJmwXzWUAEtViE?format=jpg&name=large" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/FSJom0FX0AEmo1P?format=jpg&name=large" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/FSAizDmXIAEWRRE?format=jpg&name=large" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/FSAjAJsX0AExA8-?format=jpg&name=large" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/FSuKH0QXEAcYoCb?format=jpg&name=large" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/FOnP4gNWQAYpRMJ?format=jpg&name=medium" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/FOnP6t2XIAwyLt9?format=jpg&name=medium" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/FRutQ6kX0AEaHuD?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/FRutQ6eXEAAPwNy?format=jpg&name=large" width="85" height="50" /> </td>
   </tr>
   <tr>
+    <td align="center"> <img src="https://pbs.twimg.com/media/FRutQ6kX0AEaHuD?format=jpg&name=large" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://pbs.twimg.com/media/FRutQ6eXEAAPwNy?format=jpg&name=large" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/FRutQ6mXIAA0SVU?format=jpg&name=large" width="85" height="50" /> </td>
     <td align="center"> <img src="https://secure.meetupstatic.com/photos/event/9/d/7/c/highres_503020316.jpeg" width="85" height="50" /> </td>
     <td align="center"> <img src="https://media-exp1.licdn.com/dms/image/C4D22AQGDwDcgmgJKRQ/feedshare-shrink_2048_1536/0/1649878744564?e=2147483647&v=beta&t=p34bmFv9gGKVqH7I3tPsd7jTGh0r4ImrmbTglMaCM44" width="85" height="50" /> </td>
     <td align="center"> <img src="https://media-exp1.licdn.com/dms/image/C4D22AQHVx-qhY9hgDw/feedshare-shrink_2048_1536/0/1649878766091?e=2147483647&v=beta&t=5LqUgSPxYsAId0MDz6P9HoSEub2Ejy7nmFGSoprAPpI" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/FQTnBKUXoAQbNmZ?format=jpg&name=large" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/FQTnBVLXwAQ4Os5?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/FQTnB0sXwAQRPIa?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://scontent.ftlv6-1.fna.fbcdn.net/v/t39.30808-6/278102772_10166350659375313_8425188378617904281_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=730e14&_nc_ohc=ZUQOYgvGU80AX9Cekam&_nc_ht=scontent.ftlv6-1.fna&oh=00_AT-ozlTIPKjIIoSfbPhnywFLPTsCtpVC9S94MUbCkfAfag&oe=625C5149" width="85" height="50" /> </td>
   </tr>
   <tr>
+    <td align="center"> <img src="https://pbs.twimg.com/media/FQTnB0sXwAQRPIa?format=jpg&name=large" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://scontent.ftlv6-1.fna.fbcdn.net/v/t39.30808-6/278102772_10166350659375313_8425188378617904281_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=730e14&_nc_ohc=ZUQOYgvGU80AX9Cekam&_nc_ht=scontent.ftlv6-1.fna&oh=00_AT-ozlTIPKjIIoSfbPhnywFLPTsCtpVC9S94MUbCkfAfag&oe=625C5149" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/FQK0kPuWYAE9mbI?format=jpg&name=large" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/FQK0khBWUAM0ef5?format=jpg&name=large" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/FQK0kvdXsA0Mb6x?format=jpg&name=large" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/FQK0lTYXEAggcLE?format=jpg&name=large" width="85" height="50" /> </td>
     <td align="center"> <img src="https://secure.meetupstatic.com/photos/event/8/b/3/highres_503162227.jpeg" width="85" height="50" /> </td>
     <td align="center"> <img src="https://scontent.fhfa2-2.fna.fbcdn.net/v/t39.30808-6/278085354_1535268560202088_4745047179369833207_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=8bfeb9&_nc_ohc=AqYBZhIj1TAAX8y7HJL&_nc_ht=scontent.fhfa2-2.fna&oh=00_AT-vPz5l0mkRrdAyFC0BBqeo5ugwbuJdf00ccG1TrP1EkA&oe=625939AB" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://scontent.fhfa2-2.fna.fbcdn.net/v/t39.30808-6/278143901_1535268536868757_7386688975907454901_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=8bfeb9&_nc_ohc=_oKEnUJ2SNEAX_9_BXY&_nc_ht=scontent.fhfa2-2.fna&oh=00_AT9wUTCBqmiXmYh1nbcGZJVQkiqzprBdumEgWdeaWHlxhQ&oe=62596DCF" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://scontent.fhfa2-2.fna.fbcdn.net/v/t39.30808-6/278127523_1535268440202100_5605321498941405013_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=8bfeb9&_nc_ohc=155kkLGBNroAX9IX3Ff&_nc_ht=scontent.fhfa2-2.fna&oh=00_AT9b5fGxoHbdxVke24zHw608vc7ksUAoiCK6uSY_inYXyw&oe=625935CF" width="85" height="50" /> </td>
   </tr>
   <tr>
+    <td align="center"> <img src="https://scontent.fhfa2-2.fna.fbcdn.net/v/t39.30808-6/278143901_1535268536868757_7386688975907454901_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=8bfeb9&_nc_ohc=_oKEnUJ2SNEAX_9_BXY&_nc_ht=scontent.fhfa2-2.fna&oh=00_AT9wUTCBqmiXmYh1nbcGZJVQkiqzprBdumEgWdeaWHlxhQ&oe=62596DCF" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://scontent.fhfa2-2.fna.fbcdn.net/v/t39.30808-6/278127523_1535268440202100_5605321498941405013_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=8bfeb9&_nc_ohc=155kkLGBNroAX9IX3Ff&_nc_ht=scontent.fhfa2-2.fna&oh=00_AT9b5fGxoHbdxVke24zHw608vc7ksUAoiCK6uSY_inYXyw&oe=625935CF" width="85" height="50" /> </td>
     <td align="center"> <img src="https://scontent.fhfa2-2.fna.fbcdn.net/v/t39.30808-6/278287641_1535268496868761_9188999189406913532_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=8bfeb9&_nc_ohc=9wMfnGzWoHwAX8cQoqx&_nc_ht=scontent.fhfa2-2.fna&oh=00_AT_Dd4SKDGyiKI7IBrEV-vs_91ZeTRTrxQua0ed4k8pIZw&oe=625A6D14" width="85" height="50" /> </td>
     <td align="center"> <img src="https://scontent.fhfa2-2.fna.fbcdn.net/v/t39.30808-6/278123898_1535268403535437_4937168906872406578_n.jpg?_nc_cat=106&ccb=1-5&_nc_sid=8bfeb9&_nc_ohc=NqZ3K73Eu3EAX9ZBjEQ&tn=ltt6cif7GWAoRbk-&_nc_ht=scontent.fhfa2-2.fna&oh=00_AT9N1aPFdBB-EfKj47nxJYsOdhwZjqe9g77Ff4sPoN7OlA&oe=6259EB10" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/FQEwkpkWYAk33Vm?format=jpg&name=large" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/FQEtapTX0AI66_S?format=jpg&name=large" width="85" height="50" /> </td>
     <td align="center"> <img src="https://media-exp1.licdn.com/dms/image/C4D22AQH4xlWTAJIA4A/feedshare-shrink_2048_1536/0/1649925348286?e=2147483647&v=beta&t=nMacSCPGTWctrkP-jSepnYjf_WQTtyJHl95akJ3ZPhQ" width="85" height="50" /> </td>
     <td align="center"> <img src="https://media-exp1.licdn.com/dms/image/C4D22AQHB3KBoXMnYRw/feedshare-shrink_1280/0/1649925348264?e=2147483647&v=beta&t=CdjTpKlTvFP17KnrafJTKV3fx5LhwnkAQgP7ZvxWyG8" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://media-exp1.licdn.com/dms/image/C4D22AQGbIa-SDOk8Gg/feedshare-shrink_1280/0/1646200701578?e=1649289600&v=beta&t=yH1tT6tU8VLJtY2WKjbxfJhOQA09q6GZA2-1JS1lQ3Y" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://secure.meetupstatic.com/photos/event/1/3/0/b/600_503044875.jpeg" width="85" height="50" /> </td>
   </tr>
   <tr>
+    <td align="center"> <img src="https://media-exp1.licdn.com/dms/image/C4D22AQGbIa-SDOk8Gg/feedshare-shrink_1280/0/1646200701578?e=1649289600&v=beta&t=yH1tT6tU8VLJtY2WKjbxfJhOQA09q6GZA2-1JS1lQ3Y" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://secure.meetupstatic.com/photos/event/1/3/0/b/600_503044875.jpeg" width="85" height="50" /> </td>
     <td align="center"> <img src="https://secure.meetupstatic.com/photos/event/1/3/0/f/highres_503044879.jpeg" width="85" height="50" /> </td>
     <td align="center"> <img src="https://secure.meetupstatic.com/photos/event/1/3/1/2/highres_503044882.jpeg" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/FPHTUl8WUAMksDw?format=jpg&name=large" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/FPHTUl6XwAoAxiR?format=jpg&name=large" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/FLnr4LMXwAA4nR2?format=jpg&name=4096x4096" width="85" height="50" /> </td>
     <td align="center"> <img src="https://scontent.ftlv18-1.fna.fbcdn.net/v/t39.30808-6/273812789_4825196864232470_4759239175253428787_n.png?_nc_cat=102&ccb=1-5&_nc_sid=730e14&_nc_ohc=O-lKAcc26FAAX_bNKdg&_nc_ht=scontent.ftlv18-1.fna&oh=00_AT8jRmLhUGdVrmPMcWJMPVQpk11tZa_fF2J_0kO6nNuLww&oe=6216A5D9" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/FLtJGsWWUAApQVR?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/FLkUlAkWUAEE-q2?format=jpg&name=large" width="85" height="50" /> </td>
   </tr>
   <tr>
+    <td align="center"> <img src="https://pbs.twimg.com/media/FLtJGsWWUAApQVR?format=jpg&name=large" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://pbs.twimg.com/media/FLkUlAkWUAEE-q2?format=jpg&name=large" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/FLkPH41aIAUOCcZ?format=jpg&name=large" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/FLFFmkMXMAQlcFf?format=jpg&name=large" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/FJe5mwjXEAQHXK9?format=jpg&name=large" width="85" height="50" /> </td>
@@ -117,7 +119,7 @@
 | 2022-5-23 | GitBurger - Open Source Stories | [GitBurger Track: GitHub and Open-Source & startup story](pages/2022/2022-05-23.md) |  |  | [🇮🇱](## "Israel") | Hebrew |
 | 2022-5-19 | Cloud Native Computing Switzerland | [Weaponizing NPM Packages for Protest and Malware](pages/2022/2022-05-19.md) |  | [Recording](https://www.youtube.com/watch?v=rWvBMNmwWEI) | [🇨🇭](## "Switzerland") | English |
 | 2022-5-17 | Voxxed Days Zurich | [Stranger Danger: Your Node.js Attack Surface Just Got Bigger](pages/2022/2022-05-17.md) |  | [Recording](https://www.youtube.com/watch?v=sLLGspLgV0k&list=PLRsbF2sD7JVpqMrdjuw0yDAHx-LWkeJHN&index=24) | [🇨🇭](## "Switzerland") | English |
-| 2022-5-16 | Cloud Native SecurityCon Europe 2022 | [The Unexpected Demise of Open Source Libraries](pages/2022/2022-05-16.md) |  |  | [🇪🇸](## "Spain") | English |
+| 2022-5-16 | Cloud Native CNCF SecurityCon Europe 2022 | [The Unexpected Demise of Open Source Libraries](pages/2022/2022-05-16.md) |  | [Recording](https://www.youtube.com/watch?v=XD43KJx15GY&list=PLj6h78yzYM2P3qs7Y_QPD4uCgQ4Krsgb3&index=13) | [🇪🇸](## "Spain") | English |
 | 2022-5-8 | JSDay Canarias | [Let me show you how React applications get hacked in the real-world](pages/2022/2022-05-08.md) |  |  | [🇪🇸](## "Spain") | English |
 | 2022-5-7 | JSDay Canarias | [Hands on Node.js and JavaScript security workshop: How safe is your application?](pages/2022/2022-05-07.md) |  |  | [🇪🇸](## "Spain") | English |
 | 2022-5-1 | Gitburger - Manage Projects with GitHub | [Managing Projects ontop of the GitHub Platform](pages/2022/2022-05-01.md) |  |  | [🇮🇱](## "Israel") | Hebrew |
@@ -516,4 +518,4 @@
 
 
 
-<i>Updated on 2022-05-25T17:47:37.832Z</i>
+<i>Updated on 2022-05-25T18:17:34.921Z</i>
