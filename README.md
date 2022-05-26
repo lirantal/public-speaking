@@ -1,4 +1,4 @@
-<div align='center'><p><img src="https://img.shields.io/badge/total-117-blue?style=flat-square" alt="Total Events"> <img src="https://img.shields.io/badge/meetups-19-violet?style=flat-square" alt="Total Meetups"> <img src="https://img.shields.io/badge/conferences-55-red?style=flat-square" alt="Total Conferences"> <img src="https://img.shields.io/badge/podcasts-19-yellow?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/webinars-13-lightgrey?style=flat-square" alt="Total Webinars"> <img src="https://img.shields.io/badge/articles-3-green?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/workshops-1-orange?style=flat-square" alt="Total Workshops"></p>
+<div align='center'><p><img src="https://img.shields.io/badge/total-118-blue?style=flat-square" alt="Total Events"> <img src="https://img.shields.io/badge/meetups-19-violet?style=flat-square" alt="Total Meetups"> <img src="https://img.shields.io/badge/conferences-55-red?style=flat-square" alt="Total Conferences"> <img src="https://img.shields.io/badge/podcasts-20-yellow?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/webinars-13-lightgrey?style=flat-square" alt="Total Webinars"> <img src="https://img.shields.io/badge/articles-3-green?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/workshops-1-orange?style=flat-square" alt="Total Workshops"></p>
 </div>
   <p align='center'><h1 align='center'>Liran Tal - Public Speaking</h1>
 <p align='center'>I love doing Open Source, Node.js, JavaScript, Web Security & InfoSec, Public Speaking, and Building CLIs.</p></p><p align='center'><a href='liran_tal'><img alt='Twitter Follow' src='https://img.shields.io/twitter/follow/liran_tal?style=social'></a> <a href='https://www.linkedin.com/in/talliran'><img alt='LinkedIn Add Me' src='https://img.shields.io/badge/-Add&nbsp;Me&nbsp;on&nbsp;LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white'></a></p><p align='center'><img src='https://github.com/lirantal/public-speaking/blob/main/static/liran-tal-header-image.png' alt='Liran Tal public speaking profile' /></p>
@@ -13,7 +13,7 @@
 # Table of Contents
 
 
- - [Year of 2022](#2022) - total events 26
+ - [Year of 2022](#2022) - total events 27
  - [Year of 2021](#2021) - total events 55
  - [Year of 2020](#2020) - total events 16
  - [Year of 2019](#2019) - total events 15
@@ -24,7 +24,7 @@
 # 2022
 
 
-![Total Events](https://img.shields.io/badge/total-26-blue?style=flat-square) ![Total Meetups](https://img.shields.io/badge/meetups-7-violet?style=flat-square) ![Total Conferences](https://img.shields.io/badge/conferences-9-red?style=flat-square) ![Total Podcasts](https://img.shields.io/badge/podcasts-5-yellow?style=flat-square) ![Total Webinars](https://img.shields.io/badge/webinars-4-lightgrey?style=flat-square)  ![Total Workshops](https://img.shields.io/badge/workshops-1-orange?style=flat-square)
+![Total Events](https://img.shields.io/badge/total-27-blue?style=flat-square) ![Total Meetups](https://img.shields.io/badge/meetups-7-violet?style=flat-square) ![Total Conferences](https://img.shields.io/badge/conferences-9-red?style=flat-square) ![Total Podcasts](https://img.shields.io/badge/podcasts-6-yellow?style=flat-square) ![Total Webinars](https://img.shields.io/badge/webinars-4-lightgrey?style=flat-square)  ![Total Workshops](https://img.shields.io/badge/workshops-1-orange?style=flat-square)
 
 
 <table>
@@ -116,6 +116,7 @@
 | 2022-6-30 | Hack in Paris 2022 | [Why React applications get hacked in the real-world](pages/2022/2022-06-30.md) |  |  | [🇫🇷](## "France") | English |
 | 2022-6-17 | React Summit | [How React applications get hacked in the real-world](pages/2022/2022-06-17.md) |  |  | [🇳🇱](## "Netherlands") | English |
 | 2022-6-16 | JSNation | [Security Controls in the JavaScript Supply Chain](pages/2022/2022-06-16.md) |  |  | [🇳🇱](## "Netherlands") | English |
+| 2022-5-24 | DevSec for Scale Podcast | [Open Source Security with Liran Tal, Snyk](pages/2022/2022-05-24.md) |  | [Recording](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkLnBvZGJlYW4uY29tL2RldnNlY2ZvcnN0YXJ0dXBzL2ZlZWQueG1s/episode/ZGV2c2VjZm9yc3RhcnR1cHMucG9kYmVhbi5jb20vY2VjZGZkZjItMTJlMC0zNmNhLTlhODQtZTE4ZDk1ZmEyODc1?sa=X&ved=0CAUQkfYCahcKEwiYm_CUlfr3AhUAAAAAHQAAAAAQLA) |  | English |
 | 2022-5-23 | GitBurger - Open Source Stories | [GitBurger Track: GitHub and Open-Source & startup story](pages/2022/2022-05-23.md) |  |  | [🇮🇱](## "Israel") | Hebrew |
 | 2022-5-19 | Cloud Native Computing Switzerland | [Weaponizing NPM Packages for Protest and Malware](pages/2022/2022-05-19.md) |  | [Recording](https://www.youtube.com/watch?v=rWvBMNmwWEI) | [🇨🇭](## "Switzerland") | English |
 | 2022-5-17 | Voxxed Days Zurich | [Stranger Danger: Your Node.js Attack Surface Just Got Bigger](pages/2022/2022-05-17.md) |  | [Recording](https://www.youtube.com/watch?v=sLLGspLgV0k&list=PLRsbF2sD7JVpqMrdjuw0yDAHx-LWkeJHN&index=24) | [🇨🇭](## "Switzerland") | English |
@@ -518,4 +519,4 @@
 
 
 
-<i>Updated on 2022-05-25T18:17:34.921Z</i>
+<i>Updated on 2022-05-26T06:36:00.239Z</i>
