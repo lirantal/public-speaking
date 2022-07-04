@@ -163,7 +163,7 @@
 | 2022-6-30 | Hack in Paris 2022 | [Why React applications get hacked in the real-world](pages/2022/2022-06-30.md) |  |  | [🇫🇷](## "France") | English |
 | 2022-6-27 | GitBurger Track: GitHub and Open-Source & Co-Pilot | [GitBurger Track: GitHub and Open-Source & startup story](pages/2022/2022-06-27.md) |  |  | [🇮🇱](## "Israel") | Hebrew |
 | 2022-6-17 | React Summit | [How React applications get hacked in the real-world](pages/2022/2022-06-17.md) |  |  | [🇳🇱](## "Netherlands") | English |
-| 2022-6-16 | JSNation | [Security Controls in the JavaScript Supply Chain](pages/2022/2022-06-16.md) |  |  | [🇳🇱](## "Netherlands") | English |
+| 2022-6-16 | JSNation | [Security Controls in the JavaScript Supply Chain](pages/2022/2022-06-16.md) |  | [Recording](https://portal.gitnation.org/contents/security-controls-in-the-javascript-supply-chain) | [🇳🇱](## "Netherlands") | English |
 | 2022-6-15 | DevSecCon: Netherlands | [Stranger Danger: Your Node.js Attack Surface Just Got Bigger](pages/2022/2022-06-15.md) |  | [Recording](https://www.youtube.com/watch?v=WcTVVzCZmIQ) | [🇳🇱](## "Netherlands") | English |
 | 2022-5-24 | DevSec for Scale Podcast | [Open Source Security with Liran Tal, Snyk](pages/2022/2022-05-24.md) |  | [Recording](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkLnBvZGJlYW4uY29tL2RldnNlY2ZvcnN0YXJ0dXBzL2ZlZWQueG1s/episode/ZGV2c2VjZm9yc3RhcnR1cHMucG9kYmVhbi5jb20vY2VjZGZkZjItMTJlMC0zNmNhLTlhODQtZTE4ZDk1ZmEyODc1?sa=X&ved=0CAUQkfYCahcKEwiYm_CUlfr3AhUAAAAAHQAAAAAQLA) |  | English |
 | 2022-5-23 | GitBurger - Open Source Stories | [GitBurger Track: GitHub and Open-Source & startup story](pages/2022/2022-05-23.md) |  |  | [🇮🇱](## "Israel") | Hebrew |
@@ -589,4 +589,4 @@
 
 
 
-<i>Updated on 2022-07-04T19:48:13.286Z</i>
+<i>Updated on 2022-07-04T20:33:06.832Z</i>
