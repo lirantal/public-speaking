@@ -166,7 +166,7 @@
 | 2022-10-7 | Nordic.js | [Let me show you how React applications get hacked in the real world](pages/2022/2022-10-07.md) |  |  | [🇸🇪](## "Sweden") | English |
 | 2022-9-15 | Open Source Summit Europe | [The Unexpected Demise of Open Source Libraries](pages/2022/2022-09-15.md) |  |  | [🇮🇪](## "Ireland") | English |
 | 2022-7-27 | 20minJS Podcast | [null](pages/2022/2022-07-27.md) |  |  |  | English |
-| 2022-7-26 | Node.js Israel meetup | [Security Controls in the JavaScript Supply Chain](pages/2022/2022-07-26) |  |  |  | Hebrew |
+| 2022-7-26 | Node.js Israel meetup | [Security Controls in the JavaScript Supply Chain](pages/2022/2022-07-26) |  | [Recording](https://www.youtube.com/watch?v=LGT2DXsYLRs) |  | Hebrew |
 | 2022-7-26 | Node.js Israel | [Security Controls in the JavaScript Supply Chain](pages/2022/2022-07-26.md) |  |  |  | English |
 | 2022-6-30 | Hack in Paris 2022 | [Why React applications get hacked in the real-world](pages/2022/2022-06-30.md) |  |  | [🇫🇷](## "France") | English |
 | 2022-6-27 | GitBurger Track: GitHub and Open-Source & Co-Pilot | [GitBurger Track: GitHub and Open-Source & startup story](pages/2022/2022-06-27.md) |  |  | [🇮🇱](## "Israel") | Hebrew |
@@ -597,4 +597,4 @@
 
 
 
-<i>Updated on 2022-08-04T09:21:25.192Z</i>
+<i>Updated on 2022-08-04T18:27:56.349Z</i>
