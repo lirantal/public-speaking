@@ -164,7 +164,7 @@
 | ---- | ----- | ----- | ------ | --------- | -------- | -------- |
 | 2022-11-18 | Modern Frontends Live | [Let me show you how React applications get hacked in the real world](pages/2022/2022-11-18.md) |  |  | [🇬🇧](## "undefined") | English |
 | 2022-10-7 | Nordic.js | [Let me show you how React applications get hacked in the real world](pages/2022/2022-10-07.md) |  |  | [🇸🇪](## "Sweden") | English |
-| 2022-10-5 | NodeConf EU | [Char Wars: The Path Traversal Strikes Back](pages/2022/2022-10-05.md) |  |  | [🇮🇷](## "Iran, Islamic Republic Of") | English |
+| 2022-10-5 | NodeConf EU | [Char Wars: The Path Traversal Strikes Back](pages/2022/2022-10-05.md) |  |  | [🇮🇪](## "Ireland") | English |
 | 2022-9-15 | Open Source Summit Europe | [The Unexpected Demise of Open Source Libraries](pages/2022/2022-09-15.md) |  |  | [🇮🇪](## "Ireland") | English |
 | 2022-8-16 | 20minJS Podcast | [Episode 24 - Security in the JavaScript ecosystem with Liran Tal](pages/2022/2022-07-27.md) |  | [Recording](https://podcast.20minjs.com/1952066/11146790-episode-24-security-in-the-javascript-ecosystem-with-liran-tal) |  | English |
 | 2022-7-26 | Node.js Israel meetup | [Security Controls in the JavaScript Supply Chain](pages/2022/2022-07-26.md) |  | [Recording](https://www.youtube.com/watch?v=LGT2DXsYLRs) |  | Hebrew |
@@ -597,6 +597,6 @@
 
 
 
-*page updated on 2022-08-18T09:22:27.520Z*
+*page updated on 2022-08-18T09:28:53.630Z*
 
 powered by [gigsboat/cli](https://github.com/gigsboat/cli)
