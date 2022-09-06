@@ -1,4 +1,4 @@
-<div align='center'><p><img src="https://img.shields.io/badge/total-127-blue?style=flat-square" alt="Total Events"> <img src="https://img.shields.io/badge/meetups-22-violet?style=flat-square" alt="Total Meetups"> <img src="https://img.shields.io/badge/conferences-60-red?style=flat-square" alt="Total Conferences"> <img src="https://img.shields.io/badge/podcasts-21-yellow?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/webinars-13-lightgrey?style=flat-square" alt="Total Webinars"> <img src="https://img.shields.io/badge/articles-3-green?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/workshops-1-orange?style=flat-square" alt="Total Workshops"></p>
+<div align='center'><p><img src="https://img.shields.io/badge/total-128-blue?style=flat-square" alt="Total Events"> <img src="https://img.shields.io/badge/meetups-22-violet?style=flat-square" alt="Total Meetups"> <img src="https://img.shields.io/badge/conferences-61-red?style=flat-square" alt="Total Conferences"> <img src="https://img.shields.io/badge/podcasts-21-yellow?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/webinars-13-lightgrey?style=flat-square" alt="Total Webinars"> <img src="https://img.shields.io/badge/articles-3-green?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/workshops-1-orange?style=flat-square" alt="Total Workshops"></p>
 </div>
   <p align='center'><h1 align='center'>Liran Tal - Public Speaking</h1>
 <p align='center'>I love doing Open Source, Node.js, JavaScript, Web Security & InfoSec, Public Speaking, and Building CLIs.</p></p><p align='center'><a href='liran_tal'><img alt='Twitter Follow' src='https://img.shields.io/twitter/follow/liran_tal?style=social'></a> <a href='https://www.linkedin.com/in/talliran'><img alt='LinkedIn Add Me' src='https://img.shields.io/badge/-Add&nbsp;Me&nbsp;on&nbsp;LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white'></a></p><p align='center'><img src='https://github.com/lirantal/public-speaking/blob/main/static/liran-tal-header-image.png' alt='Liran Tal public speaking profile' /></p>
@@ -16,7 +16,7 @@
  - [Year of 2022](#2022) - total events 35
  - [Year of 2021](#2021) - total events 55
  - [Year of 2020](#2020) - total events 16
- - [Year of 2019](#2019) - total events 16
+ - [Year of 2019](#2019) - total events 17
  - [Year of 2018](#2018) - total events 1
  - [Year of 2017](#2017) - total events 2
  - [Year of 2016](#2016) - total events 2
@@ -437,7 +437,7 @@
 # 2019
 
 
-![Total Events](https://img.shields.io/badge/total-16-blue?style=flat-square) ![Total Meetups](https://img.shields.io/badge/meetups-5-violet?style=flat-square) ![Total Conferences](https://img.shields.io/badge/conferences-9-red?style=flat-square) ![Total Podcasts](https://img.shields.io/badge/podcasts-1-yellow?style=flat-square) ![Total Webinars](https://img.shields.io/badge/webinars-1-lightgrey?style=flat-square)  
+![Total Events](https://img.shields.io/badge/total-17-blue?style=flat-square) ![Total Meetups](https://img.shields.io/badge/meetups-5-violet?style=flat-square) ![Total Conferences](https://img.shields.io/badge/conferences-10-red?style=flat-square) ![Total Podcasts](https://img.shields.io/badge/podcasts-1-yellow?style=flat-square) ![Total Webinars](https://img.shields.io/badge/webinars-1-lightgrey?style=flat-square)  
 
 
 <table>
@@ -505,6 +505,9 @@
     <td align="center"> <img src="https://pbs.twimg.com/media/D66FYG6XkAELeI9?format=jpg&name=large" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/D6mWVTgWwAMC-DI?format=jpg&name=small" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/D3uT_rMXkAErMwr?format=jpg&name=large" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://pbs.twimg.com/media/D2BbyKTXcAA7iLR?format=jpg&name=large" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://pbs.twimg.com/media/D2C3XhWW0AAlDaN?format=jpg&name=large" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://pbs.twimg.com/media/D2CbV3_XcAA0zyM?format=jpg&name=large" width="85" height="50" /> </td>
   </tr>
 </table>
 
@@ -527,6 +530,7 @@
 | 2019-5-19 | NodeUkraine - Ukrainian Node.js Conference | [StrangerDanger: Finding Security Vulnerabilities Before They Find You!](pages/2019/2019-05-19.md) | [Slides](http://slides.com/lirantal/makeing-the-console-great-again) | [Recording](https://www.youtube.com/watch?v=vUkn-304xnU&list=PLqYhGsQ9iSEqp4vWUhgzQVgWlBaDTrhlf&index=46&t=9s&ab_channel=DATAMINER) | [🇺🇦](## "Ukraine") | English |
 | 2019-5-15 | DevDays Europe | [StrangerDanger: Finding Security Vulnerabilities Before They Find You!](pages/2019/2019-05-15.md) | [Slides](http://slides.com/lirantal/makeing-the-console-great-again) | [Recording](https://www.youtube.com/watch?v=vUkn-304xnU&list=PLqYhGsQ9iSEqp4vWUhgzQVgWlBaDTrhlf&index=46&t=9s&ab_channel=DATAMINER) | [🇱🇹](## "Lithuania") | English |
 | 2019-4-9 | JSHeroes Meetup | [Let's talk about Open Source Security](pages/2019/2019-04-09.md) |  |  | [🇷🇴](## "Romania") | English |
+| 2019-3-19 | Voxxed Days Zurich | [Black Clouds and Silver Linings in Node.js Security](pages/2019/2019-03-19.md) |  | [Recording](https://www.youtube.com/watch?v=20ymbb8Y19Q&list=PLRsbF2sD7JVrRCnhTo8DoN_9JAMpZThtW) | [🇨🇭](## "Switzerland") | English |
 
 
 # 2018
@@ -602,6 +606,6 @@
 
 
 
-*page updated on 2022-09-06T06:20:23.653Z*
+*page updated on 2022-09-06T06:27:18.075Z*
 
 powered by [gigsboat/cli](https://github.com/gigsboat/cli)
