@@ -191,7 +191,7 @@
 | 2022-5-8 | JSDay Canarias | [Let me show you how React applications get hacked in the real-world](pages/2022/2022-05-08.md) |  | [Recording](https://www.youtube.com/watch?v=f16lELnFTNI&list=PLvaKqjzK-IqSv2cE9e30K8FgR1GuKDmau&index=4) | [🇪🇸](## "Spain") | English |
 | 2022-5-7 | JSDay Canarias | [Hands on Node.js and JavaScript security workshop: How safe is your application?](pages/2022/2022-05-07.md) |  |  | [🇪🇸](## "Spain") | English |
 | 2022-5-1 | Gitburger - Manage Projects with GitHub | [Managing Projects ontop of the GitHub Platform](pages/2022/2022-05-01.md) |  |  | [🇮🇱](## "Israel") | Hebrew |
-| 2022-4-13 | React Israel | [Hacking React Applications in the Real-World](pages/2022/2022-04-13.md) |  |  | [🇮🇱](## "Israel") | Hebrew |
+| 2022-4-13 | React Israel | [Hacking React Applications in the Real-World](pages/2022/2022-04-13.md) |  | [Recording](https://www.youtube.com/watch?v=DyCb9fcqu9U) | [🇮🇱](## "Israel") | Hebrew |
 | 2022-4-12 | AshdodTech | [Cybersecurity and Weaponizing Open Source Software in the face of Geopolitical weather](pages/2022/2022-04-12.md) |  |  | [🇮🇱](## "Israel") | Hebrew |
 | 2022-4-11 | VueJS Israel | [Vue.js developers are victims of weaponized NPM packages for protest and malware](pages/2022/2022-04-11.md) |  | [Recording](https://www.youtube.com/watch?v=6IP5k2of2MA) |  | Hebrew |
 | 2022-3-30 | Pull Request community | [Why You Should Care About Open Source Security](pages/2022/2022-03-30.md) |  | [Recording](https://www.youtube.com/watch?v=YpBwS51pva8) | [🇮🇱](## "Israel") | Hebrew |
@@ -611,6 +611,6 @@
 
 
 
-*page updated on 2022-09-14T09:25:35.064Z*
+*page updated on 2022-09-14T12:35:19.002Z*
 
 powered by [gigsboat/cli](https://github.com/gigsboat/cli)
