@@ -185,7 +185,7 @@
 | 2022-10-3 | NodeConf EU | [Developer Security Essentials wish Snyk](pages/2022/2022-10-03.md) |  |  | [🇮🇪](## "Ireland") | English |
 | 2022-9-22 | ScribeSecurity | [5 Things you should know to secure your software supply chain](pages/2022/2022-09-22.md) |  |  |  | English |
 | 2022-9-15 | Open Source Summit Europe | [The Unexpected Demise of Open Source Libraries](pages/2022/2022-09-15.md) |  |  | [🇮🇪](## "Ireland") | English |
-| 2022-9-13 | OpenSSF Day | [OpenSSF and Developer Security Essentials](pages/2022/2022-09-13.md) |  |  | [🇮🇪](## "Ireland") | English |
+| 2022-9-13 | OpenSSF Day | [OpenSSF and Developer Security Essentials](pages/2022/2022-09-13.md) |  | [Recording](https://www.youtube.com/watch?v=8Xn1pvRMAsQ) | [🇮🇪](## "Ireland") | English |
 | 2022-8-16 | 20minJS Podcast | [Episode 24 - Security in the JavaScript ecosystem with Liran Tal](pages/2022/2022-07-27.md) |  | [Recording](https://podcast.20minjs.com/1952066/11146790-episode-24-security-in-the-javascript-ecosystem-with-liran-tal) |  | English |
 | 2022-7-26 | Node.js Israel meetup | [Security Controls in the JavaScript Supply Chain](pages/2022/2022-07-26.md) |  | [Recording](https://www.youtube.com/watch?v=LGT2DXsYLRs) |  | Hebrew |
 | 2022-6-30 | Hack in Paris 2022 | [Why React applications get hacked in the real-world](pages/2022/2022-06-30.md) |  | [Recording](https://www.youtube.com/user/hackinparis/playlists) | [🇫🇷](## "France") | English |
@@ -621,6 +621,6 @@
 
 
 
-*page updated on 2022-09-28T09:29:57.295Z*
+*page updated on 2022-09-28T20:36:56.436Z*
 
 powered by [gigsboat/cli](https://github.com/gigsboat/cli)
