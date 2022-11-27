@@ -229,7 +229,7 @@
 | 2022-11-27 | GitHub User Group | [Why You Should Care About Open Source Security](pages/2022/2022-11-27.md) |  |  | [🇮🇱](## "Israel") | Hebrew |
 | 2022-11-18 | Modern Frontends Live | [Let me show you how React applications get hacked in the real world](pages/2022/2022-11-18.md) |  |  | [🇬🇧](## "undefined") | English |
 | 2022-11-16 | Modern Frontends Live | [Stranger Danger: Your Node.js Attack Surface Just Got Bigger](pages/2022/2022-11-16.md) |  |  | [🇬🇧](## "undefined") | English |
-| 2022-11-14 | TechRadarCon | [Let me show you how React applications get hacked in the real-world](pages/2022/2022-11-14.md) |  |  | [🇮🇱](## "Israel") | Hebrew |
+| 2022-11-14 | TechRadarCon | [Let me show you how React applications get hacked in the real-world](pages/2022/2022-11-14.md) |  | [Recording](https://www.youtube.com/watch?v=M_zYIZVEHR0) | [🇮🇱](## "Israel") | Hebrew |
 | 2022-10-7 | Nordic.js | [Let me show you how React applications get hacked in the real world](pages/2022/2022-10-07.md) |  | [Recording](https://www.youtube.com/watch?v=xR9wjk0Fdb4) | [🇸🇪](## "Sweden") | English |
 | 2022-10-5 | NodeConf EU | [Char Wars: The Path Traversal Strikes Back](pages/2022/2022-10-05.md) |  | [Recording](https://youtu.be/R2RMGQhWyCk?t=2037) | [🇮🇪](## "Ireland") | English |
 | 2022-10-3 | NodeConf EU | [Developer Security Essentials wish Snyk](pages/2022/2022-10-03.md) |  |  | [🇮🇪](## "Ireland") | English |
@@ -672,6 +672,6 @@
 
 
 
-*page updated on 2022-11-27T09:17:49.952Z*
+*page updated on 2022-11-27T10:03:40.362Z*
 
 powered by [gigsboat/cli](https://github.com/gigsboat/cli)
