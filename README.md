@@ -427,7 +427,7 @@
 | 2021-9-3 | React Finland | [You thought your React application is secure? Think again](pages/2021/2021-09-03.md) |  |  |  | English |
 | 2021-8-25 | SANS.org Webcast | [Live Hacking Session - Your app is only as secure as your weakest line of code. Shall we hack it?](pages/2021/2021-08-25.md) |  |  |  | English |
 | 2021-8-4 | Black Haat USA 2021 | [Cloud Native Application Security: Embracing Developer-First Security for the Cloud Era](pages/2021/2021-08-04.md) |  |  |  | English |
-| 2021-7-28 | Open source meetup at The Big Web Theory Meetup | [The Secret Life of Developer Advocates](pages/2021/2021-07-28.md) |  | [Recording](https://www.youtube.com/watch?v=bX6rgc38PWs&ab_channel=BigWebTheorybyNielsen) | [undefined](## "undefined") | Hebrew |
+| 2021-7-28 | Open source meetup at The Big Web Theory Meetup | [The Secret Life of Developer Advocates](pages/2021/2021-07-28.md) |  | [Recording](https://www.youtube.com/watch?v=bX6rgc38PWs&ab_channel=BigWebTheorybyNielsen) | [🇮🇱](## "Israel") | Hebrew |
 | 2021-7-26 | OWASP Developer Summit 2021 | [Are We Forever Doomed By Software Supply Chain Risks?](pages/2021/2021-07-26.md) |  | [Recording](https://www.youtube.com/watch?v=kPXhO63WlUo&list=PLih2FWMlyF3LqK4jTaaF5AWYhG4xiqquU&index=14&ab_channel=OWASPDeveloperOutreachProgram) |  | English |
 | 2021-7-21 | Cyber Week | [Are We Forever Doomed By Software Supply Chain Risks?](pages/2021/2021-07-21.md) |  | [Recording](https://www.youtube.com/watch?v=x74sMCaZKbg&ab_channel=Snyk) | [🇮🇱](## "Israel") | English |
 | 2021-7-20 | JavaScript Jabber | [JSJ 493: How to Check Your Application Security featuring Liran Tal](pages/2021/2021-07-20.md) |  | [Recording](https://devchat.tv/js-jabber/how-to-check-your-application-security-featuring-liran-tal-jsj-493/?utm_campaign=07-20-21+-+Check+out+this&utm_source=Message&utm_medium=Twitter) |  | English |
@@ -694,6 +694,6 @@
 
 
 
-*page updated on 2022-12-03T09:16:55.682Z*
+*page updated on 2022-12-03T21:23:42.751Z*
 
 powered by [gigsboat/cli](https://github.com/gigsboat/cli)
