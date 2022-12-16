@@ -1,4 +1,4 @@
-<div align='center'><p><img src="https://img.shields.io/badge/total-136-blue?style=flat-square" alt="Total Events"> <img src="https://img.shields.io/badge/meetups-23-violet?style=flat-square" alt="Total Meetups"> <img src="https://img.shields.io/badge/conferences-64-red?style=flat-square" alt="Total Conferences"> <img src="https://img.shields.io/badge/podcasts-21-yellow?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/webinars-14-lightgrey?style=flat-square" alt="Total Webinars"> <img src="https://img.shields.io/badge/articles-3-green?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/workshops-4-orange?style=flat-square" alt="Total Workshops"></p>
+<div align='center'><p><img src="https://img.shields.io/badge/total-137-blue?style=flat-square" alt="Total Events"> <img src="https://img.shields.io/badge/meetups-23-violet?style=flat-square" alt="Total Meetups"> <img src="https://img.shields.io/badge/conferences-64-red?style=flat-square" alt="Total Conferences"> <img src="https://img.shields.io/badge/podcasts-21-yellow?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/webinars-15-lightgrey?style=flat-square" alt="Total Webinars"> <img src="https://img.shields.io/badge/articles-3-green?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/workshops-4-orange?style=flat-square" alt="Total Workshops"></p>
 </div>
   <p align='center'><h1 align='center'>Liran Tal - Public Speaking</h1>
 <p align='center'>I love doing Open Source, Node.js, JavaScript, Web Security & InfoSec, Public Speaking, and Building CLIs.</p></p><p align='center'><a href='liran_tal'><img alt='Twitter Follow' src='https://img.shields.io/twitter/follow/liran_tal?style=social'></a> <a href='https://www.linkedin.com/in/talliran'><img alt='LinkedIn Add Me' src='https://img.shields.io/badge/-Add&nbsp;Me&nbsp;on&nbsp;LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white'></a></p><p align='center'><img src='https://github.com/lirantal/public-speaking/blob/main/static/liran-tal-header-image.png' alt='Liran Tal public speaking profile' /></p>
@@ -16,7 +16,7 @@
  - [Year of 2023](#2023) - total events 1
  - [Year of 2022](#2022) - total events 42
  - [Year of 2021](#2021) - total events 55
- - [Year of 2020](#2020) - total events 16
+ - [Year of 2020](#2020) - total events 17
  - [Year of 2019](#2019) - total events 17
  - [Year of 2018](#2018) - total events 1
  - [Year of 2017](#2017) - total events 2
@@ -471,7 +471,7 @@
 # 2020
 
 
-![Total Events](https://img.shields.io/badge/total-16-blue?style=flat-square) ![Total Meetups](https://img.shields.io/badge/meetups-1-violet?style=flat-square) ![Total Conferences](https://img.shields.io/badge/conferences-10-red?style=flat-square) ![Total Podcasts](https://img.shields.io/badge/podcasts-5-yellow?style=flat-square)   
+![Total Events](https://img.shields.io/badge/total-17-blue?style=flat-square) ![Total Meetups](https://img.shields.io/badge/meetups-1-violet?style=flat-square) ![Total Conferences](https://img.shields.io/badge/conferences-10-red?style=flat-square) ![Total Podcasts](https://img.shields.io/badge/podcasts-5-yellow?style=flat-square) ![Total Webinars](https://img.shields.io/badge/webinars-1-lightgrey?style=flat-square)  
 
 
 <table>
@@ -518,6 +518,7 @@
 | 2020-10-20 | Page it to the Limit | [Dependency Security](pages/2020/2020-10-20.md) |  | [Recording](https://www.pageittothelimit.com/dependency-security-with-liran-tal/) |  | English |
 | 2020-9-10 | jsday | [Packages for mass consumption](pages/2020/2020-09-10.md) |  |  | [🇮🇹](## "Italy") | English |
 | 2020-8-14 | Developer Advocate Stories | [Developer Advocate Stories - Liran Tal - Snyk](pages/2020/2020-08-14.md) |  | [Recording](https://www.youtube.com/watch?v=7zd_iku_1MY) |  | English |
+| 2020-6-10 | Technion Cyber-CYBERDAY 2020 | [Malicious Modules on npm: a serious of unforunate events](pages/2020/2020-06-10.md) |  | [Recording](https://www.youtube.com/watch?v=rwskXzNR2gc) |  | English |
 | 2020-6-9 | Openhive JS | [OpenHive.JS Podcast \| EP 2 - Liran Tal on Empowering Open Source](pages/2020/2020-06-09.md) |  | [Recording](https://www.youtube.com/watch?v=JnJ2hdP_kA4&ab_channel=NearForm) |  | English |
 | 2020-5-11 | DevOps Pro 2020 | [Securing Containers by Breaking In](pages/2020/2020-05-11.md) |  | [Recording](https://www.youtube.com/watch?v=PCF1gKwL50A&ab_channel=LiranTal) |  | English |
 | 2020-4-7 | Geekle Online Conference | [Black Clouds and Silver Linings in Node.js Security](pages/2020/2020-04-07.md) | [Slides](https://slides.com/lirantal/malicious-modules-on-npm-a-series-of-unfortunate-events-0c7d30#/2) | [Recording](https://www.youtube.com/watch?v=Wr5cRndoPYQ&ab_channel=GeekleOfficial) |  | English |
@@ -698,6 +699,6 @@
 
 
 
-*page updated on 2022-12-16T09:16:42.573Z*
+*page updated on 2022-12-16T14:20:02.246Z*
 
 powered by [gigsboat/cli](https://github.com/gigsboat/cli)
