@@ -518,7 +518,7 @@
 | 2020-10-20 | Page it to the Limit | [Dependency Security](pages/2020/2020-10-20.md) |  | [Recording](https://www.pageittothelimit.com/dependency-security-with-liran-tal/) |  | English |
 | 2020-9-10 | jsday | [Packages for mass consumption](pages/2020/2020-09-10.md) |  |  | [🇮🇹](## "Italy") | English |
 | 2020-8-14 | Developer Advocate Stories | [Developer Advocate Stories - Liran Tal - Snyk](pages/2020/2020-08-14.md) |  | [Recording](https://www.youtube.com/watch?v=7zd_iku_1MY) |  | English |
-| 2020-6-10 | Technion Cyber-CYBERDAY 2020 | [Malicious Modules on npm: a serious of unforunate events](pages/2020/2020-06-10.md) |  | [Recording](https://www.youtube.com/watch?v=rwskXzNR2gc) |  | English |
+| 2020-6-10 | Technion Cyber-CYBERDAY 2020 | [Malicious Modules on npm: a serious of unforunate events](pages/2020/2020-06-10.md) |  | [Recording](https://www.youtube.com/watch?v=rwskXzNR2gc) | [🇮🇱](## "Israel") | Hebrew |
 | 2020-6-9 | Openhive JS | [OpenHive.JS Podcast \| EP 2 - Liran Tal on Empowering Open Source](pages/2020/2020-06-09.md) |  | [Recording](https://www.youtube.com/watch?v=JnJ2hdP_kA4&ab_channel=NearForm) |  | English |
 | 2020-5-11 | DevOps Pro 2020 | [Securing Containers by Breaking In](pages/2020/2020-05-11.md) |  | [Recording](https://www.youtube.com/watch?v=PCF1gKwL50A&ab_channel=LiranTal) |  | English |
 | 2020-4-7 | Geekle Online Conference | [Black Clouds and Silver Linings in Node.js Security](pages/2020/2020-04-07.md) | [Slides](https://slides.com/lirantal/malicious-modules-on-npm-a-series-of-unfortunate-events-0c7d30#/2) | [Recording](https://www.youtube.com/watch?v=Wr5cRndoPYQ&ab_channel=GeekleOfficial) |  | English |
@@ -699,6 +699,6 @@
 
 
 
-*page updated on 2022-12-16T14:20:02.246Z*
+*page updated on 2022-12-16T14:22:23.507Z*
 
 powered by [gigsboat/cli](https://github.com/gigsboat/cli)
