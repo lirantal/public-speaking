@@ -1,4 +1,4 @@
-<div align='center'><p><img src="https://img.shields.io/badge/total-137-blue?style=flat-square" alt="Total Events"> <img src="https://img.shields.io/badge/meetups-23-violet?style=flat-square" alt="Total Meetups"> <img src="https://img.shields.io/badge/conferences-64-red?style=flat-square" alt="Total Conferences"> <img src="https://img.shields.io/badge/podcasts-21-yellow?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/webinars-15-lightgrey?style=flat-square" alt="Total Webinars"> <img src="https://img.shields.io/badge/articles-3-green?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/workshops-4-orange?style=flat-square" alt="Total Workshops"></p>
+<div align='center'><p><img src="https://img.shields.io/badge/total-138-blue?style=flat-square" alt="Total Events"> <img src="https://img.shields.io/badge/meetups-23-violet?style=flat-square" alt="Total Meetups"> <img src="https://img.shields.io/badge/conferences-65-red?style=flat-square" alt="Total Conferences"> <img src="https://img.shields.io/badge/podcasts-21-yellow?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/webinars-15-lightgrey?style=flat-square" alt="Total Webinars"> <img src="https://img.shields.io/badge/articles-3-green?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/workshops-4-orange?style=flat-square" alt="Total Workshops"></p>
 </div>
   <p align='center'><h1 align='center'>Liran Tal - Public Speaking</h1>
 <p align='center'>I love doing Open Source, Node.js, JavaScript, Web Security & InfoSec, Public Speaking, and Building CLIs.</p></p><p align='center'><a href='liran_tal'><img alt='Twitter Follow' src='https://img.shields.io/twitter/follow/liran_tal?style=social'></a> <a href='https://www.linkedin.com/in/talliran'><img alt='LinkedIn Add Me' src='https://img.shields.io/badge/-Add&nbsp;Me&nbsp;on&nbsp;LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white'></a></p><p align='center'><img src='https://github.com/lirantal/public-speaking/blob/main/static/liran-tal-header-image.png' alt='Liran Tal public speaking profile' /></p>
@@ -13,7 +13,7 @@
 # Table of Contents
 
 
- - [Year of 2023](#2023) - total events 1
+ - [Year of 2023](#2023) - total events 2
  - [Year of 2022](#2022) - total events 42
  - [Year of 2021](#2021) - total events 55
  - [Year of 2020](#2020) - total events 17
@@ -25,7 +25,7 @@
 # 2023
 
 
-![Total Events](https://img.shields.io/badge/total-1-blue?style=flat-square)  ![Total Conferences](https://img.shields.io/badge/conferences-1-red?style=flat-square)    
+![Total Events](https://img.shields.io/badge/total-2-blue?style=flat-square)  ![Total Conferences](https://img.shields.io/badge/conferences-2-red?style=flat-square)    
 
 
 <table>
@@ -38,6 +38,7 @@
 
 | Date | Event | Title | Slides | Recording | Location | Language |
 | ---- | ----- | ----- | ------ | --------- | -------- | -------- |
+| 2023-6-9 | Future Frontend | [Char Wars: The Path Traversal Strikes Back](pages/2023/2023-06-09.md) |  |  | [🇫🇮](## "Finland") | English |
 | 2023-3-28 | CityJS London 2023 | [Char Wars: The Path Traversal Strikes Back](pages/2023/2023-03-28.md) |  |  | [🇬🇧](## "undefined") | English |
 
 
@@ -700,6 +701,6 @@
 
 
 
-*page updated on 2023-01-09T09:18:36.217Z*
+*page updated on 2023-01-09T12:51:47.554Z*
 
 powered by [gigsboat/cli](https://github.com/gigsboat/cli)
