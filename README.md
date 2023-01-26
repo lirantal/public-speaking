@@ -265,7 +265,7 @@
 | 2022-10-5 | NodeConf EU | [Char Wars: The Path Traversal Strikes Back](pages/2022/2022-10-05.md) |  | [Recording](https://youtu.be/R2RMGQhWyCk?t=2037) | [🇮🇪](## "Ireland") | English |
 | 2022-10-3 | NodeConf EU | [Developer Security Essentials wish Snyk](pages/2022/2022-10-03.md) |  |  | [🇮🇪](## "Ireland") | English |
 | 2022-10-1 | Node.js Collaborator Summit | [Node.js Collaborator Summit](pages/2022/2022-10-01.md) |  |  | [🇮🇪](## "Ireland") | English |
-| 2022-9-22 | ScribeSecurity | [5 Things you should know to secure your software supply chain](pages/2022/2022-09-22.md) |  |  |  | English |
+| 2022-9-22 | ScribeSecurity | [5 Things you should know to secure your software supply chain](pages/2022/2022-09-22.md) |  | [Recording](https://www.youtube.com/watch?v=IrkqX3re024) |  | English |
 | 2022-9-15 | Open Source Summit Europe | [The Unexpected Demise of Open Source Libraries](pages/2022/2022-09-15.md) |  | [Recording](https://www.youtube.com/watch?v=pRr7fYJJLEI&list=PLbzoR-pLrL6ol1cYgxLWsNKjjxI0rlUqa&index=6) | [🇮🇪](## "Ireland") | English |
 | 2022-9-13 | OpenSSF Day | [OpenSSF and Developer Security Essentials](pages/2022/2022-09-13.md) |  | [Recording](https://www.youtube.com/watch?v=8Xn1pvRMAsQ) | [🇮🇪](## "Ireland") | English |
 | 2022-8-16 | 20minJS Podcast | [Episode 24 - Security in the JavaScript ecosystem with Liran Tal](pages/2022/2022-07-27.md) |  | [Recording](https://podcast.20minjs.com/1952066/11146790-episode-24-security-in-the-javascript-ecosystem-with-liran-tal) |  | English |
@@ -704,6 +704,6 @@
 
 
 
-*page updated on 2023-01-26T09:17:17.365Z*
+*page updated on 2023-01-26T21:50:35.529Z*
 
 powered by [gigsboat/cli](https://github.com/gigsboat/cli)
