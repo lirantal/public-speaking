@@ -45,7 +45,7 @@
 | 2023-5-19 | JSHeroes | [Char Wars: The Path Traversal Strikes Back](pages/2023/2023-05-19.md) |  |  | [🇷🇴](## "Romania") | English |
 | 2023-3-28 | CityJS London 2023 | [Char Wars: The Path Traversal Strikes Back](pages/2023/2023-03-28.md) |  |  | [🇬🇧](## "undefined") | English |
 | 2023-3-24 | Open Source Day 2023 | [The Unexpected Demise of Open Source Libraries](pages/2023/2023-03-24.md) |  |  | [🇮🇹](## "Italy") | English |
-| 2023-3-18 | DevOps fwdays'23 | [](pages/2023/2023-03-18.md) |  |  |  | English |
+| 2023-3-18 | DevOps fwdays'23 | [Master production-grade best practices to build your Node.js Docker images](pages/2023/2023-03-18.md) |  |  |  | English |
 
 
 # 2022
@@ -707,6 +707,6 @@
 
 
 
-*page updated on 2023-02-07T18:22:15.154Z*
+*page updated on 2023-02-07T22:32:40.315Z*
 
 powered by [gigsboat/cli](https://github.com/gigsboat/cli)
