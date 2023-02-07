@@ -38,7 +38,7 @@
 
 | Date | Event | Title | Slides | Recording | Location | Language |
 | ---- | ----- | ----- | ------ | --------- | -------- | -------- |
-| 2023-9-18 | Infobip Shift 2023 | [null](pages/2023/2023-09-18.md) |  |  | [🇭🇷](## "Croatia") | English |
+| 2023-9-18 | Infobip Shift 2023 | [TBD](pages/2023/2023-09-18.md) |  |  | [🇭🇷](## "Croatia") | English |
 | 2023-6-9 | Future Frontend | [Char Wars: The Path Traversal Strikes Back](pages/2023/2023-06-09.md) |  |  | [🇫🇮](## "Finland") | English |
 | 2023-6-6 | Future Frontend | [](pages/2023/2023-06-06.md) |  |  | [🇫🇮](## "Finland") | English |
 | 2023-5-28 | JSDay Canarias | [Char Wars: The Path Traversal Strikes Back](pages/2023/2023-05-28.md) |  |  | [undefined](## "undefined") | English |
@@ -707,6 +707,6 @@
 
 
 
-*page updated on 2023-02-07T18:19:24.250Z*
+*page updated on 2023-02-07T18:21:19.835Z*
 
 powered by [gigsboat/cli](https://github.com/gigsboat/cli)
