@@ -40,7 +40,7 @@
 | ---- | ----- | ----- | ------ | --------- | -------- | -------- |
 | 2023-9-18 | Infobip Shift 2023 | [TBD](pages/2023/2023-09-18.md) |  |  | [🇭🇷](## "Croatia") | English |
 | 2023-6-9 | Future Frontend | [Char Wars: The Path Traversal Strikes Back](pages/2023/2023-06-09.md) |  |  | [🇫🇮](## "Finland") | English |
-| 2023-6-6 | Future Frontend | [](pages/2023/2023-06-06.md) |  |  | [🇫🇮](## "Finland") | English |
+| 2023-6-6 | Future Frontend | [Developer Security Essentials with Snyk](pages/2023/2023-06-06.md) |  |  | [🇫🇮](## "Finland") | English |
 | 2023-5-28 | JSDay Canarias | [Char Wars: The Path Traversal Strikes Back](pages/2023/2023-05-28.md) |  |  | [undefined](## "undefined") | English |
 | 2023-5-19 | JSHeroes | [Char Wars: The Path Traversal Strikes Back](pages/2023/2023-05-19.md) |  |  | [🇷🇴](## "Romania") | English |
 | 2023-3-28 | CityJS London 2023 | [Char Wars: The Path Traversal Strikes Back](pages/2023/2023-03-28.md) |  |  | [🇬🇧](## "undefined") | English |
@@ -707,6 +707,6 @@
 
 
 
-*page updated on 2023-02-07T18:21:19.835Z*
+*page updated on 2023-02-07T18:22:15.154Z*
 
 powered by [gigsboat/cli](https://github.com/gigsboat/cli)
