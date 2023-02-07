@@ -1,4 +1,4 @@
-<div align='center'><p><img src="https://img.shields.io/badge/total-142-blue?style=flat-square" alt="Total Events"> <img src="https://img.shields.io/badge/meetups-23-violet?style=flat-square" alt="Total Meetups"> <img src="https://img.shields.io/badge/conferences-68-red?style=flat-square" alt="Total Conferences"> <img src="https://img.shields.io/badge/podcasts-21-yellow?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/webinars-15-lightgrey?style=flat-square" alt="Total Webinars"> <img src="https://img.shields.io/badge/articles-3-green?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/workshops-5-orange?style=flat-square" alt="Total Workshops"></p>
+<div align='center'><p><img src="https://img.shields.io/badge/total-144-blue?style=flat-square" alt="Total Events"> <img src="https://img.shields.io/badge/meetups-23-violet?style=flat-square" alt="Total Meetups"> <img src="https://img.shields.io/badge/conferences-70-red?style=flat-square" alt="Total Conferences"> <img src="https://img.shields.io/badge/podcasts-21-yellow?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/webinars-15-lightgrey?style=flat-square" alt="Total Webinars"> <img src="https://img.shields.io/badge/articles-3-green?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/workshops-5-orange?style=flat-square" alt="Total Workshops"></p>
 </div>
   <p align='center'><h1 align='center'>Liran Tal - Public Speaking</h1>
 <p align='center'>I love doing Open Source, Node.js, JavaScript, Web Security & InfoSec, Public Speaking, and Building CLIs.</p></p><p align='center'><a href='liran_tal'><img alt='Twitter Follow' src='https://img.shields.io/twitter/follow/liran_tal?style=social'></a> <a href='https://www.linkedin.com/in/talliran'><img alt='LinkedIn Add Me' src='https://img.shields.io/badge/-Add&nbsp;Me&nbsp;on&nbsp;LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white'></a></p><p align='center'><img src='https://github.com/lirantal/public-speaking/blob/main/static/liran-tal-header-image.png' alt='Liran Tal public speaking profile' /></p>
@@ -13,7 +13,7 @@
 # Table of Contents
 
 
- - [Year of 2023](#2023) - total events 6
+ - [Year of 2023](#2023) - total events 8
  - [Year of 2022](#2022) - total events 42
  - [Year of 2021](#2021) - total events 55
  - [Year of 2020](#2020) - total events 17
@@ -25,7 +25,7 @@
 # 2023
 
 
-![Total Events](https://img.shields.io/badge/total-6-blue?style=flat-square)  ![Total Conferences](https://img.shields.io/badge/conferences-5-red?style=flat-square)    ![Total Workshops](https://img.shields.io/badge/workshops-1-orange?style=flat-square)
+![Total Events](https://img.shields.io/badge/total-8-blue?style=flat-square)  ![Total Conferences](https://img.shields.io/badge/conferences-7-red?style=flat-square)    ![Total Workshops](https://img.shields.io/badge/workshops-1-orange?style=flat-square)
 
 
 <table>
@@ -41,6 +41,8 @@
 | 2023-9-18 | Infobip Shift 2023 | [null](pages/2023/2023-09-18.md) |  |  | [🇭🇷](## "Croatia") | English |
 | 2023-6-9 | Future Frontend | [Char Wars: The Path Traversal Strikes Back](pages/2023/2023-06-09.md) |  |  | [🇫🇮](## "Finland") | English |
 | 2023-6-6 | Future Frontend | [](pages/2023/2023-06-06.md) |  |  | [🇫🇮](## "Finland") | English |
+| 2023-5-28 | JSDay Canarias | [Char Wars: The Path Traversal Strikes Back](pages/2023/2023-05-28.md) |  |  | [undefined](## "undefined") | English |
+| 2023-5-19 | JSHeroes | [Char Wars: The Path Traversal Strikes Back](pages/2023/2023-05-19.md) |  |  | [🇷🇴](## "Romania") | English |
 | 2023-3-28 | CityJS London 2023 | [Char Wars: The Path Traversal Strikes Back](pages/2023/2023-03-28.md) |  |  | [🇬🇧](## "undefined") | English |
 | 2023-3-24 | Open Source Day 2023 | [The Unexpected Demise of Open Source Libraries](pages/2023/2023-03-24.md) |  |  | [🇮🇹](## "Italy") | English |
 | 2023-3-18 | DevOps fwdays'23 | [](pages/2023/2023-03-18.md) |  |  |  | English |
@@ -705,6 +707,6 @@
 
 
 
-*page updated on 2023-02-07T10:57:13.943Z*
+*page updated on 2023-02-07T18:19:24.250Z*
 
 powered by [gigsboat/cli](https://github.com/gigsboat/cli)
