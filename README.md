@@ -42,7 +42,7 @@
 | 2023-9-18 | Infobip Shift 2023 | [TBD](pages/2023/2023-09-18.md) |  |  | [🇭🇷](## "Croatia") | English |
 | 2023-6-9 | Future Frontend | [Char Wars: The Path Traversal Strikes Back](pages/2023/2023-06-09.md) |  |  | [🇫🇮](## "Finland") | English |
 | 2023-6-6 | Future Frontend | [Developer Security Essentials with Snyk](pages/2023/2023-06-06.md) |  |  | [🇫🇮](## "Finland") | English |
-| 2023-5-28 | JSDay Canarias | [Char Wars: The Path Traversal Strikes Back](pages/2023/2023-05-28.md) |  |  | [undefined](## "undefined") | English |
+| 2023-5-28 | JSDay Canarias | [Char Wars: The Path Traversal Strikes Back](pages/2023/2023-05-28.md) |  |  | [🇪🇸](## "Spain") | English |
 | 2023-5-19 | JSHeroes | [Char Wars: The Path Traversal Strikes Back](pages/2023/2023-05-19.md) |  |  | [🇷🇴](## "Romania") | English |
 | 2023-3-28 | CityJS London 2023 | [Char Wars: The Path Traversal Strikes Back](pages/2023/2023-03-28.md) |  |  | [🇬🇧](## "undefined") | English |
 | 2023-3-24 | Open Source Day 2023 | [The Unexpected Demise of Open Source Libraries](pages/2023/2023-03-24.md) |  |  | [🇮🇹](## "Italy") | English |
@@ -284,8 +284,8 @@
 | 2022-5-19 | Cloud Native Computing Switzerland | [Weaponizing NPM Packages for Protest and Malware](pages/2022/2022-05-19.md) |  | [Recording](https://www.youtube.com/watch?v=rWvBMNmwWEI) | [🇨🇭](## "Switzerland") | English |
 | 2022-5-17 | Voxxed Days Zurich | [Stranger Danger: Your Node.js Attack Surface Just Got Bigger](pages/2022/2022-05-17.md) |  | [Recording](https://www.youtube.com/watch?v=sLLGspLgV0k&list=PLRsbF2sD7JVpqMrdjuw0yDAHx-LWkeJHN&index=24) | [🇨🇭](## "Switzerland") | English |
 | 2022-5-16 | Cloud Native CNCF SecurityCon Europe 2022 | [The Unexpected Demise of Open Source Libraries](pages/2022/2022-05-16.md) |  | [Recording](https://www.youtube.com/watch?v=XD43KJx15GY&list=PLj6h78yzYM2P3qs7Y_QPD4uCgQ4Krsgb3&index=13) | [🇪🇸](## "Spain") | English |
-| 2022-5-8 | JSDay Canarias | [Let me show you how React applications get hacked in the real-world](pages/2022/2022-05-08.md) |  | [Recording](https://www.youtube.com/watch?v=f16lELnFTNI&list=PLvaKqjzK-IqSv2cE9e30K8FgR1GuKDmau&index=4) | [undefined](## "undefined") | English |
-| 2022-5-7 | JSDay Canarias | [Hands on Node.js and JavaScript security workshop: How safe is your application?](pages/2022/2022-05-07.md) |  |  | [undefined](## "undefined") | English |
+| 2022-5-8 | JSDay Canarias | [Let me show you how React applications get hacked in the real-world](pages/2022/2022-05-08.md) |  | [Recording](https://www.youtube.com/watch?v=f16lELnFTNI&list=PLvaKqjzK-IqSv2cE9e30K8FgR1GuKDmau&index=4) | [🇪🇸](## "Spain") | English |
+| 2022-5-7 | JSDay Canarias | [Hands on Node.js and JavaScript security workshop: How safe is your application?](pages/2022/2022-05-07.md) |  |  | [🇪🇸](## "Spain") | English |
 | 2022-5-1 | Gitburger - Manage Projects with GitHub | [Managing Projects ontop of the GitHub Platform](pages/2022/2022-05-01.md) |  |  | [🇮🇱](## "Israel") | Hebrew |
 | 2022-4-13 | React Israel | [Hacking React Applications in the Real-World](pages/2022/2022-04-13.md) |  | [Recording](https://www.youtube.com/watch?v=DyCb9fcqu9U) | [🇮🇱](## "Israel") | Hebrew |
 | 2022-4-12 | AshdodTech | [Cybersecurity and Weaponizing Open Source Software in the face of Geopolitical weather](pages/2022/2022-04-12.md) |  |  | [🇮🇱](## "Israel") | Hebrew |
@@ -708,6 +708,6 @@
 
 
 
-*page updated on 2023-02-10T14:03:49.664Z*
+*page updated on 2023-02-10T15:35:38.866Z*
 
 powered by [gigsboat/cli](https://github.com/gigsboat/cli)
