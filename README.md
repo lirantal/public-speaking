@@ -275,7 +275,7 @@
 | 2022-10-7 | Nordic.js | [Let me show you how React applications get hacked in the real world](pages/2022/2022-10-07.md) |  | [Recording](https://www.youtube.com/watch?v=xR9wjk0Fdb4) | [🇸🇪](## "Sweden") | English |
 | 2022-10-5 | NodeConf EU | [Char Wars: The Path Traversal Strikes Back](pages/2022/2022-10-05.md) |  | [Recording](https://youtu.be/R2RMGQhWyCk?t=2037) | [🇮🇪](## "Ireland") | English |
 | 2022-10-3 | NodeConf EU | [Developer Security Essentials wish Snyk](pages/2022/2022-10-03.md) |  |  | [🇮🇪](## "Ireland") | English |
-| 2022-10-1 | Node.js Collaborator Summit | [Node.js Collaborator Summit](pages/2022/2022-10-01.md) |  |  | [🇮🇪](## "Ireland") | English |
+| 2022-10-1 | Node.js Collaborator Summit | [Node.js Collaborator Summit](pages/2022/2022-10-01.md) |  | [Recording](https://www.youtube.com/watch?v=zL_dYiA21ro) | [🇮🇪](## "Ireland") | English |
 | 2022-9-22 | ScribeSecurity | [5 Things you should know to secure your software supply chain](pages/2022/2022-09-22.md) |  | [Recording](https://www.youtube.com/watch?v=IrkqX3re024) |  | English |
 | 2022-9-15 | Open Source Summit Europe | [The Unexpected Demise of Open Source Libraries](pages/2022/2022-09-15.md) |  | [Recording](https://www.youtube.com/watch?v=pRr7fYJJLEI&list=PLbzoR-pLrL6ol1cYgxLWsNKjjxI0rlUqa&index=6) | [🇮🇪](## "Ireland") | English |
 | 2022-9-13 | OpenSSF Day | [OpenSSF and Developer Security Essentials](pages/2022/2022-09-13.md) |  | [Recording](https://www.youtube.com/watch?v=8Xn1pvRMAsQ) | [🇮🇪](## "Ireland") | English |
@@ -715,6 +715,6 @@
 
 
 
-*page updated on 2023-03-04T09:17:13.371Z*
+*page updated on 2023-03-04T12:53:23.739Z*
 
 powered by [gigsboat/cli](https://github.com/gigsboat/cli)
