@@ -1,4 +1,4 @@
-<div align='center'><p><img src="https://img.shields.io/badge/total-148-blue?style=flat-square" alt="Total Events"> <img src="https://img.shields.io/badge/meetups-25-violet?style=flat-square" alt="Total Meetups"> <img src="https://img.shields.io/badge/conferences-70-red?style=flat-square" alt="Total Conferences"> <img src="https://img.shields.io/badge/podcasts-21-yellow?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/webinars-16-lightgrey?style=flat-square" alt="Total Webinars"> <img src="https://img.shields.io/badge/articles-3-green?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/workshops-6-orange?style=flat-square" alt="Total Workshops"></p>
+<div align='center'><p><img src="https://img.shields.io/badge/total-149-blue?style=flat-square" alt="Total Events"> <img src="https://img.shields.io/badge/meetups-26-violet?style=flat-square" alt="Total Meetups"> <img src="https://img.shields.io/badge/conferences-70-red?style=flat-square" alt="Total Conferences"> <img src="https://img.shields.io/badge/podcasts-21-yellow?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/webinars-16-lightgrey?style=flat-square" alt="Total Webinars"> <img src="https://img.shields.io/badge/articles-3-green?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/workshops-6-orange?style=flat-square" alt="Total Workshops"></p>
 </div>
   <p align='center'><h1 align='center'>Liran Tal - Public Speaking</h1>
 <p align='center'>I love doing Open Source, Node.js, JavaScript, Web Security & InfoSec, Public Speaking, and Building CLIs.</p></p><p align='center'><a href='liran_tal'><img alt='Twitter Follow' src='https://img.shields.io/twitter/follow/liran_tal?style=social'></a> <a href='https://www.linkedin.com/in/talliran'><img alt='LinkedIn Add Me' src='https://img.shields.io/badge/-Add&nbsp;Me&nbsp;on&nbsp;LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white'></a></p><p align='center'><img src='https://github.com/lirantal/public-speaking/blob/main/static/liran-tal-header-image.png' alt='Liran Tal public speaking profile' /></p>
@@ -13,7 +13,7 @@
 # Table of Contents
 
 
- - [Year of 2023](#2023) - total events 12
+ - [Year of 2023](#2023) - total events 13
  - [Year of 2022](#2022) - total events 42
  - [Year of 2021](#2021) - total events 55
  - [Year of 2020](#2020) - total events 17
@@ -25,11 +25,12 @@
 # 2023
 
 
-![Total Events](https://img.shields.io/badge/total-12-blue?style=flat-square) ![Total Meetups](https://img.shields.io/badge/meetups-2-violet?style=flat-square) ![Total Conferences](https://img.shields.io/badge/conferences-7-red?style=flat-square)  ![Total Webinars](https://img.shields.io/badge/webinars-1-lightgrey?style=flat-square)  ![Total Workshops](https://img.shields.io/badge/workshops-2-orange?style=flat-square)
+![Total Events](https://img.shields.io/badge/total-13-blue?style=flat-square) ![Total Meetups](https://img.shields.io/badge/meetups-3-violet?style=flat-square) ![Total Conferences](https://img.shields.io/badge/conferences-7-red?style=flat-square)  ![Total Webinars](https://img.shields.io/badge/webinars-1-lightgrey?style=flat-square)  ![Total Workshops](https://img.shields.io/badge/workshops-2-orange?style=flat-square)
 
 
 <table>
   <tr>
+    <td align="center"> <img src="https://pbs.twimg.com/media/FqIhAYTXsAMqh6e?format=jpg&name=medium" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/FivzY8xXwAAdJYJ?format=jpg&name=4096x4096" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/FljAB7iXEAISIzy?format=jpg&name=medium" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/Fomf6sUWcAML77g?format=jpg&name=4096x4096" width="85" height="50" /> </td>
@@ -37,9 +38,9 @@
     <td align="center"> <img src="https://pbs.twimg.com/media/FqdvKqSXwAUwQHu?format=jpg&name=large" width="85" height="50" /> </td>
     <td align="center"> <img src="https://media.licdn.com/dms/image/C4D22AQGoZBzRudkHLA/feedshare-shrink_2048_1536/0/1678198304875?e=1681344000&v=beta&t=FamabWbrx8-Ru06P_HMYnwkQjagArmgWyKDv24WToz0" width="85" height="50" /> </td>
     <td align="center"> <img src="https://secure.meetupstatic.com/photos/event/4/c/f/7/600_510859703.webp?w=3840" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F450425369%2F398849161375%2F1%2Foriginal.20230220-194435?w=940&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=db79be078b9e9c0590ed5c1ae9f45cd0" width="85" height="50" /> </td>
   </tr>
   <tr>
+    <td align="center"> <img src="https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F450425369%2F398849161375%2F1%2Foriginal.20230220-194435?w=940&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=db79be078b9e9c0590ed5c1ae9f45cd0" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/FqkTZ0wXgAQ0oz9?format=jpg&name=medium" width="85" height="50" /> </td>
     <td align="center"> <img src="https://media.licdn.com/dms/image/C4E22AQHM9m52z7WZRw/feedshare-shrink_1280/0/1678176476136?e=1681344000&v=beta&t=ECNbXPB4bYhhnnHOzPDZxAyhvDEVciBLy89J9KO3Vpo" width="85" height="50" /> </td>
     <td align="center"> <img src="https://media.licdn.com/dms/image/C4D22AQHf1-bq1zOtdQ/feedshare-shrink_1280/0/1677656996762?e=1680739200&v=beta&t=pf_2TI-q3XRcHq5oHJ6O538Fm_qzYfS3RC9BENBk0zg" width="85" height="50" /> </td>
@@ -55,6 +56,7 @@
 | 2023-6-6 | Future Frontend | [Developer Security Essentials with Snyk](pages/2023/2023-06-06.md) |  |  | [🇫🇮](## "Finland") | English |
 | 2023-5-28 | JSDay Canarias | [Char Wars: The Path Traversal Strikes Back](pages/2023/2023-05-28.md) |  |  | [🇪🇸](## "Spain") | English |
 | 2023-5-19 | JSHeroes | [Char Wars: The Path Traversal Strikes Back](pages/2023/2023-05-19.md) |  |  | [🇷🇴](## "Romania") | English |
+| 2023-5-9 | Codemotion | [Hack-Proof The Node.js runtime: The Mechanics and Defense of Path Traversal Attacks](pages/2023/2023-05-09.md) |  |  | [🇪🇸](## "Spain") | English |
 | 2023-3-28 | CityJS London 2023 | [Char Wars: The Path Traversal Strikes Back](pages/2023/2023-03-28.md) |  |  | [🇬🇧](## "undefined") | English |
 | 2023-3-24 | Open Source Day 2023 | [The Unexpected Demise of Open Source Libraries](pages/2023/2023-03-24.md) |  |  | [🇮🇹](## "Italy") | English |
 | 2023-3-18 | DevOps fwdays'23 | [Master production-grade best practices to build your Node.js Docker images](pages/2023/2023-03-18.md) |  |  |  | English |
@@ -723,6 +725,6 @@
 
 
 
-*page updated on 2023-03-07T22:20:44.958Z*
+*page updated on 2023-03-07T22:21:34.548Z*
 
 powered by [gigsboat/cli](https://github.com/gigsboat/cli)
