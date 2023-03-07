@@ -42,6 +42,7 @@
   <tr>
     <td align="center"> <img src="https://pbs.twimg.com/media/FqkTZ0wXgAQ0oz9?format=jpg&name=medium" width="85" height="50" /> </td>
     <td align="center"> <img src="https://media.licdn.com/dms/image/C4E22AQHM9m52z7WZRw/feedshare-shrink_1280/0/1678176476136?e=1681344000&v=beta&t=ECNbXPB4bYhhnnHOzPDZxAyhvDEVciBLy89J9KO3Vpo" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://media.licdn.com/dms/image/C4D22AQHf1-bq1zOtdQ/feedshare-shrink_1280/0/1677656996762?e=1680739200&v=beta&t=pf_2TI-q3XRcHq5oHJ6O538Fm_qzYfS3RC9BENBk0zg" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/FpbpZVsXECg44vh?format=jpg&name=large" width="85" height="50" /> </td>
   </tr>
 </table>
@@ -722,6 +723,6 @@
 
 
 
-*page updated on 2023-03-07T22:19:33.875Z*
+*page updated on 2023-03-07T22:20:44.958Z*
 
 powered by [gigsboat/cli](https://github.com/gigsboat/cli)
