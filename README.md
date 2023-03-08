@@ -60,7 +60,7 @@
 | 2023-3-28 | CityJS London 2023 | [Char Wars: The Path Traversal Strikes Back](pages/2023/2023-03-28.md) |  |  | [🇬🇧](## "undefined") | English |
 | 2023-3-24 | Open Source Day 2023 | [The Unexpected Demise of Open Source Libraries](pages/2023/2023-03-24.md) |  |  | [🇮🇹](## "Italy") | English |
 | 2023-3-18 | DevOps fwdays'23 | [Master production-grade best practices to build your Node.js Docker images](pages/2023/2023-03-18.md) |  |  |  | English |
-| 2023-3-16 | Securing Your Open Source Workflow with GitHub Security Lab and Snyk | [Open Source Security panel](pages/2023/2023-03-16.md.md) |  |  |  | English |
+| 2023-3-16 | Securing Your Open Source Workflow with GitHub Security Lab and Snyk | [Open Source Security panel](pages/2023/2023-03-16.md) |  |  |  | English |
 | 2023-3-13 | Open Source at Work | [The Big Fix: Coding Isn't the Only Way to Contribute, Liran Tal](pages/2023/2023-03-13.md) |  |  | [🇮🇱](## "Israel") | Hebrew |
 | 2023-3-12 | Hacking in Practice: Snyk security workshop | [The Big Fix: Coding Isn't the Only Way to Contribute, Liran Tal](pages/2023/2023-03-12.md) |  |  | [🇮🇱](## "Israel") | Hebrew |
 | 2023-3-6 | Fireside chat with Thomas Dohmke, GitHub CEO and an AI summit | [Fireside Chat with Thomas Dohmke, CEO at GitHub, hosted by GitHub Stars Eyar Zilberman & Liran Tal](pages/2023/2023-03-06.md) |  |  | [🇮🇱](## "Israel") | English |
@@ -726,6 +726,6 @@
 
 
 
-*page updated on 2023-03-08T09:19:00.187Z*
+*page updated on 2023-03-08T17:53:15.650Z*
 
 powered by [gigsboat/cli](https://github.com/gigsboat/cli)
