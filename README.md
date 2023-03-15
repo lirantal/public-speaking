@@ -40,6 +40,7 @@
     <td align="center"> <img src="https://secure.meetupstatic.com/photos/event/4/c/f/7/600_510859703.webp?w=3840" width="85" height="50" /> </td>
   </tr>
   <tr>
+    <td align="center"> <img src="https://pbs.twimg.com/media/FrH3b7rWcAUW63Z?format=jpg&name=large" width="85" height="50" /> </td>
     <td align="center"> <img src="https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F450425369%2F398849161375%2F1%2Foriginal.20230220-194435?w=940&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=db79be078b9e9c0590ed5c1ae9f45cd0" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/FqkTZ0wXgAQ0oz9?format=jpg&name=medium" width="85" height="50" /> </td>
     <td align="center"> <img src="https://media.licdn.com/dms/image/C4E22AQHM9m52z7WZRw/feedshare-shrink_1280/0/1678176476136?e=1681344000&v=beta&t=ECNbXPB4bYhhnnHOzPDZxAyhvDEVciBLy89J9KO3Vpo" width="85" height="50" /> </td>
@@ -727,6 +728,6 @@
 
 
 
-*page updated on 2023-03-15T09:27:06.353Z*
+*page updated on 2023-03-15T09:28:31.631Z*
 
 powered by [gigsboat/cli](https://github.com/gigsboat/cli)
