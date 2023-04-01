@@ -74,7 +74,7 @@
 | 2023-4-17 | The Secure Developer Podcast | [JavaScript Security in the IDE](pages/2023/2023-04-17.md) |  |  |  | English |
 | 2023-3-28 | CityJS London 2023 | [Char Wars: The Path Traversal Strikes Back](pages/2023/2023-03-28.md) |  |  | [🇬🇧](## "undefined") | English |
 | 2023-3-27 | DIVX Study Group | [React and Web Security Essentials](pages/2023/2023-03-27.md) |  |  |  | English |
-| 2023-3-24 | Open Source Day 2023 | [The Unexpected Demise of Open Source Libraries](pages/2023/2023-03-24.md) |  |  | [🇮🇹](## "Italy") | English |
+| 2023-3-24 | Open Source Day 2023 | [The Unexpected Demise of Open Source Libraries](pages/2023/2023-03-24.md) |  | [Recording](https://www.youtube.com/watch?v=ijqCliQQvrY&list=PLdimn0ykJsMgr7XRkttwXuAjO1iLoCMmk) | [🇮🇹](## "Italy") | English |
 | 2023-3-18 | DevOps fwdays'23 | [Master production-grade best practices to build your Node.js Docker images](pages/2023/2023-03-18.md) |  |  |  | English |
 | 2023-3-16 | Securing Your Open Source Workflow with GitHub Security Lab and Snyk | [Open Source Security panel](pages/2023/2023-03-16.md) |  |  |  | English |
 | 2023-3-13 | Open Source at Work | [The Big Fix: Coding Isn't the Only Way to Contribute, Liran Tal](pages/2023/2023-03-13.md) |  |  | [🇮🇱](## "Israel") | Hebrew |
@@ -742,6 +742,6 @@
 
 
 
-*page updated on 2023-04-01T09:14:34.626Z*
+*page updated on 2023-04-01T16:21:06.627Z*
 
 powered by [gigsboat/cli](https://github.com/gigsboat/cli)
