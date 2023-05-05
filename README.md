@@ -82,8 +82,8 @@
 | 2023-5-31 | Dublin DevRel Meetup | [The Secret Life of Developer Advocates](pages/2023/2023-05-31.md) |  |  |  | English |
 | 2023-5-28 | JSDay Canarias | [Char Wars: The Path Traversal Strikes Back](pages/2023/2023-05-28.md) |  |  | [🇪🇸](## "Spain") | English |
 | 2023-5-19 | JSHeroes | [Char Wars: The Path Traversal Strikes Back](pages/2023/2023-05-19.md) |  |  | [🇷🇴](## "Romania") | English |
+| 2023-5-17 | Path Traversal with Liran Tal | [PodRocket - A web development podcast from LogRocket](pages/2023/2023-05-17.md) |  |  |  | English |
 | 2023-5-9 | Codemotion | [Hack-Proof The Node.js runtime: The Mechanics and Defense of Path Traversal Attacks](pages/2023/2023-05-09.md) |  |  | [🇪🇸](## "Spain") | English |
-| 2023-5-1 | Open Source Day 2023 | [TBD](pages/2023/2023-05-01.md) |  |  |  | English |
 | 2023-4-17 | The Secure Developer Podcast | [JavaScript Security in the IDE](pages/2023/2023-04-17.md) |  |  |  | English |
 | 2023-3-28 | CityJS London 2023 | [Char Wars: The Path Traversal Strikes Back](pages/2023/2023-03-28.md) |  |  | [🇬🇧](## "undefined") | English |
 | 2023-3-27 | DIVX Study Group | [React and Web Security Essentials](pages/2023/2023-03-27.md) |  |  |  | English |
@@ -755,6 +755,6 @@
 
 
 
-*page updated on 2023-05-05T12:10:59.932Z*
+*page updated on 2023-05-05T12:12:34.683Z*
 
 powered by [gigsboat/cli](https://github.com/gigsboat/cli)
