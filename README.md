@@ -1,4 +1,4 @@
-<div align='center'><p><img src="https://img.shields.io/badge/total-159-blue?style=flat-square" alt="Total Events"> <img src="https://img.shields.io/badge/meetups-30-violet?style=flat-square" alt="Total Meetups"> <img src="https://img.shields.io/badge/conferences-73-red?style=flat-square" alt="Total Conferences"> <img src="https://img.shields.io/badge/podcasts-23-yellow?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/webinars-17-lightgrey?style=flat-square" alt="Total Webinars"> <img src="https://img.shields.io/badge/articles-3-green?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/workshops-6-orange?style=flat-square" alt="Total Workshops"></p>
+<div align='center'><p><img src="https://img.shields.io/badge/total-160-blue?style=flat-square" alt="Total Events"> <img src="https://img.shields.io/badge/meetups-30-violet?style=flat-square" alt="Total Meetups"> <img src="https://img.shields.io/badge/conferences-74-red?style=flat-square" alt="Total Conferences"> <img src="https://img.shields.io/badge/podcasts-23-yellow?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/webinars-17-lightgrey?style=flat-square" alt="Total Webinars"> <img src="https://img.shields.io/badge/articles-3-green?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/workshops-6-orange?style=flat-square" alt="Total Workshops"></p>
 </div>
   <p align='center'><h1 align='center'>Liran Tal - Public Speaking</h1>
 <p align='center'>I love doing Open Source, Node.js, JavaScript, Web Security & InfoSec, Public Speaking, and Building CLIs.</p></p><p align='center'><a href='liran_tal'><img alt='Twitter Follow' src='https://img.shields.io/twitter/follow/liran_tal?style=social'></a> <a href='https://www.linkedin.com/in/talliran'><img alt='LinkedIn Add Me' src='https://img.shields.io/badge/-Add&nbsp;Me&nbsp;on&nbsp;LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white'></a></p><p align='center'><img src='https://github.com/lirantal/public-speaking/blob/main/static/liran-tal-header-image.png' alt='Liran Tal public speaking profile' /></p>
@@ -17,7 +17,7 @@
  - [Year of 2022](#2022) - total events 42
  - [Year of 2021](#2021) - total events 55
  - [Year of 2020](#2020) - total events 17
- - [Year of 2019](#2019) - total events 17
+ - [Year of 2019](#2019) - total events 18
  - [Year of 2018](#2018) - total events 1
  - [Year of 2017](#2017) - total events 2
  - [Year of 2016](#2016) - total events 2
@@ -610,7 +610,7 @@
 # 2019
 
 
-![Total Events](https://img.shields.io/badge/total-17-blue?style=flat-square) ![Total Meetups](https://img.shields.io/badge/meetups-5-violet?style=flat-square) ![Total Conferences](https://img.shields.io/badge/conferences-10-red?style=flat-square) ![Total Podcasts](https://img.shields.io/badge/podcasts-1-yellow?style=flat-square) ![Total Webinars](https://img.shields.io/badge/webinars-1-lightgrey?style=flat-square)  
+![Total Events](https://img.shields.io/badge/total-18-blue?style=flat-square) ![Total Meetups](https://img.shields.io/badge/meetups-5-violet?style=flat-square) ![Total Conferences](https://img.shields.io/badge/conferences-11-red?style=flat-square) ![Total Podcasts](https://img.shields.io/badge/podcasts-1-yellow?style=flat-square) ![Total Webinars](https://img.shields.io/badge/webinars-1-lightgrey?style=flat-square)  
 
 
 <table>
@@ -690,6 +690,7 @@
 | 2019-12-19 | MyDevSecOps | [Practical DevSecOps](pages/2019/2019-12-19.md) |  | [Recording](https://www.youtube.com/watch?v=aUL5JdpNQlQ&feature=emb_logo&ab_channel=MyDevSecOps-) |  | English |
 | 2019-12-12 | NODE+JS INTERACTIVE | [The State of Open Source Security](pages/2019/2019-12-12.md) |  |  | [🇨🇦](## "Canada") | English |
 | 2019-10-31 | ReactiveConf | [StrangerDanger: Finding Security Vulnerabilities Before They Find You!](pages/2019/2019-10-31.md) |  | [Recording](https://www.youtube.com/watch?v=ensQEPBHOO0&ab_channel=ReactiveConf) | [🇨🇿](## "Czechia") | English |
+| 2019-10-29 | Open Source Summit Europe | [The State of Open Source Security](pages/2019/2019-10-29.md) |  |  | [🇫🇷](## "France") | English |
 | 2019-10-3 | SaronaHub Hacktoberfest | [Stranger Danger: Finding Vulnerabilities Before They Find You!](pages/2019/2019-10-03.md) |  |  | [🇮🇱](## "Israel") | Hebrew |
 | 2019-9-27 | JSConf Budapest | [StrangerDanger: Finding Security Vulnerabilities Before They Find You!](pages/2019/2019-09-27.md) |  | [Recording](https://www.youtube.com/watch?v=3H8pF6yoSgU&list=PL37ZVnwpeshEMCvdYDdZ09Sy-toTftWu0&index=15&ab_channel=JSConf) | [🇭🇺](## "Hungary") | English |
 | 2019-9-13 | APIdays Barcelona meetup | [Stranger Danger: Finding Security Vulnerabilities Before They Find You!](pages/2019/2019-09-13.md) |  |  | [🇪🇸](## "Spain") | English |
@@ -779,6 +780,6 @@
 
 
 
-*page updated on 2023-06-03T14:12:11.932Z*
+*page updated on 2023-06-03T15:43:57.922Z*
 
 powered by [gigsboat/cli](https://github.com/gigsboat/cli)
