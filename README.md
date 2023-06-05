@@ -1,4 +1,4 @@
-<div align='center'><p><img src="https://img.shields.io/badge/total-161-blue?style=flat-square" alt="Total Events"> <img src="https://img.shields.io/badge/meetups-31-violet?style=flat-square" alt="Total Meetups"> <img src="https://img.shields.io/badge/conferences-74-red?style=flat-square" alt="Total Conferences"> <img src="https://img.shields.io/badge/podcasts-23-yellow?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/webinars-17-lightgrey?style=flat-square" alt="Total Webinars"> <img src="https://img.shields.io/badge/articles-3-green?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/workshops-6-orange?style=flat-square" alt="Total Workshops"></p>
+<div align='center'><p><img src="https://img.shields.io/badge/total-162-blue?style=flat-square" alt="Total Events"> <img src="https://img.shields.io/badge/meetups-31-violet?style=flat-square" alt="Total Meetups"> <img src="https://img.shields.io/badge/conferences-75-red?style=flat-square" alt="Total Conferences"> <img src="https://img.shields.io/badge/podcasts-23-yellow?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/webinars-17-lightgrey?style=flat-square" alt="Total Webinars"> <img src="https://img.shields.io/badge/articles-3-green?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/workshops-6-orange?style=flat-square" alt="Total Workshops"></p>
 </div>
   <p align='center'><h1 align='center'>Liran Tal - Public Speaking</h1>
 <p align='center'>I love doing Open Source, Node.js, JavaScript, Web Security & InfoSec, Public Speaking, and Building CLIs.</p></p><p align='center'><a href='liran_tal'><img alt='Twitter Follow' src='https://img.shields.io/twitter/follow/liran_tal?style=social'></a> <a href='https://www.linkedin.com/in/talliran'><img alt='LinkedIn Add Me' src='https://img.shields.io/badge/-Add&nbsp;Me&nbsp;on&nbsp;LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white'></a></p><p align='center'><img src='https://github.com/lirantal/public-speaking/blob/main/static/liran-tal-header-image.png' alt='Liran Tal public speaking profile' /></p>
@@ -18,7 +18,7 @@
  - [Year of 2021](#2021) - total events 55
  - [Year of 2020](#2020) - total events 17
  - [Year of 2019](#2019) - total events 19
- - [Year of 2018](#2018) - total events 1
+ - [Year of 2018](#2018) - total events 2
  - [Year of 2017](#2017) - total events 2
  - [Year of 2016](#2016) - total events 2
 
@@ -732,11 +732,13 @@
 # 2018
 
 
-![Total Events](https://img.shields.io/badge/total-1-blue?style=flat-square)  ![Total Conferences](https://img.shields.io/badge/conferences-1-red?style=flat-square)    
+![Total Events](https://img.shields.io/badge/total-2-blue?style=flat-square)  ![Total Conferences](https://img.shields.io/badge/conferences-2-red?style=flat-square)    
 
 
 <table>
   <tr>
+    <td align="center"> <img src="https://pbs.twimg.com/media/DcwlZbsWkAI0nk9?format=jpg&name=large" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://pbs.twimg.com/media/Dcwjo1nX0AAzkQL?format=jpg&name=large" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/DbOKkJ7XkAAsdSI?format=jpg&name=medium" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/DbOMrhlX0AAxHg9?format=jpg&name=large" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/DbOMrhXX0AIVWEp?format=jpg&name=large" width="85" height="50" /> </td>
@@ -746,6 +748,7 @@
 
 | Date | Event | Title | Slides | Recording | Location | Language |
 | ---- | ----- | ----- | ------ | --------- | -------- | -------- |
+| 2018-5-9 | JSDay Italy | [Jest Testing Patterns](pages/2018/2018-05-09.md) |  |  | [🇮🇹](## "Italy") | English |
 | 2018-4-20 | JSHeroes | [Making The Terminal Great Again](pages/2018/2018-04-20.md) | [Slides](http://slides.com/lirantal/makeing-the-console-great-again) | [Recording](https://www.youtube.com/watch?v=uOsVBHgHZY0&ab_channel=JSHeroes) | [🇷🇴](## "Romania") | English |
 
 
@@ -802,6 +805,6 @@
 
 
 
-*page updated on 2023-06-05T16:36:55.958Z*
+*page updated on 2023-06-05T16:39:23.726Z*
 
 powered by [gigsboat/cli](https://github.com/gigsboat/cli)
