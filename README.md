@@ -1,4 +1,4 @@
-<div align='center'><p><img src="https://img.shields.io/badge/total-160-blue?style=flat-square" alt="Total Events"> <img src="https://img.shields.io/badge/meetups-30-violet?style=flat-square" alt="Total Meetups"> <img src="https://img.shields.io/badge/conferences-74-red?style=flat-square" alt="Total Conferences"> <img src="https://img.shields.io/badge/podcasts-23-yellow?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/webinars-17-lightgrey?style=flat-square" alt="Total Webinars"> <img src="https://img.shields.io/badge/articles-3-green?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/workshops-6-orange?style=flat-square" alt="Total Workshops"></p>
+<div align='center'><p><img src="https://img.shields.io/badge/total-161-blue?style=flat-square" alt="Total Events"> <img src="https://img.shields.io/badge/meetups-31-violet?style=flat-square" alt="Total Meetups"> <img src="https://img.shields.io/badge/conferences-74-red?style=flat-square" alt="Total Conferences"> <img src="https://img.shields.io/badge/podcasts-23-yellow?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/webinars-17-lightgrey?style=flat-square" alt="Total Webinars"> <img src="https://img.shields.io/badge/articles-3-green?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/workshops-6-orange?style=flat-square" alt="Total Workshops"></p>
 </div>
   <p align='center'><h1 align='center'>Liran Tal - Public Speaking</h1>
 <p align='center'>I love doing Open Source, Node.js, JavaScript, Web Security & InfoSec, Public Speaking, and Building CLIs.</p></p><p align='center'><a href='liran_tal'><img alt='Twitter Follow' src='https://img.shields.io/twitter/follow/liran_tal?style=social'></a> <a href='https://www.linkedin.com/in/talliran'><img alt='LinkedIn Add Me' src='https://img.shields.io/badge/-Add&nbsp;Me&nbsp;on&nbsp;LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white'></a></p><p align='center'><img src='https://github.com/lirantal/public-speaking/blob/main/static/liran-tal-header-image.png' alt='Liran Tal public speaking profile' /></p>
@@ -17,7 +17,7 @@
  - [Year of 2022](#2022) - total events 42
  - [Year of 2021](#2021) - total events 55
  - [Year of 2020](#2020) - total events 17
- - [Year of 2019](#2019) - total events 18
+ - [Year of 2019](#2019) - total events 19
  - [Year of 2018](#2018) - total events 1
  - [Year of 2017](#2017) - total events 2
  - [Year of 2016](#2016) - total events 2
@@ -610,7 +610,7 @@
 # 2019
 
 
-![Total Events](https://img.shields.io/badge/total-18-blue?style=flat-square) ![Total Meetups](https://img.shields.io/badge/meetups-5-violet?style=flat-square) ![Total Conferences](https://img.shields.io/badge/conferences-11-red?style=flat-square) ![Total Podcasts](https://img.shields.io/badge/podcasts-1-yellow?style=flat-square) ![Total Webinars](https://img.shields.io/badge/webinars-1-lightgrey?style=flat-square)  
+![Total Events](https://img.shields.io/badge/total-19-blue?style=flat-square) ![Total Meetups](https://img.shields.io/badge/meetups-6-violet?style=flat-square) ![Total Conferences](https://img.shields.io/badge/conferences-11-red?style=flat-square) ![Total Podcasts](https://img.shields.io/badge/podcasts-1-yellow?style=flat-square) ![Total Webinars](https://img.shields.io/badge/webinars-1-lightgrey?style=flat-square)  
 
 
 <table>
@@ -662,9 +662,10 @@
     <td align="center"> <img src="https://pbs.twimg.com/media/D_6_LltXoAAYlhi?format=jpg&name=large" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/D6tXC4EXsAAEI3N?format=jpg&name=large" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/D_wyQgmWsAI8dQ5?format=jpg&name=medium" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/D7z7G5dXsAA3ulw?format=jpg&name=small" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://pbs.twimg.com/media/D_m3cymXUAYOlBY?format=jpg&name=large" width="85" height="50" /> </td>
   </tr>
   <tr>
+    <td align="center"> <img src="https://pbs.twimg.com/media/D7z7G5dXsAA3ulw?format=jpg&name=small" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/D7z3FygX4AAYQ8U?format=jpg&name=large" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/D7z5G08WsAoKz53?format=jpg&name=large" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/D70LfWlXsAAkgK_?format=jpg&name=900x900" width="85" height="50" /> </td>
@@ -672,9 +673,9 @@
     <td align="center"> <img src="https://pbs.twimg.com/media/D7K8ahlXoAAoURn?format=jpg&name=4096x4096" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/D7K82j0XsAAFuo6?format=jpg&name=large" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/D7K85UEXsAAti7S?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/D7K88EmW4AMfILa?format=jpg&name=large" width="85" height="50" /> </td>
   </tr>
   <tr>
+    <td align="center"> <img src="https://pbs.twimg.com/media/D7K88EmW4AMfILa?format=jpg&name=large" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/D7K893SWwAAZEU8?format=jpg&name=large" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/D4NtqgjW0AEMx6E?format=jpg&name=large" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/D7LDBAiWwAI52SE?format=jpg&name=4096x4096" width="85" height="50" /> </td>
@@ -682,9 +683,9 @@
     <td align="center"> <img src="https://pbs.twimg.com/media/D8xQTxPW4AAaNzK?format=jpg&name=medium" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/D9RiE46W4AMYRBC?format=jpg&name=large" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/D9RiE5DX4AIWzYr?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/D9RiE4_XkAAV70z?format=jpg&name=large" width="85" height="50" /> </td>
   </tr>
   <tr>
+    <td align="center"> <img src="https://pbs.twimg.com/media/D9RiE4_XkAAV70z?format=jpg&name=large" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/D9RiE5BXUAM4671?format=jpg&name=large" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/D2Pz71aWwAA6Sst?format=jpg&name=large" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/D66FYG6XkAELeI9?format=jpg&name=large" width="85" height="50" /> </td>
@@ -692,9 +693,9 @@
     <td align="center"> <img src="https://pbs.twimg.com/media/D62GyAtX4AA_kZg?format=jpg&name=large" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/D6mWVTgWwAMC-DI?format=jpg&name=small" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/D3uT_rMXkAErMwr?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/D3uVR5WWwAACePN?format=jpg&name=large" width="85" height="50" /> </td>
   </tr>
   <tr>
+    <td align="center"> <img src="https://pbs.twimg.com/media/D3uVR5WWwAACePN?format=jpg&name=large" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/D3uVTElWwAI4Op4?format=jpg&name=large" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/D3uVUgrX4AAQgje?format=jpg&name=large" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/D3uVV9OXsAYwS4v?format=jpg&name=large" width="85" height="50" /> </td>
@@ -719,6 +720,7 @@
 | 2019-9-2 | Node.js Israel Meetup | [Stranger Danger: Finding Security Vulnerabilities Before They Find You!](pages/2019/2019-09-02.md) |  |  | [🇮🇱](## "Israel") | Hebrew |
 | 2019-7-30 | DevRel IL | [So you want to engage with developers?](pages/2019/2019-07-30.md) |  |  | [🇮🇱](## "Israel") | Hebrew |
 | 2019-7-20 | OdessaJS | [StrangerDanger: Finding Security Vulnerabilities Before They Find You!](pages/2019/2019-07-20.md) |  |  | [🇺🇦](## "Ukraine") | English |
+| 2019-7-16 | NegevWebDevelopers Meetup | [Stranger Danger! Finding Security Vulnerabilities Before They Find You](pages/2019/2019-07-16.md) |  |  | [🇮🇱](## "Israel") | Hebrew |
 | 2019-5-30 | OWASP Global AppSec | [Black Clouds Silver Linings In Nodejs Security](pages/2019/2019-05-30.md) | [Slides](https://drive.google.com/file/d/1s0YIvnlF7ByoESu3rHV2i5M9_jQSXjyR/view) | [Recording](https://www.youtube.com/watch?v=4XdF4OiAAzU&feature=emb_logo&ab_channel=OWASP) | [🇮🇱](## "Israel") | English |
 | 2019-5-21 | VOXXED DAYS FRONTEND BUCHAREST | [StrangerDanger: Finding Security Vulnerabilities Before They Find You!](pages/2019/2019-05-21.md) |  | [Recording](https://youtu.be/4_x4_RXYGnA) | [🇷🇴](## "Romania") | English |
 | 2019-5-19 | NodeUkraine - Ukrainian Node.js Conference | [StrangerDanger: Finding Security Vulnerabilities Before They Find You!](pages/2019/2019-05-19.md) | [Slides](http://slides.com/lirantal/makeing-the-console-great-again) | [Recording](https://www.youtube.com/watch?v=vUkn-304xnU&list=PLqYhGsQ9iSEqp4vWUhgzQVgWlBaDTrhlf&index=46&t=9s&ab_channel=DATAMINER) | [🇺🇦](## "Ukraine") | English |
@@ -800,6 +802,6 @@
 
 
 
-*page updated on 2023-06-05T16:35:26.111Z*
+*page updated on 2023-06-05T16:36:55.958Z*
 
 powered by [gigsboat/cli](https://github.com/gigsboat/cli)
