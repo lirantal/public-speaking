@@ -117,7 +117,7 @@
 | 2023-9-18 | Infobip Shift 2023 | [TBD](pages/2023/2023-09-18.md) |  |  | [🇭🇷](## "Croatia") | English |
 | 2023-7-10 | Riviera DEV 2023 | [Hack-Proof Your Software Supply Chain, an Essential Guide for Developers](pages/2023/2023-07-10.md) |  |  | [🇫🇷](## "France") | English |
 | 2023-6-28 | NodeTLV | [Char Wars: The Path Traversal Strikes Back](pages/2023/2023-06-28.md) |  |  | [🇮🇱](## "Israel") | Hebrew |
-| 2023-6-20 | מפתחים מחוץ לקופסה | [From AI's Hallucinations to Software Vulnerabilities: Can Machines Dream of Secure Code?](pages/2023/2023-06-20.md) |  |  | [🇮🇱](## "Israel") | Hebrew |
+| 2023-6-20 | מפתחים מחוץ לקופסה | [From AI's Hallucinations to Software Vulnerabilities: Can Machines Dream of Secure Code?](pages/2023/2023-06-20.md) |  | [Recording](https://youtu.be/o-Y4KtwHT4M) | [🇮🇱](## "Israel") | Hebrew |
 | 2023-6-14 | Imperva's Cyber Security Meetup for Developers | [Your app is only as secure as your weakest line of code](pages/2023/2023-06-14.md) |  |  | [🇮🇱](## "Israel") | Hebrew |
 | 2023-6-9 | Future Frontend | [Char Wars: The Path Traversal Strikes Back](pages/2023/2023-06-09.md) |  |  | [🇫🇮](## "Finland") | English |
 | 2023-6-6 | Future Frontend | [Developer Security Essentials with Snyk](pages/2023/2023-06-06.md) |  |  | [🇫🇮](## "Finland") | English |
@@ -859,6 +859,6 @@
 
 
 
-*page updated on 2023-07-05T15:23:14.181Z*
+*page updated on 2023-07-05T15:26:24.863Z*
 
 powered by [gigsboat/cli](https://github.com/gigsboat/cli)
