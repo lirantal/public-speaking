@@ -123,7 +123,7 @@
 | 2023-6-6 | Future Frontend | [Developer Security Essentials with Snyk](pages/2023/2023-06-06.md) |  |  | [🇫🇮](## "Finland") | English |
 | 2023-5-31 | Dublin DevRel Meetup | [The Secret Life of Developer Advocates](pages/2023/2023-05-31.md) |  |  |  | English |
 | 2023-5-28 | JSDay Canarias | [Char Wars: The Path Traversal Strikes Back](pages/2023/2023-05-28.md) |  |  | [🇪🇸](## "Spain") | English |
-| 2023-5-19 | JSHeroes | [Char Wars: The Path Traversal Strikes Back](pages/2023/2023-05-19.md) |  |  | [🇷🇴](## "Romania") | English |
+| 2023-5-19 | JSHeroes | [Char Wars: The Path Traversal Strikes Back](pages/2023/2023-05-19.md) |  | [Recording](https://www.youtube.com/watch?v=P1goT5BSFWM&list=PLB9NqTp0uKrR8g9ImDK2HPcpuC7oW8wYe&index=17) | [🇷🇴](## "Romania") | English |
 | 2023-5-17 | Security and path traversal with Liran Tal | [PodRocket - A web development podcast from LogRocket](pages/2023/2023-05-17.md) |  | [Recording](https://podcasts.google.com/feed/aHR0cHM6Ly9wb2Ryb2NrZXQubG9ncm9ja2V0LmNvbS9yc3M/episode/ZmZiMmNhYmUtNDQ2YS00Njk1LTg3YTUtZmM3NWY2MmYyZWJk?sa=X&ved=0CAUQkfYCahcKEwjY96SC14v_AhUAAAAAHQAAAAAQAQ) |  | English |
 | 2023-5-9 | Codemotion | [Hack-Proof The Node.js runtime: The Mechanics and Defense of Path Traversal Attacks](pages/2023/2023-05-09.md) |  |  | [🇪🇸](## "Spain") | English |
 | 2023-4-17 | The Secure Developer Podcast | [JavaScript Security in the IDE](pages/2023/2023-04-17.md) |  |  |  | English |
@@ -859,6 +859,6 @@
 
 
 
-*page updated on 2023-07-07T09:18:08.923Z*
+*page updated on 2023-07-07T13:33:41.488Z*
 
 powered by [gigsboat/cli](https://github.com/gigsboat/cli)
