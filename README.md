@@ -1,4 +1,4 @@
-<div align='center'><p><img src="https://img.shields.io/badge/total-166-blue?style=flat-square" alt="Total Events"> <img src="https://img.shields.io/badge/meetups-33-violet?style=flat-square" alt="Total Meetups"> <img src="https://img.shields.io/badge/conferences-77-red?style=flat-square" alt="Total Conferences"> <img src="https://img.shields.io/badge/podcasts-23-yellow?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/webinars-17-lightgrey?style=flat-square" alt="Total Webinars"> <img src="https://img.shields.io/badge/articles-3-green?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/workshops-6-orange?style=flat-square" alt="Total Workshops"></p>
+<div align='center'><p><img src="https://img.shields.io/badge/total-167-blue?style=flat-square" alt="Total Events"> <img src="https://img.shields.io/badge/meetups-33-violet?style=flat-square" alt="Total Meetups"> <img src="https://img.shields.io/badge/conferences-78-red?style=flat-square" alt="Total Conferences"> <img src="https://img.shields.io/badge/podcasts-23-yellow?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/webinars-17-lightgrey?style=flat-square" alt="Total Webinars"> <img src="https://img.shields.io/badge/articles-3-green?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/workshops-6-orange?style=flat-square" alt="Total Workshops"></p>
 </div>
   <p align='center'><h1 align='center'>Liran Tal - Public Speaking</h1>
 <p align='center'>I love doing Open Source, Node.js, JavaScript, Web Security & InfoSec, Public Speaking, and Building CLIs.</p></p><p align='center'><a href='liran_tal'><img alt='Twitter Follow' src='https://img.shields.io/twitter/follow/liran_tal?style=social'></a> <a href='https://www.linkedin.com/in/talliran'><img alt='LinkedIn Add Me' src='https://img.shields.io/badge/-Add&nbsp;Me&nbsp;on&nbsp;LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white'></a></p><p align='center'><img src='https://github.com/lirantal/public-speaking/blob/main/static/liran-tal-header-image.png' alt='Liran Tal public speaking profile' /></p>
@@ -13,7 +13,7 @@
 # Table of Contents
 
 
- - [Year of 2023](#2023) - total events 24
+ - [Year of 2023](#2023) - total events 25
  - [Year of 2022](#2022) - total events 42
  - [Year of 2021](#2021) - total events 55
  - [Year of 2020](#2020) - total events 17
@@ -25,7 +25,7 @@
 # 2023
 
 
-![Total Events](https://img.shields.io/badge/total-24-blue?style=flat-square) ![Total Meetups](https://img.shields.io/badge/meetups-8-violet?style=flat-square) ![Total Conferences](https://img.shields.io/badge/conferences-10-red?style=flat-square) ![Total Podcasts](https://img.shields.io/badge/podcasts-2-yellow?style=flat-square) ![Total Webinars](https://img.shields.io/badge/webinars-2-lightgrey?style=flat-square)  ![Total Workshops](https://img.shields.io/badge/workshops-2-orange?style=flat-square)
+![Total Events](https://img.shields.io/badge/total-25-blue?style=flat-square) ![Total Meetups](https://img.shields.io/badge/meetups-8-violet?style=flat-square) ![Total Conferences](https://img.shields.io/badge/conferences-11-red?style=flat-square) ![Total Podcasts](https://img.shields.io/badge/podcasts-2-yellow?style=flat-square) ![Total Webinars](https://img.shields.io/badge/webinars-2-lightgrey?style=flat-square)  ![Total Workshops](https://img.shields.io/badge/workshops-2-orange?style=flat-square)
 
 
 <table>
@@ -96,10 +96,11 @@
     <td align="center"> <img src="https://pbs.twimg.com/media/FtxDi3LXgAIUlZQ?format=jpg&name=4096x4096" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/FtxDjX1X0AEarx6?format=jpg&name=4096x4096" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/FrfPfFWXoAAadbQ?format=jpg&name=large" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://pbs.twimg.com/media/FrfPfFWXoAAadbQ?format=jpg&name=large" width="85" height="50" /> </td>
     <td align="center"> <img src="https://secure.meetupstatic.com/photos/event/4/c/f/7/600_510859703.webp?w=3840" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/FrH3b7rWcAUW63Z?format=jpg&name=large" width="85" height="50" /> </td>
   </tr>
   <tr>
+    <td align="center"> <img src="https://pbs.twimg.com/media/FrH3b7rWcAUW63Z?format=jpg&name=large" width="85" height="50" /> </td>
     <td align="center"> <img src="https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F450425369%2F398849161375%2F1%2Foriginal.20230220-194435?w=940&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=db79be078b9e9c0590ed5c1ae9f45cd0" width="85" height="50" /> </td>
     <td align="center"> <img src="https://scontent.fsdv1-2.fna.fbcdn.net/v/t39.30808-6/333564091_196618119665313_6297010202150369853_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=GUCHN3ARdyoAX9M31tq&_nc_ht=scontent.fsdv1-2.fna&oh=00_AfCeZPpTxj411OrQhDaYGzz99Nva-unobD7e5Ftz_Kzs2g&oe=6417C84B" width="85" height="50" /> </td>
     <td align="center"> <img src="https://scontent.fsdv1-2.fna.fbcdn.net/v/t39.30808-6/336182601_621867529775843_3203641722210162514_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=QS1S5zuin8YAX8dtNfM&_nc_ht=scontent.fsdv1-2.fna&oh=00_AfDsnXrcAlPvcp1YRkPjX_CDkIsrOzTudPmWqi7ZpTItyQ&oe=6417B388" width="85" height="50" /> </td>
@@ -132,6 +133,7 @@
 | 2023-3-27 | DIVX Study Group | [React and Web Security Essentials](pages/2023/2023-03-27.md) |  |  |  | English |
 | 2023-3-24 | Open Source Day 2023 | [The Unexpected Demise of Open Source Libraries](pages/2023/2023-03-24.md) |  | [Recording](https://www.youtube.com/watch?v=ijqCliQQvrY&list=PLdimn0ykJsMgr7XRkttwXuAjO1iLoCMmk) | [🇮🇹](## "Italy") | English |
 | 2023-3-18 | DevOps fwdays'23 | [Master production-grade best practices to build your Node.js Docker images](pages/2023/2023-03-18.md) |  | [Recording](https://www.youtube.com/watch?v=2i3wRkLeJdo) |  | English |
+| 2023-3-18 | DevOps fwdays'23 | [Master production-grade best practices to build your Node.js Docker images](pages/2023/2023-12-02.md) |  | [Recording](https://www.youtube.com/watch?v=2i3wRkLeJdo) |  | English |
 | 2023-3-16 | Securing Your Open Source Workflow with GitHub Security Lab and Snyk | [Open Source Security panel](pages/2023/2023-03-16.md) |  |  |  | English |
 | 2023-3-13 | Open Source at Work | [The Big Fix: Coding Isn't the Only Way to Contribute, Liran Tal](pages/2023/2023-03-13.md) |  |  | [🇮🇱](## "Israel") | Hebrew |
 | 2023-3-12 | Hacking in Practice: Snyk security workshop | [The Big Fix: Coding Isn't the Only Way to Contribute, Liran Tal](pages/2023/2023-03-12.md) |  |  | [🇮🇱](## "Israel") | Hebrew |
@@ -865,6 +867,6 @@
 
 
 
-*page updated on 2023-10-08T01:06:20.087Z*
+*page updated on 2023-10-13T09:05:00.197Z*
 
 powered by [gigsboat/cli](https://github.com/gigsboat/cli)
