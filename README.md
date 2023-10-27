@@ -115,7 +115,7 @@
 | Date | Event | Title | Slides | Recording | Location | Language |
 | ---- | ----- | ----- | ------ | --------- | -------- | -------- |
 | 2023-12-2 | Node.js fwdays'23 | [Can Machines Dream of Secure Code?](pages/2023/2023-12-02.md) |  |  |  | English |
-| 2023-10-30 | AI Insights: Secure Code & LLM for Frontend Developers | [Can Machines Dream of Secure Code?](pages/2023-10-30.md) |  |  | [🇮🇱](## "Israel") | Hebrew |
+| 2023-10-30 | AI Insights: Secure Code & LLM for Frontend Developers | [Can Machines Dream of Secure Code?](pages/2023/2023-10-30.md) |  |  | [🇮🇱](## "Israel") | Hebrew |
 | 2023-10-26 | Commina | [Powering Communities with Open Source Software](pages/2023/2023-10-26.md) |  |  | [🇮🇱](## "Israel") | Hebrew |
 | 2023-9-18 | Infobip Shift 2023 | [TBD](pages/2023/2023-09-18.md) |  |  | [🇭🇷](## "Croatia") | English |
 | 2023-7-10 | Riviera DEV 2023 | [Hack-Proof Your Software Supply Chain, an Essential Guide for Developers](pages/2023/2023-07-10.md) |  |  | [🇫🇷](## "France") | English |
@@ -867,6 +867,6 @@
 
 
 
-*page updated on 2023-10-27T10:59:29.721Z*
+*page updated on 2023-10-27T11:02:42.211Z*
 
 powered by [gigsboat/cli](https://github.com/gigsboat/cli)
