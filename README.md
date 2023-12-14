@@ -1,4 +1,4 @@
-<div align='center'><p><img src="https://img.shields.io/badge/total-171-blue?style=flat-square" alt="Total Events"> <img src="https://img.shields.io/badge/meetups-33-violet?style=flat-square" alt="Total Meetups"> <img src="https://img.shields.io/badge/conferences-78-red?style=flat-square" alt="Total Conferences"> <img src="https://img.shields.io/badge/podcasts-24-yellow?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/webinars-20-lightgrey?style=flat-square" alt="Total Webinars"> <img src="https://img.shields.io/badge/articles-3-green?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/workshops-6-orange?style=flat-square" alt="Total Workshops"></p>
+<div align='center'><p><img src="https://img.shields.io/badge/total-171-blue?style=flat-square" alt="Total Events"> <img src="https://img.shields.io/badge/meetups-33-violet?style=flat-square" alt="Total Meetups"> <img src="https://img.shields.io/badge/conferences-78-red?style=flat-square" alt="Total Conferences"> <img src="https://img.shields.io/badge/podcasts-25-yellow?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/webinars-19-lightgrey?style=flat-square" alt="Total Webinars"> <img src="https://img.shields.io/badge/articles-3-green?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/workshops-6-orange?style=flat-square" alt="Total Workshops"></p>
 </div>
   <p align='center'><h1 align='center'>Liran Tal - Public Speaking</h1>
 <p align='center'>I love doing Open Source, Node.js, JavaScript, Web Security & InfoSec, Public Speaking, and Building CLIs.</p></p><p align='center'><a href='liran_tal'><img alt='Twitter Follow' src='https://img.shields.io/twitter/follow/liran_tal?style=social'></a> <a href='https://www.linkedin.com/in/talliran'><img alt='LinkedIn Add Me' src='https://img.shields.io/badge/-Add&nbsp;Me&nbsp;on&nbsp;LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white'></a></p><p align='center'><img src='https://github.com/lirantal/public-speaking/blob/main/static/liran-tal-header-image.png' alt='Liran Tal public speaking profile' /></p>
@@ -25,7 +25,7 @@
 # 2023
 
 
-![Total Events](https://img.shields.io/badge/total-29-blue?style=flat-square) ![Total Meetups](https://img.shields.io/badge/meetups-8-violet?style=flat-square) ![Total Conferences](https://img.shields.io/badge/conferences-11-red?style=flat-square) ![Total Podcasts](https://img.shields.io/badge/podcasts-3-yellow?style=flat-square) ![Total Webinars](https://img.shields.io/badge/webinars-5-lightgrey?style=flat-square)  ![Total Workshops](https://img.shields.io/badge/workshops-2-orange?style=flat-square)
+![Total Events](https://img.shields.io/badge/total-29-blue?style=flat-square) ![Total Meetups](https://img.shields.io/badge/meetups-8-violet?style=flat-square) ![Total Conferences](https://img.shields.io/badge/conferences-11-red?style=flat-square) ![Total Podcasts](https://img.shields.io/badge/podcasts-4-yellow?style=flat-square) ![Total Webinars](https://img.shields.io/badge/webinars-4-lightgrey?style=flat-square)  ![Total Workshops](https://img.shields.io/badge/workshops-2-orange?style=flat-square)
 
 
 <table>
@@ -118,7 +118,7 @@
 
 | Date | Event | Title | Slides | Recording | Location | Language |
 | ---- | ----- | ----- | ------ | --------- | -------- | -------- |
-| 2023-12-14 | Linux Foundation AI Security Webinar | [AI Hallucinations and Manipulation: How to Use AI Coding Tools Securely](pages/2023/2023-12-14.md) |  | [Recording](https://www.youtube.com/watch?v=iPJQBuLwymE) |  | English |
+| 2023-12-14 | Fireside with Liran Tal on DevRel | [Voxgig Podcast](pages/2023/2023-12-14.md) |  | [Recording](https://www.voxgig.com/podcast/liran-tal-director-of-developer-advocacy-at-snyk-december-2023) |  | English |
 | 2023-12-2 | Node.js fwdays'23 | [Can Machines Dream of Secure Code?](pages/2023/2023-12-02.md) |  |  |  | English |
 | 2023-12-2 | The Testing Developers by Keploy | [Ensuring Code Security: A Testing Insight with Liran Tal from Snyk](pages/2023/2023-12-02_podcast.md) |  |  |  | English |
 | 2023-11-16 | Black Hat | [AI Hallucinations and Manipulation: How to Use AI Coding Tools Securely](pages/2023/2023-11-16.md) |  |  |  | English |
@@ -875,6 +875,6 @@
 
 
 
-*page updated on 2023-12-14T14:24:39.092Z*
+*page updated on 2023-12-14T14:42:47.947Z*
 
 powered by [gigsboat/cli](https://github.com/gigsboat/cli)
