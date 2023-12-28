@@ -32,6 +32,7 @@
 <table>
   <tr>
     <td align="center"> <img src="https://secure.meetupstatic.com/photos/event/9/0/6/0/600_518136960.webp?w=384" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://pbs.twimg.com/media/GCbp-WtWsAAjgaL?format=jpg&name=medium" width="85" height="50" /> </td>
   </tr>
 </table>
 
@@ -894,6 +895,6 @@
 
 
 
-*page updated on 2023-12-27T15:27:25.126Z*
+*page updated on 2023-12-28T20:49:13.564Z*
 
 powered by [gigsboat/cli](https://github.com/gigsboat/cli)
