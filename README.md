@@ -1,4 +1,4 @@
-<div align='center'><p><img src="https://img.shields.io/badge/total-172-blue?style=flat-square" alt="Total Events"> <img src="https://img.shields.io/badge/meetups-34-violet?style=flat-square" alt="Total Meetups"> <img src="https://img.shields.io/badge/conferences-78-red?style=flat-square" alt="Total Conferences"> <img src="https://img.shields.io/badge/podcasts-25-yellow?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/webinars-19-lightgrey?style=flat-square" alt="Total Webinars"> <img src="https://img.shields.io/badge/articles-3-green?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/workshops-6-orange?style=flat-square" alt="Total Workshops"></p>
+<div align='center'><p><img src="https://img.shields.io/badge/total-173-blue?style=flat-square" alt="Total Events"> <img src="https://img.shields.io/badge/meetups-34-violet?style=flat-square" alt="Total Meetups"> <img src="https://img.shields.io/badge/conferences-78-red?style=flat-square" alt="Total Conferences"> <img src="https://img.shields.io/badge/podcasts-26-yellow?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/webinars-19-lightgrey?style=flat-square" alt="Total Webinars"> <img src="https://img.shields.io/badge/articles-3-green?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/workshops-6-orange?style=flat-square" alt="Total Workshops"></p>
 </div>
   <p align='center'><h1 align='center'>Liran Tal - Public Speaking</h1>
 <p align='center'>I love doing Open Source, Node.js, JavaScript, Web Security & InfoSec, Public Speaking, and Building CLIs.</p></p><p align='center'><a href='liran_tal'><img alt='Twitter Follow' src='https://img.shields.io/twitter/follow/liran_tal?style=social'></a> <a href='https://www.linkedin.com/in/talliran'><img alt='LinkedIn Add Me' src='https://img.shields.io/badge/-Add&nbsp;Me&nbsp;on&nbsp;LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white'></a></p><p align='center'><img src='https://github.com/lirantal/public-speaking/blob/main/static/liran-tal-header-image.png' alt='Liran Tal public speaking profile' /></p>
@@ -14,7 +14,7 @@
 
 
  - [Year of 2024](#2024) - total events 1
- - [Year of 2023](#2023) - total events 29
+ - [Year of 2023](#2023) - total events 30
  - [Year of 2022](#2022) - total events 42
  - [Year of 2021](#2021) - total events 55
  - [Year of 2020](#2020) - total events 17
@@ -45,7 +45,7 @@
 # 2023
 
 
-![Total Events](https://img.shields.io/badge/total-29-blue?style=flat-square) ![Total Meetups](https://img.shields.io/badge/meetups-8-violet?style=flat-square) ![Total Conferences](https://img.shields.io/badge/conferences-11-red?style=flat-square) ![Total Podcasts](https://img.shields.io/badge/podcasts-4-yellow?style=flat-square) ![Total Webinars](https://img.shields.io/badge/webinars-4-lightgrey?style=flat-square)  ![Total Workshops](https://img.shields.io/badge/workshops-2-orange?style=flat-square)
+![Total Events](https://img.shields.io/badge/total-30-blue?style=flat-square) ![Total Meetups](https://img.shields.io/badge/meetups-8-violet?style=flat-square) ![Total Conferences](https://img.shields.io/badge/conferences-11-red?style=flat-square) ![Total Podcasts](https://img.shields.io/badge/podcasts-5-yellow?style=flat-square) ![Total Webinars](https://img.shields.io/badge/webinars-4-lightgrey?style=flat-square)  ![Total Workshops](https://img.shields.io/badge/workshops-2-orange?style=flat-square)
 
 
 <table>
@@ -154,6 +154,7 @@
 | 2023-6-6 | Future Frontend | [Developer Security Essentials with Snyk](pages/2023/2023-06-06.md) |  |  | [🇫🇮](## "Finland") | English |
 | 2023-5-31 | Dublin DevRel Meetup | [The Secret Life of Developer Advocates](pages/2023/2023-05-31.md) |  |  |  | English |
 | 2023-5-28 | JSDay Canarias | [Char Wars: The Path Traversal Strikes Back](pages/2023/2023-05-28.md) |  |  | [🇪🇸](## "Spain") | English |
+| 2023-5-24 | JsJabber | [Developer-First Security and Security Tooling For Developers with Liran Tal & Brian Vermeer](pages/2023/2023-05-24.md) |  | [Recording](https://www.youtube.com/watch?v=IfYGC28mHpM) |  | English |
 | 2023-5-19 | JSHeroes | [Char Wars: The Path Traversal Strikes Back](pages/2023/2023-05-19.md) |  | [Recording](https://www.youtube.com/watch?v=P1goT5BSFWM&list=PLB9NqTp0uKrR8g9ImDK2HPcpuC7oW8wYe&index=17) | [🇷🇴](## "Romania") | English |
 | 2023-5-17 | Security and path traversal with Liran Tal | [PodRocket - A web development podcast from LogRocket](pages/2023/2023-05-17.md) |  | [Recording](https://podcasts.google.com/feed/aHR0cHM6Ly9wb2Ryb2NrZXQubG9ncm9ja2V0LmNvbS9yc3M/episode/ZmZiMmNhYmUtNDQ2YS00Njk1LTg3YTUtZmM3NWY2MmYyZWJk?sa=X&ved=0CAUQkfYCahcKEwjY96SC14v_AhUAAAAAHQAAAAAQAQ) |  | English |
 | 2023-5-9 | Codemotion | [Hack-Proof The Node.js runtime: The Mechanics and Defense of Path Traversal Attacks](pages/2023/2023-05-09.md) |  |  | [🇪🇸](## "Spain") | English |
@@ -895,6 +896,6 @@
 
 
 
-*page updated on 2024-01-07T01:11:24.549Z*
+*page updated on 2024-01-07T07:09:24.506Z*
 
 powered by [gigsboat/cli](https://github.com/gigsboat/cli)
