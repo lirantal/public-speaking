@@ -147,7 +147,7 @@
 | 2023-10-26 | Commina | [Powering Communities with Open Source Software](pages/2023/2023-10-26.md) |  |  | [🇮🇱](## "Israel") | Hebrew |
 | 2023-9-18 | Infobip Shift 2023 | [TBD](pages/2023/2023-09-18.md) |  |  | [🇭🇷](## "Croatia") | English |
 | 2023-7-10 | Riviera DEV 2023 | [Hack-Proof Your Software Supply Chain, an Essential Guide for Developers](pages/2023/2023-07-10.md) |  |  | [🇫🇷](## "France") | English |
-| 2023-6-28 | NodeTLV | [Char Wars: The Path Traversal Strikes Back](pages/2023/2023-06-28.md) |  |  | [🇮🇱](## "Israel") | Hebrew |
+| 2023-6-28 | NodeTLV | [Char Wars: The Path Traversal Strikes Back](pages/2023/2023-06-28.md) |  | [Recording](https://www.youtube.com/watch?v=fRaqphtBJfQ) | [🇮🇱](## "Israel") | Hebrew |
 | 2023-6-20 | מפתחים מחוץ לקופסה | [From AI's Hallucinations to Software Vulnerabilities: Can Machines Dream of Secure Code?](pages/2023/2023-06-20.md) |  | [Recording](https://youtu.be/o-Y4KtwHT4M) | [🇮🇱](## "Israel") | Hebrew |
 | 2023-6-14 | Imperva's Cyber Security Meetup for Developers | [Your app is only as secure as your weakest line of code](pages/2023/2023-06-14.md) |  |  | [🇮🇱](## "Israel") | Hebrew |
 | 2023-6-9 | Future Frontend | [Char Wars: The Path Traversal Strikes Back](pages/2023/2023-06-09.md) |  |  | [🇫🇮](## "Finland") | English |
@@ -896,6 +896,6 @@
 
 
 
-*page updated on 2024-01-07T07:09:24.506Z*
+*page updated on 2024-01-07T07:09:53.195Z*
 
 powered by [gigsboat/cli](https://github.com/gigsboat/cli)
