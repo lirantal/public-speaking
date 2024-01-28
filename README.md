@@ -1,4 +1,4 @@
-<div align='center'><p><img src="https://img.shields.io/badge/total-177-blue?style=flat-square" alt="Total Events"> <img src="https://img.shields.io/badge/meetups-36-violet?style=flat-square" alt="Total Meetups"> <img src="https://img.shields.io/badge/conferences-78-red?style=flat-square" alt="Total Conferences"> <img src="https://img.shields.io/badge/podcasts-28-yellow?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/webinars-19-lightgrey?style=flat-square" alt="Total Webinars"> <img src="https://img.shields.io/badge/articles-3-green?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/workshops-6-orange?style=flat-square" alt="Total Workshops"></p>
+<div align='center'><p><img src="https://img.shields.io/badge/total-177-blue?style=flat-square" alt="Total Events"> <img src="https://img.shields.io/badge/meetups-35-violet?style=flat-square" alt="Total Meetups"> <img src="https://img.shields.io/badge/conferences-78-red?style=flat-square" alt="Total Conferences"> <img src="https://img.shields.io/badge/podcasts-28-yellow?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/webinars-20-lightgrey?style=flat-square" alt="Total Webinars"> <img src="https://img.shields.io/badge/articles-3-green?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/workshops-6-orange?style=flat-square" alt="Total Workshops"></p>
 </div>
   <p align='center'><h1 align='center'>Liran Tal - Public Speaking</h1>
 <p align='center'>I love doing Open Source, Node.js, JavaScript, Web Security & InfoSec, Public Speaking, and Building CLIs.</p></p><p align='center'><a href='liran_tal'><img alt='Twitter Follow' src='https://img.shields.io/twitter/follow/liran_tal?style=social'></a> <a href='https://www.linkedin.com/in/talliran'><img alt='LinkedIn Add Me' src='https://img.shields.io/badge/-Add&nbsp;Me&nbsp;on&nbsp;LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white'></a></p><p align='center'><img src='https://github.com/lirantal/public-speaking/blob/main/static/liran-tal-header-image.png' alt='Liran Tal public speaking profile' /></p>
@@ -26,11 +26,12 @@
 # 2024
 
 
-![Total Events](https://img.shields.io/badge/total-5-blue?style=flat-square) ![Total Meetups](https://img.shields.io/badge/meetups-3-violet?style=flat-square)  ![Total Podcasts](https://img.shields.io/badge/podcasts-2-yellow?style=flat-square)   
+![Total Events](https://img.shields.io/badge/total-5-blue?style=flat-square) ![Total Meetups](https://img.shields.io/badge/meetups-2-violet?style=flat-square)  ![Total Podcasts](https://img.shields.io/badge/podcasts-2-yellow?style=flat-square) ![Total Webinars](https://img.shields.io/badge/webinars-1-lightgrey?style=flat-square)  
 
 
 <table>
   <tr>
+    <td align="center"> <img src="https://pbs.twimg.com/media/GEwj2Q6W4AAKOIv?format=jpg&name=medium" width="85" height="50" /> </td>
     <td align="center"> <img src="https://secure.meetupstatic.com/photos/event/9/0/6/0/600_518136960.webp?w=384" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/GCbp-WtWsAAjgaL?format=jpg&name=medium" width="85" height="50" /> </td>
   </tr>
@@ -42,7 +43,7 @@
 | 2024-2-20 |  | [Permit.io: Node.js Security Masterclass](pages/2024/2024-02-20.md) |  |  |  | Hebrew |
 | 2024-2-15 | GenAI and LLMs: Security concerns for developers | [Tikal Israeli Tech Radar](pages/2024/2024-02-15.md) |  |  |  | Hebrew |
 | 2024-2-1 |  | [The Secure Developer Podcast](pages/2024/2024-02-01.md) |  |  |  | Hebrew |
-| 2024-1-30 | Can Machines Dream of Secure Code? | [The Monthly Dev #37 - AI development](pages/2024/2024-01-30.md) |  |  |  | Hebrew |
+| 2024-1-30 | Can Machines Dream of Secure Code? | [The Monthly Dev #37 - AI development](pages/2024/2024-01-30.md) |  | [Recording](https://www.youtube.com/watch?v=dGJmG6FgH18) |  | Hebrew |
 | 2024-1-29 | Can Machines Dream of Secure Code? | [Israeli Tech Radar](pages/2024/2024-01-29.md) |  |  |  | Hebrew |
 
 
@@ -900,6 +901,6 @@
 
 
 
-*page updated on 2024-01-28T01:06:39.663Z*
+*page updated on 2024-01-28T09:47:13.762Z*
 
 powered by [gigsboat/cli](https://github.com/gigsboat/cli)
