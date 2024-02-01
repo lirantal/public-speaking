@@ -1,4 +1,4 @@
-<div align='center'><p><img src="https://img.shields.io/badge/total-177-blue?style=flat-square" alt="Total Events"> <img src="https://img.shields.io/badge/meetups-35-violet?style=flat-square" alt="Total Meetups"> <img src="https://img.shields.io/badge/conferences-78-red?style=flat-square" alt="Total Conferences"> <img src="https://img.shields.io/badge/podcasts-28-yellow?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/webinars-20-lightgrey?style=flat-square" alt="Total Webinars"> <img src="https://img.shields.io/badge/articles-3-green?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/workshops-6-orange?style=flat-square" alt="Total Workshops"></p>
+<div align='center'><p><img src="https://img.shields.io/badge/total-178-blue?style=flat-square" alt="Total Events"> <img src="https://img.shields.io/badge/meetups-35-violet?style=flat-square" alt="Total Meetups"> <img src="https://img.shields.io/badge/conferences-78-red?style=flat-square" alt="Total Conferences"> <img src="https://img.shields.io/badge/podcasts-29-yellow?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/webinars-20-lightgrey?style=flat-square" alt="Total Webinars"> <img src="https://img.shields.io/badge/articles-3-green?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/workshops-6-orange?style=flat-square" alt="Total Workshops"></p>
 </div>
   <p align='center'><h1 align='center'>Liran Tal - Public Speaking</h1>
 <p align='center'>I love doing Open Source, Node.js, JavaScript, Web Security & InfoSec, Public Speaking, and Building CLIs.</p></p><p align='center'><a href='liran_tal'><img alt='Twitter Follow' src='https://img.shields.io/twitter/follow/liran_tal?style=social'></a> <a href='https://www.linkedin.com/in/talliran'><img alt='LinkedIn Add Me' src='https://img.shields.io/badge/-Add&nbsp;Me&nbsp;on&nbsp;LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white'></a></p><p align='center'><img src='https://github.com/lirantal/public-speaking/blob/main/static/liran-tal-header-image.png' alt='Liran Tal public speaking profile' /></p>
@@ -13,7 +13,7 @@
 # Table of Contents
 
 
- - [Year of 2024](#2024) - total events 5
+ - [Year of 2024](#2024) - total events 6
  - [Year of 2023](#2023) - total events 30
  - [Year of 2022](#2022) - total events 42
  - [Year of 2021](#2021) - total events 55
@@ -26,7 +26,7 @@
 # 2024
 
 
-![Total Events](https://img.shields.io/badge/total-5-blue?style=flat-square) ![Total Meetups](https://img.shields.io/badge/meetups-2-violet?style=flat-square)  ![Total Podcasts](https://img.shields.io/badge/podcasts-2-yellow?style=flat-square) ![Total Webinars](https://img.shields.io/badge/webinars-1-lightgrey?style=flat-square)  
+![Total Events](https://img.shields.io/badge/total-6-blue?style=flat-square) ![Total Meetups](https://img.shields.io/badge/meetups-2-violet?style=flat-square)  ![Total Podcasts](https://img.shields.io/badge/podcasts-3-yellow?style=flat-square) ![Total Webinars](https://img.shields.io/badge/webinars-1-lightgrey?style=flat-square)  
 
 
 <table>
@@ -44,6 +44,7 @@
 
 | Date | Event | Title | Slides | Recording | Location | Language |
 | ---- | ----- | ----- | ------ | --------- | -------- | -------- |
+| 2024-3-12 |  | [Red Hat: Talk Open](pages/2024/2024-03-12.md) |  |  |  | Hebrew |
 | 2024-2-20 |  | [Permit.io: Node.js Security Masterclass](pages/2024/2024-02-20.md) |  |  |  | Hebrew |
 | 2024-2-15 | GenAI and LLMs: Security concerns for developers | [Tikal Israeli Tech Radar](pages/2024/2024-02-15.md) |  |  |  | Hebrew |
 | 2024-2-1 | Inside The Matrix Of Container Security: A Deep Dive Into Container Breakout Vulnerabilities | [The Secure Developer Podcast](pages/2024/2024-02-01.md) |  | [Recording](https://www.devseccon.com/the-secure-developer-podcast/inside-the-matrix-of-container-security-a-deep-dive-into-container-breakout-vulnerabilities) |  | English |
@@ -905,6 +906,6 @@
 
 
 
-*page updated on 2024-02-01T07:35:37.883Z*
+*page updated on 2024-02-01T07:36:41.176Z*
 
 powered by [gigsboat/cli](https://github.com/gigsboat/cli)
