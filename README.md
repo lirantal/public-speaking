@@ -31,6 +31,7 @@
 
 <table>
   <tr>
+    <td align="center"> <img src="https://www.devseccon.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fpodcast-default-thumb.1c60f6e6.png&w=2560&q=75" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/GEwj2Q6W4AAKOIv?format=jpg&name=medium" width="85" height="50" /> </td>
     <td align="center"> <img src="https://secure.meetupstatic.com/photos/event/9/0/6/0/600_518136960.webp?w=384" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/GCbp-WtWsAAjgaL?format=jpg&name=medium" width="85" height="50" /> </td>
@@ -45,7 +46,7 @@
 | ---- | ----- | ----- | ------ | --------- | -------- | -------- |
 | 2024-2-20 |  | [Permit.io: Node.js Security Masterclass](pages/2024/2024-02-20.md) |  |  |  | Hebrew |
 | 2024-2-15 | GenAI and LLMs: Security concerns for developers | [Tikal Israeli Tech Radar](pages/2024/2024-02-15.md) |  |  |  | Hebrew |
-| 2024-2-1 |  | [The Secure Developer Podcast](pages/2024/2024-02-01.md) |  |  |  | Hebrew |
+| 2024-2-1 | Inside The Matrix Of Container Security: A Deep Dive Into Container Breakout Vulnerabilities | [The Secure Developer Podcast](pages/2024/2024-02-01.md) |  | [Recording](https://www.devseccon.com/the-secure-developer-podcast/inside-the-matrix-of-container-security-a-deep-dive-into-container-breakout-vulnerabilities) |  | English |
 | 2024-1-30 | Can Machines Dream of Secure Code? | [The Monthly Dev #37 - AI development](pages/2024/2024-01-30.md) |  | [Recording](https://www.youtube.com/watch?v=dGJmG6FgH18) |  | Hebrew |
 | 2024-1-29 | Can Machines Dream of Secure Code? | [Israeli Tech Radar](pages/2024/2024-01-29.md) |  |  |  | Hebrew |
 
@@ -904,6 +905,6 @@
 
 
 
-*page updated on 2024-01-30T19:05:39.409Z*
+*page updated on 2024-02-01T07:35:37.883Z*
 
 powered by [gigsboat/cli](https://github.com/gigsboat/cli)
