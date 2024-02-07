@@ -1,4 +1,4 @@
-<div align='center'><p><img src="https://img.shields.io/badge/total-180-blue?style=flat-square" alt="Total Events"> <img src="https://img.shields.io/badge/meetups-36-violet?style=flat-square" alt="Total Meetups"> <img src="https://img.shields.io/badge/conferences-78-red?style=flat-square" alt="Total Conferences"> <img src="https://img.shields.io/badge/podcasts-30-yellow?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/webinars-20-lightgrey?style=flat-square" alt="Total Webinars"> <img src="https://img.shields.io/badge/articles-3-green?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/workshops-6-orange?style=flat-square" alt="Total Workshops"></p>
+<div align='center'><p><img src="https://img.shields.io/badge/total-181-blue?style=flat-square" alt="Total Events"> <img src="https://img.shields.io/badge/meetups-36-violet?style=flat-square" alt="Total Meetups"> <img src="https://img.shields.io/badge/conferences-79-red?style=flat-square" alt="Total Conferences"> <img src="https://img.shields.io/badge/podcasts-30-yellow?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/webinars-20-lightgrey?style=flat-square" alt="Total Webinars"> <img src="https://img.shields.io/badge/articles-3-green?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/workshops-6-orange?style=flat-square" alt="Total Workshops"></p>
 </div>
   <p align='center'><h1 align='center'>Liran Tal - Public Speaking</h1>
 <p align='center'>I love doing Open Source, Node.js, JavaScript, Web Security & InfoSec, Public Speaking, and Building CLIs.</p></p><p align='center'><a href='liran_tal'><img alt='Twitter Follow' src='https://img.shields.io/twitter/follow/liran_tal?style=social'></a> <a href='https://www.linkedin.com/in/talliran'><img alt='LinkedIn Add Me' src='https://img.shields.io/badge/-Add&nbsp;Me&nbsp;on&nbsp;LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white'></a></p><p align='center'><img src='https://github.com/lirantal/public-speaking/blob/main/static/liran-tal-header-image.png' alt='Liran Tal public speaking profile' /></p>
@@ -13,7 +13,7 @@
 # Table of Contents
 
 
- - [Year of 2024](#2024) - total events 8
+ - [Year of 2024](#2024) - total events 9
  - [Year of 2023](#2023) - total events 30
  - [Year of 2022](#2022) - total events 42
  - [Year of 2021](#2021) - total events 55
@@ -26,17 +26,21 @@
 # 2024
 
 
-![Total Events](https://img.shields.io/badge/total-8-blue?style=flat-square) ![Total Meetups](https://img.shields.io/badge/meetups-3-violet?style=flat-square)  ![Total Podcasts](https://img.shields.io/badge/podcasts-4-yellow?style=flat-square) ![Total Webinars](https://img.shields.io/badge/webinars-1-lightgrey?style=flat-square)  
+![Total Events](https://img.shields.io/badge/total-9-blue?style=flat-square) ![Total Meetups](https://img.shields.io/badge/meetups-3-violet?style=flat-square) ![Total Conferences](https://img.shields.io/badge/conferences-1-red?style=flat-square) ![Total Podcasts](https://img.shields.io/badge/podcasts-4-yellow?style=flat-square) ![Total Webinars](https://img.shields.io/badge/webinars-1-lightgrey?style=flat-square)  
 
 
 <table>
   <tr>
+    <td align="center"> <img src="https://media.licdn.com/dms/image/D4D10AQGpyP8iP1pz2g/image-shrink_1280/0/1707292846095?e=1707944400&v=beta&t=LYhvT4qOpnMwqSe57dFzY4I1kY5SKJzLAlo-FyI93GY" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://pbs.twimg.com/media/GFuCOPFXcAAYHeQ?format=jpg&name=4096x4096" width="85" height="50" /> </td>
     <td align="center"> <img src="https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,quality=75,width=400,height=400/event-covers/3n/0556ef20-5e18-4f95-951d-6c64921c497b" width="85" height="50" /> </td>
     <td align="center"> <img src="https://www.devseccon.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fpodcast-default-thumb.1c60f6e6.png&w=2560&q=75" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/GEwj2Q6W4AAKOIv?format=jpg&name=medium" width="85" height="50" /> </td>
     <td align="center"> <img src="https://secure.meetupstatic.com/photos/event/9/0/6/0/600_518136960.webp?w=384" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/GCbp-WtWsAAjgaL?format=jpg&name=medium" width="85" height="50" /> </td>
     <td align="center"> <img src="https://media.licdn.com/dms/image/D4D22AQE19dFaJQawSA/feedshare-shrink_1280/0/1706609161888?e=1709769600&v=beta&t=Un7eSyuKSyqTAzohWMuFpAZ88EiY3QDMm_WSYETHA4w" width="85" height="50" /> </td>
+  </tr>
+  <tr>
     <td align="center"> <img src="https://media.licdn.com/dms/image/D4D22AQFjQsZVJk1spw/feedshare-shrink_2048_1536/0/1706609158148?e=1709769600&v=beta&t=t_JV4_fsx_JC0wIw1Hal52b-Dvje8jIpvwrxUReMtRg" width="85" height="50" /> </td>
     <td align="center"> <img src="https://media.licdn.com/dms/image/D4D22AQH0jiL28Wyhpw/feedshare-shrink_2048_1536/0/1706609159636?e=1709769600&v=beta&t=ZcaPvBONzU9gta2Jt9WWa8ZmD4IRf3Ss7XhbKmAv8rg" width="85" height="50" /> </td>
   </tr>
@@ -45,6 +49,7 @@
 
 | Date | Event | Title | Slides | Recording | Location | Language |
 | ---- | ----- | ----- | ------ | --------- | -------- | -------- |
+| 2024-6-13 | Can Machines Dream of Secure Code? Let’s hack a Node.js and a React app | [DevBcn](pages/2024/2024-06-13.md) |  |  | [🇪🇸](## "Spain") | English |
 | 2024-3-19 | Career in High-Tech | [Ashdod Tech Meetups: Career in High-Tech panel](pages/2024/2024-03-19.md) |  |  |  | Hebrew |
 | 2024-3-12 |  | [Red Hat: Talk Open](pages/2024/2024-03-12.md) |  |  |  | Hebrew |
 | 2024-2-27 |  | [Create your own Copilot using Semantic Kernel (Reactor series- GenAI for software)](pages/2024/2024-02-27.md) |  |  |  | Hebrew |
@@ -909,6 +914,6 @@
 
 
 
-*page updated on 2024-02-07T17:30:38.013Z*
+*page updated on 2024-02-07T20:30:02.224Z*
 
 powered by [gigsboat/cli](https://github.com/gigsboat/cli)
