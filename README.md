@@ -43,6 +43,8 @@
   <tr>
     <td align="center"> <img src="https://media.licdn.com/dms/image/D4D22AQFjQsZVJk1spw/feedshare-shrink_2048_1536/0/1706609158148?e=1709769600&v=beta&t=t_JV4_fsx_JC0wIw1Hal52b-Dvje8jIpvwrxUReMtRg" width="85" height="50" /> </td>
     <td align="center"> <img src="https://media.licdn.com/dms/image/D4D22AQH0jiL28Wyhpw/feedshare-shrink_2048_1536/0/1706609159636?e=1709769600&v=beta&t=ZcaPvBONzU9gta2Jt9WWa8ZmD4IRf3Ss7XhbKmAv8rg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://media.licdn.com/dms/image/D4D10AQHeiS0CCYw3yQ/image-shrink_1280/0/1707351305125?e=1707984000&v=beta&t=NP1NMxhx3N6UJ2RF0oZsCA891RfSsKEaPKzqLbHNBzM" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://media.licdn.com/dms/image/D4D10AQGrFbLz1CpOqQ/image-shrink_1280/0/1707351315014?e=1707984000&v=beta&t=_DEV54hSs2fSzwpUFLwZRnd-cPYEyrwc-DbtQ8B1lBM" width="85" height="50" /> </td>
   </tr>
 </table>
 
@@ -914,6 +916,6 @@
 
 
 
-*page updated on 2024-02-07T20:30:02.224Z*
+*page updated on 2024-02-08T08:11:32.253Z*
 
 powered by [gigsboat/cli](https://github.com/gigsboat/cli)
