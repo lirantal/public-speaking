@@ -1,4 +1,4 @@
-<div align='center'><p><img src="https://img.shields.io/badge/total-181-blue?style=flat-square" alt="Total Events"> <img src="https://img.shields.io/badge/meetups-36-violet?style=flat-square" alt="Total Meetups"> <img src="https://img.shields.io/badge/conferences-79-red?style=flat-square" alt="Total Conferences"> <img src="https://img.shields.io/badge/podcasts-30-yellow?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/webinars-20-lightgrey?style=flat-square" alt="Total Webinars"> <img src="https://img.shields.io/badge/articles-3-green?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/workshops-6-orange?style=flat-square" alt="Total Workshops"></p>
+<div align='center'><p><img src="https://img.shields.io/badge/total-182-blue?style=flat-square" alt="Total Events"> <img src="https://img.shields.io/badge/meetups-36-violet?style=flat-square" alt="Total Meetups"> <img src="https://img.shields.io/badge/conferences-79-red?style=flat-square" alt="Total Conferences"> <img src="https://img.shields.io/badge/podcasts-30-yellow?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/webinars-21-lightgrey?style=flat-square" alt="Total Webinars"> <img src="https://img.shields.io/badge/articles-3-green?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/workshops-6-orange?style=flat-square" alt="Total Workshops"></p>
 </div>
   <p align='center'><h1 align='center'>Liran Tal - Public Speaking</h1>
 <p align='center'>I love doing Open Source, Node.js, JavaScript, Web Security & InfoSec, Public Speaking, and Building CLIs.</p></p><p align='center'><a href='liran_tal'><img alt='Twitter Follow' src='https://img.shields.io/twitter/follow/liran_tal?style=social'></a> <a href='https://www.linkedin.com/in/talliran'><img alt='LinkedIn Add Me' src='https://img.shields.io/badge/-Add&nbsp;Me&nbsp;on&nbsp;LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white'></a></p><p align='center'><img src='https://github.com/lirantal/public-speaking/blob/main/static/liran-tal-header-image.png' alt='Liran Tal public speaking profile' /></p>
@@ -15,7 +15,7 @@
 
  - [Year of 2024](#2024) - total events 9
  - [Year of 2023](#2023) - total events 30
- - [Year of 2022](#2022) - total events 42
+ - [Year of 2022](#2022) - total events 43
  - [Year of 2021](#2021) - total events 55
  - [Year of 2020](#2020) - total events 17
  - [Year of 2019](#2019) - total events 21
@@ -193,7 +193,7 @@
 # 2022
 
 
-![Total Events](https://img.shields.io/badge/total-42-blue?style=flat-square) ![Total Meetups](https://img.shields.io/badge/meetups-11-violet?style=flat-square) ![Total Conferences](https://img.shields.io/badge/conferences-15-red?style=flat-square) ![Total Podcasts](https://img.shields.io/badge/podcasts-7-yellow?style=flat-square) ![Total Webinars](https://img.shields.io/badge/webinars-5-lightgrey?style=flat-square)  ![Total Workshops](https://img.shields.io/badge/workshops-4-orange?style=flat-square)
+![Total Events](https://img.shields.io/badge/total-43-blue?style=flat-square) ![Total Meetups](https://img.shields.io/badge/meetups-11-violet?style=flat-square) ![Total Conferences](https://img.shields.io/badge/conferences-15-red?style=flat-square) ![Total Podcasts](https://img.shields.io/badge/podcasts-7-yellow?style=flat-square) ![Total Webinars](https://img.shields.io/badge/webinars-6-lightgrey?style=flat-square)  ![Total Workshops](https://img.shields.io/badge/workshops-4-orange?style=flat-square)
 
 
 <table>
@@ -389,12 +389,15 @@
   </tr>
   <tr>
     <td align="center"> <img src="https://pbs.twimg.com/media/FLtJGsWWUAApQVR?format=jpg&name=large" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://pbs.twimg.com/media/FMHY0jFXMAQOQrb?format=jpg&name=medium" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/FLkUlAkWUAEE-q2?format=jpg&name=large" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/FLkPH41aIAUOCcZ?format=jpg&name=large" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/FLFFmkMXMAQlcFf?format=jpg&name=large" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/FJe5mwjXEAQHXK9?format=jpg&name=large" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/FJdJpCxXIAAZBUL?format=jpg&name=medium" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/FJdJsRJXMAEQLhd?format=jpg&name=large" width="85" height="50" /> </td>
+  </tr>
+  <tr>
     <td align="center"> <img src="https://pbs.twimg.com/media/FO7PRY3WQAEXThU?format=jpg&name=large" width="85" height="50" /> </td>
   </tr>
 </table>
@@ -438,6 +441,7 @@
 | 2022-3-25 | Voxxed Days Bucharesst | [Let me show you how React applications get hacked in the real-world ](pages/2022/2022-03-25.md) |  |  |  | English |
 | 2022-3-21 | React Israel meetup | [How React Applications Get Hacked in the Real-World](pages/2022/2022-03-21.md) |  |  |  | Hebrew |
 | 2022-3-15 | Developer Advocast | [User Zero & Product Feedback Loops](pages/2022/2022-03-15.md) |  | [Recording](https://www.youtube.com/watch?v=LdggfJifBC8&t=1s&ab_channel=DeveloperAdvocast) |  | English |
+| 2022-2-25 | Hacking & Patching Node.js Security Vulnerabilities | [The Big Fix](pages/2022/2022-02-25.md) |  | [Recording](https://www.youtube.com/watch?v=BeLMMnU3KV8) |  | English |
 | 2022-2-16 | This Is Learning | [Node.js Security with Liran Tal](pages/2022/2022-02-16.md) |  | [Recording](https://www.youtube.com/watch?v=x6KMk2q9ZIs&ab_channel=ThisisTechTalks) |  | English |
 | 2022-2-15 | SLIIT FOSS Community | [Application Security for Node.js](pages/2022/2022-02-15.md) |  | [Recording](https://www.twitch.tv/videos/1298789598) |  | English |
 | 2022-2-10 | Node.js Security | [SheHacks Kenya invites Liran Tal to a Node.js security session](pages/2022/2022-02-10.md) |  |  |  | English |
@@ -916,6 +920,6 @@
 
 
 
-*page updated on 2024-02-11T01:06:21.956Z*
+*page updated on 2024-02-14T18:53:42.992Z*
 
 powered by [gigsboat/cli](https://github.com/gigsboat/cli)
