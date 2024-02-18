@@ -1,4 +1,4 @@
-<div align='center'><p><img src="https://img.shields.io/badge/total-182-blue?style=flat-square" alt="Total Events"> <img src="https://img.shields.io/badge/meetups-36-violet?style=flat-square" alt="Total Meetups"> <img src="https://img.shields.io/badge/conferences-79-red?style=flat-square" alt="Total Conferences"> <img src="https://img.shields.io/badge/podcasts-30-yellow?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/webinars-21-lightgrey?style=flat-square" alt="Total Webinars"> <img src="https://img.shields.io/badge/articles-3-green?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/workshops-6-orange?style=flat-square" alt="Total Workshops"></p>
+<div align='center'><p><img src="https://img.shields.io/badge/total-183-blue?style=flat-square" alt="Total Events"> <img src="https://img.shields.io/badge/meetups-37-violet?style=flat-square" alt="Total Meetups"> <img src="https://img.shields.io/badge/conferences-79-red?style=flat-square" alt="Total Conferences"> <img src="https://img.shields.io/badge/podcasts-30-yellow?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/webinars-21-lightgrey?style=flat-square" alt="Total Webinars"> <img src="https://img.shields.io/badge/articles-3-green?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/workshops-6-orange?style=flat-square" alt="Total Workshops"></p>
 </div>
   <p align='center'><h1 align='center'>Liran Tal - Public Speaking</h1>
 <p align='center'>I love doing Open Source, Node.js, JavaScript, Web Security & InfoSec, Public Speaking, and Building CLIs.</p></p><p align='center'><a href='liran_tal'><img alt='Twitter Follow' src='https://img.shields.io/twitter/follow/liran_tal?style=social'></a> <a href='https://www.linkedin.com/in/talliran'><img alt='LinkedIn Add Me' src='https://img.shields.io/badge/-Add&nbsp;Me&nbsp;on&nbsp;LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white'></a></p><p align='center'><img src='https://github.com/lirantal/public-speaking/blob/main/static/liran-tal-header-image.png' alt='Liran Tal public speaking profile' /></p>
@@ -13,7 +13,7 @@
 # Table of Contents
 
 
- - [Year of 2024](#2024) - total events 9
+ - [Year of 2024](#2024) - total events 10
  - [Year of 2023](#2023) - total events 30
  - [Year of 2022](#2022) - total events 43
  - [Year of 2021](#2021) - total events 55
@@ -26,7 +26,7 @@
 # 2024
 
 
-![Total Events](https://img.shields.io/badge/total-9-blue?style=flat-square) ![Total Meetups](https://img.shields.io/badge/meetups-3-violet?style=flat-square) ![Total Conferences](https://img.shields.io/badge/conferences-1-red?style=flat-square) ![Total Podcasts](https://img.shields.io/badge/podcasts-4-yellow?style=flat-square) ![Total Webinars](https://img.shields.io/badge/webinars-1-lightgrey?style=flat-square)  
+![Total Events](https://img.shields.io/badge/total-10-blue?style=flat-square) ![Total Meetups](https://img.shields.io/badge/meetups-4-violet?style=flat-square) ![Total Conferences](https://img.shields.io/badge/conferences-1-red?style=flat-square) ![Total Podcasts](https://img.shields.io/badge/podcasts-4-yellow?style=flat-square) ![Total Webinars](https://img.shields.io/badge/webinars-1-lightgrey?style=flat-square)  
 
 
 <table>
@@ -52,6 +52,7 @@
 | Date | Event | Title | Slides | Recording | Location | Language |
 | ---- | ----- | ----- | ------ | --------- | -------- | -------- |
 | 2024-6-13 | Can Machines Dream of Secure Code? Let’s hack a Node.js and a React app | [DevBcn](pages/2024/2024-06-13.md) |  |  | [🇪🇸](## "Spain") | English |
+| 2024-3-31 |  | [AWS Startups event - DevRel Panel](pages/2024/2024-03-31.md) |  |  | [🇮🇱](## "Israel") | Hebrew |
 | 2024-3-19 | Career in High-Tech | [Ashdod Tech Meetups: Career in High-Tech panel](pages/2024/2024-03-19.md) |  |  |  | Hebrew |
 | 2024-3-12 |  | [Red Hat: Talk Open](pages/2024/2024-03-12.md) |  |  |  | Hebrew |
 | 2024-2-27 |  | [Create your own Copilot using Semantic Kernel (Reactor series- GenAI for software)](pages/2024/2024-02-27.md) |  |  |  | Hebrew |
@@ -920,6 +921,6 @@
 
 
 
-*page updated on 2024-02-18T01:05:33.587Z*
+*page updated on 2024-02-18T08:42:04.000Z*
 
 powered by [gigsboat/cli](https://github.com/gigsboat/cli)
