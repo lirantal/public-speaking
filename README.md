@@ -162,7 +162,7 @@
 | Date | Event | Title | Slides | Recording | Location | Language |
 | ---- | ----- | ----- | ------ | --------- | -------- | -------- |
 | 2023-12-14 | Fireside with Liran Tal on DevRel | [Voxgig Podcast](pages/2023/2023-12-14.md) |  | [Recording](https://www.voxgig.com/podcast/liran-tal-director-of-developer-advocacy-at-snyk-december-2023) |  | English |
-| 2023-12-2 | Node.js fwdays'23 | [Can Machines Dream of Secure Code?](pages/2023/2023-12-02.md) |  |  |  | English |
+| 2023-12-2 | Node.js fwdays'23 | [Can Machines Dream of Secure Code?](pages/2023/2023-12-02.md) |  | [Recording](https://www.youtube.com/watch?v=BowAPvadTX4) |  | English |
 | 2023-12-2 | The Testing Developers by Keploy | [Ensuring Code Security: A Testing Insight with Liran Tal from Snyk](pages/2023/2023-12-02_podcast.md) |  |  |  | English |
 | 2023-11-16 | Black Hat | [AI Hallucinations and Manipulation: How to Use AI Coding Tools Securely](pages/2023/2023-11-16.md) |  |  |  | English |
 | 2023-11-8 | Linux Foundation AI Security Webinar | [AI Hallucinations and Manipulation: How to Use AI Coding Tools Securely](pages/2023/2023-11-08.md) |  | [Recording](https://www.youtube.com/watch?v=iPJQBuLwymE) |  | English |
@@ -923,6 +923,6 @@
 
 
 
-*page updated on 2024-05-05T01:09:15.890Z*
+*page updated on 2024-05-07T08:52:02.136Z*
 
 powered by [gigsboat/cli](https://github.com/gigsboat/cli)
