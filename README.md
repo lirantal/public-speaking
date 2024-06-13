@@ -57,7 +57,7 @@
 | 2024-6-13 | Can Machines Dream of Secure Code? Let’s hack a Node.js and a React app | [DevBcn](pages/2024/2024-06-13.md) |  |  | [🇪🇸](## "Spain") | English |
 | 2024-5-21 | Application Security Weekly | [Node.js Secure Coding - Liran Tal ASW #286](pages/2024/2024-05-21.md) |  | [Recording](https://www.youtube.com/watch?v=VGJIQutCqvI) |  | English |
 | 2024-3-31 |  | [AWS Startups event - DevRel Panel](pages/2024/2024-03-31.md) |  |  | [🇮🇱](## "Israel") | Hebrew |
-| 2024-3-19 | Career in High-Tech | [Ashdod Tech Meetups: Career in High-Tech panel](pages/2024/2024-03-19.md) |  |  |  | Hebrew |
+| 2024-3-19 | Career in High-Tech | [Ashdod Tech Meetups: Career in High-Tech panel](pages/2024/2024-03-19.md) |  |  | [🇮🇱](## "Israel") | Hebrew |
 | 2024-3-12 |  | [Red Hat: Talk Open](pages/2024/2024-03-12.md) |  |  |  | Hebrew |
 | 2024-2-27 |  | [Create your own Copilot using Semantic Kernel (Reactor series- GenAI for software)](pages/2024/2024-02-27.md) |  |  |  | Hebrew |
 | 2024-2-20 | Node.js Security: Frameworks, Access Control, and Best Practices | [Permit.io: Node.js Security Masterclass](pages/2024/2024-02-20.md) |  | [Recording](https://lu.ma/3biixupl) |  | English |
@@ -925,6 +925,6 @@
 
 
 
-*page updated on 2024-06-13T19:15:50.026Z*
+*page updated on 2024-06-13T19:16:31.855Z*
 
 powered by [gigsboat/cli](https://github.com/gigsboat/cli)
