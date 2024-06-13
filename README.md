@@ -59,9 +59,9 @@
 | 2024-3-31 |  | [AWS Startups event - DevRel Panel](pages/2024/2024-03-31.md) |  |  | [🇮🇱](## "Israel") | Hebrew |
 | 2024-3-19 | Career in High-Tech | [Ashdod Tech Meetups: Career in High-Tech panel](pages/2024/2024-03-19.md) |  |  | [🇮🇱](## "Israel") | Hebrew |
 | 2024-3-12 |  | [Red Hat: Talk Open](pages/2024/2024-03-12.md) |  |  |  | Hebrew |
-| 2024-2-27 |  | [Create your own Copilot using Semantic Kernel (Reactor series- GenAI for software)](pages/2024/2024-02-27.md) |  |  |  | Hebrew |
+| 2024-2-27 |  | [Create your own Copilot using Semantic Kernel (Reactor series- GenAI for software)](pages/2024/2024-02-27.md) |  |  | [🇮🇱](## "Israel") | Hebrew |
 | 2024-2-20 | Node.js Security: Frameworks, Access Control, and Best Practices | [Permit.io: Node.js Security Masterclass](pages/2024/2024-02-20.md) |  | [Recording](https://lu.ma/3biixupl) |  | English |
-| 2024-2-15 | GenAI and LLMs: Security concerns for developers | [Tikal Israeli Tech Radar](pages/2024/2024-02-15.md) |  | [Recording](https://open.spotify.com/episode/59MhsWUfvjR0IG7DhckxS0) |  | Hebrew |
+| 2024-2-15 | GenAI and LLMs: Security concerns for developers | [Tikal Israeli Tech Radar](pages/2024/2024-02-15.md) |  | [Recording](https://open.spotify.com/episode/59MhsWUfvjR0IG7DhckxS0) | [🇮🇱](## "Israel") | Hebrew |
 | 2024-2-1 | Inside The Matrix Of Container Security: A Deep Dive Into Container Breakout Vulnerabilities | [The Secure Developer Podcast](pages/2024/2024-02-01.md) |  | [Recording](https://www.devseccon.com/the-secure-developer-podcast/inside-the-matrix-of-container-security-a-deep-dive-into-container-breakout-vulnerabilities) |  | English |
 | 2024-1-30 | Can Machines Dream of Secure Code? | [The Monthly Dev #37 - AI development](pages/2024/2024-01-30.md) |  | [Recording](https://www.youtube.com/watch?v=dGJmG6FgH18) |  | Hebrew |
 | 2024-1-29 | Can Machines Dream of Secure Code? | [Israeli Tech Radar](pages/2024/2024-01-29.md) |  | [Recording](https://www.youtube.com/watch?v=_HN-jGrcuBI) |  | Hebrew |
@@ -925,6 +925,6 @@
 
 
 
-*page updated on 2024-06-13T19:16:31.855Z*
+*page updated on 2024-06-13T19:17:58.318Z*
 
 powered by [gigsboat/cli](https://github.com/gigsboat/cli)
