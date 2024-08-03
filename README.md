@@ -35,12 +35,13 @@
     <td align="center"> <img src="https://pbs.twimg.com/media/GFuCOPFXcAAYHeQ?format=jpg&name=4096x4096" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/GP8qe1sWMAA1umZ?format=jpg&name=large" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/GRJvVcRW8AAKa8m?format=jpg&name=large" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog15366739/2024073014081969_300x300.png" width="85" height="50" /> </td>
     <td align="center"> <img src="https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,quality=75,width=400,height=400/event-covers/3n/0556ef20-5e18-4f95-951d-6c64921c497b" width="85" height="50" /> </td>
     <td align="center"> <img src="https://www.devseccon.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fpodcast-default-thumb.1c60f6e6.png&w=2560&q=75" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/GEwj2Q6W4AAKOIv?format=jpg&name=medium" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://secure.meetupstatic.com/photos/event/9/0/6/0/600_518136960.webp?w=384" width="85" height="50" /> </td>
   </tr>
   <tr>
+    <td align="center"> <img src="https://secure.meetupstatic.com/photos/event/9/0/6/0/600_518136960.webp?w=384" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/GCbp-WtWsAAjgaL?format=jpg&name=medium" width="85" height="50" /> </td>
     <td align="center"> <img src="https://media.licdn.com/dms/image/D4D22AQE19dFaJQawSA/feedshare-shrink_1280/0/1706609161888?e=1709769600&v=beta&t=Un7eSyuKSyqTAzohWMuFpAZ88EiY3QDMm_WSYETHA4w" width="85" height="50" /> </td>
     <td align="center"> <img src="https://media.licdn.com/dms/image/D4D22AQFjQsZVJk1spw/feedshare-shrink_2048_1536/0/1706609158148?e=1709769600&v=beta&t=t_JV4_fsx_JC0wIw1Hal52b-Dvje8jIpvwrxUReMtRg" width="85" height="50" /> </td>
@@ -59,7 +60,7 @@
 | 2024-5-21 | Application Security Weekly | [Node.js Secure Coding - Liran Tal ASW #286](pages/2024/2024-05-21.md) |  | [Recording](https://www.youtube.com/watch?v=VGJIQutCqvI) |  | English |
 | 2024-3-31 |  | [AWS Startups event - DevRel Panel](pages/2024/2024-03-31.md) |  |  | [🇮🇱](## "Israel") | Hebrew |
 | 2024-3-19 | Career in High-Tech | [Ashdod Tech Meetups: Career in High-Tech panel](pages/2024/2024-03-19.md) |  |  | [🇮🇱](## "Israel") | Hebrew |
-| 2024-3-12 |  | [Red Hat: Talk Open](pages/2024/2024-03-12.md) |  |  |  | Hebrew |
+| 2024-3-12 | כותבים קוד בטוח באמצעות קוד פתוח - לירן טל | [Red Hat: Talk Open](pages/2024/2024-03-12.md) |  | [Recording](https://talkingopen.podbean.com/e/%d7%9c%d7%99%d7%a8%d7%9f-%d7%98%d7%9c/) |  | Hebrew |
 | 2024-2-27 |  | [Create your own Copilot using Semantic Kernel (Reactor series- GenAI for software)](pages/2024/2024-02-27.md) |  |  | [🇮🇱](## "Israel") | Hebrew |
 | 2024-2-20 | Node.js Security: Frameworks, Access Control, and Best Practices | [Permit.io: Node.js Security Masterclass](pages/2024/2024-02-20.md) |  | [Recording](https://lu.ma/3biixupl) |  | English |
 | 2024-2-15 | GenAI and LLMs: Security concerns for developers | [Tikal Israeli Tech Radar](pages/2024/2024-02-15.md) |  | [Recording](https://open.spotify.com/episode/59MhsWUfvjR0IG7DhckxS0) | [🇮🇱](## "Israel") | Hebrew |
@@ -926,6 +927,6 @@
 
 
 
-*page updated on 2024-07-28T01:17:46.919Z*
+*page updated on 2024-08-03T14:27:21.146Z*
 
 powered by [gigsboat/cli](https://github.com/gigsboat/cli)
