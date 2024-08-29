@@ -1,4 +1,4 @@
-<div align='center'><p><img src="https://img.shields.io/badge/total-186-blue?style=flat-square" alt="Total Events"> <img src="https://img.shields.io/badge/meetups-38-violet?style=flat-square" alt="Total Meetups"> <img src="https://img.shields.io/badge/conferences-80-red?style=flat-square" alt="Total Conferences"> <img src="https://img.shields.io/badge/podcasts-31-yellow?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/webinars-21-lightgrey?style=flat-square" alt="Total Webinars"> <img src="https://img.shields.io/badge/articles-3-green?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/workshops-6-orange?style=flat-square" alt="Total Workshops"></p>
+<div align='center'><p><img src="https://img.shields.io/badge/total-187-blue?style=flat-square" alt="Total Events"> <img src="https://img.shields.io/badge/meetups-38-violet?style=flat-square" alt="Total Meetups"> <img src="https://img.shields.io/badge/conferences-81-red?style=flat-square" alt="Total Conferences"> <img src="https://img.shields.io/badge/podcasts-31-yellow?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/webinars-21-lightgrey?style=flat-square" alt="Total Webinars"> <img src="https://img.shields.io/badge/articles-3-green?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/workshops-6-orange?style=flat-square" alt="Total Workshops"></p>
 </div>
   <p align='center'><h1 align='center'>Liran Tal - Public Speaking</h1>
 <p align='center'>I love doing Open Source, Node.js, JavaScript, Web Security & InfoSec, Public Speaking, and Building CLIs.</p></p><p align='center'><a href='liran_tal'><img alt='Twitter Follow' src='https://img.shields.io/twitter/follow/liran_tal?style=social'></a> <a href='https://www.linkedin.com/in/talliran'><img alt='LinkedIn Add Me' src='https://img.shields.io/badge/-Add&nbsp;Me&nbsp;on&nbsp;LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white'></a></p><p align='center'><img src='https://github.com/lirantal/public-speaking/blob/main/static/liran-tal-header-image.png' alt='Liran Tal public speaking profile' /></p>
@@ -13,7 +13,7 @@
 # Table of Contents
 
 
- - [Year of 2024](#2024) - total events 13
+ - [Year of 2024](#2024) - total events 14
  - [Year of 2023](#2023) - total events 30
  - [Year of 2022](#2022) - total events 43
  - [Year of 2021](#2021) - total events 55
@@ -26,7 +26,7 @@
 # 2024
 
 
-![Total Events](https://img.shields.io/badge/total-13-blue?style=flat-square) ![Total Meetups](https://img.shields.io/badge/meetups-5-violet?style=flat-square) ![Total Conferences](https://img.shields.io/badge/conferences-2-red?style=flat-square) ![Total Podcasts](https://img.shields.io/badge/podcasts-5-yellow?style=flat-square) ![Total Webinars](https://img.shields.io/badge/webinars-1-lightgrey?style=flat-square)  
+![Total Events](https://img.shields.io/badge/total-14-blue?style=flat-square) ![Total Meetups](https://img.shields.io/badge/meetups-5-violet?style=flat-square) ![Total Conferences](https://img.shields.io/badge/conferences-3-red?style=flat-square) ![Total Podcasts](https://img.shields.io/badge/podcasts-5-yellow?style=flat-square) ![Total Webinars](https://img.shields.io/badge/webinars-1-lightgrey?style=flat-square)  
 
 
 <table>
@@ -56,6 +56,7 @@
 | ---- | ----- | ----- | ------ | --------- | -------- | -------- |
 | 2024-11-4 | CWEList OWASP project planning | [OWASP 2024 Project Summit](pages/2024/2024-11-04.md) |  |  | [🇬🇧](## "undefined") | English |
 | 2024-9-16 | Can Machines Dream of Secure Code? Let’s hack a Node.js and a React app | [Infobip Shift](pages/2024/2024-09-16.md) |  |  | [🇭🇷](## "Croatia") | English |
+| 2024-8-8 | Capture the Flag 101 | [DEFCON 32](pages/2024/2024-08-08.md) |  |  | [🇺🇸](## "United States") | English |
 | 2024-6-13 | Can Machines Dream of Secure Code? Let’s hack a Node.js and a React app | [DevBcn](pages/2024/2024-06-13.md) |  |  | [🇪🇸](## "Spain") | English |
 | 2024-5-21 | Application Security Weekly | [Node.js Secure Coding - Liran Tal ASW #286](pages/2024/2024-05-21.md) |  | [Recording](https://www.youtube.com/watch?v=VGJIQutCqvI) |  | English |
 | 2024-3-31 |  | [AWS Startups event - DevRel Panel](pages/2024/2024-03-31.md) |  |  | [🇮🇱](## "Israel") | Hebrew |
@@ -927,6 +928,6 @@
 
 
 
-*page updated on 2024-08-25T01:20:01.633Z*
+*page updated on 2024-08-29T04:38:53.863Z*
 
 powered by [gigsboat/cli](https://github.com/gigsboat/cli)
