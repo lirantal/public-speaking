@@ -58,7 +58,7 @@
 | 2024-10-10 | Secure Coding | [Outside the box devs](pages/2024/2024-10-10.md) |  |  | [🇮🇱](## "Israel") | Hebrew |
 | 2024-9-16 | Can Machines Dream of Secure Code? Let’s hack a Node.js and a React app | [Infobip Shift](pages/2024/2024-09-16.md) |  |  | [🇭🇷](## "Croatia") | English |
 | 2024-9-15 | Hacking AI Applications | [DataStax Developers AI Meetup](pages/2024/2024-09-15.md) |  |  | [🇨🇷](## "Costa Rica") | English |
-| 2024-9-11 | Open Source Security with Liran Tal | [Eddie](pages/2024/2024-09-11.md) |  |  |  | English |
+| 2024-9-11 | Security for Maintainers | [Eddie](pages/2024/2024-09-11.md) |  | [Recording](https://www.youtube.com/watch?v=SgwBl1IWZ5M) |  | English |
 | 2024-9-10 | AI Security and LLM Insecurity | [AI Native Dev Podcast](pages/2024/2024-09-10.md) |  |  |  | English |
 | 2024-8-8 | Capture the Flag 101 | [DEFCON 32](pages/2024/2024-08-08.md) |  |  | [🇺🇸](## "United States") | English |
 | 2024-6-13 | Can Machines Dream of Secure Code? Let’s hack a Node.js and a React app | [DevBcn](pages/2024/2024-06-13.md) |  |  | [🇪🇸](## "Spain") | English |
@@ -932,6 +932,6 @@
 
 
 
-*page updated on 2024-09-09T16:03:15.453Z*
+*page updated on 2024-09-09T17:09:19.033Z*
 
 powered by [gigsboat/cli](https://github.com/gigsboat/cli)
