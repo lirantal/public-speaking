@@ -31,6 +31,7 @@
 
 <table>
   <tr>
+    <td align="center"> <img src="https://pbs.twimg.com/media/GXMsB-nWIAAaNX9?format=jpg&name=4096x4096" width="85" height="50" /> </td>
     <td align="center"> <img src="https://media.licdn.com/dms/image/D4D10AQGpyP8iP1pz2g/image-shrink_1280/0/1707292846095?e=1707944400&v=beta&t=LYhvT4qOpnMwqSe57dFzY4I1kY5SKJzLAlo-FyI93GY" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/GFuCOPFXcAAYHeQ?format=jpg&name=4096x4096" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/GP8qe1sWMAA1umZ?format=jpg&name=large" width="85" height="50" /> </td>
@@ -38,9 +39,9 @@
     <td align="center"> <img src="https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog15366739/2024073014081969_300x300.png" width="85" height="50" /> </td>
     <td align="center"> <img src="https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,quality=75,width=400,height=400/event-covers/3n/0556ef20-5e18-4f95-951d-6c64921c497b" width="85" height="50" /> </td>
     <td align="center"> <img src="https://www.devseccon.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fpodcast-default-thumb.1c60f6e6.png&w=2560&q=75" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/GEwj2Q6W4AAKOIv?format=jpg&name=medium" width="85" height="50" /> </td>
   </tr>
   <tr>
+    <td align="center"> <img src="https://pbs.twimg.com/media/GEwj2Q6W4AAKOIv?format=jpg&name=medium" width="85" height="50" /> </td>
     <td align="center"> <img src="https://secure.meetupstatic.com/photos/event/9/0/6/0/600_518136960.webp?w=384" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/GCbp-WtWsAAjgaL?format=jpg&name=medium" width="85" height="50" /> </td>
     <td align="center"> <img src="https://media.licdn.com/dms/image/D4D22AQE19dFaJQawSA/feedshare-shrink_1280/0/1706609161888?e=1709769600&v=beta&t=Un7eSyuKSyqTAzohWMuFpAZ88EiY3QDMm_WSYETHA4w" width="85" height="50" /> </td>
@@ -933,6 +934,6 @@
 
 
 
-*page updated on 2024-09-11T11:58:41.770Z*
+*page updated on 2024-09-11T18:09:20.583Z*
 
 powered by [gigsboat/cli](https://github.com/gigsboat/cli)
