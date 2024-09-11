@@ -1,4 +1,4 @@
-<div align='center'><p><img src="https://img.shields.io/badge/total-191-blue?style=flat-square" alt="Total Events"> <img src="https://img.shields.io/badge/meetups-39-violet?style=flat-square" alt="Total Meetups"> <img src="https://img.shields.io/badge/conferences-81-red?style=flat-square" alt="Total Conferences"> <img src="https://img.shields.io/badge/podcasts-33-yellow?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/webinars-22-lightgrey?style=flat-square" alt="Total Webinars"> <img src="https://img.shields.io/badge/articles-3-green?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/workshops-6-orange?style=flat-square" alt="Total Workshops"></p>
+<div align='center'><p><img src="https://img.shields.io/badge/total-192-blue?style=flat-square" alt="Total Events"> <img src="https://img.shields.io/badge/meetups-39-violet?style=flat-square" alt="Total Meetups"> <img src="https://img.shields.io/badge/conferences-82-red?style=flat-square" alt="Total Conferences"> <img src="https://img.shields.io/badge/podcasts-33-yellow?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/webinars-22-lightgrey?style=flat-square" alt="Total Webinars"> <img src="https://img.shields.io/badge/articles-3-green?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/workshops-6-orange?style=flat-square" alt="Total Workshops"></p>
 </div>
   <p align='center'><h1 align='center'>Liran Tal - Public Speaking</h1>
 <p align='center'>I love doing Open Source, Node.js, JavaScript, Web Security & InfoSec, Public Speaking, and Building CLIs.</p></p><p align='center'><a href='liran_tal'><img alt='Twitter Follow' src='https://img.shields.io/twitter/follow/liran_tal?style=social'></a> <a href='https://www.linkedin.com/in/talliran'><img alt='LinkedIn Add Me' src='https://img.shields.io/badge/-Add&nbsp;Me&nbsp;on&nbsp;LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white'></a></p><p align='center'><img src='https://github.com/lirantal/public-speaking/blob/main/static/liran-tal-header-image.png' alt='Liran Tal public speaking profile' /></p>
@@ -13,7 +13,7 @@
 # Table of Contents
 
 
- - [Year of 2024](#2024) - total events 18
+ - [Year of 2024](#2024) - total events 19
  - [Year of 2023](#2023) - total events 30
  - [Year of 2022](#2022) - total events 43
  - [Year of 2021](#2021) - total events 55
@@ -26,7 +26,7 @@
 # 2024
 
 
-![Total Events](https://img.shields.io/badge/total-18-blue?style=flat-square) ![Total Meetups](https://img.shields.io/badge/meetups-6-violet?style=flat-square) ![Total Conferences](https://img.shields.io/badge/conferences-3-red?style=flat-square) ![Total Podcasts](https://img.shields.io/badge/podcasts-7-yellow?style=flat-square) ![Total Webinars](https://img.shields.io/badge/webinars-2-lightgrey?style=flat-square)  
+![Total Events](https://img.shields.io/badge/total-19-blue?style=flat-square) ![Total Meetups](https://img.shields.io/badge/meetups-6-violet?style=flat-square) ![Total Conferences](https://img.shields.io/badge/conferences-4-red?style=flat-square) ![Total Podcasts](https://img.shields.io/badge/podcasts-7-yellow?style=flat-square) ![Total Webinars](https://img.shields.io/badge/webinars-2-lightgrey?style=flat-square)  
 
 
 <table>
@@ -56,6 +56,7 @@
 | ---- | ----- | ----- | ------ | --------- | -------- | -------- |
 | 2024-11-4 | CWEList OWASP project planning | [OWASP 2024 Project Summit](pages/2024/2024-11-04.md) |  |  | [🇬🇧](## "undefined") | English |
 | 2024-10-10 | Secure Coding | [Outside the box devs](pages/2024/2024-10-10.md) |  |  | [🇮🇱](## "Israel") | Hebrew |
+| 2024-9-25 | Can Machines Dream of Secure Code? Let’s hack a Node.js and a React app | [WeAreDevelopers LIVE](pages/2024/2024-09-25.md) |  |  |  | English |
 | 2024-9-16 | Can Machines Dream of Secure Code? Let’s hack a Node.js and a React app | [Infobip Shift](pages/2024/2024-09-16.md) |  |  | [🇭🇷](## "Croatia") | English |
 | 2024-9-15 | Hacking AI Applications | [DataStax Developers AI Meetup](pages/2024/2024-09-15.md) |  |  | [🇨🇷](## "Costa Rica") | English |
 | 2024-9-11 | Security for Maintainers | [Eddie](pages/2024/2024-09-11.md) |  | [Recording](https://www.youtube.com/watch?v=SgwBl1IWZ5M) |  | English |
@@ -932,6 +933,6 @@
 
 
 
-*page updated on 2024-09-09T21:31:36.820Z*
+*page updated on 2024-09-11T11:58:41.770Z*
 
 powered by [gigsboat/cli](https://github.com/gigsboat/cli)
