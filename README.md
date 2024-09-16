@@ -34,23 +34,25 @@
     <td align="center"> <img src="https://pbs.twimg.com/media/GXayJ6uXkAApE6A?format=jpg&name=4096x4096" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/GXmXRQpXIAA4NIy?format=jpg&name=large" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/GWYDFkMXMAANsCm?format=jpg&name=medium" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://pbs.twimg.com/media/GXig24NWMAA3Nrw?format=jpg&name=large" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://pbs.twimg.com/media/GXieRRvXMAAxiDE?format=jpg&name=large" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/GXMsB-nWIAAaNX9?format=jpg&name=4096x4096" width="85" height="50" /> </td>
     <td align="center"> <img src="https://media.licdn.com/dms/image/D4D10AQGpyP8iP1pz2g/image-shrink_1280/0/1707292846095?e=1707944400&v=beta&t=LYhvT4qOpnMwqSe57dFzY4I1kY5SKJzLAlo-FyI93GY" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/GFuCOPFXcAAYHeQ?format=jpg&name=4096x4096" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/GP8qe1sWMAA1umZ?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/GRJvVcRW8AAKa8m?format=jpg&name=large" width="85" height="50" /> </td>
   </tr>
   <tr>
+    <td align="center"> <img src="https://pbs.twimg.com/media/GP8qe1sWMAA1umZ?format=jpg&name=large" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://pbs.twimg.com/media/GRJvVcRW8AAKa8m?format=jpg&name=large" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog15366739/2024073014081969_300x300.png" width="85" height="50" /> </td>
     <td align="center"> <img src="https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,quality=75,width=400,height=400/event-covers/3n/0556ef20-5e18-4f95-951d-6c64921c497b" width="85" height="50" /> </td>
     <td align="center"> <img src="https://www.devseccon.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fpodcast-default-thumb.1c60f6e6.png&w=2560&q=75" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/GEwj2Q6W4AAKOIv?format=jpg&name=medium" width="85" height="50" /> </td>
     <td align="center"> <img src="https://secure.meetupstatic.com/photos/event/9/0/6/0/600_518136960.webp?w=384" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/GCbp-WtWsAAjgaL?format=jpg&name=medium" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://media.licdn.com/dms/image/D4D22AQE19dFaJQawSA/feedshare-shrink_1280/0/1706609161888?e=1709769600&v=beta&t=Un7eSyuKSyqTAzohWMuFpAZ88EiY3QDMm_WSYETHA4w" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://media.licdn.com/dms/image/D4D22AQFjQsZVJk1spw/feedshare-shrink_2048_1536/0/1706609158148?e=1709769600&v=beta&t=t_JV4_fsx_JC0wIw1Hal52b-Dvje8jIpvwrxUReMtRg" width="85" height="50" /> </td>
   </tr>
   <tr>
+    <td align="center"> <img src="https://media.licdn.com/dms/image/D4D22AQE19dFaJQawSA/feedshare-shrink_1280/0/1706609161888?e=1709769600&v=beta&t=Un7eSyuKSyqTAzohWMuFpAZ88EiY3QDMm_WSYETHA4w" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://media.licdn.com/dms/image/D4D22AQFjQsZVJk1spw/feedshare-shrink_2048_1536/0/1706609158148?e=1709769600&v=beta&t=t_JV4_fsx_JC0wIw1Hal52b-Dvje8jIpvwrxUReMtRg" width="85" height="50" /> </td>
     <td align="center"> <img src="https://media.licdn.com/dms/image/D4D22AQH0jiL28Wyhpw/feedshare-shrink_2048_1536/0/1706609159636?e=1709769600&v=beta&t=ZcaPvBONzU9gta2Jt9WWa8ZmD4IRf3Ss7XhbKmAv8rg" width="85" height="50" /> </td>
     <td align="center"> <img src="https://media.licdn.com/dms/image/D4D10AQHeiS0CCYw3yQ/image-shrink_1280/0/1707351305125?e=1707984000&v=beta&t=NP1NMxhx3N6UJ2RF0oZsCA891RfSsKEaPKzqLbHNBzM" width="85" height="50" /> </td>
     <td align="center"> <img src="https://media.licdn.com/dms/image/D4D10AQGrFbLz1CpOqQ/image-shrink_1280/0/1707351315014?e=1707984000&v=beta&t=_DEV54hSs2fSzwpUFLwZRnd-cPYEyrwc-DbtQ8B1lBM" width="85" height="50" /> </td>
@@ -940,6 +942,6 @@
 
 
 
-*page updated on 2024-09-16T14:49:10.779Z*
+*page updated on 2024-09-16T14:51:35.864Z*
 
 powered by [gigsboat/cli](https://github.com/gigsboat/cli)
