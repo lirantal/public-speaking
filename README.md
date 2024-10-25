@@ -71,7 +71,7 @@
 | 2024-9-16 | Can Machines Dream of Secure Code? Let’s hack a Node.js and a React app | [Infobip Shift](pages/2024/2024-09-17.md) |  |  | [🇭🇷](## "Croatia") | English |
 | 2024-9-15 | Hacking AI Applications | [DataStax Developers AI Meetup](pages/2024/2024-09-15.md) |  |  | [🇨🇷](## "Costa Rica") | English |
 | 2024-9-11 | Security for Maintainers | [Eddie](pages/2024/2024-09-11.md) |  | [Recording](https://www.youtube.com/watch?v=SgwBl1IWZ5M) |  | English |
-| 2024-9-10 | AI Security and LLM Insecurity | [AI Native Dev Podcast](pages/2024/2024-09-10.md) |  |  |  | English |
+| 2024-9-10 | AI Security and LLM Insecurity | [AI Native Dev Podcast](pages/2024/2024-09-10.md) |  | [Recording](https://tessl.io/podcast/can-ai-tools-be-trusted-with-security-critical-code-real-world-ai-security-risks-with-liran-tal) |  | English |
 | 2024-8-8 | Capture the Flag 101 | [DEFCON 32](pages/2024/2024-08-08.md) |  |  | [🇺🇸](## "United States") | English |
 | 2024-6-13 | Can Machines Dream of Secure Code? Let’s hack a Node.js and a React app | [DevBcn](pages/2024/2024-06-13.md) |  |  | [🇪🇸](## "Spain") | English |
 | 2024-5-21 | Application Security Weekly | [Node.js Secure Coding - Liran Tal ASW #286](pages/2024/2024-05-21.md) |  | [Recording](https://www.youtube.com/watch?v=VGJIQutCqvI) |  | English |
@@ -944,6 +944,6 @@
 
 
 
-*page updated on 2024-10-20T01:35:09.439Z*
+*page updated on 2024-10-25T09:42:00.607Z*
 
 powered by [gigsboat/cli](https://github.com/gigsboat/cli)
