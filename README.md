@@ -1,4 +1,4 @@
-<div align='center'><p><img src="https://img.shields.io/badge/total-195-blue?style=flat-square" alt="Total Events"> <img src="https://img.shields.io/badge/meetups-38-violet?style=flat-square" alt="Total Meetups"> <img src="https://img.shields.io/badge/conferences-85-red?style=flat-square" alt="Total Conferences"> <img src="https://img.shields.io/badge/podcasts-34-yellow?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/webinars-22-lightgrey?style=flat-square" alt="Total Webinars"> <img src="https://img.shields.io/badge/articles-3-green?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/workshops-6-orange?style=flat-square" alt="Total Workshops"></p>
+<div align='center'><p><img src="https://img.shields.io/badge/total-196-blue?style=flat-square" alt="Total Events"> <img src="https://img.shields.io/badge/meetups-38-violet?style=flat-square" alt="Total Meetups"> <img src="https://img.shields.io/badge/conferences-86-red?style=flat-square" alt="Total Conferences"> <img src="https://img.shields.io/badge/podcasts-34-yellow?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/webinars-22-lightgrey?style=flat-square" alt="Total Webinars"> <img src="https://img.shields.io/badge/articles-3-green?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/workshops-6-orange?style=flat-square" alt="Total Workshops"></p>
 </div>
   <p align='center'><h1 align='center'>Liran Tal - Public Speaking</h1>
 <p align='center'>I love doing Open Source, Node.js, JavaScript, Web Security & InfoSec, Public Speaking, and Building CLIs.</p></p><p align='center'><a href='liran_tal'><img alt='Twitter Follow' src='https://img.shields.io/twitter/follow/liran_tal?style=social'></a> <a href='https://www.linkedin.com/in/talliran'><img alt='LinkedIn Add Me' src='https://img.shields.io/badge/-Add&nbsp;Me&nbsp;on&nbsp;LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white'></a></p><p align='center'><img src='https://github.com/lirantal/public-speaking/blob/main/static/liran-tal-header-image.png' alt='Liran Tal public speaking profile' /></p>
@@ -13,7 +13,7 @@
 # Table of Contents
 
 
- - [Year of 2024](#2024) - total events 22
+ - [Year of 2024](#2024) - total events 23
  - [Year of 2023](#2023) - total events 30
  - [Year of 2022](#2022) - total events 43
  - [Year of 2021](#2021) - total events 55
@@ -26,37 +26,41 @@
 # 2024
 
 
-![Total Events](https://img.shields.io/badge/total-22-blue?style=flat-square) ![Total Meetups](https://img.shields.io/badge/meetups-5-violet?style=flat-square) ![Total Conferences](https://img.shields.io/badge/conferences-7-red?style=flat-square) ![Total Podcasts](https://img.shields.io/badge/podcasts-8-yellow?style=flat-square) ![Total Webinars](https://img.shields.io/badge/webinars-2-lightgrey?style=flat-square)  
+![Total Events](https://img.shields.io/badge/total-23-blue?style=flat-square) ![Total Meetups](https://img.shields.io/badge/meetups-5-violet?style=flat-square) ![Total Conferences](https://img.shields.io/badge/conferences-8-red?style=flat-square) ![Total Podcasts](https://img.shields.io/badge/podcasts-8-yellow?style=flat-square) ![Total Webinars](https://img.shields.io/badge/webinars-2-lightgrey?style=flat-square)  
 
 
 <table>
   <tr>
+    <td align="center"> <img src="https://pbs.twimg.com/media/Gc7pTE5XoAAOw2P?format=jpg&name=large" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://s3.amazonaws.com/heysummit-production/media/thumbnails/uploads/events/ai-native-devcon/2XaGBmuvej4kztk3udwdgD.png_full_size.png" width="85" height="50" /> </td>
     <td align="center"> <img src="https://media.licdn.com/dms/image/v2/D4D22AQHshNqzcYM5tA/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1731653387428?e=1734566400&v=beta&t=doq2fNCKFo_DpkGViZ7MOCvu8If4JgKf80z_xNw-SC4" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/GXayJ6uXkAApE6A?format=jpg&name=4096x4096" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/GXmXRQpXIAA4NIy?format=jpg&name=large" width="85" height="50" /> </td>
     <td align="center"> <img src="https://media.licdn.com/dms/image/v2/D5622AQGE9uVeAZWSXg/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1726507107093?e=1729123200&v=beta&t=t6cyFYgpvUKHdcids5EMbjXtBLhTVmQRs2kCeOZJwRc" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/GWYDFkMXMAANsCm?format=jpg&name=medium" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/GXig24NWMAA3Nrw?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/GXieRRvXMAAxiDE?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/GXMsB-nWIAAaNX9?format=jpg&name=4096x4096" width="85" height="50" /> </td>
   </tr>
   <tr>
+    <td align="center"> <img src="https://pbs.twimg.com/media/GXieRRvXMAAxiDE?format=jpg&name=large" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://pbs.twimg.com/media/GXMsB-nWIAAaNX9?format=jpg&name=4096x4096" width="85" height="50" /> </td>
     <td align="center"> <img src="https://media.licdn.com/dms/image/D4D10AQGpyP8iP1pz2g/image-shrink_1280/0/1707292846095?e=1707944400&v=beta&t=LYhvT4qOpnMwqSe57dFzY4I1kY5SKJzLAlo-FyI93GY" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/GFuCOPFXcAAYHeQ?format=jpg&name=4096x4096" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/GP8qe1sWMAA1umZ?format=jpg&name=large" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/GRJvVcRW8AAKa8m?format=jpg&name=large" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog15366739/2024073014081969_300x300.png" width="85" height="50" /> </td>
     <td align="center"> <img src="https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,quality=75,width=400,height=400/event-covers/3n/0556ef20-5e18-4f95-951d-6c64921c497b" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://www.devseccon.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fpodcast-default-thumb.1c60f6e6.png&w=2560&q=75" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/GEwj2Q6W4AAKOIv?format=jpg&name=medium" width="85" height="50" /> </td>
   </tr>
   <tr>
+    <td align="center"> <img src="https://www.devseccon.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fpodcast-default-thumb.1c60f6e6.png&w=2560&q=75" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://pbs.twimg.com/media/GEwj2Q6W4AAKOIv?format=jpg&name=medium" width="85" height="50" /> </td>
     <td align="center"> <img src="https://secure.meetupstatic.com/photos/event/9/0/6/0/600_518136960.webp?w=384" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/GCbp-WtWsAAjgaL?format=jpg&name=medium" width="85" height="50" /> </td>
     <td align="center"> <img src="https://media.licdn.com/dms/image/D4D22AQE19dFaJQawSA/feedshare-shrink_1280/0/1706609161888?e=1709769600&v=beta&t=Un7eSyuKSyqTAzohWMuFpAZ88EiY3QDMm_WSYETHA4w" width="85" height="50" /> </td>
     <td align="center"> <img src="https://media.licdn.com/dms/image/D4D22AQFjQsZVJk1spw/feedshare-shrink_2048_1536/0/1706609158148?e=1709769600&v=beta&t=t_JV4_fsx_JC0wIw1Hal52b-Dvje8jIpvwrxUReMtRg" width="85" height="50" /> </td>
     <td align="center"> <img src="https://media.licdn.com/dms/image/D4D22AQH0jiL28Wyhpw/feedshare-shrink_2048_1536/0/1706609159636?e=1709769600&v=beta&t=ZcaPvBONzU9gta2Jt9WWa8ZmD4IRf3Ss7XhbKmAv8rg" width="85" height="50" /> </td>
     <td align="center"> <img src="https://media.licdn.com/dms/image/D4D10AQHeiS0CCYw3yQ/image-shrink_1280/0/1707351305125?e=1707984000&v=beta&t=NP1NMxhx3N6UJ2RF0oZsCA891RfSsKEaPKzqLbHNBzM" width="85" height="50" /> </td>
+  </tr>
+  <tr>
     <td align="center"> <img src="https://media.licdn.com/dms/image/D4D10AQGrFbLz1CpOqQ/image-shrink_1280/0/1707351315014?e=1707984000&v=beta&t=_DEV54hSs2fSzwpUFLwZRnd-cPYEyrwc-DbtQ8B1lBM" width="85" height="50" /> </td>
   </tr>
 </table>
@@ -65,6 +69,7 @@
 | Date | Event | Title | Slides | Recording | Location | Language |
 | ---- | ----- | ----- | ------ | --------- | -------- | -------- |
 | 2024-12-13 | Securing AI-generated code in Banking Applications | [Finance & Risk – The Official Cybersecurity Summit](pages/2024/2024-12-13.md) |  |  |  | English |
+| 2024-11-21 | AI Security Risks: The Impact of Generative AI in Developer Workflows | [AI Native Dev Con](pages/2024/2024-11-21.md) |  | [Recording](https://youtu.be/zm7WDxH7LLw) |  | English |
 | 2024-11-4 | מפתחים מחוץ לקופסה | [מפתחים מחוץ לקופסה - Developers Outside The Box](pages/2024/2024-11-14.md) |  |  |  | Hebrew |
 | 2024-10-10 | Secure Coding | [Outside the box devs](pages/2024/2024-10-10.md) |  |  | [🇮🇱](## "Israel") | Hebrew |
 | 2024-10-9 | The AppSec Arcade is Where Developers Become Security Champions | [DevSecCon 2024](pages/2024/2024-10-09.md) |  |  |  | English |
@@ -946,6 +951,6 @@
 
 
 
-*page updated on 2024-11-28T09:29:33.056Z*
+*page updated on 2024-11-28T09:32:20.576Z*
 
 powered by [gigsboat/cli](https://github.com/gigsboat/cli)
