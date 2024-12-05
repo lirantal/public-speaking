@@ -1,4 +1,4 @@
-<div align='center'><p><img src="https://img.shields.io/badge/total-196-blue?style=flat-square" alt="Total Events"> <img src="https://img.shields.io/badge/meetups-38-violet?style=flat-square" alt="Total Meetups"> <img src="https://img.shields.io/badge/conferences-86-red?style=flat-square" alt="Total Conferences"> <img src="https://img.shields.io/badge/podcasts-34-yellow?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/webinars-22-lightgrey?style=flat-square" alt="Total Webinars"> <img src="https://img.shields.io/badge/articles-3-green?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/workshops-6-orange?style=flat-square" alt="Total Workshops"></p>
+<div align='center'><p><img src="https://img.shields.io/badge/total-197-blue?style=flat-square" alt="Total Events"> <img src="https://img.shields.io/badge/meetups-38-violet?style=flat-square" alt="Total Meetups"> <img src="https://img.shields.io/badge/conferences-87-red?style=flat-square" alt="Total Conferences"> <img src="https://img.shields.io/badge/podcasts-34-yellow?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/webinars-22-lightgrey?style=flat-square" alt="Total Webinars"> <img src="https://img.shields.io/badge/articles-3-green?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/workshops-6-orange?style=flat-square" alt="Total Workshops"></p>
 </div>
   <p align='center'><h1 align='center'>Liran Tal - Public Speaking</h1>
 <p align='center'>I love doing Open Source, Node.js, JavaScript, Web Security & InfoSec, Public Speaking, and Building CLIs.</p></p><p align='center'><a href='liran_tal'><img alt='Twitter Follow' src='https://img.shields.io/twitter/follow/liran_tal?style=social'></a> <a href='https://www.linkedin.com/in/talliran'><img alt='LinkedIn Add Me' src='https://img.shields.io/badge/-Add&nbsp;Me&nbsp;on&nbsp;LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white'></a></p><p align='center'><img src='https://github.com/lirantal/public-speaking/blob/main/static/liran-tal-header-image.png' alt='Liran Tal public speaking profile' /></p>
@@ -13,6 +13,7 @@
 # Table of Contents
 
 
+ - [Year of 2025](#2025) - total events 1
  - [Year of 2024](#2024) - total events 23
  - [Year of 2023](#2023) - total events 30
  - [Year of 2022](#2022) - total events 43
@@ -22,6 +23,19 @@
  - [Year of 2018](#2018) - total events 3
  - [Year of 2017](#2017) - total events 2
  - [Year of 2016](#2016) - total events 2
+
+# 2025
+
+
+![Total Events](https://img.shields.io/badge/total-1-blue?style=flat-square)  ![Total Conferences](https://img.shields.io/badge/conferences-1-red?style=flat-square)    
+
+
+
+
+| Date | Event | Title | Slides | Recording | Location | Language |
+| ---- | ----- | ----- | ------ | --------- | -------- | -------- |
+| 2025-7-11 | Mastering Application Configuration in Node.js: From Pitfalls to Best Practices | [WeAreDevelopers World Congress 2025](pages/2025/2025-07-11.md) |  |  | [🇩🇪](## "Germany") | English |
+
 
 # 2024
 
@@ -952,6 +966,6 @@
 
 
 
-*page updated on 2024-12-01T07:56:50.938Z*
+*page updated on 2024-12-05T11:01:50.921Z*
 
 powered by [gigsboat/cli](https://github.com/gigsboat/cli)
