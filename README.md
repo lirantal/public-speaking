@@ -1,4 +1,4 @@
-<div align='center'><p><img src="https://img.shields.io/badge/total-197-blue?style=flat-square" alt="Total Events"> <img src="https://img.shields.io/badge/meetups-38-violet?style=flat-square" alt="Total Meetups"> <img src="https://img.shields.io/badge/conferences-87-red?style=flat-square" alt="Total Conferences"> <img src="https://img.shields.io/badge/podcasts-34-yellow?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/webinars-22-lightgrey?style=flat-square" alt="Total Webinars"> <img src="https://img.shields.io/badge/articles-3-green?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/workshops-6-orange?style=flat-square" alt="Total Workshops"></p>
+<div align='center'><p><img src="https://img.shields.io/badge/total-198-blue?style=flat-square" alt="Total Events"> <img src="https://img.shields.io/badge/meetups-38-violet?style=flat-square" alt="Total Meetups"> <img src="https://img.shields.io/badge/conferences-87-red?style=flat-square" alt="Total Conferences"> <img src="https://img.shields.io/badge/podcasts-34-yellow?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/webinars-23-lightgrey?style=flat-square" alt="Total Webinars"> <img src="https://img.shields.io/badge/articles-3-green?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/workshops-6-orange?style=flat-square" alt="Total Workshops"></p>
 </div>
   <p align='center'><h1 align='center'>Liran Tal - Public Speaking</h1>
 <p align='center'>I love doing Open Source, Node.js, JavaScript, Web Security & InfoSec, Public Speaking, and Building CLIs.</p></p><p align='center'><a href='liran_tal'><img alt='Twitter Follow' src='https://img.shields.io/twitter/follow/liran_tal?style=social'></a> <a href='https://www.linkedin.com/in/talliran'><img alt='LinkedIn Add Me' src='https://img.shields.io/badge/-Add&nbsp;Me&nbsp;on&nbsp;LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white'></a></p><p align='center'><img src='https://github.com/lirantal/public-speaking/blob/main/static/liran-tal-header-image.png' alt='Liran Tal public speaking profile' /></p>
@@ -14,7 +14,7 @@
 
 
  - [Year of 2025](#2025) - total events 1
- - [Year of 2024](#2024) - total events 23
+ - [Year of 2024](#2024) - total events 24
  - [Year of 2023](#2023) - total events 30
  - [Year of 2022](#2022) - total events 43
  - [Year of 2021](#2021) - total events 55
@@ -40,7 +40,7 @@
 # 2024
 
 
-![Total Events](https://img.shields.io/badge/total-23-blue?style=flat-square) ![Total Meetups](https://img.shields.io/badge/meetups-5-violet?style=flat-square) ![Total Conferences](https://img.shields.io/badge/conferences-8-red?style=flat-square) ![Total Podcasts](https://img.shields.io/badge/podcasts-8-yellow?style=flat-square) ![Total Webinars](https://img.shields.io/badge/webinars-2-lightgrey?style=flat-square)  
+![Total Events](https://img.shields.io/badge/total-24-blue?style=flat-square) ![Total Meetups](https://img.shields.io/badge/meetups-5-violet?style=flat-square) ![Total Conferences](https://img.shields.io/badge/conferences-8-red?style=flat-square) ![Total Podcasts](https://img.shields.io/badge/podcasts-8-yellow?style=flat-square) ![Total Webinars](https://img.shields.io/badge/webinars-3-lightgrey?style=flat-square)  
 
 
 <table>
@@ -84,6 +84,7 @@
 | Date | Event | Title | Slides | Recording | Location | Language |
 | ---- | ----- | ----- | ------ | --------- | -------- | -------- |
 | 2024-12-13 | Securing AI-generated code in Banking Applications | [Finance & Risk – The Official Cybersecurity Summit](pages/2024/2024-12-13.md) |  |  |  | English |
+| 2024-12-10 | Opportunities and Risks of AI for Developers | [WeAreDevelopers: Webdev & AI Day](pages/2024/2024-12-10.md) |  | [Recording](https://youtu.be/zm7WDxH7LLw) |  | English |
 | 2024-12-1 | קוד פתוח לא בטוח עם לירן טל | [מפתחים מחוץ לקופסה - Developers Outside The Box](pages/2024/2024-12-01.md) |  | [Recording](https://open.spotify.com/episode/2rSKowW35aXeXPZPSRdjSG?context=spotify:show:164c1SI1ramIoG3mEsbR0Y&nd=1&dlsi=5f8deaaec39e4d99) |  | Hebrew |
 | 2024-11-21 | AI Security Risks: The Impact of Generative AI in Developer Workflows | [AI Native Dev Con](pages/2024/2024-11-21.md) |  | [Recording](https://youtu.be/zm7WDxH7LLw) |  | English |
 | 2024-10-10 | Secure Coding | [Outside the box devs](pages/2024/2024-10-10.md) |  |  | [🇮🇱](## "Israel") | Hebrew |
@@ -966,6 +967,6 @@
 
 
 
-*page updated on 2024-12-05T11:01:50.921Z*
+*page updated on 2024-12-05T11:10:30.518Z*
 
 powered by [gigsboat/cli](https://github.com/gigsboat/cli)
