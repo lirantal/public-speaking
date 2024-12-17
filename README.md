@@ -91,7 +91,7 @@
 | 2024-11-21 | AI Security Risks: The Impact of Generative AI in Developer Workflows | [AI Native Dev Con](pages/2024/2024-11-21.md) |  | [Recording](https://youtu.be/zm7WDxH7LLw) |  | English |
 | 2024-10-9 | The AppSec Arcade is Where Developers Become Security Champions | [DevSecCon 2024](pages/2024/2024-10-09.md) |  |  |  | English |
 | 2024-9-25 | Can Machines Dream of Secure Code? Emerging AI Security Risks in LLM-driven Developer | [WeAreDevelopers LIVE](pages/2024/2024-09-25.md) |  |  |  | English |
-| 2024-9-16 | Panel: Developer Trends and Cybersecurity Challenges in a Rapidly Changing Landscape with GenAI | [Infobip Shift](pages/2024/2024-09-16.md) |  |  | [🇭🇷](## "Croatia") | English |
+| 2024-9-16 | Panel: Developer Trends and Cybersecurity Challenges in a Rapidly Changing Landscape with GenAI | [Infobip Shift](pages/2024/2024-09-16.md) |  | [Recording](https://www.youtube.com/watch?v=1xGvAICHHi4&list=PLuAItjWV4peEf3Ro3GL69lGtGFOcMKyEp&index=29) | [🇭🇷](## "Croatia") | English |
 | 2024-9-16 | Can Machines Dream of Secure Code? Let’s hack a Node.js and a React app | [Infobip Shift](pages/2024/2024-09-17.md) |  |  | [🇭🇷](## "Croatia") | English |
 | 2024-9-15 | Hacking AI Applications | [DataStax Developers AI Meetup](pages/2024/2024-09-15.md) |  |  | [🇨🇷](## "Costa Rica") | English |
 | 2024-9-11 | Security for Maintainers | [Eddie](pages/2024/2024-09-11.md) |  | [Recording](https://www.youtube.com/watch?v=SgwBl1IWZ5M) |  | English |
@@ -967,6 +967,6 @@
 
 
 
-*page updated on 2024-12-15T01:42:44.610Z*
+*page updated on 2024-12-17T17:15:33.726Z*
 
 powered by [gigsboat/cli](https://github.com/gigsboat/cli)
