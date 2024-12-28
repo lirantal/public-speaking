@@ -1,4 +1,4 @@
-<div align='center'><p><img src="https://img.shields.io/badge/total-199-blue?style=flat-square" alt="Total Events"> <img src="https://img.shields.io/badge/meetups-38-violet?style=flat-square" alt="Total Meetups"> <img src="https://img.shields.io/badge/conferences-88-red?style=flat-square" alt="Total Conferences"> <img src="https://img.shields.io/badge/podcasts-34-yellow?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/webinars-23-lightgrey?style=flat-square" alt="Total Webinars"> <img src="https://img.shields.io/badge/articles-3-green?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/workshops-6-orange?style=flat-square" alt="Total Workshops"></p>
+<div align='center'><p><img src="https://img.shields.io/badge/total-200-blue?style=flat-square" alt="Total Events"> <img src="https://img.shields.io/badge/meetups-38-violet?style=flat-square" alt="Total Meetups"> <img src="https://img.shields.io/badge/conferences-89-red?style=flat-square" alt="Total Conferences"> <img src="https://img.shields.io/badge/podcasts-34-yellow?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/webinars-23-lightgrey?style=flat-square" alt="Total Webinars"> <img src="https://img.shields.io/badge/articles-3-green?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/workshops-6-orange?style=flat-square" alt="Total Workshops"></p>
 </div>
   <p align='center'><h1 align='center'>Liran Tal - Public Speaking</h1>
 <p align='center'>I love doing Open Source, Node.js, JavaScript, Web Security & InfoSec, Public Speaking, and Building CLIs.</p></p><p align='center'><a href='liran_tal'><img alt='Twitter Follow' src='https://img.shields.io/twitter/follow/liran_tal?style=social'></a> <a href='https://www.linkedin.com/in/talliran'><img alt='LinkedIn Add Me' src='https://img.shields.io/badge/-Add&nbsp;Me&nbsp;on&nbsp;LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white'></a></p><p align='center'><img src='https://github.com/lirantal/public-speaking/blob/main/static/liran-tal-header-image.png' alt='Liran Tal public speaking profile' /></p>
@@ -22,7 +22,7 @@
  - [Year of 2019](#2019) - total events 21
  - [Year of 2018](#2018) - total events 3
  - [Year of 2017](#2017) - total events 2
- - [Year of 2016](#2016) - total events 3
+ - [Year of 2016](#2016) - total events 4
  - [Year of 2013](#2013) - total events 1
 
 # 2025
@@ -948,13 +948,15 @@
 # 2016
 
 
-![Total Events](https://img.shields.io/badge/total-3-blue?style=flat-square) ![Total Meetups](https://img.shields.io/badge/meetups-1-violet?style=flat-square) ![Total Conferences](https://img.shields.io/badge/conferences-2-red?style=flat-square)    
+![Total Events](https://img.shields.io/badge/total-4-blue?style=flat-square) ![Total Meetups](https://img.shields.io/badge/meetups-1-violet?style=flat-square) ![Total Conferences](https://img.shields.io/badge/conferences-3-red?style=flat-square)    
 
 
 <table>
   <tr>
     <td align="center"> <img src="https://pbs.twimg.com/media/CstqM_xXEAA_IgI?format=jpg&name=4096x4096" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/CrhD01SUEAA3iXj?format=jpg&name=medium" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://pbs.twimg.com/media/CpBe5ssVIAADt9e?format=jpg&name=large" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://pbs.twimg.com/media/CpFkHldWAAA_cC0?format=jpg&name=large" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/CbgOxYzWAAAjvgp?format=jpg&name=4096x4096" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/CbgOy-pXEAE4PVp?format=jpg&name=4096x4096" width="85" height="50" /> </td>
   </tr>
@@ -965,6 +967,7 @@
 | ---- | ----- | ----- | ------ | --------- | -------- | -------- |
 | 2016-9-19 | OWASP AppSec Israel | [Node.js Security Done Right](pages/2016/2016-09-19.md) | [Slides](https://www.slideshare.net/LiranTal1/nodejs-security-done-right-tips-and-tricks-they-wont-teach-you-in-school) | [Recording](https://www.youtube.com/watch?v=n9HIfhaSOyc&list=PLA4gj-PiNukcnP0M8exLzXywWI71W4q4R&index=11) | [🇮🇱](## "Israel") | English |
 | 2016-9-4 | HPE Software Meetup | [Node.js Security & SecurityOps](pages/2016/2016-09-04.md) |  |  | [🇷🇴](## "Romania") | English |
+| 2016-8-5 | August Penguin 2016 | [קוד פתוח וחבילת MEAN: עלייתן של תשתיות פיתוח מבוססות JavaScript	](pages/2016/2016-08-05.md) |  | [Recording](https://www.youtube.com/watch?v=HUxFfM-eK6o&list=PLn1B_TbSSPfocr49B2guv_uukMjRCVdKz&index=13) | [🇮🇱](## "Israel") | Hebrew |
 | 2016-2-18 | helloJS | [The Rise of Open Source && MEAN Stack in the Enterprise](pages/2016/2016-02-18.md) |  | [Recording](https://www.youtube.com/watch?v=su0mysF0zN4) | [🇷🇴](## "Romania") | English |
 
 
@@ -989,6 +992,6 @@
 
 
 
-*page updated on 2024-12-28T10:57:52.724Z*
+*page updated on 2024-12-28T11:02:15.109Z*
 
 powered by [gigsboat/cli](https://github.com/gigsboat/cli)
