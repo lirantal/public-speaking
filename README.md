@@ -1,4 +1,4 @@
-<div align='center'><p><img src="https://img.shields.io/badge/total-197-blue?style=flat-square" alt="Total Events"> <img src="https://img.shields.io/badge/meetups-37-violet?style=flat-square" alt="Total Meetups"> <img src="https://img.shields.io/badge/conferences-87-red?style=flat-square" alt="Total Conferences"> <img src="https://img.shields.io/badge/podcasts-34-yellow?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/webinars-23-lightgrey?style=flat-square" alt="Total Webinars"> <img src="https://img.shields.io/badge/articles-3-green?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/workshops-6-orange?style=flat-square" alt="Total Workshops"></p>
+<div align='center'><p><img src="https://img.shields.io/badge/total-198-blue?style=flat-square" alt="Total Events"> <img src="https://img.shields.io/badge/meetups-37-violet?style=flat-square" alt="Total Meetups"> <img src="https://img.shields.io/badge/conferences-88-red?style=flat-square" alt="Total Conferences"> <img src="https://img.shields.io/badge/podcasts-34-yellow?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/webinars-23-lightgrey?style=flat-square" alt="Total Webinars"> <img src="https://img.shields.io/badge/articles-3-green?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/workshops-6-orange?style=flat-square" alt="Total Workshops"></p>
 </div>
   <p align='center'><h1 align='center'>Liran Tal - Public Speaking</h1>
 <p align='center'>I love doing Open Source, Node.js, JavaScript, Web Security & InfoSec, Public Speaking, and Building CLIs.</p></p><p align='center'><a href='liran_tal'><img alt='Twitter Follow' src='https://img.shields.io/twitter/follow/liran_tal?style=social'></a> <a href='https://www.linkedin.com/in/talliran'><img alt='LinkedIn Add Me' src='https://img.shields.io/badge/-Add&nbsp;Me&nbsp;on&nbsp;LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white'></a></p><p align='center'><img src='https://github.com/lirantal/public-speaking/blob/main/static/liran-tal-header-image.png' alt='Liran Tal public speaking profile' /></p>
@@ -23,6 +23,7 @@
  - [Year of 2018](#2018) - total events 3
  - [Year of 2017](#2017) - total events 2
  - [Year of 2016](#2016) - total events 2
+ - [Year of 2013](#2013) - total events 1
 
 # 2025
 
@@ -965,8 +966,27 @@
 | 2016-2-18 | helloJS | [The Rise of Open Source && MEAN Stack in the Enterprise](pages/2016/2016-02-18.md) |  | [Recording](https://www.youtube.com/watch?v=su0mysF0zN4) | [🇷🇴](## "Romania") | English |
 
 
+# 2013
 
 
-*page updated on 2024-12-22T01:35:01.501Z*
+![Total Events](https://img.shields.io/badge/total-1-blue?style=flat-square)  ![Total Conferences](https://img.shields.io/badge/conferences-1-red?style=flat-square)    
+
+
+<table>
+  <tr>
+    <td align="center"> <img src="https://pbs.twimg.com/media/BW3WkSyCcAAmCiV?format=jpg&name=900x900" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://pbs.twimg.com/media/BXSgCiMCcAA80jv?format=jpg&name=medium" width="85" height="50" /> </td>
+  </tr>
+</table>
+
+
+| Date | Event | Title | Slides | Recording | Location | Language |
+| ---- | ----- | ----- | ------ | --------- | -------- | -------- |
+| 2013-10-18 | Drupal Camp Israel | [Drupal 7 Media](pages/2013/2013-10-18.md) |  | [Recording](https://www.youtube.com/watch?v=a_3ZlJADOFQ) | [🇮🇱](## "Israel") | Hebrew |
+
+
+
+
+*page updated on 2024-12-28T10:39:37.540Z*
 
 powered by [gigsboat/cli](https://github.com/gigsboat/cli)
