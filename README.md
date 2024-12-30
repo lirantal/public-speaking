@@ -1,4 +1,4 @@
-<div align='center'><p><img src="https://img.shields.io/badge/total-211-blue?style=flat-square" alt="Total Events"> <img src="https://img.shields.io/badge/meetups-43-violet?style=flat-square" alt="Total Meetups"> <img src="https://img.shields.io/badge/conferences-93-red?style=flat-square" alt="Total Conferences"> <img src="https://img.shields.io/badge/podcasts-34-yellow?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/webinars-23-lightgrey?style=flat-square" alt="Total Webinars"> <img src="https://img.shields.io/badge/articles-3-green?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/workshops-8-orange?style=flat-square" alt="Total Workshops"></p>
+<div align='center'><p><img src="https://img.shields.io/badge/total-212-blue?style=flat-square" alt="Total Events"> <img src="https://img.shields.io/badge/meetups-43-violet?style=flat-square" alt="Total Meetups"> <img src="https://img.shields.io/badge/conferences-94-red?style=flat-square" alt="Total Conferences"> <img src="https://img.shields.io/badge/podcasts-34-yellow?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/webinars-23-lightgrey?style=flat-square" alt="Total Webinars"> <img src="https://img.shields.io/badge/articles-3-green?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/workshops-8-orange?style=flat-square" alt="Total Workshops"></p>
 </div>
   <p align='center'><h1 align='center'>Liran Tal - Public Speaking</h1>
 <p align='center'>I love doing Open Source, Node.js, JavaScript, Web Security & InfoSec, Public Speaking, and Building CLIs.</p></p><p align='center'><a href='liran_tal'><img alt='Twitter Follow' src='https://img.shields.io/twitter/follow/liran_tal?style=social'></a> <a href='https://www.linkedin.com/in/talliran'><img alt='LinkedIn Add Me' src='https://img.shields.io/badge/-Add&nbsp;Me&nbsp;on&nbsp;LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white'></a></p><p align='center'><img src='https://github.com/lirantal/public-speaking/blob/main/static/liran-tal-header-image.png' alt='Liran Tal public speaking profile' /></p>
@@ -20,7 +20,7 @@
  - [Year of 2021](#2021) - total events 55
  - [Year of 2020](#2020) - total events 17
  - [Year of 2019](#2019) - total events 21
- - [Year of 2018](#2018) - total events 7
+ - [Year of 2018](#2018) - total events 8
  - [Year of 2017](#2017) - total events 7
  - [Year of 2016](#2016) - total events 6
  - [Year of 2013](#2013) - total events 1
@@ -888,7 +888,7 @@
 # 2018
 
 
-![Total Events](https://img.shields.io/badge/total-7-blue?style=flat-square) ![Total Meetups](https://img.shields.io/badge/meetups-2-violet?style=flat-square) ![Total Conferences](https://img.shields.io/badge/conferences-5-red?style=flat-square)    
+![Total Events](https://img.shields.io/badge/total-8-blue?style=flat-square) ![Total Meetups](https://img.shields.io/badge/meetups-2-violet?style=flat-square) ![Total Conferences](https://img.shields.io/badge/conferences-6-red?style=flat-square)    
 
 
 <table>
@@ -915,16 +915,24 @@
   <tr>
     <td align="center"> <img src="https://pbs.twimg.com/media/DfK1o9DX0AMfXRl?format=jpg&name=large" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/DfKhMdBXkAIXRIv?format=jpg&name=large" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://pbs.twimg.com/media/Dd8m2SNV0AAWuMY?format=jpg&name=4096x4096" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://pbs.twimg.com/media/Dd8m83TVAAYVTSM?format=jpg&name=4096x4096" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://pbs.twimg.com/media/Dd8nPPpUwAA3thL?format=jpg&name=4096x4096" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://pbs.twimg.com/media/Dd3992JVAAAxSpQ?format=jpg&name=large" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://pbs.twimg.com/media/DdzBRk-VwAUGt16?format=jpg&name=4096x4096" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://pbs.twimg.com/media/DdvkaseV4AAvBH5?format=jpg&name=large" width="85" height="50" /> </td>
+  </tr>
+  <tr>
     <td align="center"> <img src="https://pbs.twimg.com/media/Dc1JHvQWsAA9zcy?format=jpg&name=medium" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/Dc1JHvRW4AA1gQZ?format=jpg&name=medium" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/DcwlZbsWkAI0nk9?format=jpg&name=large" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/Dcwjo1nX0AAzkQL?format=jpg&name=large" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/DcwU6gMXcAAdYBR?format=jpg&name=large" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/Dc1J4XyWAAASpg_?format=jpg&name=large" width="85" height="50" /> </td>
-  </tr>
-  <tr>
     <td align="center"> <img src="https://pbs.twimg.com/media/DbOKkJ7XkAAsdSI?format=jpg&name=medium" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/DbOMrhlX0AAxHg9?format=jpg&name=large" width="85" height="50" /> </td>
+  </tr>
+  <tr>
     <td align="center"> <img src="https://pbs.twimg.com/media/DbOMrhXX0AIVWEp?format=jpg&name=large" width="85" height="50" /> </td>
   </tr>
 </table>
@@ -936,6 +944,7 @@
 | 2018-10-10 | Node+JS Interactive | [Panel: Building A Secure Ecosystem for Node.js](pages/2018/2018-10-10.md) |  |  | [🇨🇦](## "Canada") | English |
 | 2018-7-10 | Amdocs Security Meetup | [Black Clouds & Silver Linings in Node.js Security](pages/2018/2018-07-10.md) |  |  | [🇮🇱](## "Israel") | Hebrew |
 | 2018-6-8 | DevTalks Romania | [Jest Testing Patterns](pages/2018/2018-06-08.md) | [Slides](https://slides.com/lirantal/jest-testing-patterns-devtalks) |  | [🇷🇴](## "Romania") | English |
+| 2018-5-23 | InfoShare | [Black Clouds and Silver Linings in Node.js Security](pages/2018/2018-05-23.md) |  |  | [🇵🇱](## "Poland") | English |
 | 2018-5-10 | JSDay Italy | [Node.js Security: Breaking The Loop](pages/2018/2018-05-10.md) |  |  | [🇮🇹](## "Italy") | English |
 | 2018-5-9 | JSDay Italy | [Jest Testing Patterns](pages/2018/2018-05-09.md) |  |  | [🇮🇹](## "Italy") | English |
 | 2018-4-20 | JSHeroes | [Making The Terminal Great Again](pages/2018/2018-04-20.md) | [Slides](http://slides.com/lirantal/makeing-the-console-great-again) | [Recording](https://www.youtube.com/watch?v=uOsVBHgHZY0&ab_channel=JSHeroes) | [🇷🇴](## "Romania") | English |
@@ -1045,6 +1054,6 @@
 
 
 
-*page updated on 2024-12-30T05:48:00.870Z*
+*page updated on 2024-12-30T05:55:29.635Z*
 
 powered by [gigsboat/cli](https://github.com/gigsboat/cli)
