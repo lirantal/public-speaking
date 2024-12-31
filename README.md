@@ -1,4 +1,4 @@
-<div align='center'><p><img src="https://img.shields.io/badge/total-217-blue?style=flat-square" alt="Total Events"> <img src="https://img.shields.io/badge/meetups-45-violet?style=flat-square" alt="Total Meetups"> <img src="https://img.shields.io/badge/conferences-95-red?style=flat-square" alt="Total Conferences"> <img src="https://img.shields.io/badge/podcasts-34-yellow?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/webinars-24-lightgrey?style=flat-square" alt="Total Webinars"> <img src="https://img.shields.io/badge/articles-3-green?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/workshops-9-orange?style=flat-square" alt="Total Workshops"></p>
+<div align='center'><p><img src="https://img.shields.io/badge/total-218-blue?style=flat-square" alt="Total Events"> <img src="https://img.shields.io/badge/meetups-46-violet?style=flat-square" alt="Total Meetups"> <img src="https://img.shields.io/badge/conferences-95-red?style=flat-square" alt="Total Conferences"> <img src="https://img.shields.io/badge/podcasts-34-yellow?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/webinars-24-lightgrey?style=flat-square" alt="Total Webinars"> <img src="https://img.shields.io/badge/articles-3-green?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/workshops-9-orange?style=flat-square" alt="Total Workshops"></p>
 </div>
   <p align='center'><h1 align='center'>Liran Tal - Public Speaking</h1>
 <p align='center'>I love doing Open Source, Node.js, JavaScript, Web Security & InfoSec, Public Speaking, and Building CLIs.</p></p><p align='center'><a href='liran_tal'><img alt='Twitter Follow' src='https://img.shields.io/twitter/follow/liran_tal?style=social'></a> <a href='https://www.linkedin.com/in/talliran'><img alt='LinkedIn Add Me' src='https://img.shields.io/badge/-Add&nbsp;Me&nbsp;on&nbsp;LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white'></a></p><p align='center'><img src='https://github.com/lirantal/public-speaking/blob/main/static/liran-tal-header-image.png' alt='Liran Tal public speaking profile' /></p>
@@ -21,7 +21,7 @@
  - [Year of 2020](#2020) - total events 17
  - [Year of 2019](#2019) - total events 25
  - [Year of 2018](#2018) - total events 8
- - [Year of 2017](#2017) - total events 8
+ - [Year of 2017](#2017) - total events 9
  - [Year of 2016](#2016) - total events 6
  - [Year of 2013](#2013) - total events 1
 
@@ -998,7 +998,7 @@
 # 2017
 
 
-![Total Events](https://img.shields.io/badge/total-8-blue?style=flat-square) ![Total Meetups](https://img.shields.io/badge/meetups-2-violet?style=flat-square) ![Total Conferences](https://img.shields.io/badge/conferences-3-red?style=flat-square)   ![Total Podcasts](https://img.shields.io/badge/articles-1-green?style=flat-square) ![Total Workshops](https://img.shields.io/badge/workshops-2-orange?style=flat-square)
+![Total Events](https://img.shields.io/badge/total-9-blue?style=flat-square) ![Total Meetups](https://img.shields.io/badge/meetups-3-violet?style=flat-square) ![Total Conferences](https://img.shields.io/badge/conferences-3-red?style=flat-square)   ![Total Podcasts](https://img.shields.io/badge/articles-1-green?style=flat-square) ![Total Workshops](https://img.shields.io/badge/workshops-2-orange?style=flat-square)
 
 
 <table>
@@ -1024,6 +1024,7 @@
   </tr>
   <tr>
     <td align="center"> <img src="https://pbs.twimg.com/media/DB3nf9AVwAEa8--?format=jpg&name=large" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://pbs.twimg.com/media/Dyvap_IXgAAL8iu?format=jpg&name=large" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/C7S0xCbXQAADAXq?format=jpg&name=large" width="85" height="50" /> </td>
   </tr>
 </table>
@@ -1038,6 +1039,7 @@
 | 2017-7-24 | GitHub Blog | [Lessons from Snyk: Make smarter decisions about your application's security](pages/2017/2017-07-24.md) |  |  |  | English |
 | 2017-7-12 | Front End IL | [Demystifying Node.js Security](pages/2017/2017-07-12.md) |  |  | [🇮🇱](## "Israel") | English |
 | 2017-6-9 | JSHeroes | [Node.js Security: Breaking The Loop](pages/2017/2017-06-09.md) |  | [Recording](https://www.youtube.com/watch?v=DX8FSC_7wRI) | [🇷🇴](## "Romania") | English |
+| 2017-5-14 | DevSecOps IL | [Seamless SecOps for Node.js](pages/2017/2017-05-14.md) |  |  | [🇮🇱](## "Israel") | English |
 | 2017-3-20 | boost(js) | [Demystifying Node.js Security](pages/2017/2017-03-20.md) |  |  | [🇮🇱](## "Israel") | English |
 
 
@@ -1100,6 +1102,6 @@
 
 
 
-*page updated on 2024-12-31T19:01:46.958Z*
+*page updated on 2024-12-31T19:05:44.091Z*
 
 powered by [gigsboat/cli](https://github.com/gigsboat/cli)
