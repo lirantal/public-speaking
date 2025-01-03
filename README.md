@@ -1,4 +1,4 @@
-<div align='center'><p><img src="https://img.shields.io/badge/total-218-blue?style=flat-square" alt="Total Events"> <img src="https://img.shields.io/badge/meetups-46-violet?style=flat-square" alt="Total Meetups"> <img src="https://img.shields.io/badge/conferences-95-red?style=flat-square" alt="Total Conferences"> <img src="https://img.shields.io/badge/podcasts-34-yellow?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/webinars-24-lightgrey?style=flat-square" alt="Total Webinars"> <img src="https://img.shields.io/badge/articles-3-green?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/workshops-9-orange?style=flat-square" alt="Total Workshops"></p>
+<div align='center'><p><img src="https://img.shields.io/badge/total-219-blue?style=flat-square" alt="Total Events"> <img src="https://img.shields.io/badge/meetups-46-violet?style=flat-square" alt="Total Meetups"> <img src="https://img.shields.io/badge/conferences-96-red?style=flat-square" alt="Total Conferences"> <img src="https://img.shields.io/badge/podcasts-34-yellow?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/webinars-24-lightgrey?style=flat-square" alt="Total Webinars"> <img src="https://img.shields.io/badge/articles-3-green?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/workshops-9-orange?style=flat-square" alt="Total Workshops"></p>
 </div>
   <p align='center'><h1 align='center'>Liran Tal - Public Speaking</h1>
 <p align='center'>I love doing Open Source, Node.js, JavaScript, Web Security & InfoSec, Public Speaking, and Building CLIs.</p></p><p align='center'><a href='liran_tal'><img alt='Twitter Follow' src='https://img.shields.io/twitter/follow/liran_tal?style=social'></a> <a href='https://www.linkedin.com/in/talliran'><img alt='LinkedIn Add Me' src='https://img.shields.io/badge/-Add&nbsp;Me&nbsp;on&nbsp;LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white'></a></p><p align='center'><img src='https://github.com/lirantal/public-speaking/blob/main/static/liran-tal-header-image.png' alt='Liran Tal public speaking profile' /></p>
@@ -19,7 +19,7 @@
  - [Year of 2022](#2022) - total events 43
  - [Year of 2021](#2021) - total events 55
  - [Year of 2020](#2020) - total events 17
- - [Year of 2019](#2019) - total events 25
+ - [Year of 2019](#2019) - total events 26
  - [Year of 2018](#2018) - total events 8
  - [Year of 2017](#2017) - total events 9
  - [Year of 2016](#2016) - total events 6
@@ -743,21 +743,22 @@
 # 2019
 
 
-![Total Events](https://img.shields.io/badge/total-25-blue?style=flat-square) ![Total Meetups](https://img.shields.io/badge/meetups-8-violet?style=flat-square) ![Total Conferences](https://img.shields.io/badge/conferences-13-red?style=flat-square) ![Total Podcasts](https://img.shields.io/badge/podcasts-1-yellow?style=flat-square) ![Total Webinars](https://img.shields.io/badge/webinars-2-lightgrey?style=flat-square)  ![Total Workshops](https://img.shields.io/badge/workshops-1-orange?style=flat-square)
+![Total Events](https://img.shields.io/badge/total-26-blue?style=flat-square) ![Total Meetups](https://img.shields.io/badge/meetups-8-violet?style=flat-square) ![Total Conferences](https://img.shields.io/badge/conferences-14-red?style=flat-square) ![Total Podcasts](https://img.shields.io/badge/podcasts-1-yellow?style=flat-square) ![Total Webinars](https://img.shields.io/badge/webinars-2-lightgrey?style=flat-square)  ![Total Workshops](https://img.shields.io/badge/workshops-1-orange?style=flat-square)
 
 
 <table>
   <tr>
     <td align="center"> <img src="https://pbs.twimg.com/media/EMIX4_9W4AAHU1r?format=jpg&name=large" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://pbs.twimg.com/media/ELrbDHbXYAAd84x?format=jpg&name=large" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/FV5GET3WAAQtc8d?format=jpg&name=4096x4096" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/ELmMReUW4AIPrvr?format=jpg&name=large" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/ELmMSBlXkAAjqhd?format=jpg&name=large" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/ELmMSjcXsAIAA_V?format=jpg&name=large" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/ELmM63uWwAAz1E_?format=jpg&name=large" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/ELmORWTXkAABx0k?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/ELmOn8yWkAISZHq?format=jpg&name=large" width="85" height="50" /> </td>
   </tr>
   <tr>
+    <td align="center"> <img src="https://pbs.twimg.com/media/ELmOn8yWkAISZHq?format=jpg&name=large" width="85" height="50" /> </td>
     <td align="center"> <img src="https://www.flickr.com/photos/linuxfoundation/49239418631/in/album-72157712187942248/" width="85" height="50" /> </td>
     <td align="center"> <img src="https://www.flickr.com/photos/linuxfoundation/49239635197/in/album-72157712187942248/" width="85" height="50" /> </td>
     <td align="center"> <img src="https://www.flickr.com/photos/linuxfoundation/49239635197/in/album-72157712187942248/" width="85" height="50" /> </td>
@@ -765,9 +766,9 @@
     <td align="center"> <img src="https://www.flickr.com/photos/linuxfoundation/49238935303/in/album-72157712187942248/" width="85" height="50" /> </td>
     <td align="center"> <img src="https://www.flickr.com/photos/linuxfoundation/49238935293/in/album-72157712187942248/" width="85" height="50" /> </td>
     <td align="center"> <img src="https://www.flickr.com/photos/linuxfoundation/49213312428/in/album-72157712187942248/" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://www.flickr.com/photos/linuxfoundation/49214024337/in/album-72157712187942248/" width="85" height="50" /> </td>
   </tr>
   <tr>
+    <td align="center"> <img src="https://www.flickr.com/photos/linuxfoundation/49214024337/in/album-72157712187942248/" width="85" height="50" /> </td>
     <td align="center"> <img src="https://www.flickr.com/photos/linuxfoundation/49214023707/in/album-72157712187942248/" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/ELmLQKcWsAAB083?format=jpg&name=large" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/EMF8DgrWkAQIjmB?format=jpg&name=medium" width="85" height="50" /> </td>
@@ -775,9 +776,9 @@
     <td align="center"> <img src="https://pbs.twimg.com/media/EInaA0UXUAAKi6_?format=jpg&name=4096x4096" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/EINzdmoWsAAIvDo?format=jpg&name=large" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/EINYbcAXkAAF44s?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/EIR-JdRW4AIplRV?format=jpg&name=4096x4096" width="85" height="50" /> </td>
   </tr>
   <tr>
+    <td align="center"> <img src="https://pbs.twimg.com/media/EIR-JdRW4AIplRV?format=jpg&name=4096x4096" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/EIDOjVkX4AA_n_5?format=jpg&name=large" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/EIDNF9zWwAA1n-7?format=jpg&name=large" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/EICQMUEWoAEhl8G?format=jpg&name=large" width="85" height="50" /> </td>
@@ -785,9 +786,9 @@
     <td align="center"> <img src="https://pbs.twimg.com/media/EF-Fpu6X0AETxJL?format=jpg&name=large" width="85" height="50" /> </td>
     <td align="center"> <img src="https://scontent.ftlv18-1.fna.fbcdn.net/v/t1.6435-9/71471387_10162363849325313_8222921635032727552_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=730e14&_nc_ohc=vnCRcYD6ATkAX9FmZLu&_nc_ht=scontent.ftlv18-1.fna&oh=396eaccb61c033d0f7a73bd2a999df02&oe=6171FFFC" width="85" height="50" /> </td>
     <td align="center"> <img src="https://scontent.ftlv18-1.fna.fbcdn.net/v/t1.6435-9/71711399_10162363849305313_8929317989992366080_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=730e14&_nc_ohc=sqbLUdY983MAX8G15gN&_nc_ht=scontent.ftlv18-1.fna&oh=ca943d4453f05f3fbcefde64b15c87cb&oe=617253C4" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/EFeULhIW4AARwZa?format=jpg&name=large" width="85" height="50" /> </td>
   </tr>
   <tr>
+    <td align="center"> <img src="https://pbs.twimg.com/media/EFeULhIW4AARwZa?format=jpg&name=large" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/EFeUXV_XkAAIYzi?format=jpg&name=large" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/EFeUXVkX4AETOZX?format=jpg&name=large" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/EFeUXVAXsAAYPtc?format=jpg&name=large" width="85" height="50" /> </td>
@@ -795,9 +796,9 @@
     <td align="center"> <img src="https://pbs.twimg.com/media/EEXo7K-WwAAVvyL?format=jpg&name=large" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/EEQPqXlXUAEoafi?format=jpg&name=large" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/ECJ2Zv6WsAEPUFF?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/EDd0tvlWsAAxg_U?format=jpg&name=medium" width="85" height="50" /> </td>
   </tr>
   <tr>
+    <td align="center"> <img src="https://pbs.twimg.com/media/EDd0tvlWsAAxg_U?format=jpg&name=medium" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/EDeNxT9W4AAXyQK?format=jpg&name=large" width="85" height="50" /> </td>
     <td align="center"> <img src="https://secure.meetupstatic.com/photos/event/7/2/8/8/600_483629320.jpeg" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/EAviYtmXYAEOH0E?format=jpg&name=large" width="85" height="50" /> </td>
@@ -805,9 +806,9 @@
     <td align="center"> <img src="https://pbs.twimg.com/media/EAvjWCaXYAARmR9?format=jpg&name=medium" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/EAvjWi7XYAEDscM?format=jpg&name=medium" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/D_6_LltXoAAYlhi?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/D6tXC4EXsAAEI3N?format=jpg&name=large" width="85" height="50" /> </td>
   </tr>
   <tr>
+    <td align="center"> <img src="https://pbs.twimg.com/media/D6tXC4EXsAAEI3N?format=jpg&name=large" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/D_wyQgmWsAI8dQ5?format=jpg&name=medium" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/D_m3cymXUAYOlBY?format=jpg&name=large" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/D7z7G5dXsAA3ulw?format=jpg&name=small" width="85" height="50" /> </td>
@@ -815,9 +816,9 @@
     <td align="center"> <img src="https://pbs.twimg.com/media/D7z5G08WsAoKz53?format=jpg&name=large" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/D70LfWlXsAAkgK_?format=jpg&name=900x900" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/D7z4tdlW4AEd62L?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/D7z2WNcXYAAO052?format=jpg&name=large" width="85" height="50" /> </td>
   </tr>
   <tr>
+    <td align="center"> <img src="https://pbs.twimg.com/media/D7z2WNcXYAAO052?format=jpg&name=large" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/D8CuonZWkAA-54R?format=jpg&name=large" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/D71WLaQXoAEoVj8?format=jpg&name=4096x4096" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/D7z3MOsWsAEUb8W?format=jpg&name=large" width="85" height="50" /> </td>
@@ -825,9 +826,9 @@
     <td align="center"> <img src="https://pbs.twimg.com/media/D7zW8vyXYAEZDjy?format=jpg&name=large" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/D7zQ7iMXUAAvH6G?format=jpg&name=large" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/D7vzNQ4XoAA244X?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/D7vd-v4W4AEVhgJ?format=jpg&name=medium" width="85" height="50" /> </td>
   </tr>
   <tr>
+    <td align="center"> <img src="https://pbs.twimg.com/media/D7vd-v4W4AEVhgJ?format=jpg&name=medium" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/D7uLYAiX4AAjf-4?format=jpg&name=large" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/D7rh6xVX4AEvSW5?format=jpg&name=large" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/D7qo1MYW0AASKyH?format=jpg&name=large" width="85" height="50" /> </td>
@@ -835,9 +836,9 @@
     <td align="center"> <img src="https://pbs.twimg.com/media/D7K82j0XsAAFuo6?format=jpg&name=large" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/D7K85UEXsAAti7S?format=jpg&name=large" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/D7K88EmW4AMfILa?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/D7K893SWwAAZEU8?format=jpg&name=large" width="85" height="50" /> </td>
   </tr>
   <tr>
+    <td align="center"> <img src="https://pbs.twimg.com/media/D7K893SWwAAZEU8?format=jpg&name=large" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/D4NtqgjW0AEMx6E?format=jpg&name=large" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/D7LDBAiWwAI52SE?format=jpg&name=4096x4096" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/D7LDba_X4AArGwA?format=jpg&name=large" width="85" height="50" /> </td>
@@ -845,9 +846,9 @@
     <td align="center"> <img src="https://pbs.twimg.com/media/D7Bp4IIWsAAEB80?format=jpg&name=large" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/D7Bp5S5X4AEqoei?format=jpg&name=large" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/D7Bp6l_WkAEHbDR?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/D7Bp7oSXoAEMNut?format=jpg&name=large" width="85" height="50" /> </td>
   </tr>
   <tr>
+    <td align="center"> <img src="https://pbs.twimg.com/media/D7Bp7oSXoAEMNut?format=jpg&name=large" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/profile_banners/1028952774506160130/1555328430/1500x500" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/D8xQTxPW4AAaNzK?format=jpg&name=medium" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/D9RiE46W4AMYRBC?format=jpg&name=large" width="85" height="50" /> </td>
@@ -855,9 +856,9 @@
     <td align="center"> <img src="https://pbs.twimg.com/media/D9RiE4_XkAAV70z?format=jpg&name=large" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/D9RiE5BXUAM4671?format=jpg&name=large" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/D2Pz71aWwAA6Sst?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/D66FYG6XkAELeI9?format=jpg&name=large" width="85" height="50" /> </td>
   </tr>
   <tr>
+    <td align="center"> <img src="https://pbs.twimg.com/media/D66FYG6XkAELeI9?format=jpg&name=large" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/D62GxGzW0AAvev4?format=jpg&name=large" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/D62GyAtX4AA_kZg?format=jpg&name=large" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/D6mWVTgWwAMC-DI?format=jpg&name=small" width="85" height="50" /> </td>
@@ -865,9 +866,9 @@
     <td align="center"> <img src="https://pbs.twimg.com/media/D3yYoXVWsAADhud?format=jpg&name=large" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/D32h6FjW4AASi8c?format=jpg&name=large" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/D32pCCnXsAARxzr?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/D33UDzDWAAEtw7O?format=jpg&name=large" width="85" height="50" /> </td>
   </tr>
   <tr>
+    <td align="center"> <img src="https://pbs.twimg.com/media/D33UDzDWAAEtw7O?format=jpg&name=large" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/D34Yt4AW0AAYPS0?format=jpg&name=large" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/D38Dg2_U0AEfLM7?format=jpg&name=large" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/D38aZKKWkAAk96_?format=jpg&name=4096x4096" width="85" height="50" /> </td>
@@ -875,9 +876,9 @@
     <td align="center"> <img src="https://pbs.twimg.com/media/D3uVR5WWwAACePN?format=jpg&name=large" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/D3uVTElWwAI4Op4?format=jpg&name=large" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/D3uVUgrX4AAQgje?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/D3uVV9OXsAYwS4v?format=jpg&name=large" width="85" height="50" /> </td>
   </tr>
   <tr>
+    <td align="center"> <img src="https://pbs.twimg.com/media/D3uVV9OXsAYwS4v?format=jpg&name=large" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/D3ulwiuXsAE_gvG?format=jpg&name=large" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/D3ulwi7W0Agh6P7?format=jpg&name=large" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/D3uOrczXsAE5b95?format=jpg&name=large" width="85" height="50" /> </td>
@@ -885,9 +886,9 @@
     <td align="center"> <img src="https://pbs.twimg.com/media/D2BbyKTXcAA7iLR?format=jpg&name=large" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/D2C3XhWW0AAlDaN?format=jpg&name=large" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/D2CbV3_XcAA0zyM?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/D1ZjCUdXgAEuZt5?format=jpg&name=large" width="85" height="50" /> </td>
   </tr>
   <tr>
+    <td align="center"> <img src="https://pbs.twimg.com/media/D1ZjCUdXgAEuZt5?format=jpg&name=large" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/DzYg17MXQAknG9M?format=jpg&name=large" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/DzYwMUOWsAAabc5?format=jpg&name=large" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/DzZUlrcW0AE0s8X?format=jpg&name=large" width="85" height="50" /> </td>
@@ -898,6 +899,7 @@
 | Date | Event | Title | Slides | Recording | Location | Language |
 | ---- | ----- | ----- | ------ | --------- | -------- | -------- |
 | 2019-12-19 | MyDevSecOps | [Practical DevSecOps](pages/2019/2019-12-19.md) |  | [Recording](https://www.youtube.com/watch?v=aUL5JdpNQlQ&feature=emb_logo&ab_channel=MyDevSecOps-) |  | English |
+| 2019-12-13 | Node.js Collab Summit | [](pages/2019/2019-12-16.md) |  |  | [🇨🇦](## "Canada") | English |
 | 2019-12-12 | NODE+JS INTERACTIVE | [The State of Open Source Security](pages/2019/2019-12-12.md) |  |  | [🇨🇦](## "Canada") | English |
 | 2019-11-5 | DevSecCon Tel Aviv | [Securing Containers by Breaking In](pages/2019/2019-11-05.md) |  |  |  | English |
 | 2019-10-31 | ReactiveConf | [StrangerDanger: Finding Security Vulnerabilities Before They Find You!](pages/2019/2019-10-31.md) |  | [Recording](https://www.youtube.com/watch?v=ensQEPBHOO0&ab_channel=ReactiveConf) | [🇨🇿](## "Czechia") | English |
@@ -1107,6 +1109,6 @@
 
 
 
-*page updated on 2025-01-03T21:30:20.224Z*
+*page updated on 2025-01-03T21:35:19.118Z*
 
 powered by [gigsboat/cli](https://github.com/gigsboat/cli)
