@@ -1,4 +1,4 @@
-<div align='center'><p><img src="https://img.shields.io/badge/total-223-blue?style=flat-square" alt="Total Events"> <img src="https://img.shields.io/badge/meetups-46-violet?style=flat-square" alt="Total Meetups"> <img src="https://img.shields.io/badge/conferences-96-red?style=flat-square" alt="Total Conferences"> <img src="https://img.shields.io/badge/podcasts-34-yellow?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/webinars-27-lightgrey?style=flat-square" alt="Total Webinars"> <img src="https://img.shields.io/badge/articles-3-green?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/workshops-10-orange?style=flat-square" alt="Total Workshops"></p>
+<div align='center'><p><img src="https://img.shields.io/badge/total-224-blue?style=flat-square" alt="Total Events"> <img src="https://img.shields.io/badge/meetups-46-violet?style=flat-square" alt="Total Meetups"> <img src="https://img.shields.io/badge/conferences-96-red?style=flat-square" alt="Total Conferences"> <img src="https://img.shields.io/badge/podcasts-35-yellow?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/webinars-27-lightgrey?style=flat-square" alt="Total Webinars"> <img src="https://img.shields.io/badge/articles-3-green?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/workshops-10-orange?style=flat-square" alt="Total Workshops"></p>
 </div>
   <p align='center'><h1 align='center'>Liran Tal - Public Speaking</h1>
 <p align='center'>I love doing Open Source, Node.js, JavaScript, Web Security & InfoSec, Public Speaking, and Building CLIs.</p></p><p align='center'><a href='liran_tal'><img alt='Twitter Follow' src='https://img.shields.io/twitter/follow/liran_tal?style=social'></a> <a href='https://www.linkedin.com/in/talliran'><img alt='LinkedIn Add Me' src='https://img.shields.io/badge/-Add&nbsp;Me&nbsp;on&nbsp;LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white'></a></p><p align='center'><img src='https://github.com/lirantal/public-speaking/blob/main/static/liran-tal-header-image.png' alt='Liran Tal public speaking profile' /></p>
@@ -15,7 +15,7 @@
 
  - [Year of 2025](#2025) - total events 1
  - [Year of 2024](#2024) - total events 23
- - [Year of 2023](#2023) - total events 30
+ - [Year of 2023](#2023) - total events 31
  - [Year of 2022](#2022) - total events 43
  - [Year of 2021](#2021) - total events 55
  - [Year of 2020](#2020) - total events 17
@@ -113,7 +113,7 @@
 # 2023
 
 
-![Total Events](https://img.shields.io/badge/total-30-blue?style=flat-square) ![Total Meetups](https://img.shields.io/badge/meetups-8-violet?style=flat-square) ![Total Conferences](https://img.shields.io/badge/conferences-11-red?style=flat-square) ![Total Podcasts](https://img.shields.io/badge/podcasts-5-yellow?style=flat-square) ![Total Webinars](https://img.shields.io/badge/webinars-4-lightgrey?style=flat-square)  ![Total Workshops](https://img.shields.io/badge/workshops-2-orange?style=flat-square)
+![Total Events](https://img.shields.io/badge/total-31-blue?style=flat-square) ![Total Meetups](https://img.shields.io/badge/meetups-8-violet?style=flat-square) ![Total Conferences](https://img.shields.io/badge/conferences-11-red?style=flat-square) ![Total Podcasts](https://img.shields.io/badge/podcasts-6-yellow?style=flat-square) ![Total Webinars](https://img.shields.io/badge/webinars-4-lightgrey?style=flat-square)  ![Total Workshops](https://img.shields.io/badge/workshops-2-orange?style=flat-square)
 
 
 <table>
@@ -214,6 +214,7 @@
 | 2023-10-30 | AI Insights: Secure Code & LLM for Frontend Developers | [Can Machines Dream of Secure Code?](pages/2023/2023-10-30.md) |  |  | [🇮🇱](## "Israel") | Hebrew |
 | 2023-10-26 | Commina | [Powering Communities with Open Source Software](pages/2023/2023-10-26.md) |  |  | [🇮🇱](## "Israel") | Hebrew |
 | 2023-9-18 | Infobip Shift 2023 | [TBD](pages/2023/2023-09-18.md) |  |  | [🇭🇷](## "Croatia") | English |
+| 2023-8-17 | The Secure Developer | [Ep. #133, Securing Supply Chains in C++, Java and Javascript](pages/2023/2023-08-17.md) |  | [Recording](https://www.youtube.com/watch?v=9xhIp39aLmM) |  | English |
 | 2023-7-10 | Riviera DEV 2023 | [Hack-Proof Your Software Supply Chain, an Essential Guide for Developers](pages/2023/2023-07-10.md) |  |  | [🇫🇷](## "France") | English |
 | 2023-6-28 | NodeTLV | [Char Wars: The Path Traversal Strikes Back](pages/2023/2023-06-28.md) |  | [Recording](https://www.youtube.com/watch?v=fRaqphtBJfQ) | [🇮🇱](## "Israel") | Hebrew |
 | 2023-6-20 | מפתחים מחוץ לקופסה | [From AI's Hallucinations to Software Vulnerabilities: Can Machines Dream of Secure Code?](pages/2023/2023-06-20.md) |  | [Recording](https://youtu.be/o-Y4KtwHT4M) | [🇮🇱](## "Israel") | Hebrew |
@@ -1117,6 +1118,6 @@
 
 
 
-*page updated on 2025-01-04T14:07:42.180Z*
+*page updated on 2025-01-04T14:11:16.981Z*
 
 powered by [gigsboat/cli](https://github.com/gigsboat/cli)
