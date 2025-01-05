@@ -35,7 +35,7 @@
 
 | Date | Event | Title | Slides | Recording | Location | Language |
 | ---- | ----- | ----- | ------ | --------- | -------- | -------- |
-| 2025-7-11 | Mastering Application Configuration in Node.js: From Pitfalls to Best Practices | [WeAreDevelopers World Congress 2025](pages/2025/2025-07-11.md) |  |  | [🇩🇪](## "Germany") | English |
+| 2025-7-11 | WeAreDevelopers World Congress 2025 | [Mastering Application Configuration in Node.js: From Pitfalls to Best Practices](pages/2025/2025-07-11.md) |  |  | [🇩🇪](## "Germany") | English |
 
 
 # 2024
@@ -1119,6 +1119,6 @@
 
 
 
-*page updated on 2025-01-05T01:35:00.336Z*
+*page updated on 2025-01-05T06:20:46.038Z*
 
 powered by [gigsboat/cli](https://github.com/gigsboat/cli)
