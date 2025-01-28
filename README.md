@@ -38,7 +38,7 @@
 | 2025-7-11 | WeAreDevelopers World Congress 2025 | [Mastering Application Configuration in Node.js: From Pitfalls to Best Practices](pages/2025/2025-07-11.md) |  |  | [🇩🇪](## "Germany") | English |
 | 2025-4-23 | CityJS London 2025 | [Hacking AI Applications](pages/2025/2025-04-23.md) |  |  | [🇬🇧](## "undefined") | English |
 | 2025-3-27 | Voxxed Days Bucharest 2025 | [Hacking AI Applications](pages/2025/2025-03-27.md) |  |  | [🇷🇴](## "Romania") | English |
-| 2025-1-29 | Daily.Dev | [DevRel Roundtable](pages/2025/2025-01-29.md) |  |  |  | English |
+| 2025-1-29 | Daily.Dev | [DevRel Roundtable](pages/2025/2025-01-29.md) |  | [Recording](https://www.youtube.com/watch?v=dTPOE_AJQkM) |  | English |
 
 
 # 2024
@@ -1122,6 +1122,6 @@
 
 
 
-*page updated on 2025-01-26T01:22:38.390Z*
+*page updated on 2025-01-28T08:35:03.737Z*
 
 powered by [gigsboat/cli](https://github.com/gigsboat/cli)
