@@ -1,4 +1,4 @@
-<div align='center'><p><img src="https://img.shields.io/badge/total-230-blue?style=flat-square" alt="Total Events"> <img src="https://img.shields.io/badge/meetups-46-violet?style=flat-square" alt="Total Meetups"> <img src="https://img.shields.io/badge/conferences-100-red?style=flat-square" alt="Total Conferences"> <img src="https://img.shields.io/badge/podcasts-37-yellow?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/webinars-27-lightgrey?style=flat-square" alt="Total Webinars"> <img src="https://img.shields.io/badge/articles-3-green?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/workshops-10-orange?style=flat-square" alt="Total Workshops"></p>
+<div align='center'><p><img src="https://img.shields.io/badge/total-231-blue?style=flat-square" alt="Total Events"> <img src="https://img.shields.io/badge/meetups-47-violet?style=flat-square" alt="Total Meetups"> <img src="https://img.shields.io/badge/conferences-100-red?style=flat-square" alt="Total Conferences"> <img src="https://img.shields.io/badge/podcasts-37-yellow?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/webinars-27-lightgrey?style=flat-square" alt="Total Webinars"> <img src="https://img.shields.io/badge/articles-3-green?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/workshops-10-orange?style=flat-square" alt="Total Workshops"></p>
 </div>
   <p align='center'><h1 align='center'>Liran Tal - Public Speaking</h1>
 <p align='center'>I love doing Open Source, Node.js, JavaScript, Web Security & InfoSec, Public Speaking, and Building CLIs.</p></p><p align='center'><a href='liran_tal'><img alt='Twitter Follow' src='https://img.shields.io/twitter/follow/liran_tal?style=social'></a> <a href='https://www.linkedin.com/in/talliran'><img alt='LinkedIn Add Me' src='https://img.shields.io/badge/-Add&nbsp;Me&nbsp;on&nbsp;LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white'></a></p><p align='center'><img src='https://github.com/lirantal/public-speaking/blob/main/static/liran-tal-header-image.png' alt='Liran Tal public speaking profile' /></p>
@@ -13,7 +13,7 @@
 # Table of Contents
 
 
- - [Year of 2025](#2025) - total events 6
+ - [Year of 2025](#2025) - total events 7
  - [Year of 2024](#2024) - total events 23
  - [Year of 2023](#2023) - total events 31
  - [Year of 2022](#2022) - total events 44
@@ -28,7 +28,7 @@
 # 2025
 
 
-![Total Events](https://img.shields.io/badge/total-6-blue?style=flat-square)  ![Total Conferences](https://img.shields.io/badge/conferences-5-red?style=flat-square) ![Total Podcasts](https://img.shields.io/badge/podcasts-1-yellow?style=flat-square)   
+![Total Events](https://img.shields.io/badge/total-7-blue?style=flat-square) ![Total Meetups](https://img.shields.io/badge/meetups-1-violet?style=flat-square) ![Total Conferences](https://img.shields.io/badge/conferences-5-red?style=flat-square) ![Total Podcasts](https://img.shields.io/badge/podcasts-1-yellow?style=flat-square)   
 
 
 
@@ -40,6 +40,7 @@
 | 2025-4-23 | CityJS London 2025 | [Hacking AI Applications](pages/2025/2025-04-23.md) |  |  | [🇬🇧](## "undefined") | English |
 | 2025-3-31 | JavaScript Jabber | [TypeScript Security](pages/2025/2025-03-31.md) |  |  |  | English |
 | 2025-3-27 | Voxxed Days Bucharest 2025 | [Hacking AI Applications](pages/2025/2025-03-27.md) |  |  | [🇷🇴](## "Romania") | English |
+| 2025-2-27 | Women On Stage | [DevRel: Everything You Wanted To Know But Were Afraid To Ask](pages/2025/2025-02-27.md) |  |  | [🇮🇱](## "Israel") | Hebrew |
 | 2025-1-29 | Daily.Dev | [DevRel Roundtable](pages/2025/2025-01-29.md) |  | [Recording](https://www.youtube.com/watch?v=dTPOE_AJQkM) |  | English |
 
 
@@ -1124,6 +1125,6 @@
 
 
 
-*page updated on 2025-02-04T11:47:39.859Z*
+*page updated on 2025-02-04T17:59:18.146Z*
 
 powered by [gigsboat/cli](https://github.com/gigsboat/cli)
