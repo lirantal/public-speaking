@@ -35,7 +35,7 @@
 
 | Date | Event | Title | Slides | Recording | Location | Language |
 | ---- | ----- | ----- | ------ | --------- | -------- | -------- |
-| 2025-7-11 | WeAreDevelopers World Congress 2025 | [Mastering Application Configuration in Node.js: From Pitfalls to Best Practices](pages/2025/2025-07-11.md) |  |  | [🇩🇪](## "Germany") | English |
+| 2025-7-11 | WeAreDevelopers World Congress 2025 | [Friend or Foe? TypeScript Security Fallacies](pages/2025/2025-07-11.md) |  |  | [🇩🇪](## "Germany") | English |
 | 2025-6-12 | JSNation | [Your LLM is Going to Hack Your JavaScript](pages/2025/2025-06-12.md) |  |  | [🇳🇱](## "Netherlands") | English |
 | 2025-4-23 | CityJS London 2025 | [Hacking AI Applications](pages/2025/2025-04-23.md) |  |  | [🇬🇧](## "undefined") | English |
 | 2025-3-31 | JavaScript Jabber | [TypeScript Security](pages/2025/2025-03-31.md) |  |  |  | English |
@@ -1125,6 +1125,6 @@
 
 
 
-*page updated on 2025-02-16T13:41:38.040Z*
+*page updated on 2025-02-16T13:42:24.464Z*
 
 powered by [gigsboat/cli](https://github.com/gigsboat/cli)
