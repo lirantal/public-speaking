@@ -39,7 +39,7 @@
 | 2025-6-12 | JSNation | [Your LLM is Going to Hack Your JavaScript](pages/2025/2025-06-12.md) |  |  | [🇳🇱](## "Netherlands") | English |
 | 2025-4-23 | CityJS London 2025 | [Hacking AI Applications](pages/2025/2025-04-23.md) |  |  | [🇬🇧](## "undefined") | English |
 | 2025-3-31 | JavaScript Jabber | [TypeScript Security](pages/2025/2025-03-31.md) |  |  |  | English |
-| 2025-3-27 | Voxxed Days Bucharest 2025 | [Hacking AI Applications](pages/2025/2025-03-27.md) |  |  | [🇷🇴](## "Romania") | English |
+| 2025-3-27 | Voxxed Days Bucharest 2025 | [Friend or Foe? TypeScript Security Fallacies](pages/2025/2025-03-27.md) |  |  | [🇷🇴](## "Romania") | English |
 | 2025-2-27 | Women On Stage | [DevRel: Everything You Wanted To Know But Were Afraid To Ask](pages/2025/2025-02-27.md) |  |  | [🇮🇱](## "Israel") | Hebrew |
 | 2025-1-29 | Daily.Dev | [DevRel Roundtable](pages/2025/2025-01-29.md) |  | [Recording](https://www.youtube.com/watch?v=dTPOE_AJQkM) |  | English |
 
@@ -1125,6 +1125,6 @@
 
 
 
-*page updated on 2025-02-16T01:34:46.690Z*
+*page updated on 2025-02-16T13:41:38.040Z*
 
 powered by [gigsboat/cli](https://github.com/gigsboat/cli)
