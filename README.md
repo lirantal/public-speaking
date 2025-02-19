@@ -31,6 +31,11 @@
 ![Total Events](https://img.shields.io/badge/total-8-blue?style=flat-square) ![Total Meetups](https://img.shields.io/badge/meetups-1-violet?style=flat-square) ![Total Conferences](https://img.shields.io/badge/conferences-6-red?style=flat-square) ![Total Podcasts](https://img.shields.io/badge/podcasts-1-yellow?style=flat-square)   
 
 
+<table>
+  <tr>
+    <td align="center"> <img src="https://media.licdn.com/dms/image/v2/D4D22AQHuaLHsYmM7og/feedshare-shrink_2048_1536/B4DZUcuCNfGkAo-/0/1739943586104?e=1743033600&v=beta&t=VyTBQ5usB8JZiXsCFz6gPv0-OKaqWZgRdEy7DpxxUMw" width="85" height="50" /> </td>
+  </tr>
+</table>
 
 
 | Date | Event | Title | Slides | Recording | Location | Language |
@@ -1126,6 +1131,6 @@
 
 
 
-*page updated on 2025-02-18T10:47:25.562Z*
+*page updated on 2025-02-19T11:46:02.553Z*
 
 powered by [gigsboat/cli](https://github.com/gigsboat/cli)
