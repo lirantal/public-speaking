@@ -1,4 +1,4 @@
-<div align='center'><p><img src="https://img.shields.io/badge/total-233-blue?style=flat-square" alt="Total Events"> <img src="https://img.shields.io/badge/meetups-47-violet?style=flat-square" alt="Total Meetups"> <img src="https://img.shields.io/badge/conferences-102-red?style=flat-square" alt="Total Conferences"> <img src="https://img.shields.io/badge/podcasts-37-yellow?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/webinars-27-lightgrey?style=flat-square" alt="Total Webinars"> <img src="https://img.shields.io/badge/articles-3-green?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/workshops-10-orange?style=flat-square" alt="Total Workshops"></p>
+<div align='center'><p><img src="https://img.shields.io/badge/total-234-blue?style=flat-square" alt="Total Events"> <img src="https://img.shields.io/badge/meetups-47-violet?style=flat-square" alt="Total Meetups"> <img src="https://img.shields.io/badge/conferences-103-red?style=flat-square" alt="Total Conferences"> <img src="https://img.shields.io/badge/podcasts-37-yellow?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/webinars-27-lightgrey?style=flat-square" alt="Total Webinars"> <img src="https://img.shields.io/badge/articles-3-green?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/workshops-10-orange?style=flat-square" alt="Total Workshops"></p>
 </div>
   <p align='center'><h1 align='center'>Liran Tal - Public Speaking</h1>
 <p align='center'>I love doing Open Source, Node.js, JavaScript, Web Security & InfoSec, Public Speaking, and Building CLIs.</p></p><p align='center'><a href='liran_tal'><img alt='Twitter Follow' src='https://img.shields.io/twitter/follow/liran_tal?style=social'></a> <a href='https://www.linkedin.com/in/talliran'><img alt='LinkedIn Add Me' src='https://img.shields.io/badge/-Add&nbsp;Me&nbsp;on&nbsp;LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white'></a></p><p align='center'><img src='https://github.com/lirantal/public-speaking/blob/main/static/liran-tal-header-image.png' alt='Liran Tal public speaking profile' /></p>
@@ -13,7 +13,7 @@
 # Table of Contents
 
 
- - [Year of 2025](#2025) - total events 9
+ - [Year of 2025](#2025) - total events 10
  - [Year of 2024](#2024) - total events 23
  - [Year of 2023](#2023) - total events 31
  - [Year of 2022](#2022) - total events 44
@@ -28,7 +28,7 @@
 # 2025
 
 
-![Total Events](https://img.shields.io/badge/total-9-blue?style=flat-square) ![Total Meetups](https://img.shields.io/badge/meetups-1-violet?style=flat-square) ![Total Conferences](https://img.shields.io/badge/conferences-7-red?style=flat-square) ![Total Podcasts](https://img.shields.io/badge/podcasts-1-yellow?style=flat-square)   
+![Total Events](https://img.shields.io/badge/total-10-blue?style=flat-square) ![Total Meetups](https://img.shields.io/badge/meetups-1-violet?style=flat-square) ![Total Conferences](https://img.shields.io/badge/conferences-8-red?style=flat-square) ![Total Podcasts](https://img.shields.io/badge/podcasts-1-yellow?style=flat-square)   
 
 
 <table>
@@ -45,6 +45,7 @@
 | 2025-7-11 | NodeTLV | [Who Burned My App? Security Hazards in Bun JavaScript Runtime and How Node.js Compares](pages/2025/2025-06-26.md) |  |  | [🇮🇱](## "Israel") | Hebrew |
 | 2025-7-11 | WeAreDevelopers World Congress 2025 | [Friend or Foe? TypeScript Security Fallacies](pages/2025/2025-07-11.md) |  |  | [🇩🇪](## "Germany") | English |
 | 2025-6-12 | JSNation | [Your LLM is Going to Hack Your JavaScript](pages/2025/2025-06-12.md) |  |  | [🇳🇱](## "Netherlands") | English |
+| 2025-5-30 | OWASP Global AppSec EU 2025 | [Friend or Foe? TypeScript Security Fallacies](pages/2025/2025-05-30.md) |  |  | [🇪🇸](## "Spain") | English |
 | 2025-4-23 | CityJS London 2025 | [Hacking AI Applications](pages/2025/2025-04-23.md) |  |  | [🇬🇧](## "undefined") | English |
 | 2025-4-14 | Codemotion Rome 2025 | [Adversarial Security Threats in the Open Source Supply Chain](pages/2025/2025-04-14.md) |  |  | [🇮🇹](## "Italy") | English |
 | 2025-3-31 | JavaScript Jabber | [TypeScript Security](pages/2025/2025-03-31.md) |  |  |  | English |
@@ -1134,6 +1135,6 @@
 
 
 
-*page updated on 2025-02-25T13:50:43.267Z*
+*page updated on 2025-02-27T12:23:11.644Z*
 
 powered by [gigsboat/cli](https://github.com/gigsboat/cli)
