@@ -54,7 +54,7 @@
 | 2025-4-23 | CityJS London 2025 | [Hacking AI Applications](pages/2025/2025-04-23.md) |  |  | [🇬🇧](## "undefined") | English |
 | 2025-4-14 | Codemotion Rome 2025 | [Adversarial Security Threats in the Open Source Supply Chain](pages/2025/2025-04-14.md) |  |  | [🇮🇹](## "Italy") | English |
 | 2025-3-31 | מדברים פתוח | [בעיות אבטחה ובינה מלאכתית - לירן טל](pages/2025/2025-03-17_2.md) |  | [Recording](https://talkingopen.podbean.com/e/%d7%91%d7%a2%d7%99%d7%95%d7%aa%d7%90%d7%91%d7%98%d7%97%d7%94-%d7%95%d7%91%d7%99%d7%a0%d7%94-%d7%9e%d7%9c%d7%90%d7%9b%d7%aa%d7%99%d7%aa%d7%9c%d7%99/) |  | Hebrew |
-| 2025-3-31 | JavaScript Jabber | [TypeScript Security](pages/2025/2025-03-31.md) |  |  |  | English |
+| 2025-3-31 | JavaScript Jabber | [TypeScript Security](pages/2025/2025-03-31.md) |  | [Recording](https://www.youtube.com/watch?v=ItlUEZqzYJ8) |  | English |
 | 2025-3-27 | Voxxed Days Bucharest 2025 | [Friend or Foe? TypeScript Security Fallacies](pages/2025/2025-03-27.md) |  |  | [🇷🇴](## "Romania") | English |
 | 2025-3-19 | Platformatic Webinar | [Unpacking Config & Env Variables in Node.js](pages/2025/2025-03-19.md) |  | [Recording](https://www.youtube.com/live/c0PFgihCm9A) |  | English |
 | 2025-3-17 | ConTejas Code podcast | [Liran Tal: How to Secure your Apps and AI Agents](pages/2025/2025-03-17.md) |  | [Recording](https://www.youtube.com/watch?v=zlMnJGd-U0k&list=PLEJpU2pV0Lie1VWU1unMg_7FRQ1gqFmAZ&index=1) |  | English |
@@ -1143,6 +1143,6 @@
 
 
 
-*page updated on 2025-03-31T05:46:35.336Z*
+*page updated on 2025-04-02T21:41:04.966Z*
 
 powered by [gigsboat/cli](https://github.com/gigsboat/cli)
