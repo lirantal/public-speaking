@@ -35,7 +35,14 @@
   <tr>
     <td align="center"> <img src="https://media.licdn.com/dms/image/v2/D4D22AQHrdv-faQleRg/feedshare-shrink_1280/B4DZUd9fr2G8Ak-/0/1739964415390?e=1743638400&v=beta&t=TbGdUP_OmrFbQiWmrwSNElV_gz6qXNlr744YnxO61Wc" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/GkJZq01WYAADPzz?format=jpg&name=medium" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://pbs.twimg.com/media/Gpbc-FXXkAEmWS3?format=jpg&name=large" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://pbs.twimg.com/media/Gpbc-FYXsAAspfh?format=jpg&name=large" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://pbs.twimg.com/media/Gpbc-FiXIAAxQT6?format=jpg&name=large" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://pbs.twimg.com/media/GpYESy3WoAAEkJ7?format=jpg&name=large" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://pbs.twimg.com/media/GpYD1ilXkAAEbpt?format=jpg&name=large" width="85" height="50" /> </td>
     <td align="center"> <img src="https://media.licdn.com/dms/image/v2/D4D22AQEW3-N10aZSFQ/feedshare-shrink_2048_1536/B4DZWoBPL4HAAs-/0/1742280652547?e=1745452800&v=beta&t=WURdROyY1lcSejuEuCvt3YFhqznCgi2mi1c2m0iefHs" width="85" height="50" /> </td>
+  </tr>
+  <tr>
     <td align="center"> <img src="https://media.licdn.com/dms/image/v2/D4D22AQG02xk7ngSpRQ/feedshare-shrink_2048_1536/B4DZXqcv44HsAo-/0/1743395163326?e=1746057600&v=beta&t=uIUcqf5aGx61-n99myniJVMDt5FWt-QsDDZ1LgQW63A" width="85" height="50" /> </td>
     <td align="center"> <img src="https://media.licdn.com/dms/image/v2/D4D22AQHuaLHsYmM7og/feedshare-shrink_2048_1536/B4DZUcuCNfGkAo-/0/1739943586104?e=1743033600&v=beta&t=VyTBQ5usB8JZiXsCFz6gPv0-OKaqWZgRdEy7DpxxUMw" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/GkILXpIXIAAl7L5?format=jpg&name=large" width="85" height="50" /> </td>
@@ -51,7 +58,7 @@
 | 2025-7-11 | WeAreDevelopers World Congress 2025 | [Friend or Foe? TypeScript Security Fallacies](pages/2025/2025-07-11.md) |  |  | [🇩🇪](## "Germany") | English |
 | 2025-6-12 | JSNation | [Your LLM is Going to Hack Your JavaScript](pages/2025/2025-06-12.md) |  |  | [🇳🇱](## "Netherlands") | English |
 | 2025-5-30 | OWASP Global AppSec EU 2025 | [Friend or Foe? TypeScript Security Fallacies](pages/2025/2025-05-30.md) |  |  | [🇪🇸](## "Spain") | English |
-| 2025-4-23 | CityJS London 2025 | [Hacking AI Applications](pages/2025/2025-04-23.md) |  |  | [🇬🇧](## "undefined") | English |
+| 2025-4-25 | CityJS London 2025 | [Hacking AI Applications](pages/2025/2025-04-25.md) |  |  | [🇬🇧](## "undefined") | English |
 | 2025-4-14 | Codemotion Rome 2025 | [Adversarial Security Threats in the Open Source Supply Chain](pages/2025/2025-04-14.md) |  |  | [🇮🇹](## "Italy") | English |
 | 2025-3-31 | מדברים פתוח | [בעיות אבטחה ובינה מלאכתית - לירן טל](pages/2025/2025-03-17_2.md) |  | [Recording](https://talkingopen.podbean.com/e/%d7%91%d7%a2%d7%99%d7%95%d7%aa%d7%90%d7%91%d7%98%d7%97%d7%94-%d7%95%d7%91%d7%99%d7%a0%d7%94-%d7%9e%d7%9c%d7%90%d7%9b%d7%aa%d7%99%d7%aa%d7%9c%d7%99/) |  | Hebrew |
 | 2025-3-31 | JavaScript Jabber | [TypeScript Security](pages/2025/2025-03-31.md) |  | [Recording](https://www.youtube.com/watch?v=ItlUEZqzYJ8) |  | English |
@@ -1143,6 +1150,6 @@
 
 
 
-*page updated on 2025-04-20T01:43:44.713Z*
+*page updated on 2025-04-26T11:31:47.717Z*
 
 powered by [gigsboat/cli](https://github.com/gigsboat/cli)
