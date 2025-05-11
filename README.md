@@ -60,7 +60,7 @@
 
 | Date | Event | Title | Slides | Recording | Location | Language |
 | ---- | ----- | ----- | ------ | --------- | -------- | -------- |
-| 2025-7-11 | NodeTLV | [Who Burned My App? Security Hazards in Bun JavaScript Runtime and How Node.js Compares](pages/2025/2025-06-26.md) |  |  | [🇮🇱](## "Israel") | Hebrew |
+| 2025-7-11 | NodeTLV | [Weaponizing LLMs to Hack Your Node.js Apps](pages/2025/2025-06-26.md) |  |  | [🇮🇱](## "Israel") | Hebrew |
 | 2025-7-11 | WeAreDevelopers World Congress 2025 | [Friend or Foe? TypeScript Security Fallacies](pages/2025/2025-07-11.md) |  |  | [🇩🇪](## "Germany") | English |
 | 2025-6-12 | JSNation | [Your LLM is Going to Hack Your JavaScript](pages/2025/2025-06-12.md) |  |  | [🇳🇱](## "Netherlands") | English |
 | 2025-5-30 | OWASP Global AppSec EU 2025 | [Friend or Foe? TypeScript Security Fallacies](pages/2025/2025-05-30.md) |  |  | [🇪🇸](## "Spain") | English |
@@ -1156,6 +1156,6 @@
 
 
 
-*page updated on 2025-05-11T01:47:10.408Z*
+*page updated on 2025-05-11T07:14:07.431Z*
 
 powered by [gigsboat/cli](https://github.com/gigsboat/cli)
