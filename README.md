@@ -1,4 +1,4 @@
-<div align='center'><p><img src="https://img.shields.io/badge/total-236-blue?style=flat-square" alt="Total Events"> <img src="https://img.shields.io/badge/meetups-47-violet?style=flat-square" alt="Total Meetups"> <img src="https://img.shields.io/badge/conferences-102-red?style=flat-square" alt="Total Conferences"> <img src="https://img.shields.io/badge/podcasts-39-yellow?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/webinars-28-lightgrey?style=flat-square" alt="Total Webinars"> <img src="https://img.shields.io/badge/articles-3-green?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/workshops-10-orange?style=flat-square" alt="Total Workshops"></p>
+<div align='center'><p><img src="https://img.shields.io/badge/total-237-blue?style=flat-square" alt="Total Events"> <img src="https://img.shields.io/badge/meetups-47-violet?style=flat-square" alt="Total Meetups"> <img src="https://img.shields.io/badge/conferences-102-red?style=flat-square" alt="Total Conferences"> <img src="https://img.shields.io/badge/podcasts-40-yellow?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/webinars-28-lightgrey?style=flat-square" alt="Total Webinars"> <img src="https://img.shields.io/badge/articles-3-green?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/workshops-10-orange?style=flat-square" alt="Total Workshops"></p>
 </div>
   <p align='center'><h1 align='center'>Liran Tal - Public Speaking</h1>
 <p align='center'>I love doing Open Source, Node.js, JavaScript, Web Security & InfoSec, Public Speaking, and Building CLIs.</p></p><p align='center'><a href='liran_tal'><img alt='Twitter Follow' src='https://img.shields.io/twitter/follow/liran_tal?style=social'></a> <a href='https://www.linkedin.com/in/talliran'><img alt='LinkedIn Add Me' src='https://img.shields.io/badge/-Add&nbsp;Me&nbsp;on&nbsp;LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white'></a></p><p align='center'><img src='https://github.com/lirantal/public-speaking/blob/main/static/liran-tal-header-image.png' alt='Liran Tal public speaking profile' /></p>
@@ -13,7 +13,7 @@
 # Table of Contents
 
 
- - [Year of 2025](#2025) - total events 12
+ - [Year of 2025](#2025) - total events 13
  - [Year of 2024](#2024) - total events 23
  - [Year of 2023](#2023) - total events 31
  - [Year of 2022](#2022) - total events 44
@@ -28,7 +28,7 @@
 # 2025
 
 
-![Total Events](https://img.shields.io/badge/total-12-blue?style=flat-square) ![Total Meetups](https://img.shields.io/badge/meetups-1-violet?style=flat-square) ![Total Conferences](https://img.shields.io/badge/conferences-7-red?style=flat-square) ![Total Podcasts](https://img.shields.io/badge/podcasts-3-yellow?style=flat-square) ![Total Webinars](https://img.shields.io/badge/webinars-1-lightgrey?style=flat-square)  
+![Total Events](https://img.shields.io/badge/total-13-blue?style=flat-square) ![Total Meetups](https://img.shields.io/badge/meetups-1-violet?style=flat-square) ![Total Conferences](https://img.shields.io/badge/conferences-7-red?style=flat-square) ![Total Podcasts](https://img.shields.io/badge/podcasts-4-yellow?style=flat-square) ![Total Webinars](https://img.shields.io/badge/webinars-1-lightgrey?style=flat-square)  
 
 
 <table>
@@ -63,6 +63,7 @@
 
 | Date | Event | Title | Slides | Recording | Location | Language |
 | ---- | ----- | ----- | ------ | --------- | -------- | -------- |
+| 2025-7-31 | TypeScript TV | [Building Secure TypeScript Applications \| Liran Tal | Ep 28B](pages/2025/2025-07-31.md) |  | [Recording](https://share.transistor.fm/s/c587816d) |  | English |
 | 2025-7-11 | WeAreDevelopers World Congress 2025 | [Friend or Foe? TypeScript Security Fallacies](pages/2025/2025-07-11.md) |  |  | [🇩🇪](## "Germany") | English |
 | 2025-6-26 | NodeTLV | [Weaponizing LLMs to Hack Your Node.js Apps](pages/2025/2025-06-26.md) |  |  | [🇮🇱](## "Israel") | English |
 | 2025-5-30 | OWASP Global AppSec EU 2025 | [Friend or Foe? TypeScript Security Fallacies](pages/2025/2025-05-30.md) |  |  | [🇪🇸](## "Spain") | English |
@@ -1158,6 +1159,6 @@
 
 
 
-*page updated on 2025-07-27T02:02:39.121Z*
+*page updated on 2025-07-31T10:31:34.920Z*
 
 powered by [gigsboat/cli](https://github.com/gigsboat/cli)
