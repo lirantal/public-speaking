@@ -33,10 +33,10 @@
 
 <table>
   <tr>
+    <td align="center"> <img src="https://pbs.twimg.com/media/GpYkcCZWYAEtFmJ?format=jpg&name=large" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/Gvj4jwoWEAAUUOh?format=jpg&name=large" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/GvlfwJ0WwAImlrt?format=jpg&name=large" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/GvkrfIBX0AAHqnv?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/GpYkcCZWYAEtFmJ?format=jpg&name=large" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/GqVABzgXwAAn902?format=jpg&name=4096x4096" width="85" height="50" /> </td>
     <td align="center"> <img src="https://media.licdn.com/dms/image/v2/D4D22AQHrdv-faQleRg/feedshare-shrink_1280/B4DZUd9fr2G8Ak-/0/1739964415390?e=1743638400&v=beta&t=TbGdUP_OmrFbQiWmrwSNElV_gz6qXNlr744YnxO61Wc" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/GkJZq01WYAADPzz?format=jpg&name=medium" width="85" height="50" /> </td>
@@ -63,9 +63,9 @@
 
 | Date | Event | Title | Slides | Recording | Location | Language |
 | ---- | ----- | ----- | ------ | --------- | -------- | -------- |
+| 2025-12-16 | NodeTLV | [Weaponizing LLMs to Hack Your Node.js Apps](pages/2025/2025-12-16.md) |  |  | [🇮🇱](## "Israel") | English |
 | 2025-7-31 | TypeScript TV | [Building Secure TypeScript Applications \| Liran Tal | Ep 28B](pages/2025/2025-07-31.md) |  | [Recording](https://share.transistor.fm/s/c587816d) |  | English |
 | 2025-7-11 | WeAreDevelopers World Congress 2025 | [Friend or Foe? TypeScript Security Fallacies](pages/2025/2025-07-11.md) |  |  | [🇩🇪](## "Germany") | English |
-| 2025-6-26 | NodeTLV | [Weaponizing LLMs to Hack Your Node.js Apps](pages/2025/2025-06-26.md) |  |  | [🇮🇱](## "Israel") | English |
 | 2025-5-30 | OWASP Global AppSec EU 2025 | [Friend or Foe? TypeScript Security Fallacies](pages/2025/2025-05-30.md) |  |  | [🇪🇸](## "Spain") | English |
 | 2025-4-25 | CityJS London 2025 | [Hacking AI Applications](pages/2025/2025-04-25.md) |  |  | [🇬🇧](## "undefined") | English |
 | 2025-4-14 | Codemotion Rome 2025 | [Adversarial Security Threats in the Open Source Supply Chain](pages/2025/2025-04-14.md) |  |  | [🇮🇹](## "Italy") | English |
@@ -1159,6 +1159,6 @@
 
 
 
-*page updated on 2025-07-31T10:31:34.920Z*
+*page updated on 2025-07-31T10:33:14.572Z*
 
 powered by [gigsboat/cli](https://github.com/gigsboat/cli)
