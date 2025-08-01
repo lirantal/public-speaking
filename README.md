@@ -64,7 +64,7 @@
 | Date | Event | Title | Slides | Recording | Location | Language |
 | ---- | ----- | ----- | ------ | --------- | -------- | -------- |
 | 2025-12-16 | NodeTLV | [Weaponizing LLMs to Hack Your Node.js Apps](pages/2025/2025-12-16.md) |  |  | [🇮🇱](## "Israel") | English |
-| 2025-7-31 | TypeScript TV | [Building Secure TypeScript Applications \| Liran Tal | Ep 28B](pages/2025/2025-07-31.md) |  | [Recording](https://share.transistor.fm/s/c587816d) |  | English |
+| 2025-7-31 | TypeScript TV | [Building Secure TypeScript Applications, Liran Tal, Ep 28B](pages/2025/2025-07-31.md) |  | [Recording](https://share.transistor.fm/s/c587816d) |  | English |
 | 2025-7-11 | WeAreDevelopers World Congress 2025 | [Friend or Foe? TypeScript Security Fallacies](pages/2025/2025-07-11.md) |  |  | [🇩🇪](## "Germany") | English |
 | 2025-5-30 | OWASP Global AppSec EU 2025 | [Friend or Foe? TypeScript Security Fallacies](pages/2025/2025-05-30.md) |  |  | [🇪🇸](## "Spain") | English |
 | 2025-4-25 | CityJS London 2025 | [Hacking AI Applications](pages/2025/2025-04-25.md) |  |  | [🇬🇧](## "undefined") | English |
@@ -1159,6 +1159,6 @@
 
 
 
-*page updated on 2025-07-31T10:33:14.572Z*
+*page updated on 2025-08-01T09:20:04.848Z*
 
 powered by [gigsboat/cli](https://github.com/gigsboat/cli)
