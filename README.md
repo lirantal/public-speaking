@@ -35,14 +35,15 @@
   <tr>
     <td align="center"> <img src="https://pbs.twimg.com/media/GpYkcCZWYAEtFmJ?format=jpg&name=large" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/GypH16OXEAAwmJ8?format=png&name=small" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://media.licdn.com/dms/image/v2/D4D22AQEy5tZzJDvSsw/feedshare-shrink_2048_1536/B4DZlOu_XzHsAw-/0/1757962566936?e=1761177600&v=beta&t=8gF6abkaX2p0p1ZeUgdtr9jWzbpJF4d4d2ufk0VDjac" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/Gvj4jwoWEAAUUOh?format=jpg&name=large" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/GvlfwJ0WwAImlrt?format=jpg&name=large" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/GvkrfIBX0AAHqnv?format=jpg&name=large" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/GqVABzgXwAAn902?format=jpg&name=4096x4096" width="85" height="50" /> </td>
     <td align="center"> <img src="https://media.licdn.com/dms/image/v2/D4D22AQHrdv-faQleRg/feedshare-shrink_1280/B4DZUd9fr2G8Ak-/0/1739964415390?e=1743638400&v=beta&t=TbGdUP_OmrFbQiWmrwSNElV_gz6qXNlr744YnxO61Wc" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/GkJZq01WYAADPzz?format=jpg&name=medium" width="85" height="50" /> </td>
   </tr>
   <tr>
+    <td align="center"> <img src="https://pbs.twimg.com/media/GkJZq01WYAADPzz?format=jpg&name=medium" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/Gpbc-FXXkAEmWS3?format=jpg&name=large" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/Gpbc-FYXsAAspfh?format=jpg&name=large" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/Gpbc-FiXIAAxQT6?format=jpg&name=large" width="85" height="50" /> </td>
@@ -50,9 +51,9 @@
     <td align="center"> <img src="https://pbs.twimg.com/media/GpYD1ilXkAAEbpt?format=jpg&name=large" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/Gpb_SYnWoAAoFi9?format=jpg&name=large" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/Gp8TCQ7XoAA5oHL?format=jpg&name=4096x4096" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://media.licdn.com/dms/image/v2/D4D22AQEW3-N10aZSFQ/feedshare-shrink_2048_1536/B4DZWoBPL4HAAs-/0/1742280652547?e=1745452800&v=beta&t=WURdROyY1lcSejuEuCvt3YFhqznCgi2mi1c2m0iefHs" width="85" height="50" /> </td>
   </tr>
   <tr>
+    <td align="center"> <img src="https://media.licdn.com/dms/image/v2/D4D22AQEW3-N10aZSFQ/feedshare-shrink_2048_1536/B4DZWoBPL4HAAs-/0/1742280652547?e=1745452800&v=beta&t=WURdROyY1lcSejuEuCvt3YFhqznCgi2mi1c2m0iefHs" width="85" height="50" /> </td>
     <td align="center"> <img src="https://media.licdn.com/dms/image/v2/D4D22AQG02xk7ngSpRQ/feedshare-shrink_2048_1536/B4DZXqcv44HsAo-/0/1743395163326?e=1746057600&v=beta&t=uIUcqf5aGx61-n99myniJVMDt5FWt-QsDDZ1LgQW63A" width="85" height="50" /> </td>
     <td align="center"> <img src="https://media.licdn.com/dms/image/v2/D4D22AQHuaLHsYmM7og/feedshare-shrink_2048_1536/B4DZUcuCNfGkAo-/0/1739943586104?e=1743033600&v=beta&t=VyTBQ5usB8JZiXsCFz6gPv0-OKaqWZgRdEy7DpxxUMw" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/GkILXpIXIAAl7L5?format=jpg&name=large" width="85" height="50" /> </td>
@@ -68,7 +69,7 @@
 | 2025-11-17 | JSNation US 2025 | [Weaponizing LLMs to Hack JavaScript AI Applications](pages/2025/2025-11-17.md) |  | [Recording](https://gitnation.com/contents/weaponizing-llms-to-hack-javascript-ai-applications) | [🇺🇸](## "United States") | English |
 | 2025-9-25 | Scalekit Podcast | [AI Security](pages/2025/2025-09-25.md) |  |  |  | English |
 | 2025-9-16 | Node.js Monthly Meetup | [Secure Coding Challenge!](pages/2025/2025-09-16.md) |  |  | [🇮🇱](## "Israel") | Hebrew |
-| 2025-9-15 | Cursor User Group | [Secure Coding Challenge!](pages/2025/2025-09-15.md) |  |  | [🇮🇱](## "Israel") | Hebrew |
+| 2025-9-15 | Cursor User Group | [Your Lack of Agent Security is Disturbing](pages/2025/2025-09-15.md) |  |  | [🇮🇱](## "Israel") | Hebrew |
 | 2025-7-31 | TypeScript TV | [Building Secure TypeScript Applications, Liran Tal, Ep 28B](pages/2025/2025-07-31.md) |  | [Recording](https://share.transistor.fm/s/c587816d) |  | English |
 | 2025-7-11 | WeAreDevelopers World Congress 2025 | [Friend or Foe? TypeScript Security Fallacies](pages/2025/2025-07-11.md) |  |  | [🇩🇪](## "Germany") | English |
 | 2025-5-30 | OWASP Global AppSec EU 2025 | [Friend or Foe? TypeScript Security Fallacies](pages/2025/2025-05-30.md) |  |  | [🇪🇸](## "Spain") | English |
@@ -1169,6 +1170,6 @@
 
 
 
-*page updated on 2025-09-14T01:40:02.928Z*
+*page updated on 2025-09-18T10:34:07.003Z*
 
 powered by [gigsboat/cli](https://github.com/gigsboat/cli)
