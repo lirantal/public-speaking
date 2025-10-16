@@ -77,7 +77,7 @@
 | 2025-7-31 | TypeScript TV | [Building Secure TypeScript Applications, Liran Tal, Ep 28B](pages/2025/2025-07-31.md) |  | [Recording](https://share.transistor.fm/s/c587816d) |  | English |
 | 2025-7-11 | WeAreDevelopers World Congress 2025 | [Friend or Foe? TypeScript Security Fallacies](pages/2025/2025-07-11.md) |  |  | [🇩🇪](## "Germany") | English |
 | 2025-5-30 | OWASP Global AppSec EU 2025 | [Friend or Foe? TypeScript Security Fallacies](pages/2025/2025-05-30.md) |  |  | [🇪🇸](## "Spain") | English |
-| 2025-4-25 | CityJS London 2025 | [Hacking AI Applications](pages/2025/2025-04-25.md) |  |  | [🇬🇧](## "undefined") | English |
+| 2025-4-25 | CityJS London 2025 | [Hacking AI Applications](pages/2025/2025-04-25.md) |  | [Recording](https://www.youtube.com/watch?v=92gkzgLRbg0&list=PLYDCh9vbt8_KlKLaZLWlGaYuyGke1rBBT&index=2) | [🇬🇧](## "undefined") | English |
 | 2025-4-14 | Codemotion Rome 2025 | [Adversarial Security Threats in the Open Source Supply Chain](pages/2025/2025-04-14.md) |  |  | [🇮🇹](## "Italy") | English |
 | 2025-3-31 | מדברים פתוח | [בעיות אבטחה ובינה מלאכתית - לירן טל](pages/2025/2025-03-17_2.md) |  | [Recording](https://talkingopen.podbean.com/e/%d7%91%d7%a2%d7%99%d7%95%d7%aa%d7%90%d7%91%d7%98%d7%97%d7%94-%d7%95%d7%91%d7%99%d7%a0%d7%94-%d7%9e%d7%9c%d7%90%d7%9b%d7%aa%d7%99%d7%aa%d7%9c%d7%99/) |  | Hebrew |
 | 2025-3-31 | JavaScript Jabber | [TypeScript Security](pages/2025/2025-03-31.md) |  | [Recording](https://www.youtube.com/watch?v=ryn69TJAub8) |  | English |
@@ -1174,6 +1174,6 @@
 
 
 
-*page updated on 2025-10-12T01:38:40.148Z*
+*page updated on 2025-10-16T08:09:29.741Z*
 
 powered by [gigsboat/cli](https://github.com/gigsboat/cli)
