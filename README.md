@@ -81,7 +81,7 @@
 | 2025-11-18 | AI Native DevCon | [Weaponizing LLMs to Hack JavaScript AI Applications](pages/2025/2025-11-18.md) |  |  | [🇺🇸](## "United States") | English |
 | 2025-11-17 | JSNation US 2025 | [Weaponizing LLMs to Hack JavaScript AI Applications](pages/2025/2025-11-17.md) |  | [Recording](https://gitnation.com/contents/weaponizing-llms-to-hack-javascript-ai-applications) | [🇺🇸](## "United States") | English |
 | 2025-11-13 | Qodo + Snyk Meetup | [Weaponizing LLMs to Hack JavaScript AI Applications](pages/2025/2025-11-13.md) |  |  | [🇺🇸](## "United States") | English |
-| 2025-9-25 | Scalekit Podcast | [AI Security](pages/2025/2025-09-25.md) |  |  |  | English |
+| 2025-9-25 | Scalekit Podcast | [LLMs and insecure code: The security gaps in AI-generated code](pages/2025/2025-09-25.md) |  | [Recording](https://www.youtube.com/watch?v=UteWLfVoWqw) |  | English |
 | 2025-9-16 | Node.js Monthly Meetup | [Secure Coding Challenge!](pages/2025/2025-09-16.md) |  |  | [🇮🇱](## "Israel") | Hebrew |
 | 2025-9-15 | Cursor User Group | [Your Lack of Agent Security is Disturbing](pages/2025/2025-09-15.md) |  |  | [🇮🇱](## "Israel") | Hebrew |
 | 2025-7-31 | TypeScript TV | [Building Secure TypeScript Applications, Liran Tal, Ep 28B](pages/2025/2025-07-31.md) |  | [Recording](https://share.transistor.fm/s/c587816d) |  | English |
@@ -1184,6 +1184,6 @@
 
 
 
-*page updated on 2025-11-30T01:53:47.873Z*
+*page updated on 2025-11-30T06:53:38.175Z*
 
 powered by [gigsboat/cli](https://github.com/gigsboat/cli)
