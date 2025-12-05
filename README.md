@@ -80,7 +80,7 @@
 | 2025-12-17 | AI DEV TLV | [Weaponizing LLMs to Hack AI Applications](pages/2025/2025-12-17.md) |  |  | [🇮🇱](## "Israel") | English |
 | 2025-12-16 | NodeTLV | [Weaponizing LLMs to Hack Your Node.js Apps](pages/2025/2025-12-16.md) |  |  | [🇮🇱](## "Israel") | English |
 | 2025-12-13 | Open Source Security | [Neciu Dan - The Señor Developer](pages/2025/2025-12-13.md) |  | [Recording](https://www.youtube.com/@NeciuDan) | [🇺🇸](## "United States") | English |
-| 2025-11-18 | AI Native DevCon | [Weaponizing LLMs to Hack JavaScript AI Applications](pages/2025/2025-11-18.md) |  |  | [🇺🇸](## "United States") | English |
+| 2025-11-18 | AI Native DevCon | [Weaponizing LLMs to Hack JavaScript AI Applications](pages/2025/2025-11-18.md) |  | [Recording](https://www.youtube.com/watch?v=McB4Sth3_Ss&list=PLISstAySqk7JtFY2enw8Qp3GvU9mkpHam&index=18) | [🇺🇸](## "United States") | English |
 | 2025-11-17 | JSNation US 2025 | [Weaponizing LLMs to Hack JavaScript AI Applications](pages/2025/2025-11-17.md) |  | [Recording](https://gitnation.com/contents/weaponizing-llms-to-hack-javascript-ai-applications) | [🇺🇸](## "United States") | English |
 | 2025-11-13 | Qodo + Snyk Meetup | [Weaponizing LLMs to Hack JavaScript AI Applications](pages/2025/2025-11-13.md) |  |  | [🇺🇸](## "United States") | English |
 | 2025-9-25 | Scalekit Podcast | [LLMs and insecure code: The security gaps in AI-generated code](pages/2025/2025-09-25.md) |  | [Recording](https://www.youtube.com/watch?v=UteWLfVoWqw) |  | English |
@@ -1186,6 +1186,6 @@
 
 
 
-*page updated on 2025-12-04T23:15:11.528Z*
+*page updated on 2025-12-05T18:52:17.508Z*
 
 powered by [gigsboat/cli](https://github.com/gigsboat/cli)
