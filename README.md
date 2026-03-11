@@ -1,4 +1,4 @@
-<div align='center'><p><img src="https://img.shields.io/badge/total-247-blue?style=flat-square" alt="Total Events"> <img src="https://img.shields.io/badge/meetups-50-violet?style=flat-square" alt="Total Meetups"> <img src="https://img.shields.io/badge/conferences-105-red?style=flat-square" alt="Total Conferences"> <img src="https://img.shields.io/badge/podcasts-44-yellow?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/webinars-28-lightgrey?style=flat-square" alt="Total Webinars"> <img src="https://img.shields.io/badge/articles-3-green?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/workshops-10-orange?style=flat-square" alt="Total Workshops"></p>
+<div align='center'><p><img src="https://img.shields.io/badge/total-248-blue?style=flat-square" alt="Total Events"> <img src="https://img.shields.io/badge/meetups-50-violet?style=flat-square" alt="Total Meetups"> <img src="https://img.shields.io/badge/conferences-106-red?style=flat-square" alt="Total Conferences"> <img src="https://img.shields.io/badge/podcasts-44-yellow?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/webinars-28-lightgrey?style=flat-square" alt="Total Webinars"> <img src="https://img.shields.io/badge/articles-3-green?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/workshops-10-orange?style=flat-square" alt="Total Workshops"></p>
 </div>
   <p align='center'><h1 align='center'>Liran Tal - Public Speaking</h1>
 <p align='center'>I love doing Open Source, Node.js, JavaScript, Web Security & InfoSec, Public Speaking, and Building CLIs.</p></p><p align='center'><a href='liran_tal'><img alt='Twitter Follow' src='https://img.shields.io/twitter/follow/liran_tal?style=social'></a> <a href='https://www.linkedin.com/in/talliran'><img alt='LinkedIn Add Me' src='https://img.shields.io/badge/-Add&nbsp;Me&nbsp;on&nbsp;LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white'></a></p><p align='center'><img src='https://github.com/lirantal/public-speaking/blob/main/static/liran-tal-header-image.png' alt='Liran Tal public speaking profile' /></p>
@@ -13,7 +13,7 @@
 # Table of Contents
 
 
- - [Year of 2026](#2026) - total events 2
+ - [Year of 2026](#2026) - total events 3
  - [Year of 2025](#2025) - total events 21
  - [Year of 2024](#2024) - total events 23
  - [Year of 2023](#2023) - total events 31
@@ -29,13 +29,19 @@
 # 2026
 
 
-![Total Events](https://img.shields.io/badge/total-2-blue?style=flat-square)   ![Total Podcasts](https://img.shields.io/badge/podcasts-2-yellow?style=flat-square)   
+![Total Events](https://img.shields.io/badge/total-3-blue?style=flat-square)  ![Total Conferences](https://img.shields.io/badge/conferences-1-red?style=flat-square) ![Total Podcasts](https://img.shields.io/badge/podcasts-2-yellow?style=flat-square)   
 
 
+<table>
+  <tr>
+    <td align="center"> <img src="https://pbs.twimg.com/media/HDIPWh9bgAAb47d?format=jpg&name=4096x4096" width="85" height="50" /> </td>
+  </tr>
+</table>
 
 
 | Date | Event | Title | Slides | Recording | Location | Language |
 | ---- | ----- | ----- | ------ | --------- | -------- | -------- |
+| 2026-6-2 | AI Native Dev 2026 | [](pages/2026/2026-06-02.md) |  |  |  | English |
 | 2026-2-26 | The Context | [The Context: Episode 32 ft. Snyk](pages/2026/2026-02-26.md) |  | [Recording](https://www.youtube.com/watch?v=BH8Hs5ABb-8) |  | English |
 | 2026-1-19 | מדברים פתוח | [עונה 4 פרק 6 - הסכנות בפרוטוקול החדש של הבינה המלאכותית - לירן טל](pages/2026/2026-01-19.md) |  | [Recording](https://talkingopen.podbean.com/e/%D7%A2%D7%95%D7%A0%D7%944-%D7%A4%D7%A8%D7%A76%D7%9B%D7%A9%D7%A0%D7%AA%D7%A0%D7%95-%D7%9C-ai-%D7%99%D7%93%D7%99%D7%99%D7%9D-%D7%95%D7%A9) |  | English |
 
@@ -1207,6 +1213,6 @@
 
 
 
-*page updated on 2026-03-08T02:22:59.961Z*
+*page updated on 2026-03-11T16:09:37.812Z*
 
 powered by [gigsboat/cli](https://github.com/gigsboat/cli)
