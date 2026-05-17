@@ -1215,10 +1215,6 @@
 
 
 
-*page updated on 2026-05-17T03:37:09.976Z*
+*page updated on 2026-05-17T07:56:46.703Z*
 
 powered by [gigsboat/cli](https://github.com/gigsboat/cli)
-
-## Contributing
-
-Please consult [CONTRIBUTING](./CONTRIBUTING.md) for guidelines on contributing to this project.
