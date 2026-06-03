@@ -37,13 +37,17 @@
     <td align="center"> <img src="https://pbs.twimg.com/media/HDIPWh9bgAAb47d?format=jpg&name=4096x4096" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/HEPga8eawAAZDm1?format=jpg&name=4096x4096" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/HIREZ3JXEAApkAn?format=jpg&name=4096x4096" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://media.licdn.com/dms/image/v2/D5622AQFYKuYA780uvA/feedshare-shrink_1280/B56Z6DbI5ZHkAM-/0/1780321390433?e=1781740800&v=beta&t=lj4l2vRx1bAbS589lIWJ9I0gV3clkUq2pjff5BKmPVQ" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://pbs.twimg.com/media/HJu64VKbAAATvwD?format=jpg&name=large" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://pbs.twimg.com/media/HJu5Wy4WkAAT--0?format=jpg&name=large" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://pbs.twimg.com/media/HJu3GQ2bYAAqqr4?format=jpg&name=large" width="85" height="50" /> </td>
   </tr>
 </table>
 
 
 | Date | Event | Title | Slides | Recording | Location | Language |
 | ---- | ----- | ----- | ------ | --------- | -------- | -------- |
-| 2026-6-2 | AI Native Dev 2026 | [Your AI Agent Installed Malware Because a SKILL.md Told It To](pages/2026/2026-06-02.md) |  |  | [🇬🇧](## "undefined") | English |
+| 2026-6-1 | AI Native Dev 2026 | [Your AI Agent Installed Malware Because a SKILL.md Told It To](pages/2026/2026-06-01.md) |  |  | [🇬🇧](## "undefined") | English |
 | 2026-2-26 | The Context | [The Context: Episode 32 ft. Snyk](pages/2026/2026-02-26.md) |  | [Recording](https://www.youtube.com/watch?v=BH8Hs5ABb-8) |  | English |
 | 2026-1-19 | מדברים פתוח | [עונה 4 פרק 6 - הסכנות בפרוטוקול החדש של הבינה המלאכותית - לירן טל](pages/2026/2026-01-19.md) |  | [Recording](https://talkingopen.podbean.com/e/%D7%A2%D7%95%D7%A0%D7%944-%D7%A4%D7%A8%D7%A76%D7%9B%D7%A9%D7%A0%D7%AA%D7%A0%D7%95-%D7%9C-ai-%D7%99%D7%93%D7%99%D7%99%D7%9D-%D7%95%D7%A9) |  | English |
 
@@ -1215,6 +1219,6 @@
 
 
 
-*page updated on 2026-05-24T07:34:29.437Z*
+*page updated on 2026-06-03T13:50:12.231Z*
 
 powered by [gigsboat/cli](https://github.com/gigsboat/cli)
