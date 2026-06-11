@@ -47,7 +47,7 @@
 
 | Date | Event | Title | Slides | Recording | Location | Language |
 | ---- | ----- | ----- | ------ | --------- | -------- | -------- |
-| 2026-6-1 | AI Native Dev 2026 | [Your AI Agent Installed Malware Because a SKILL.md Told It To](pages/2026/2026-06-01.md) |  |  | [🇬🇧](## "undefined") | English |
+| 2026-6-1 | AI Native Dev 2026 | [Your AI Agent Installed Malware Because a SKILL.md Told It To](pages/2026/2026-06-01.md) |  | [Recording](https://www.youtube.com/watch?v=oJGX8GYLWxg) | [🇬🇧](## "undefined") | English |
 | 2026-2-26 | The Context | [The Context: Episode 32 ft. Snyk](pages/2026/2026-02-26.md) |  | [Recording](https://www.youtube.com/watch?v=BH8Hs5ABb-8) |  | English |
 | 2026-1-19 | מדברים פתוח | [עונה 4 פרק 6 - הסכנות בפרוטוקול החדש של הבינה המלאכותית - לירן טל](pages/2026/2026-01-19.md) |  | [Recording](https://talkingopen.podbean.com/e/%D7%A2%D7%95%D7%A0%D7%944-%D7%A4%D7%A8%D7%A76%D7%9B%D7%A9%D7%A0%D7%AA%D7%A0%D7%95-%D7%9C-ai-%D7%99%D7%93%D7%99%D7%99%D7%9D-%D7%95%D7%A9) |  | English |
 
@@ -1219,6 +1219,6 @@
 
 
 
-*page updated on 2026-06-11T08:19:15.094Z*
+*page updated on 2026-06-11T08:54:37.206Z*
 
 powered by [gigsboat/cli](https://github.com/gigsboat/cli)
