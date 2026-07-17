@@ -56,7 +56,7 @@
 
 | Date | Event | Title | Slides | Recording | Location | Language |
 | ---- | ----- | ----- | ------ | --------- | -------- | -------- |
-| 2026-7-15 | Security tradeoffs in the age of AI adoption | [Your AI Agent Installed Malware Because a SKILL.md Told It To](pages/2026/2026-07-15.md) |  |  | [🇮🇱](## "Israel") | Hebrew |
+| 2026-7-15 | Echo Meetups | [Security tradeoffs in the age of AI adoption](pages/2026/2026-07-15.md) |  |  | [🇮🇱](## "Israel") | Hebrew |
 | 2026-6-29 | Breaking the Myth(os) | [Your AI Agent Installed Malware Because a SKILL.md Told It To](pages/2026/2026-06-29.md) |  |  | [🇮🇱](## "Israel") | Hebrew |
 | 2026-6-1 | AI Native Dev 2026 | [Your AI Agent Installed Malware Because a SKILL.md Told It To](pages/2026/2026-06-01.md) |  | [Recording](https://www.youtube.com/watch?v=oJGX8GYLWxg) | [🇬🇧](## "undefined") | English |
 | 2026-2-26 | The Context | [The Context: Episode 32 ft. Snyk](pages/2026/2026-02-26.md) |  | [Recording](https://www.youtube.com/watch?v=BH8Hs5ABb-8) |  | English |
@@ -1230,6 +1230,6 @@
 
 
 
-*page updated on 2026-07-17T07:13:46.807Z*
+*page updated on 2026-07-17T07:22:06.966Z*
 
 powered by [gigsboat/cli](https://github.com/gigsboat/cli)
