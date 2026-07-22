@@ -1,4 +1,4 @@
-<div align='center'><p><img src="https://img.shields.io/badge/total-251-blue?style=flat-square" alt="Total Events"> <img src="https://img.shields.io/badge/meetups-52-violet?style=flat-square" alt="Total Meetups"> <img src="https://img.shields.io/badge/conferences-107-red?style=flat-square" alt="Total Conferences"> <img src="https://img.shields.io/badge/podcasts-44-yellow?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/webinars-28-lightgrey?style=flat-square" alt="Total Webinars"> <img src="https://img.shields.io/badge/articles-3-green?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/workshops-10-orange?style=flat-square" alt="Total Workshops"></p>
+<div align='center'><p><img src="https://img.shields.io/badge/total-252-blue?style=flat-square" alt="Total Events"> <img src="https://img.shields.io/badge/meetups-52-violet?style=flat-square" alt="Total Meetups"> <img src="https://img.shields.io/badge/conferences-108-red?style=flat-square" alt="Total Conferences"> <img src="https://img.shields.io/badge/podcasts-44-yellow?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/webinars-28-lightgrey?style=flat-square" alt="Total Webinars"> <img src="https://img.shields.io/badge/articles-3-green?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/workshops-10-orange?style=flat-square" alt="Total Workshops"></p>
 </div>
   <p align='center'><h1 align='center'>Liran Tal - Public Speaking</h1>
 <p align='center'>I love doing Open Source, Node.js, JavaScript, Web Security & InfoSec, Public Speaking, and Building CLIs.</p></p><p align='center'><a href='liran_tal'><img alt='Twitter Follow' src='https://img.shields.io/twitter/follow/liran_tal?style=social'></a> <a href='https://www.linkedin.com/in/talliran'><img alt='LinkedIn Add Me' src='https://img.shields.io/badge/-Add&nbsp;Me&nbsp;on&nbsp;LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white'></a></p><p align='center'><img src='https://github.com/lirantal/public-speaking/blob/main/static/liran-tal-header-image.png' alt='Liran Tal public speaking profile' /></p>
@@ -13,7 +13,7 @@
 # Table of Contents
 
 
- - [Year of 2026](#2026) - total events 6
+ - [Year of 2026](#2026) - total events 7
  - [Year of 2025](#2025) - total events 21
  - [Year of 2024](#2024) - total events 23
  - [Year of 2023](#2023) - total events 31
@@ -29,7 +29,7 @@
 # 2026
 
 
-![Total Events](https://img.shields.io/badge/total-6-blue?style=flat-square) ![Total Meetups](https://img.shields.io/badge/meetups-2-violet?style=flat-square) ![Total Conferences](https://img.shields.io/badge/conferences-2-red?style=flat-square) ![Total Podcasts](https://img.shields.io/badge/podcasts-2-yellow?style=flat-square)   
+![Total Events](https://img.shields.io/badge/total-7-blue?style=flat-square) ![Total Meetups](https://img.shields.io/badge/meetups-2-violet?style=flat-square) ![Total Conferences](https://img.shields.io/badge/conferences-3-red?style=flat-square) ![Total Podcasts](https://img.shields.io/badge/podcasts-2-yellow?style=flat-square)   
 
 
 <table>
@@ -56,6 +56,7 @@
 
 | Date | Event | Title | Slides | Recording | Location | Language |
 | ---- | ----- | ----- | ------ | --------- | -------- | -------- |
+| 2026-10-23 | AGNTCon + MCPCon North America 2026 | [Your AI Agent Installed Malware Because a SKILL.md Told It To](pages/2026/2026-10-23.md) |  | [Recording](https://www.youtube.com/watch?v=oJGX8GYLWxg) | [🇺🇸](## "United States") | English |
 | 2026-9-17 | AGNTCon + MCPCon Europe 2026 | [Giving Your Agentic Coding AI a Security Brain](pages/2026/2026-09-17.md) |  |  | [🇳🇪](## "Niger") | English |
 | 2026-7-15 | Echo Meetups | [Security tradeoffs in the age of AI adoption](pages/2026/2026-07-15.md) |  |  | [🇮🇱](## "Israel") | Hebrew |
 | 2026-6-29 | Breaking the Myth(os) | [Your AI Agent Installed Malware Because a SKILL.md Told It To](pages/2026/2026-06-29.md) |  |  | [🇮🇱](## "Israel") | Hebrew |
@@ -1231,6 +1232,6 @@
 
 
 
-*page updated on 2026-07-22T17:34:47.371Z*
+*page updated on 2026-07-22T17:43:02.729Z*
 
 powered by [gigsboat/cli](https://github.com/gigsboat/cli)
