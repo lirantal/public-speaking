@@ -1044,7 +1044,7 @@
 | 2019-5-30 | OWASP Global AppSec | [Black Clouds Silver Linings In Nodejs Security](pages/2019/2019-05-30.md) | [Slides](https://drive.google.com/file/d/1s0YIvnlF7ByoESu3rHV2i5M9_jQSXjyR/view) | [Recording](https://www.youtube.com/watch?v=4XdF4OiAAzU&feature=emb_logo&ab_channel=OWASP) | [🇮🇱](## "Israel") | English |
 | 2019-5-21 | VOXXED DAYS FRONTEND BUCHAREST | [StrangerDanger: Finding Security Vulnerabilities Before They Find You!](pages/2019/2019-05-21.md) |  | [Recording](https://youtu.be/4_x4_RXYGnA) | [🇷🇴](## "Romania") | English |
 | 2019-5-20 | VOXXED DAYS Community Meetup Bucharest | [null](pages/2019/2019-05-20.md) |  |  | [🇷🇴](## "Romania") | English |
-| 2019-5-19 | NodeUkraine - Ukrainian Node.js Conference | [StrangerDanger: Finding Security Vulnerabilities Before They Find You!](pages/2019/2019-05-19.md) | [Slides](http://slides.com/lirantal/makeing-the-console-great-again) | [Recording](https://www.youtube.com/watch?v=vUkn-304xnU&list=PLqYhGsQ9iSEqp4vWUhgzQVgWlBaDTrhlf&index=46&t=9s&ab_channel=DATAMINER) | [🇺🇦](## "Ukraine") | English |
+| 2019-5-19 | NodeUkraine - Ukrainian Node.js Conference | [Black Clouds and Silver Linings in Node.js Security](pages/2019/2019-05-19.md) |  | [Recording](https://www.youtube.com/watch?v=XJtslRNIPP8) | [🇺🇦](## "Ukraine") | English |
 | 2019-5-15 | DevDays Europe | [StrangerDanger: Finding Security Vulnerabilities Before They Find You!](pages/2019/2019-05-15.md) | [Slides](http://slides.com/lirantal/makeing-the-console-great-again) | [Recording](https://www.youtube.com/watch?v=vUkn-304xnU&list=PLqYhGsQ9iSEqp4vWUhgzQVgWlBaDTrhlf&index=46&t=9s&ab_channel=DATAMINER) | [🇱🇹](## "Lithuania") | English |
 | 2019-5-9 | The Secure Developer | [The Three Faces of DevSecOps](pages/2019/2019-05-09.md) |  |  |  | English |
 | 2019-4-10 | JSHeroes | [Web Security Workshop for Frontend Engineers](pages/2019/2019-04-10.md) |  |  | [🇷🇴](## "Romania") | English |
@@ -1242,6 +1242,6 @@
 
 
 
-*page updated on 2026-09-03T06:41:43.233Z*
+*page updated on 2026-09-03T06:45:38.850Z*
 
 powered by [gigsboat/cli](https://github.com/gigsboat/cli)
