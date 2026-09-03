@@ -1,4 +1,4 @@
-<div align='center'><p><img src="https://img.shields.io/badge/total-261-blue?style=flat-square" alt="Total Events"> <img src="https://img.shields.io/badge/meetups-52-violet?style=flat-square" alt="Total Meetups"> <img src="https://img.shields.io/badge/conferences-109-red?style=flat-square" alt="Total Conferences"> <img src="https://img.shields.io/badge/podcasts-44-yellow?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/webinars-36-lightgrey?style=flat-square" alt="Total Webinars"> <img src="https://img.shields.io/badge/articles-3-green?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/workshops-10-orange?style=flat-square" alt="Total Workshops"></p>
+<div align='center'><p><img src="https://img.shields.io/badge/total-262-blue?style=flat-square" alt="Total Events"> <img src="https://img.shields.io/badge/meetups-53-violet?style=flat-square" alt="Total Meetups"> <img src="https://img.shields.io/badge/conferences-109-red?style=flat-square" alt="Total Conferences"> <img src="https://img.shields.io/badge/podcasts-44-yellow?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/webinars-36-lightgrey?style=flat-square" alt="Total Webinars"> <img src="https://img.shields.io/badge/articles-3-green?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/workshops-10-orange?style=flat-square" alt="Total Workshops"></p>
 </div>
   <p align='center'><h1 align='center'>Liran Tal - Public Speaking</h1>
 <p align='center'>I love doing Open Source, Node.js, JavaScript, Web Security & InfoSec, Public Speaking, and Building CLIs.</p></p><p align='center'><a href='liran_tal'><img alt='Twitter Follow' src='https://img.shields.io/twitter/follow/liran_tal?style=social'></a> <a href='https://www.linkedin.com/in/talliran'><img alt='LinkedIn Add Me' src='https://img.shields.io/badge/-Add&nbsp;Me&nbsp;on&nbsp;LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white'></a></p><p align='center'><img src='https://github.com/lirantal/public-speaking/blob/main/static/liran-tal-header-image.png' alt='Liran Tal public speaking profile' /></p>
@@ -23,7 +23,7 @@
  - [Year of 2019](#2019) - total events 33
  - [Year of 2018](#2018) - total events 8
  - [Year of 2017](#2017) - total events 9
- - [Year of 2016](#2016) - total events 6
+ - [Year of 2016](#2016) - total events 7
  - [Year of 2013](#2013) - total events 1
 
 # 2026
@@ -590,7 +590,7 @@
 | 2022-5-17 | Voxxed Days Zurich | [Stranger Danger: Your Node.js Attack Surface Just Got Bigger](pages/2022/2022-05-17.md) |  | [Recording](https://www.youtube.com/watch?v=sLLGspLgV0k&list=PLRsbF2sD7JVpqMrdjuw0yDAHx-LWkeJHN&index=24) | [🇨🇭](## "Switzerland") | English |
 | 2022-5-16 | Cloud Native CNCF SecurityCon Europe 2022 | [The Unexpected Demise of Open Source Libraries](pages/2022/2022-05-16.md) |  | [Recording](https://www.youtube.com/watch?v=XD43KJx15GY&list=PLj6h78yzYM2P3qs7Y_QPD4uCgQ4Krsgb3&index=13) | [🇪🇸](## "Spain") | English |
 | 2022-5-8 | JSDay Canarias | [Let me show you how React applications get hacked in the real-world](pages/2022/2022-05-08.md) |  | [Recording](https://www.youtube.com/watch?v=f16lELnFTNI&list=PLvaKqjzK-IqSv2cE9e30K8FgR1GuKDmau&index=4) | [🇪🇸](## "Spain") | English |
-| 2022-5-7 | JSDay Canarias | [Hands on Node.js and JavaScript security workshop: How safe is your application?](pages/2022/2022-05-07.md) |  |  | [🇪🇸](## "Spain") | English |
+| 2022-5-7 | JSDay Canarias | [Hands on Node.js and JavaScript security workshop: How safe is your application?](pages/2022/2022-05-07.md) |  | [Recording](https://www.youtube.com/watch?v=ejPNsdBfvhs) | [🇪🇸](## "Spain") | English |
 | 2022-5-1 | Gitburger - Manage Projects with GitHub | [Managing Projects ontop of the GitHub Platform](pages/2022/2022-05-01.md) |  |  | [🇮🇱](## "Israel") | Hebrew |
 | 2022-4-13 | React Israel | [Hacking React Applications in the Real-World](pages/2022/2022-04-13.md) |  | [Recording](https://www.youtube.com/watch?v=DyCb9fcqu9U) | [🇮🇱](## "Israel") | Hebrew |
 | 2022-4-12 | AshdodTech | [Cybersecurity and Weaponizing Open Source Software in the face of Geopolitical weather](pages/2022/2022-04-12.md) |  |  | [🇮🇱](## "Israel") | Hebrew |
@@ -1185,7 +1185,7 @@
 # 2016
 
 
-![Total Events](https://img.shields.io/badge/total-6-blue?style=flat-square) ![Total Meetups](https://img.shields.io/badge/meetups-3-violet?style=flat-square) ![Total Conferences](https://img.shields.io/badge/conferences-3-red?style=flat-square)    
+![Total Events](https://img.shields.io/badge/total-7-blue?style=flat-square) ![Total Meetups](https://img.shields.io/badge/meetups-4-violet?style=flat-square) ![Total Conferences](https://img.shields.io/badge/conferences-3-red?style=flat-square)    
 
 
 <table>
@@ -1218,6 +1218,7 @@
 | 2016-6-30 | HPE Open Source Hackathon | [HPE Open Source Hackathon Meetup](pages/2016/2016-06-30.md) |  | [Recording](https://www.youtube.com/watch?v=HUxFfM-eK6o&list=PLn1B_TbSSPfocr49B2guv_uukMjRCVdKz&index=13) | [🇮🇱](## "Israel") | Hebrew |
 | 2016-6-21 | HPE Open Source Day | [HPE Open Source Day with GitHub](pages/2016/2016-06-21.md) |  | [Recording](https://www.youtube.com/watch?v=HUxFfM-eK6o&list=PLn1B_TbSSPfocr49B2guv_uukMjRCVdKz&index=13) | [🇮🇱](## "Israel") | English |
 | 2016-2-18 | helloJS | [The Rise of Open Source && MEAN Stack in the Enterprise](pages/2016/2016-02-18.md) |  | [Recording](https://www.youtube.com/watch?v=su0mysF0zN4) | [🇷🇴](## "Romania") | English |
+| 2016-2-1 | HPE Internal Meetup | [Welcome to Open Source and GitHub](pages/2016/2016-02-01.md) |  | [Recording](https://www.youtube.com/watch?v=GniE82Dmyo0) |  | English |
 
 
 # 2013
@@ -1241,6 +1242,6 @@
 
 
 
-*page updated on 2026-09-03T06:36:31.040Z*
+*page updated on 2026-09-03T06:41:43.233Z*
 
 powered by [gigsboat/cli](https://github.com/gigsboat/cli)
