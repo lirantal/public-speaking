@@ -1,4 +1,4 @@
-<div align='center'><p><img src="https://img.shields.io/badge/total-262-blue?style=flat-square" alt="Total Events"> <img src="https://img.shields.io/badge/meetups-53-violet?style=flat-square" alt="Total Meetups"> <img src="https://img.shields.io/badge/conferences-109-red?style=flat-square" alt="Total Conferences"> <img src="https://img.shields.io/badge/podcasts-44-yellow?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/webinars-36-lightgrey?style=flat-square" alt="Total Webinars"> <img src="https://img.shields.io/badge/articles-3-green?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/workshops-10-orange?style=flat-square" alt="Total Workshops"></p>
+<div align='center'><p><img src="https://img.shields.io/badge/total-270-blue?style=flat-square" alt="Total Events"> <img src="https://img.shields.io/badge/meetups-53-violet?style=flat-square" alt="Total Meetups"> <img src="https://img.shields.io/badge/conferences-111-red?style=flat-square" alt="Total Conferences"> <img src="https://img.shields.io/badge/podcasts-44-yellow?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/webinars-41-lightgrey?style=flat-square" alt="Total Webinars"> <img src="https://img.shields.io/badge/articles-3-green?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/workshops-10-orange?style=flat-square" alt="Total Workshops"></p>
 </div>
   <p align='center'><h1 align='center'>Liran Tal - Public Speaking</h1>
 <p align='center'>I love doing Open Source, Node.js, JavaScript, Web Security & InfoSec, Public Speaking, and Building CLIs.</p></p><p align='center'><a href='liran_tal'><img alt='Twitter Follow' src='https://img.shields.io/twitter/follow/liran_tal?style=social'></a> <a href='https://www.linkedin.com/in/talliran'><img alt='LinkedIn Add Me' src='https://img.shields.io/badge/-Add&nbsp;Me&nbsp;on&nbsp;LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white'></a></p><p align='center'><img src='https://github.com/lirantal/public-speaking/blob/main/static/liran-tal-header-image.png' alt='Liran Tal public speaking profile' /></p>
@@ -17,10 +17,10 @@
  - [Year of 2025](#2025) - total events 22
  - [Year of 2024](#2024) - total events 24
  - [Year of 2023](#2023) - total events 32
- - [Year of 2022](#2022) - total events 44
- - [Year of 2021](#2021) - total events 58
- - [Year of 2020](#2020) - total events 17
- - [Year of 2019](#2019) - total events 33
+ - [Year of 2022](#2022) - total events 47
+ - [Year of 2021](#2021) - total events 60
+ - [Year of 2020](#2020) - total events 19
+ - [Year of 2019](#2019) - total events 34
  - [Year of 2018](#2018) - total events 8
  - [Year of 2017](#2017) - total events 9
  - [Year of 2016](#2016) - total events 7
@@ -353,7 +353,7 @@
 # 2022
 
 
-![Total Events](https://img.shields.io/badge/total-44-blue?style=flat-square) ![Total Meetups](https://img.shields.io/badge/meetups-11-violet?style=flat-square) ![Total Conferences](https://img.shields.io/badge/conferences-15-red?style=flat-square) ![Total Podcasts](https://img.shields.io/badge/podcasts-8-yellow?style=flat-square) ![Total Webinars](https://img.shields.io/badge/webinars-6-lightgrey?style=flat-square)  ![Total Workshops](https://img.shields.io/badge/workshops-4-orange?style=flat-square)
+![Total Events](https://img.shields.io/badge/total-47-blue?style=flat-square) ![Total Meetups](https://img.shields.io/badge/meetups-11-violet?style=flat-square) ![Total Conferences](https://img.shields.io/badge/conferences-15-red?style=flat-square) ![Total Podcasts](https://img.shields.io/badge/podcasts-8-yellow?style=flat-square) ![Total Webinars](https://img.shields.io/badge/webinars-8-lightgrey?style=flat-square)  ![Total Workshops](https://img.shields.io/badge/workshops-4-orange?style=flat-square)
 
 
 <table>
@@ -581,9 +581,12 @@
 | 2022-7-26 | Node.js Israel meetup | [Security Controls in the JavaScript Supply Chain](pages/2022/2022-07-26.md) |  | [Recording](https://www.youtube.com/watch?v=LGT2DXsYLRs) |  | Hebrew |
 | 2022-6-30 | Hack in Paris 2022 | [Why React applications get hacked in the real-world](pages/2022/2022-06-30.md) |  | [Recording](https://www.youtube.com/watch?v=eQjbbMXFgbQ) | [🇫🇷](## "France") | English |
 | 2022-6-27 | GitBurger Track: GitHub and Open-Source & Co-Pilot | [GitBurger Track: GitHub and Open-Source & startup story](pages/2022/2022-06-27.md) |  |  | [🇮🇱](## "Israel") | Hebrew |
+| 2022-6-24 | OpenJS Foundation | [Keynote Session: Awards Recognition](pages/2022/2022-06-24.md) |  | [Recording](https://www.youtube.com/watch?v=p26FiZCUKc4) |  | English |
 | 2022-6-17 | React Summit | [How React applications get hacked in the real-world](pages/2022/2022-06-17.md) |  |  | [🇳🇱](## "Netherlands") | English |
 | 2022-6-16 | JSNation | [Security Controls in the JavaScript Supply Chain](pages/2022/2022-06-16.md) |  | [Recording](https://portal.gitnation.org/contents/security-controls-in-the-javascript-supply-chain) | [🇳🇱](## "Netherlands") | English |
 | 2022-6-15 | DevSecCon: Netherlands | [Stranger Danger: Your Node.js Attack Surface Just Got Bigger](pages/2022/2022-06-15.md) |  | [Recording](https://www.youtube.com/watch?v=WcTVVzCZmIQ) | [🇳🇱](## "Netherlands") | English |
+| 2022-5-25 | SnykLIVE | [Hack a vulnerable OWASP Node.js app](pages/2022/2022-05-25.md) |  | [Recording](https://www.youtube.com/watch?v=gAc-a2rY4kc) |  | English |
+| 2022-5-24 | Snyk Webinar | [JavaScript Live Trivia](pages/2022/2022-05-24-2.md) |  | [Recording](https://www.youtube.com/watch?v=xzTOposJGac) |  | English |
 | 2022-5-24 | DevSec for Scale Podcast | [Open Source Security with Liran Tal, Snyk](pages/2022/2022-05-24.md) |  | [Recording](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkLnBvZGJlYW4uY29tL2RldnNlY2ZvcnN0YXJ0dXBzL2ZlZWQueG1s/episode/ZGV2c2VjZm9yc3RhcnR1cHMucG9kYmVhbi5jb20vY2VjZGZkZjItMTJlMC0zNmNhLTlhODQtZTE4ZDk1ZmEyODc1?sa=X&ved=0CAUQkfYCahcKEwiYm_CUlfr3AhUAAAAAHQAAAAAQLA) |  | English |
 | 2022-5-23 | GitBurger - Open Source Stories | [GitBurger Track: GitHub and Open-Source & startup story](pages/2022/2022-05-23.md) |  |  | [🇮🇱](## "Israel") | Hebrew |
 | 2022-5-19 | Cloud Native Computing Switzerland | [Weaponizing NPM Packages for Protest and Malware](pages/2022/2022-05-19.md) |  | [Recording](https://www.youtube.com/watch?v=rWvBMNmwWEI) | [🇨🇭](## "Switzerland") | English |
@@ -614,7 +617,7 @@
 # 2021
 
 
-![Total Events](https://img.shields.io/badge/total-58-blue?style=flat-square) ![Total Meetups](https://img.shields.io/badge/meetups-6-violet?style=flat-square) ![Total Conferences](https://img.shields.io/badge/conferences-24-red?style=flat-square) ![Total Podcasts](https://img.shields.io/badge/podcasts-8-yellow?style=flat-square) ![Total Webinars](https://img.shields.io/badge/webinars-11-lightgrey?style=flat-square) ![Total Podcasts](https://img.shields.io/badge/articles-2-green?style=flat-square) 
+![Total Events](https://img.shields.io/badge/total-60-blue?style=flat-square) ![Total Meetups](https://img.shields.io/badge/meetups-6-violet?style=flat-square) ![Total Conferences](https://img.shields.io/badge/conferences-24-red?style=flat-square) ![Total Podcasts](https://img.shields.io/badge/podcasts-8-yellow?style=flat-square) ![Total Webinars](https://img.shields.io/badge/webinars-13-lightgrey?style=flat-square) ![Total Podcasts](https://img.shields.io/badge/articles-2-green?style=flat-square) 
 
 
 <table>
@@ -759,6 +762,7 @@
 | 2021-7-20 | JavaScript Jabber | [JSJ 493: How to Check Your Application Security featuring Liran Tal](pages/2021/2021-07-20.md) |  | [Recording](https://devchat.tv/js-jabber/how-to-check-your-application-security-featuring-liran-tal-jsj-493/?utm_campaign=07-20-21+-+Check+out+this&utm_source=Message&utm_medium=Twitter) |  | English |
 | 2021-7-13 | Docker Blog | [Docker for Node.js Developers: 5 Things You Need to Know Not to Fail Your Security](pages/2021/2021-07-13.md) |  |  |  | English |
 | 2021-7-7 | Swimm Upstream | [EP. 6, Converting Contributors to Core Members of OS Projects With Liran Tal](pages/2021/2021-07-07.md) |  | [Recording](https://swimm.io/podcast/converting-contributors-to-core-members-of-os-projects-with-liran-tal-S01E06/) |  | English |
+| 2021-6-22 | Snyk Webinar | [Security wins by starting out with Static Code Analysis for JavaScript projects](pages/2021/2021-06-22.md) |  | [Recording](https://www.youtube.com/watch?v=IhNTyK_v6hI) |  | English |
 | 2021-6-17 | SaaStock | [SaaStock Local SG: Community-led Growth in Dev Tools](pages/2021/2021-06-17.md) |  |  |  | English |
 | 2021-6-15 | Voxxed Days Zurich | [Securing Containers by Breaking](pages/2021/2021-06-15.md) |  | [Recording](https://rokkit.live/event/zurichvd/talk/4434) |  | English |
 | 2021-6-10 | Snyk Webinar | [Stranger Danger! Your App is Only as Secure as your Weakest Line of Code](pages/2021/2021-06-10.md) |  | [Recording](https://www.youtube.com/watch?v=ErxyPkzKJEQ) |  | English |
@@ -769,6 +773,7 @@
 | 2021-6-2 | Francesco Ciulla's YouTube channel | [How to Secure Docker Containers \| Liran Tal](pages/2021/2021-06-02-2.md) |  | [Recording](https://www.youtube.com/watch?v=siDQHsGq9NA) |  | English |
 | 2021-6-2 | OpenJS World 2021 | [Mastering Node.js best practices for Docker-based applications](pages/2021/2021-06-02.md) |  | [Recording](https://www.youtube.com/watch?v=OzU3rh0ROt8&list=PLyspMSh4XhLO9j8RfoN3AZ_R-JCZky6hy&index=1) |  | English |
 | 2021-5-27 | DockerCon 2021 | [LIVE Panel on Security (moderated by Peter McKee)](pages/2021/2020-05-27.md) |  | [Recording](https://docker.events.cube365.net/dockercon-live/2021/content/Videos/xFXRmTEesZu2SKucY) |  | English |
+| 2021-5-25 | Snyk Webinar | [Harnessing security expertise to power SAST and Code Security](pages/2021/2021-05-25.md) |  | [Recording](https://www.youtube.com/watch?v=UYsfEZVQsj8) |  | English |
 | 2021-5-4 | Black Hat Asia | [Are We Forever Doomed By Software Supply Chain Security?](pages/2021/2021-05-04.md) |  | [Recording](https://www.blackhat.com/asia-21/sponsored-sessions/schedule/index.html#are-we-forever-doomed-to-software-supply-chain-security-23820) |  | English |
 | 2021-4-22 | apidays Singapore | [Securing the Open Source supply chain](pages/2021/2021-04-22.md) |  |  |  | English |
 | 2021-4-21 | The Linux Foundation: Insights from the best projects and people | [Stranger Danger: Your Node.js Attack Surface Just Got Bigger](pages/2021/2021-04-21-2.md) |  | [Recording](https://www.youtube.com/watch?v=5VHgsSsIudA&t=3s&ab_channel=TheLinuxFoundation) |  | English |
@@ -795,7 +800,7 @@
 # 2020
 
 
-![Total Events](https://img.shields.io/badge/total-17-blue?style=flat-square) ![Total Meetups](https://img.shields.io/badge/meetups-1-violet?style=flat-square) ![Total Conferences](https://img.shields.io/badge/conferences-10-red?style=flat-square) ![Total Podcasts](https://img.shields.io/badge/podcasts-5-yellow?style=flat-square) ![Total Webinars](https://img.shields.io/badge/webinars-1-lightgrey?style=flat-square)  
+![Total Events](https://img.shields.io/badge/total-19-blue?style=flat-square) ![Total Meetups](https://img.shields.io/badge/meetups-1-violet?style=flat-square) ![Total Conferences](https://img.shields.io/badge/conferences-11-red?style=flat-square) ![Total Podcasts](https://img.shields.io/badge/podcasts-5-yellow?style=flat-square) ![Total Webinars](https://img.shields.io/badge/webinars-2-lightgrey?style=flat-square)  
 
 
 <table>
@@ -849,17 +854,19 @@
 | 2020-8-14 | Developer Advocate Stories | [Developer Advocate Stories - Liran Tal - Snyk](pages/2020/2020-08-14.md) |  | [Recording](https://www.youtube.com/watch?v=7zd_iku_1MY) |  | English |
 | 2020-6-10 | Technion Cyber-CYBERDAY 2020 | [Malicious Modules on npm: a serious of unforunate events](pages/2020/2020-06-10.md) |  | [Recording](https://www.youtube.com/watch?v=rwskXzNR2gc) | [🇮🇱](## "Israel") | Hebrew |
 | 2020-6-9 | Openhive JS | [OpenHive.JS Podcast \| EP 2 - Liran Tal on Empowering Open Source](pages/2020/2020-06-09.md) |  | [Recording](https://www.youtube.com/watch?v=JnJ2hdP_kA4&ab_channel=NearForm) |  | English |
+| 2020-5-30 | Geekle Node.js Summit | [Node.js Q&A with Gadi Raymond, Sanne Peters and Liran Tal](pages/2020/2020-05-30.md) |  | [Recording](https://www.youtube.com/watch?v=-tWhXYGqUJE) |  | English |
 | 2020-5-11 | DevOps Pro 2020 | [Securing Containers by Breaking In](pages/2020/2020-05-11.md) |  | [Recording](https://www.youtube.com/watch?v=PCF1gKwL50A&ab_channel=LiranTal) |  | English |
 | 2020-4-7 | Geekle Online Conference | [Black Clouds and Silver Linings in Node.js Security](pages/2020/2020-04-07.md) | [Slides](https://slides.com/lirantal/malicious-modules-on-npm-a-series-of-unfortunate-events-0c7d30#/2) | [Recording](https://www.youtube.com/watch?v=Wr5cRndoPYQ&ab_channel=GeekleOfficial) |  | English |
 | 2020-3-3 | NodeTLV | [Black Clouds and Silver Linings in Node.js Security](pages/2020/2020-03-03.md) |  | [Recording](https://www.youtube.com/watch?v=_oXazLDVQGM&list=PLrMJuhj99E6BWVrWbdZqs4OC1GYFy46Ay&index=16&t=139s&ab_channel=NodeTLV) | [🇮🇱](## "Israel") | English |
 | 2020-2-18 | SAP Labs dkom 2020 Israel | [The State of Open Source Security](pages/2020/2020-02-18.md) |  | [Recording](https://www.youtube.com/watch?v=j7PY7gRpizY) | [🇮🇱](## "Israel") | English |
 | 2020-1-21 | עושים תוכנה | [מה הקשר בין האקרים וקוד פתוח?](pages/2020/2020-01-21.md) |  | [Recording](https://www.osimhistoria.com/software/osim-tochna-44) | [🇮🇱](## "Israel") | Hebrew |
+| 2020-1-9 | Snyk Webinar | [Advancing DevSecOps in 2020 with Pete Cheslock, Liran Tal and Alyssa Miller](pages/2020/2020-01-09.md) |  | [Recording](https://www.youtube.com/watch?v=9aDdxl2mGjI) |  | English |
 
 
 # 2019
 
 
-![Total Events](https://img.shields.io/badge/total-33-blue?style=flat-square) ![Total Meetups](https://img.shields.io/badge/meetups-8-violet?style=flat-square) ![Total Conferences](https://img.shields.io/badge/conferences-15-red?style=flat-square) ![Total Podcasts](https://img.shields.io/badge/podcasts-1-yellow?style=flat-square) ![Total Webinars](https://img.shields.io/badge/webinars-7-lightgrey?style=flat-square)  ![Total Workshops](https://img.shields.io/badge/workshops-2-orange?style=flat-square)
+![Total Events](https://img.shields.io/badge/total-34-blue?style=flat-square) ![Total Meetups](https://img.shields.io/badge/meetups-8-violet?style=flat-square) ![Total Conferences](https://img.shields.io/badge/conferences-16-red?style=flat-square) ![Total Podcasts](https://img.shields.io/badge/podcasts-1-yellow?style=flat-square) ![Total Webinars](https://img.shields.io/badge/webinars-7-lightgrey?style=flat-square)  ![Total Workshops](https://img.shields.io/badge/workshops-2-orange?style=flat-square)
 
 
 <table>
@@ -1025,6 +1032,7 @@
 | 2019-12-13 | Node.js Collab Summit | [](pages/2019/2019-12-16.md) |  |  | [🇨🇦](## "Canada") | English |
 | 2019-12-12 | NODE+JS INTERACTIVE | [Node.js Security WG Overview](pages/2019/2019-12-12-2.md) |  | [Recording](https://www.youtube.com/watch?v=zp94t1WCx9M) | [🇨🇦](## "Canada") | English |
 | 2019-12-12 | NODE+JS INTERACTIVE | [The State of Open Source Security](pages/2019/2019-12-12.md) |  | [Recording](https://www.youtube.com/watch?v=0-wuXhapMbE) | [🇨🇦](## "Canada") | English |
+| 2019-11-18 | JSDay Canarias | [¿Tu servidor con NodeJS es vulnerable?](pages/2019/2019-11-18.md) |  | [Recording](https://www.youtube.com/watch?v=2GLXIUv8hmM) | [🇪🇸](## "Spain") | Spanish |
 | 2019-11-5 | DevSecCon Tel Aviv | [Securing Containers by Breaking In](pages/2019/2019-11-05.md) |  | [Recording](https://www.youtube.com/watch?v=YY5cs9fh-Ag) |  | English |
 | 2019-10-31 | ReactiveConf | [StrangerDanger: Finding Security Vulnerabilities Before They Find You!](pages/2019/2019-10-31.md) |  | [Recording](https://www.youtube.com/watch?v=ensQEPBHOO0&ab_channel=ReactiveConf) | [🇨🇿](## "Czechia") | English |
 | 2019-10-29 | Open Source Summit Europe | [The State of Open Source Security](pages/2019/2019-10-29.md) |  |  | [🇫🇷](## "France") | English |
@@ -1242,6 +1250,6 @@
 
 
 
-*page updated on 2026-09-03T06:45:38.850Z*
+*page updated on 2026-09-03T07:04:00.662Z*
 
 powered by [gigsboat/cli](https://github.com/gigsboat/cli)
