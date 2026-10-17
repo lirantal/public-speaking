@@ -1825,29 +1825,6 @@
       ]
     },
     {
-      "date": "2023-09-18T00:00:00.000Z",
-      "tags": "post",
-      "name": "Infobip Shift 2023",
-      "url": "https://shift.infobip.com/",
-      "type": "conference",
-      "title": "TBD",
-      "slides_url": null,
-      "recording_url": null,
-      "city": "Zadar",
-      "country": "Croatia",
-      "country_code": "HR",
-      "language": "English",
-      "recognitions": {
-        "twitter": [
-          null,
-          null
-        ]
-      },
-      "images": [
-        null
-      ]
-    },
-    {
       "date": "2023-09-13T00:00:00.000Z",
       "tags": "post",
       "name": "Snyk Webinar",
@@ -6107,7 +6084,7 @@
       "title": "",
       "slides_url": null,
       "recording_url": null,
-      "city": "Vancouver",
+      "city": "Montreal",
       "country": "Canada",
       "country_code": "CA",
       "language": "English",
@@ -6746,7 +6723,7 @@
       "name": "VOXXED DAYS Community Meetup Bucharest",
       "url": null,
       "type": "meetup",
-      "title": null,
+      "title": "Stranger Danger: Finding Security Vulnerabilities Before They Find You!",
       "slides_url": null,
       "recording_url": null,
       "city": "Bucharest",
@@ -6755,7 +6732,8 @@
       "language": "English",
       "recognitions": {
         "twitter": [
-          "https://twitter.com/incremental_com/status/1130519993425305600?s=20"
+          "https://twitter.com/incremental_com/status/1130519993425305600?s=20",
+          "https://twitter.com/liran_tal/status/1124018371673174016"
         ]
       },
       "image_header": null,
@@ -7741,14 +7719,14 @@
     }
   ],
   "stats": {
-    "total": 273,
+    "total": 272,
     "total_podcast": 44,
-    "total_conference": 120,
+    "total_conference": 119,
     "total_webinar": 41,
     "total_meetup": 55,
     "total_article": 3,
     "total_workshop": 10,
     "total_other": 0
   },
-  "generatedAt": "2026-10-17T16:22:28.614Z"
+  "generatedAt": "2026-10-17T16:30:51.592Z"
 }

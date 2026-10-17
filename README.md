@@ -1,4 +1,4 @@
-<div align='center'><p><img src="https://img.shields.io/badge/total-273-blue?style=flat-square" alt="Total Events"> <img src="https://img.shields.io/badge/meetups-55-violet?style=flat-square" alt="Total Meetups"> <img src="https://img.shields.io/badge/conferences-120-red?style=flat-square" alt="Total Conferences"> <img src="https://img.shields.io/badge/podcasts-44-yellow?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/webinars-41-lightgrey?style=flat-square" alt="Total Webinars"> <img src="https://img.shields.io/badge/articles-3-green?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/workshops-10-orange?style=flat-square" alt="Total Workshops"></p>
+<div align='center'><p><img src="https://img.shields.io/badge/total-272-blue?style=flat-square" alt="Total Events"> <img src="https://img.shields.io/badge/meetups-55-violet?style=flat-square" alt="Total Meetups"> <img src="https://img.shields.io/badge/conferences-119-red?style=flat-square" alt="Total Conferences"> <img src="https://img.shields.io/badge/podcasts-44-yellow?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/webinars-41-lightgrey?style=flat-square" alt="Total Webinars"> <img src="https://img.shields.io/badge/articles-3-green?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/workshops-10-orange?style=flat-square" alt="Total Workshops"></p>
 </div>
   <p align='center'><h1 align='center'>Liran Tal - Public Speaking</h1>
 <p align='center'>I love doing Open Source, Node.js, JavaScript, Web Security & InfoSec, Public Speaking, and Building CLIs.</p></p><p align='center'><a href='liran_tal'><img alt='Twitter Follow' src='https://img.shields.io/twitter/follow/liran_tal?style=social'></a> <a href='https://www.linkedin.com/in/talliran'><img alt='LinkedIn Add Me' src='https://img.shields.io/badge/-Add&nbsp;Me&nbsp;on&nbsp;LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white'></a></p><p align='center'><img src='https://github.com/lirantal/public-speaking/blob/main/static/liran-tal-header-image.png' alt='Liran Tal public speaking profile' /></p>
@@ -16,7 +16,7 @@
  - [Year of 2026](#2026) - total events 10
  - [Year of 2025](#2025) - total events 22
  - [Year of 2024](#2024) - total events 24
- - [Year of 2023](#2023) - total events 32
+ - [Year of 2023](#2023) - total events 31
  - [Year of 2022](#2022) - total events 47
  - [Year of 2021](#2021) - total events 60
  - [Year of 2020](#2020) - total events 19
@@ -228,7 +228,7 @@
 # 2023
 
 
-![Total Events](https://img.shields.io/badge/total-32-blue?style=flat-square) ![Total Meetups](https://img.shields.io/badge/meetups-8-violet?style=flat-square) ![Total Conferences](https://img.shields.io/badge/conferences-11-red?style=flat-square) ![Total Podcasts](https://img.shields.io/badge/podcasts-6-yellow?style=flat-square) ![Total Webinars](https://img.shields.io/badge/webinars-5-lightgrey?style=flat-square)  ![Total Workshops](https://img.shields.io/badge/workshops-2-orange?style=flat-square)
+![Total Events](https://img.shields.io/badge/total-31-blue?style=flat-square) ![Total Meetups](https://img.shields.io/badge/meetups-8-violet?style=flat-square) ![Total Conferences](https://img.shields.io/badge/conferences-10-red?style=flat-square) ![Total Podcasts](https://img.shields.io/badge/podcasts-6-yellow?style=flat-square) ![Total Webinars](https://img.shields.io/badge/webinars-5-lightgrey?style=flat-square)  ![Total Workshops](https://img.shields.io/badge/workshops-2-orange?style=flat-square)
 
 
 <table>
@@ -328,7 +328,6 @@
 | 2023-11-8 | Linux Foundation AI Security Webinar | [AI Hallucinations and Manipulation: How to Use AI Coding Tools Securely](pages/2023/2023-11-08.md) |  | [Recording](https://www.youtube.com/watch?v=iPJQBuLwymE) |  | English |
 | 2023-10-30 | AI Insights: Secure Code & LLM for Frontend Developers | [Can Machines Dream of Secure Code?](pages/2023/2023-10-30.md) |  |  | [🇮🇱](## "Israel") | Hebrew |
 | 2023-10-26 | Commina | [Powering Communities with Open Source Software](pages/2023/2023-10-26.md) |  |  | [🇮🇱](## "Israel") | Hebrew |
-| 2023-9-18 | Infobip Shift 2023 | [TBD](pages/2023/2023-09-18.md) |  |  | [🇭🇷](## "Croatia") | English |
 | 2023-9-13 | Snyk Webinar | [AI Hallucinations & Manipulation: How to Use AI Coding Tools Securely](pages/2023/2023-09-13.md) |  | [Recording](https://www.youtube.com/watch?v=dwHxaP1Jibg) |  | English |
 | 2023-8-17 | The Secure Developer | [Ep. #133, Securing Supply Chains in C++, Java and Javascript](pages/2023/2023-08-17.md) |  | [Recording](https://www.youtube.com/watch?v=9xhIp39aLmM) |  | English |
 | 2023-7-10 | Riviera DEV 2023 | [Hack-Proof Your Software Supply Chain, an Essential Guide for Developers](pages/2023/2023-07-10.md) |  |  | [🇫🇷](## "France") | English |
@@ -1056,7 +1055,7 @@
 | 2019-7-16 | NegevWebDevelopers Meetup | [Stranger Danger: Finding Security Vulnerabilities Before They Find You!](pages/2019/2019-07-16.md) |  |  | [🇮🇱](## "Israel") | Hebrew |
 | 2019-5-30 | OWASP Global AppSec | [Black Clouds and Silver Linings in Node.js Security](pages/2019/2019-05-30.md) | [Slides](https://drive.google.com/file/d/1s0YIvnlF7ByoESu3rHV2i5M9_jQSXjyR/view) | [Recording](https://www.youtube.com/watch?v=4XdF4OiAAzU&feature=emb_logo&ab_channel=OWASP) | [🇮🇱](## "Israel") | English |
 | 2019-5-21 | VOXXED DAYS FRONTEND BUCHAREST | [Stranger Danger: Finding Security Vulnerabilities Before They Find You!](pages/2019/2019-05-21.md) |  | [Recording](https://youtu.be/4_x4_RXYGnA) | [🇷🇴](## "Romania") | English |
-| 2019-5-20 | VOXXED DAYS Community Meetup Bucharest | [null](pages/2019/2019-05-20.md) |  |  | [🇷🇴](## "Romania") | English |
+| 2019-5-20 | VOXXED DAYS Community Meetup Bucharest | [Stranger Danger: Finding Security Vulnerabilities Before They Find You!](pages/2019/2019-05-20.md) |  |  | [🇷🇴](## "Romania") | English |
 | 2019-5-19 | NodeUkraine - Ukrainian Node.js Conference | [Black Clouds and Silver Linings in Node.js Security](pages/2019/2019-05-19.md) |  | [Recording](https://www.youtube.com/watch?v=XJtslRNIPP8) | [🇺🇦](## "Ukraine") | English |
 | 2019-5-15 | DevDays Europe | [Stranger Danger: Finding Security Vulnerabilities Before They Find You!](pages/2019/2019-05-15.md) |  | [Recording](https://www.youtube.com/watch?v=vUkn-304xnU&list=PLqYhGsQ9iSEqp4vWUhgzQVgWlBaDTrhlf&index=46&t=9s&ab_channel=DATAMINER) | [🇱🇹](## "Lithuania") | English |
 | 2019-5-9 | The Secure Developer | [The Three Faces of DevSecOps](pages/2019/2019-05-09.md) |  |  |  | English |
@@ -1255,6 +1254,6 @@
 
 
 
-*page updated on 2026-10-17T16:22:28.624Z*
+*page updated on 2026-10-17T16:30:51.608Z*
 
 powered by [gigsboat/cli](https://github.com/gigsboat/cli)
