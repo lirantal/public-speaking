@@ -383,7 +383,7 @@
   </tr>
   <tr>
     <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2022/2022-11-14-5.jpg" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://media-exp1.licdn.com/dms/image/C4D22AQF9JNbTrrzhVA/feedshare-shrink_1280/0/1668427951296?e=1671062400&v=beta&t=6lOhVVlFH4ERlCqUCBSquN3ZbUraAJPA-hqPsRUdpW0" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2022/2022-11-14-6.jpg" width="85" height="50" /> </td>
     <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2022/2022-10-07-2.png" width="85" height="50" /> </td>
     <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2022/2022-10-07-1.jpg" width="85" height="50" /> </td>
     <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2022/2022-10-07-6.jpg" width="85" height="50" /> </td>
@@ -1254,6 +1254,6 @@
 
 
 
-*page updated on 2026-10-17T17:15:44.936Z*
+*page updated on 2026-10-17T17:16:32.923Z*
 
 powered by [gigsboat/cli](https://github.com/gigsboat/cli)
