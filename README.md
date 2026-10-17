@@ -34,24 +34,24 @@
 
 <table>
   <tr>
-    <td align="center"> <img src="https://pbs.twimg.com/media/HSZq1SWWsAA9rja?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/HSZq2PVXEAAG5Pj?format=jpg&name=4096x4096" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2026/2026-09-16-1.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2026/2026-09-16-2.jpg" width="85" height="50" /> </td>
     <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2026/2026-07-15-1.jpg" width="85" height="50" /> </td>
     <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2026/2026-07-15-2.jpg" width="85" height="50" /> </td>
     <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2026/2026-07-15-3.jpg" width="85" height="50" /> </td>
     <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2026/2026-07-15-4.jpg" width="85" height="50" /> </td>
     <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2026/2026-07-15-5.jpg" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/HMKO7QQXQAA5s12?format=jpg&name=large" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2026/2026-06-29-1.jpg" width="85" height="50" /> </td>
   </tr>
   <tr>
     <td align="center"> <img src="https://media.licdn.com/dms/image/v2/D4E22AQEQo1ufjt4IRQ/feedshare-shrink_800/B4EZ8ex9YhJkAc-/0/1782927841140?e=1784764800&v=beta&t=18K1NJaKoz7KV4yVwnu_DGuVcH9IMqMY6QjKgY5un1w" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/HDIPWh9bgAAb47d?format=jpg&name=4096x4096" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/HEPga8eawAAZDm1?format=jpg&name=4096x4096" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/HIREZ3JXEAApkAn?format=jpg&name=4096x4096" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2026/2026-06-01-2.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2026/2026-06-01-3.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2026/2026-06-01-4.jpg" width="85" height="50" /> </td>
     <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2026/2026-06-01-1.jpg" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/HJu64VKbAAATvwD?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/HJu5Wy4WkAAT--0?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/HJu3GQ2bYAAqqr4?format=jpg&name=large" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2026/2026-06-01-7.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2026/2026-06-01-6.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2026/2026-06-01-5.jpg" width="85" height="50" /> </td>
   </tr>
 </table>
 
@@ -78,50 +78,50 @@
 
 <table>
   <tr>
-    <td align="center"> <img src="https://pbs.twimg.com/media/G7JZTzOXwAAoPef?format=jpg&name=medium" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/G8XI09IXoAcs0Dd?format=jpg&name=4096x4096" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/GpYkcCZWYAEtFmJ?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/G8SGf57WwAM8h-C?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/G8TvRHLWIAUWhNk?format=jpg&name=medium" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/G4lJhOFWgAASGNf?format=jpg&name=medium" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/G46iYa-XgAE516A?format=jpg&name=medium" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2025/2025-12-17-1.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2025/2025-12-17-2.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2025/2025-12-16-3.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2025/2025-12-16-1.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2025/2025-12-16-2.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2025/2025-11-18-3.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2025/2025-11-18-2.jpg" width="85" height="50" /> </td>
     <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2025/2025-11-18-1.jpg" width="85" height="50" /> </td>
   </tr>
   <tr>
-    <td align="center"> <img src="https://pbs.twimg.com/media/GypH16OXEAAwmJ8?format=png&name=small" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/G5ZXWJrWsAAf9KG?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/G6DKIysXUAAzqw4?format=jpg&name=4096x4096" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/G5-ppJMXQAE041Q?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/G-PTkx0WYAAuqKd?format=jpg&name=4096x4096" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2025/2025-11-17-5.png" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2025/2025-11-17-3.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2025/2025-11-17-4.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2025/2025-11-17-2.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2025/2025-11-17-1.jpg" width="85" height="50" /> </td>
     <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2025/2025-11-13-1.jpg" width="85" height="50" /> </td>
     <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2025/2025-11-13-2.jpg" width="85" height="50" /> </td>
     <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2025/2025-09-16-1.jpg" width="85" height="50" /> </td>
   </tr>
   <tr>
     <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2025/2025-09-15-1.jpg" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/Gvj4jwoWEAAUUOh?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/GvlfwJ0WwAImlrt?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/GvkrfIBX0AAHqnv?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/GqVABzgXwAAn902?format=jpg&name=4096x4096" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2025/2025-07-11-1.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2025/2025-07-11-3.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2025/2025-07-11-2.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2025/2025-05-30-1.jpg" width="85" height="50" /> </td>
     <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2025/2025-04-25-1.jpg" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/GkJZq01WYAADPzz?format=jpg&name=medium" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/Gpbc-FXXkAEmWS3?format=jpg&name=large" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2025/2025-04-25-2.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2025/2025-04-25-7.jpg" width="85" height="50" /> </td>
   </tr>
   <tr>
-    <td align="center"> <img src="https://pbs.twimg.com/media/Gpbc-FYXsAAspfh?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/Gpbc-FiXIAAxQT6?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/GpYESy3WoAAEkJ7?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/GpYD1ilXkAAEbpt?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/Gpb_SYnWoAAoFi9?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/Gp8TCQ7XoAA5oHL?format=jpg&name=4096x4096" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2025/2025-04-25-8.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2025/2025-04-25-9.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2025/2025-04-25-5.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2025/2025-04-25-4.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2025/2025-04-25-6.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2025/2025-04-25-3.jpg" width="85" height="50" /> </td>
     <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2025/2025-03-31-1.jpg" width="85" height="50" /> </td>
     <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2025/2025-03-31-2.jpg" width="85" height="50" /> </td>
   </tr>
   <tr>
     <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2025/2025-03-27-1.jpg" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/GkILXpIXIAAl7L5?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/GmTHB23WoAAEw2u?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/GmO6qbnb0AA52xu?format=jpg&name=medium" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2025/2025-03-27-2.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2025/2025-03-27-3.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2025/2025-03-19-1.jpg" width="85" height="50" /> </td>
   </tr>
 </table>
 
@@ -160,32 +160,32 @@
 
 <table>
   <tr>
-    <td align="center"> <img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:hnlvjno2m7l2kqllgum26bv2/bafkreiawl5kkp2sga4jphenuqt66mzdtrqc3ir2eb26nwlidhhyjwc2ozm@jpeg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2024/2024-12-10-1.jpg" width="85" height="50" /> </td>
     <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2024/2024-12-01-1.jpg" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/GdspYLBXAAAyk4X?format=png&name=small" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/Gc7pTE5XoAAOw2P?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://s3.amazonaws.com/heysummit-production/media/thumbnails/uploads/events/ai-native-devcon/2XaGBmuvej4kztk3udwdgD.png_full_size.png" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/GXayJ6uXkAApE6A?format=jpg&name=4096x4096" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/GXmXRQpXIAA4NIy?format=jpg&name=large" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2024/2024-12-01-2.png" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2024/2024-11-21-1.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2024/2024-11-21-2.png" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2024/2024-09-16-3.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2024/2024-09-16-4.jpg" width="85" height="50" /> </td>
     <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2024/2024-09-16-1.jpg" width="85" height="50" /> </td>
   </tr>
   <tr>
-    <td align="center"> <img src="https://pbs.twimg.com/media/GWYDFkMXMAANsCm?format=jpg&name=medium" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/GXig24NWMAA3Nrw?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/GXieRRvXMAAxiDE?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/GXMsB-nWIAAaNX9?format=jpg&name=4096x4096" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2024/2024-09-16-2.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2024/2024-09-15-2.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2024/2024-09-15-1.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2024/2024-09-11-1.jpg" width="85" height="50" /> </td>
     <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2024/2024-06-13-1.jpg" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/GFuCOPFXcAAYHeQ?format=jpg&name=4096x4096" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/GP8qe1sWMAA1umZ?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/GRJvVcRW8AAKa8m?format=jpg&name=large" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2024/2024-06-13-2.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2024/2024-06-13-3.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2024/2024-06-13-4.jpg" width="85" height="50" /> </td>
   </tr>
   <tr>
-    <td align="center"> <img src="https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog15366739/2024073014081969_300x300.png" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,quality=75,width=400,height=400/event-covers/3n/0556ef20-5e18-4f95-951d-6c64921c497b" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2024/2024-03-12-1.png" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2024/2024-02-20-1.jpg" width="85" height="50" /> </td>
     <td align="center"> <img src="https://www.devseccon.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fpodcast-default-thumb.1c60f6e6.png&w=2560&q=75" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/GEwj2Q6W4AAKOIv?format=jpg&name=medium" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://secure.meetupstatic.com/photos/event/9/0/6/0/600_518136960.webp?w=384" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/GCbp-WtWsAAjgaL?format=jpg&name=medium" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2024/2024-01-30-1.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2024/2024-01-29-7.webp" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2024/2024-01-29-6.jpg" width="85" height="50" /> </td>
     <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2024/2024-01-29-1.jpg" width="85" height="50" /> </td>
     <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2024/2024-01-29-2.jpg" width="85" height="50" /> </td>
   </tr>
@@ -233,20 +233,20 @@
 
 <table>
   <tr>
-    <td align="center"> <img src="https://assets-global.website-files.com/62ac4be69e2a1d773522df04/657ae9f58c9528aaf7c6aa81_Liran%20Tal.jpg" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/F9Rxc9jXIAAXXxI?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://d2a9bkgsuxmqe2.cloudfront.net/staging/podcast_uploaded_episode400/38151203/38151203-1701329583521-daf53334ed2f8.jpg" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/FrRc8NbWcAAf8NK?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/FygSsJ0XgAIaJQq?format=jpg&name=4096x4096" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/FygSsVBXwAEx4Lz?format=jpg&name=4096x4096" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/FztkpWMWYAACSvn?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/Fzs6WozWwAM_r5m?format=jpg&name=large" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2023/2023-12-14-1.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2023/2023-12-02-1.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2023/2023-12-02-2.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2023/2023-06-28-1.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2023/2023-06-28-2.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2023/2023-06-28-3.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2023/2023-06-28-9.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2023/2023-06-28-8.jpg" width="85" height="50" /> </td>
   </tr>
   <tr>
-    <td align="center"> <img src="https://pbs.twimg.com/media/Fzs6Wo3WAAcefoW?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/Fzs6WowXoAEgUgC?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/Fzs6WodXgAAOAvM?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/Fzs6S4MXgAAxM2h?format=jpg&name=large" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2023/2023-06-28-5.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2023/2023-06-28-7.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2023/2023-06-28-6.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2023/2023-06-28-4.jpg" width="85" height="50" /> </td>
     <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2023/2023-06-20-1.jpg" width="85" height="50" /> </td>
     <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2023/2023-06-20-2.jpg" width="85" height="50" /> </td>
     <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2023/2023-06-20-3.jpg" width="85" height="50" /> </td>
@@ -258,63 +258,63 @@
     <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2023/2023-06-14-2.jpg" width="85" height="50" /> </td>
     <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2023/2023-06-14-3.jpg" width="85" height="50" /> </td>
     <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2023/2023-06-14-4.jpg" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/FsyrV5RXoAEH9GJ?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://secure.meetupstatic.com/photos/event/9/5/f/6/600_512738390.webp?w=750" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2023/2023-06-09-1.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2023/2023-05-31-2.webp" width="85" height="50" /> </td>
     <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2023/2023-05-31-1.jpg" width="85" height="50" /> </td>
   </tr>
   <tr>
-    <td align="center"> <img src="https://pbs.twimg.com/media/Fs9cLAVXwAI_d7I?format=jpg&name=medium" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/FwmHw47WwAEnG8W?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/FwfLdHbWAAIefRc?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/FwfOF7vWAAkBdbe?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/Fwf0Zd_XsAAdwgF?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/FwfNPs1WIAA6G0s?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/FxD7ZDAXsAAguYS?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/Fwf2RiFXgAA-uR_?format=jpg&name=large" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2023/2023-05-19-1.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2023/2023-05-19-8.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2023/2023-05-19-5.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2023/2023-05-19-7.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2023/2023-05-19-3.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2023/2023-05-19-6.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2023/2023-05-19-9.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2023/2023-05-19-4.jpg" width="85" height="50" /> </td>
   </tr>
   <tr>
-    <td align="center"> <img src="https://pbs.twimg.com/media/FwZ_KwiXoAY5LN5?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/Fw0iYObaMAMLm_O?format=png&name=900x900" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/FqIhAYTXsAMqh6e?format=jpg&name=medium" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/FvRfmG9XoAAqatl?format=jpg&name=medium" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/FvxYdvwX0AAbAQ8?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/Fw_u5Z6WAAAg1VU?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/Fw_u5mXXgAgjZD_?format=jpg&name=4096x4096" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/FivzY8xXwAAdJYJ?format=jpg&name=4096x4096" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2023/2023-05-19-2.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2023/2023-05-17-1.png" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2023/2023-05-09-1.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2023/2023-05-09-2.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2023/2023-05-09-3.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2023/2023-05-09-4.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2023/2023-05-09-5.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2023/2023-03-28-1.jpg" width="85" height="50" /> </td>
   </tr>
   <tr>
-    <td align="center"> <img src="https://pbs.twimg.com/media/FljAB7iXEAISIzy?format=jpg&name=medium" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/FrYDSaZXoAYc8Ks?format=jpg&name=medium" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/FsiVg44XwAAggpK?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/FsitMrXWYAAi9Z1?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/Fsin1OGWAAEC9f6?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/Fomf6sUWcAML77g?format=jpg&name=4096x4096" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/Fo1tiM-XoAIPgQC?format=jpg&name=medium" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/FqdvKqSXwAUwQHu?format=jpg&name=large" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2023/2023-03-28-2.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2023/2023-03-28-3.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2023/2023-03-28-4.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2023/2023-03-28-6.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2023/2023-03-28-5.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2023/2023-03-24-3.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2023/2023-03-24-2.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2023/2023-03-24-4.jpg" width="85" height="50" /> </td>
   </tr>
   <tr>
     <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2023/2023-03-24-1.jpg" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/Fr-KogtXwAEPgmQ?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/FsBIQ5cXoAEMJBT?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/Fr-MN3hX0AEVHBn?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/FrvD6JbWAAQ9pKT?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/FtluNYqWYAAguwC?format=jpg&name=4096x4096" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/FtxDi3LXgAIUlZQ?format=jpg&name=4096x4096" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/FtxDjX1X0AEarx6?format=jpg&name=4096x4096" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2023/2023-03-24-5.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2023/2023-03-24-8.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2023/2023-03-24-6.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2023/2023-03-24-7.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2023/2023-03-24-9.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2023/2023-03-24-10.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2023/2023-03-24-11.jpg" width="85" height="50" /> </td>
   </tr>
   <tr>
-    <td align="center"> <img src="https://pbs.twimg.com/media/FrfPfFWXoAAadbQ?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://secure.meetupstatic.com/photos/event/4/c/f/7/600_510859703.webp?w=3840" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/FrH3b7rWcAUW63Z?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F450425369%2F398849161375%2F1%2Foriginal.20230220-194435?w=940&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=db79be078b9e9c0590ed5c1ae9f45cd0" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2023/2023-03-18-1.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2023/2023-03-13-2.webp" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2023/2023-03-13-1.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2023/2023-03-12-1.jpg" width="85" height="50" /> </td>
     <td align="center"> <img src="https://scontent.fsdv1-2.fna.fbcdn.net/v/t39.30808-6/333564091_196618119665313_6297010202150369853_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=GUCHN3ARdyoAX9M31tq&_nc_ht=scontent.fsdv1-2.fna&oh=00_AfCeZPpTxj411OrQhDaYGzz99Nva-unobD7e5Ftz_Kzs2g&oe=6417C84B" width="85" height="50" /> </td>
     <td align="center"> <img src="https://scontent.fsdv1-2.fna.fbcdn.net/v/t39.30808-6/336182601_621867529775843_3203641722210162514_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=QS1S5zuin8YAX8dtNfM&_nc_ht=scontent.fsdv1-2.fna&oh=00_AfDsnXrcAlPvcp1YRkPjX_CDkIsrOzTudPmWqi7ZpTItyQ&oe=6417B388" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/FqkTZ0wXgAQ0oz9?format=jpg&name=medium" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2023/2023-03-06-3.jpg" width="85" height="50" /> </td>
     <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2023/2023-03-06-1.jpg" width="85" height="50" /> </td>
   </tr>
   <tr>
     <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2023/2023-03-06-2.jpg" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/FpbpZVsXECg44vh?format=jpg&name=large" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2023/2023-02-18-1.jpg" width="85" height="50" /> </td>
   </tr>
 </table>
 
@@ -362,173 +362,173 @@
 
 <table>
   <tr>
-    <td align="center"> <img src="https://pbs.twimg.com/media/FilnlphWQAUUrse?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/Filnlp-WIAAVrCR?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/Fh29koYXEAIRfZ1?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/Fh3iELTXwAEnvMV?format=jpg&name=medium" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/Fh3DFNAXkAIpaAH?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/Fh1z6XYX0AAoED9?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/Fh16gaiXkAI6INp?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/FiVdWUkXoAQartv?format=jpg&name=large" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2022/2022-11-27-2.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2022/2022-11-27-1.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2022/2022-11-18-3.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2022/2022-11-18-5.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2022/2022-11-18-4.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2022/2022-11-18-2.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2022/2022-11-18-1.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2022/2022-11-18-6.jpg" width="85" height="50" /> </td>
   </tr>
   <tr>
-    <td align="center"> <img src="https://pbs.twimg.com/media/FjOd4HSXoAEh0hr?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/FjOd4UqX0AIj6tc?format=jpg&name=4096x4096" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/FjOd4jnXoAA9jhG?format=jpg&name=4096x4096" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/FjOd41NWIAEuK9P?format=jpg&name=large" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2022/2022-11-18-8.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2022/2022-11-18-9.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2022/2022-11-18-10.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2022/2022-11-18-7.jpg" width="85" height="50" /> </td>
     <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2022/2022-11-14-1.jpg" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/FgDzHM7XgAE6L8E?format=jpg&name=medium" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2022/2022-11-14-3.jpg" width="85" height="50" /> </td>
     <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2022/2022-11-14-2.jpg" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/FhhhoaOXgAA5sfL?format=jpg&name=large" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2022/2022-11-14-4.jpg" width="85" height="50" /> </td>
   </tr>
   <tr>
-    <td align="center"> <img src="https://pbs.twimg.com/media/Fhhk1rMWYAEZaDW?format=jpg&name=large" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2022/2022-11-14-5.jpg" width="85" height="50" /> </td>
     <td align="center"> <img src="https://media-exp1.licdn.com/dms/image/C4D22AQF9JNbTrrzhVA/feedshare-shrink_1280/0/1668427951296?e=1671062400&v=beta&t=6lOhVVlFH4ERlCqUCBSquN3ZbUraAJPA-hqPsRUdpW0" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/FdsKPTPWIA4j3io?format=png&name=900x900" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2022/2022-10-07-2.png" width="85" height="50" /> </td>
     <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2022/2022-10-07-1.jpg" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/FefN3GJXgCs9ouK?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/FeeYPmiXkAE7ngp?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/Fedmn9zWAAA8tnI?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/FeZeqkJWIAA3S_Q?format=jpg&name=4096x4096" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2022/2022-10-07-6.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2022/2022-10-07-5.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2022/2022-10-07-4.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2022/2022-10-07-3.jpg" width="85" height="50" /> </td>
   </tr>
   <tr>
-    <td align="center"> <img src="https://pbs.twimg.com/media/FfmVNy8X0AAEPTp?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/FbAUs9MXoAAOmWu?format=png&name=small" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/FeSmNy1XwAAYwai?format=jpg&name=4096x4096" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/FeNjx1AWAAEm-7u?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/FeNjyGAXwAER1Un?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/FeNrrgnXgAAfV-S?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/FeNrsVIXgAENqM9?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/FeNrtNZWYAEv5c0?format=jpg&name=large" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2022/2022-10-07-7.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2022/2022-10-05-1.png" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2022/2022-10-05-11.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2022/2022-10-05-2.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2022/2022-10-05-3.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2022/2022-10-05-7.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2022/2022-10-05-8.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2022/2022-10-05-9.jpg" width="85" height="50" /> </td>
   </tr>
   <tr>
-    <td align="center"> <img src="https://pbs.twimg.com/media/FeNq3BJWIAIkgxL?format=jpg&name=large" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2022/2022-10-05-6.jpg" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/FeNrtPVXEAQ6YOk?format=jpg&name=large" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/FeNrtq8WYAEe4i8?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/FeOol-BXkAAHjYC?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/FeNn67zWQAIUa51?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/FeNkgNJXoAAsyIo?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/FfBOX_bXoAAyMsR?format=jpg&name=large" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2022/2022-10-05-10.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2022/2022-10-05-5.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2022/2022-10-05-4.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2022/2022-10-05-12.jpg" width="85" height="50" /> </td>
     <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2022/2022-10-03-1.jpg" width="85" height="50" /> </td>
   </tr>
   <tr>
-    <td align="center"> <img src="https://pbs.twimg.com/media/FeJ2OteWIAEzHl-?format=jpg&name=large" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2022/2022-10-03-2.jpg" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/FeKEvm_XoAM8PY0?format=jpg&name=large" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/FeKEwYQXkAIjD5h?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/FeDpy2HWIAAaTUZ?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/Fd-Ro76WIAECv-6?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/FdHFCOMX0AADARq?format=jpg&name=large" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2022/2022-10-01-2.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2022/2022-10-01-1.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2022/2022-09-22-1.jpg" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/FcstVJhXwAAxurX?format=jpg&name=large" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/FcsvvebX0AINg_B?format=jpg&name=large" width="85" height="50" /> </td>
   </tr>
   <tr>
     <td align="center"> <img src="https://pbs.twimg.com/media/FcsvwoGXgAgL0vK?format=jpg&name=large" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/Fcs2Ow9WAAI23NH?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/FciwbBQWYAA9WRr?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/FciwbU6WIAE74te?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/Fciuv4KXwAYMFyf?format=jpg&name=4096x4096" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/FcijwYoXEAQFpQS?format=jpg&name=4096x4096" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/FaRx6gmWQAEKeyh?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/FahbN5bX0AMWRJ9?format=jpg&name=large" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2022/2022-09-13-3.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2022/2022-09-13-4.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2022/2022-09-13-2.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2022/2022-09-13-1.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2022/2022-08-16-1.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2022/2022-08-16-2.jpg" width="85" height="50" /> </td>
   </tr>
   <tr>
     <td align="center"> <img src="https://pbs.twimg.com/media/FYmvL6TX0AAKAgE?format=jpg&name=large" width="85" height="50" /> </td>
     <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2022/2022-07-26-1.jpg" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/FTNRqXFWUAA4W9Y?format=jpg&name=large" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2022/2022-06-30-5.jpg" width="85" height="50" /> </td>
     <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2022/2022-06-30-1.jpg" width="85" height="50" /> </td>
     <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2022/2022-06-30-2.jpg" width="85" height="50" /> </td>
     <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2022/2022-06-30-3.jpg" width="85" height="50" /> </td>
     <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2022/2022-06-30-4.jpg" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/FWmruPEXkAM0W4f?format=jpg&name=large" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2022/2022-06-30-11.jpg" width="85" height="50" /> </td>
   </tr>
   <tr>
-    <td align="center"> <img src="https://pbs.twimg.com/media/FWmryG7WQAAk6iD?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/FWmr1FtXwAMzxQJ?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/FWmr3PKWIAIVXW3?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/FWgsNCOWQAIiGt-?format=jpg&name=4096x4096" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/FWgsOVgXgAEeJ2w?format=jpg&name=4096x4096" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/FWgy7jcWIAo7UDW?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://www.meetup.com/_next/image/?url=https%3A%2F%2Fsecure-content.meetupstatic.com%2Fimages%2Fclassic-events%2F504780954%2F676x380.webp&w=3840&q=75" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/FV6wwM8XkAA3sMB?format=jpg&name=large" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2022/2022-06-30-12.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2022/2022-06-30-9.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2022/2022-06-30-10.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2022/2022-06-30-6.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2022/2022-06-30-7.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2022/2022-06-30-8.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2022/2022-06-27-4.webp" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2022/2022-06-27-2.jpg" width="85" height="50" /> </td>
   </tr>
   <tr>
-    <td align="center"> <img src="https://pbs.twimg.com/media/FWT-LCIWIAA7N0H?format=jpg&name=large" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2022/2022-06-27-3.jpg" width="85" height="50" /> </td>
     <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2022/2022-06-27-1.jpg" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/FVhf-KuWYAIEgyn?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/FVhppKgXoAIi5GB?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/FVdKSvVWAAAQ9oJ?format=png&name=900x900" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/FVc11x7XoAEz2cZ?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/FVdHesOXoAAT4yM?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/FVdHgMmWQAIGrT6?format=jpg&name=large" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2022/2022-06-17-6.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2022/2022-06-17-7.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2022/2022-06-17-5.png" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2022/2022-06-17-1.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2022/2022-06-17-2.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2022/2022-06-17-3.jpg" width="85" height="50" /> </td>
   </tr>
   <tr>
-    <td align="center"> <img src="https://pbs.twimg.com/media/FVdI6UcWIAEwxeO?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/FVsLkW5X0AUmjET?format=png&name=900x900" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/FVYE66eWAAEynra?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/FVYE66jWYAI172n?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/FVXcyDIWUAEDTih?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/FVXcyuMXEAEl8lC?format=jpg&name=4096x4096" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/FVXbiOJXwAAfFYZ?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/FVXfH36WIAEpbZZ?format=jpg&name=medium" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2022/2022-06-17-4.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2022/2022-06-16-9.png" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2022/2022-06-16-7.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2022/2022-06-16-8.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2022/2022-06-16-2.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2022/2022-06-16-3.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2022/2022-06-16-1.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2022/2022-06-16-4.jpg" width="85" height="50" /> </td>
   </tr>
   <tr>
-    <td align="center"> <img src="https://pbs.twimg.com/media/FVXgSrhXoAAf9cz?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/FVXfwLvWUAAd57w?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/FXYzCP-WQAAKqal?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://www.meetup.com/_next/image/?url=https%3A%2F%2Fsecure-content.meetupstatic.com%2Fimages%2Fclassic-events%2F504514095%2F676x380.webp&w=3840&q=75" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/FVYU9ppUsAIt2tf?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/FVYU9pfUsAAMHb8?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/FVYU9pqUYAAaF1C?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/FVTkljzWIAAVr27?format=jpg&name=4096x4096" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2022/2022-06-16-6.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2022/2022-06-16-5.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2022/2022-06-16-10.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2022/2022-06-15-5.webp" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2022/2022-06-15-3.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2022/2022-06-15-2.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2022/2022-06-15-4.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2022/2022-06-15-1.jpg" width="85" height="50" /> </td>
   </tr>
   <tr>
     <td align="center"> <img src="https://www.meetup.com/_next/image/?url=https%3A%2F%2Fsecure-content.meetupstatic.com%2Fimages%2Fclassic-events%2F503828916%2F676x380.webp&w=3840&q=75" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://www.meetup.com/_next/image/?url=https%3A%2F%2Fsecure-content.meetupstatic.com%2Fimages%2Fclassic-events%2F503238652%2F676x380.webp&w=3840&q=75" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/FTILFtwUsAIP1Ls?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/FS93_WHWUAE-qD6?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/FS-MMcpWUAA0r6q?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/FS5WqNXWQAAMmNN?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/FS5WrD7X0AAgrlM?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/FOnP4gNWQAYpRMJ?format=jpg&name=medium" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2022/2022-05-19-1.webp" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2022/2022-05-19-2.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2022/2022-05-17-2.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2022/2022-05-17-1.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2022/2022-05-16-1.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2022/2022-05-16-2.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2022/2022-05-07-1.jpg" width="85" height="50" /> </td>
   </tr>
   <tr>
-    <td align="center"> <img src="https://pbs.twimg.com/media/FOnP6t2XIAwyLt9?format=jpg&name=medium" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/FSJha_kXoAAxLxa?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/FSJlgLLXMAAbfp5?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/FSJojIfXIAc7N8y?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/FSO_nEgXMAAMili?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/FSKoYFFWQAI0zAh?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/FSJhzkqXIAEWfvw?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/FSJlW_dXEAEG-ri?format=jpg&name=large" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2022/2022-05-07-2.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2022/2022-05-08-3.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2022/2022-05-08-6.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2022/2022-05-08-8.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2022/2022-05-08-11.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2022/2022-05-08-10.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2022/2022-05-08-4.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2022/2022-05-08-5.jpg" width="85" height="50" /> </td>
   </tr>
   <tr>
-    <td align="center"> <img src="https://pbs.twimg.com/media/FSJmwXzWUAEtViE?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/FSJom0FX0AEmo1P?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/FSAizDmXIAEWRRE?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/FSAjAJsX0AExA8-?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/FSuKH0QXEAcYoCb?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/FOnP4gNWQAYpRMJ?format=jpg&name=medium" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/FOnP6t2XIAwyLt9?format=jpg&name=medium" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/FSBeIMcXEAM9Bdr?format=jpg&name=large" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2022/2022-05-08-7.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2022/2022-05-08-9.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2022/2022-05-08-1.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2022/2022-05-08-2.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2022/2022-05-08-12.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2022/2022-05-07-1.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2022/2022-05-07-2.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2022/2022-05-07-3.jpg" width="85" height="50" /> </td>
   </tr>
   <tr>
-    <td align="center"> <img src="https://pbs.twimg.com/media/FRutQ6kX0AEaHuD?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/FRutQ6eXEAAPwNy?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/FRutQ6mXIAA0SVU?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://secure.meetupstatic.com/photos/event/9/d/7/c/highres_503020316.jpeg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2022/2022-05-01-2.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2022/2022-05-01-1.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2022/2022-05-01-3.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2022/2022-04-13-6.jpg" width="85" height="50" /> </td>
     <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2022/2022-04-13-1.jpg" width="85" height="50" /> </td>
     <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2022/2022-04-13-2.jpg" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/FQTnBKUXoAQbNmZ?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/FQTnBVLXwAQ4Os5?format=jpg&name=large" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2022/2022-04-13-4.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2022/2022-04-13-5.jpg" width="85" height="50" /> </td>
   </tr>
   <tr>
-    <td align="center"> <img src="https://pbs.twimg.com/media/FQTnB0sXwAQRPIa?format=jpg&name=large" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2022/2022-04-13-3.jpg" width="85" height="50" /> </td>
     <td align="center"> <img src="https://scontent.ftlv6-1.fna.fbcdn.net/v/t39.30808-6/278102772_10166350659375313_8425188378617904281_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=730e14&_nc_ohc=ZUQOYgvGU80AX9Cekam&_nc_ht=scontent.ftlv6-1.fna&oh=00_AT-ozlTIPKjIIoSfbPhnywFLPTsCtpVC9S94MUbCkfAfag&oe=625C5149" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/FQK0kPuWYAE9mbI?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/FQK0khBWUAM0ef5?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/FQK0kvdXsA0Mb6x?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/FQK0lTYXEAggcLE?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://secure.meetupstatic.com/photos/event/8/b/3/highres_503162227.jpeg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2022/2022-04-12-1.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2022/2022-04-12-2.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2022/2022-04-12-3.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2022/2022-04-12-4.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2022/2022-04-11-5.jpg" width="85" height="50" /> </td>
     <td align="center"> <img src="https://scontent.fhfa2-2.fna.fbcdn.net/v/t39.30808-6/278085354_1535268560202088_4745047179369833207_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=8bfeb9&_nc_ohc=AqYBZhIj1TAAX8y7HJL&_nc_ht=scontent.fhfa2-2.fna&oh=00_AT-vPz5l0mkRrdAyFC0BBqeo5ugwbuJdf00ccG1TrP1EkA&oe=625939AB" width="85" height="50" /> </td>
   </tr>
   <tr>
@@ -536,33 +536,33 @@
     <td align="center"> <img src="https://scontent.fhfa2-2.fna.fbcdn.net/v/t39.30808-6/278127523_1535268440202100_5605321498941405013_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=8bfeb9&_nc_ohc=155kkLGBNroAX9IX3Ff&_nc_ht=scontent.fhfa2-2.fna&oh=00_AT9b5fGxoHbdxVke24zHw608vc7ksUAoiCK6uSY_inYXyw&oe=625935CF" width="85" height="50" /> </td>
     <td align="center"> <img src="https://scontent.fhfa2-2.fna.fbcdn.net/v/t39.30808-6/278287641_1535268496868761_9188999189406913532_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=8bfeb9&_nc_ohc=9wMfnGzWoHwAX8cQoqx&_nc_ht=scontent.fhfa2-2.fna&oh=00_AT_Dd4SKDGyiKI7IBrEV-vs_91ZeTRTrxQua0ed4k8pIZw&oe=625A6D14" width="85" height="50" /> </td>
     <td align="center"> <img src="https://scontent.fhfa2-2.fna.fbcdn.net/v/t39.30808-6/278123898_1535268403535437_4937168906872406578_n.jpg?_nc_cat=106&ccb=1-5&_nc_sid=8bfeb9&_nc_ohc=NqZ3K73Eu3EAX9ZBjEQ&tn=ltt6cif7GWAoRbk-&_nc_ht=scontent.fhfa2-2.fna&oh=00_AT9N1aPFdBB-EfKj47nxJYsOdhwZjqe9g77Ff4sPoN7OlA&oe=6259EB10" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/FQEwkpkWYAk33Vm?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/FQEtapTX0AI66_S?format=jpg&name=large" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2022/2022-04-11-4.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2022/2022-04-11-3.jpg" width="85" height="50" /> </td>
     <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2022/2022-04-11-1.jpg" width="85" height="50" /> </td>
     <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2022/2022-04-11-2.jpg" width="85" height="50" /> </td>
   </tr>
   <tr>
     <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2022/2022-03-30-1.jpg" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://secure.meetupstatic.com/photos/event/1/3/0/b/600_503044875.jpeg" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://secure.meetupstatic.com/photos/event/1/3/0/f/highres_503044879.jpeg" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://secure.meetupstatic.com/photos/event/1/3/1/2/highres_503044882.jpeg" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/FPHTUl8WUAMksDw?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/FPHTUl6XwAoAxiR?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/FLnr4LMXwAA4nR2?format=jpg&name=4096x4096" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2022/2022-03-30-4.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2022/2022-03-30-5.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2022/2022-03-30-6.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2022/2022-03-30-3.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2022/2022-03-30-2.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2022/2022-03-28-1.jpg" width="85" height="50" /> </td>
     <td align="center"> <img src="https://scontent.ftlv18-1.fna.fbcdn.net/v/t39.30808-6/273812789_4825196864232470_4759239175253428787_n.png?_nc_cat=102&ccb=1-5&_nc_sid=730e14&_nc_ohc=O-lKAcc26FAAX_bNKdg&_nc_ht=scontent.ftlv18-1.fna&oh=00_AT8jRmLhUGdVrmPMcWJMPVQpk11tZa_fF2J_0kO6nNuLww&oe=6216A5D9" width="85" height="50" /> </td>
   </tr>
   <tr>
-    <td align="center"> <img src="https://pbs.twimg.com/media/FLtJGsWWUAApQVR?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/FMHY0jFXMAQOQrb?format=jpg&name=medium" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/FLkUlAkWUAEE-q2?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/FLkPH41aIAUOCcZ?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/FLFFmkMXMAQlcFf?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/FJe5mwjXEAQHXK9?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/FJdJpCxXIAAZBUL?format=jpg&name=medium" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/FJdJsRJXMAEQLhd?format=jpg&name=large" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2022/2022-03-25-1.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2022/2022-02-25-1.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2022/2022-02-16-1.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2022/2022-02-15-1.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2022/2022-02-10-1.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2022/2022-01-18-3.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2022/2022-01-18-1.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2022/2022-01-18-2.jpg" width="85" height="50" /> </td>
   </tr>
   <tr>
-    <td align="center"> <img src="https://pbs.twimg.com/media/FO7PRY3WQAEXThU?format=jpg&name=large" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2022/2022-01-02-1.jpg" width="85" height="50" /> </td>
   </tr>
 </table>
 
@@ -628,111 +628,111 @@
   <tr>
     <td align="center"> <img src="https://scontent.ftlv18-1.fna.fbcdn.net/v/t39.30808-6/273634419_132776649239754_6849245359846362437_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=730e14&_nc_ohc=X4JtQuqJTzwAX90tXIl&_nc_ht=scontent.ftlv18-1.fna&oh=00_AT8IvkTAqCcCumtLIVikHnnvInmpy8ZA3fQPFFkgtCCP2Q&oe=620A5D96" width="85" height="50" /> </td>
     <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2021/2021-12-29-1.jpg" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/FHJK81TXMAQYMY5?format=jpg&name=medium" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/FKrxB75XMAEb9oh?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/FKrxCIvXsAUNtC_?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/FKrxCS5X0AUocPe?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/FKrxCdWWYBEqEQa?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/FEelWSJXIAcuz_2?format=jpg&name=medium" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2021/2021-12-27-1.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2021/2021-12-27-2.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2021/2021-12-27-3.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2021/2021-12-27-4.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2021/2021-12-27-5.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2021/2021-12-15-1.jpg" width="85" height="50" /> </td>
   </tr>
   <tr>
-    <td align="center"> <img src="https://pbs.twimg.com/media/FGo_cedXEAE5zRi?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/FGpBz0xXoAQM9_Y?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/FG-e8yaXIA4B6y1?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/FEyUsqtXoAA7mse?format=jpg&name=medium" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/FE4-eceWUAUn8so?format=jpg&name=medium" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/FFB8p6FXEAMdx-W?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/FFB9mkaWQAQamBy?format=jpg&name=medium" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/FFB9mSOXMAMC3to?format=jpg&name=medium" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2021/2021-12-15-3.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2021/2021-12-15-4.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2021/2021-12-15-2.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2021/2021-11-25-2.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2021/2021-11-25-1.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2021/2021-11-25-3.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2021/2021-11-25-5.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2021/2021-11-25-4.jpg" width="85" height="50" /> </td>
   </tr>
   <tr>
-    <td align="center"> <img src="https://pbs.twimg.com/media/FFCAsBsXoAYLSbA?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/FFIF4K2XwAAoCbz?format=jpg&name=4096x4096" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/FFIF4d3XMAEsLKX?format=jpg&name=medium" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/FEUqROTXwAUlT1M?format=jpg&name=medium" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/FEUgM6TXIAYamEK?format=jpg&name=4096x4096" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/ad_img/1458587092062281728/G0UzLigZ?format=png&name=small" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/FEfbRXbVkAE1HsY?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/FEO38f7X0AMFLvf?format=jpg&name=large" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2021/2021-11-25-6.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2021/2021-11-25-7.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2021/2021-11-25-8.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2021/2021-11-18-2.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2021/2021-11-18-3.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2021/2021-11-18-1.png" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2021/2021-11-18-4.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2021/2021-11-15-7.jpg" width="85" height="50" /> </td>
   </tr>
   <tr>
-    <td align="center"> <img src="https://pbs.twimg.com/media/FEOO_RoX0AIKIIq?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/FEN0-EGXwAAfCxr?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/FEOTE39XoAAw8jr?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/FEPxnsnXEAolozs?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/FEbVxBAWUAIVI3f?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/FP5blMYXwAArrqf?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/FP5blWTXIAQ7CcL?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/FP5blfUXoAACd1X?format=jpg&name=large" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2021/2021-11-15-8.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2021/2021-11-15-6.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2021/2021-11-15-14.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2021/2021-11-15-9.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2021/2021-11-15-10.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2021/2021-11-15-11.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2021/2021-11-15-12.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2021/2021-11-15-13.jpg" width="85" height="50" /> </td>
   </tr>
   <tr>
-    <td align="center"> <img src="https://pbs.twimg.com/media/F10ubAIXsAcomHs?format=jpg&name=4096x4096" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/F1E4qtfXwAEMQFH?format=jpg&name=4096x4096" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/F1E4qtjXoAII82B?format=jpg&name=4096x4096" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/F1E4qtqX0AAR4ug?format=jpg&name=4096x4096" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/F1E4qt1WYAAkuDK?format=jpg&name=4096x4096" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/ad_img/1427281583640387603/zJi-JBn7?format=png&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://media.graphcms.com/resize=fit:crop,height:500,width:500/output=format:jpg/VSOFG9kpRiGufuSoOPh3" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/E-r3VOcXMAAiy0V?format=jpg&name=medium" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2021/2021-11-15-1.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2021/2021-11-15-3.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2021/2021-11-15-4.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2021/2021-11-15-5.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2021/2021-11-15-2.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2021/2021-10-25-2.png" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2021/2021-10-25-1.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2021/2021-10-18-1.jpg" width="85" height="50" /> </td>
   </tr>
   <tr>
-    <td align="center"> <img src="https://pbs.twimg.com/media/FBfCgPZXMAYTAtg?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/FBcSJjqXEAkvZ9_?format=jpg&name=medium" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/FCTm4HUXMAEBufe?format=jpg&name=medium" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/FBHV8MbXIAMv5Py?format=jpg&name=900x900" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://secure.meetupstatic.com/photos/event/3/6/4/1/clean_497953889.jpeg" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/E_pik5UWEAMN5dc?format=jpg&name=4096x4096" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/E_03_TeVQBIldtw?format=jpg&name=4096x4096" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/E_31vfAUYAk0BC0?format=jpg&name=large" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2021/2021-10-18-3.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2021/2021-10-18-2.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2021/2021-10-18-4.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2021/2021-10-07-1.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2021/2021-09-21-4.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2021/2021-09-21-3.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2021/2021-09-21-1.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2021/2021-09-21-2.jpg" width="85" height="50" /> </td>
   </tr>
   <tr>
-    <td align="center"> <img src="https://pbs.twimg.com/media/E9ewrrAXoAMeBmK?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/E_9VW5GXIAQrgAh?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/E7zC2doWYAEibbF?format=jpg&name=4096x4096" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/E6wktHbXoAI_DL0?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/FF8dl4JWUAgTU4F?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/E7DtxxYWEAscXd9?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/E61MqWJXoAMJdHM?format=jpg&name=4096x4096" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/E6vxlboWUAM8sDH?format=jpg&name=medium" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2021/2021-09-03-1.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2021/2021-09-03-2.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2021/2021-08-04-1.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2021/2021-07-28-1.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2021/2021-07-28-2.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2021/2021-07-26-1.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2021/2021-07-21-1.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2021/2021-07-20-1.jpg" width="85" height="50" /> </td>
   </tr>
   <tr>
-    <td align="center"> <img src="https://swimm.io/_nuxt/image/c61b37.png" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2021/2021-07-07-1.png" width="85" height="50" /> </td>
     <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2021/2021-06-17-1.jpg" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/E3mZPPLWYAU9kBG?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/E2i5Li3XIAAw7Ml?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/E2z7ag4WEAEiLSM?format=jpg&name=medium" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/E2ans68XIAcDjou?format=png&name=900x900" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/E0q3DXlUUAAnRRg?format=jpg&name=4096x4096" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/EzmTFVzXEAAPRjf?format=jpg&name=medium" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2021/2021-06-15-1.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2021/2021-06-02-1.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2021/2021-06-02-2.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2021/2021-05-27-1.png" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2021/2021-05-04-1.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2021/2021-04-22-1.jpg" width="85" height="50" /> </td>
   </tr>
   <tr>
-    <td align="center"> <img src="https://pbs.twimg.com/media/EwNtWoHWEAEKoNQ?format=png&name=medium" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/Exv00xsXEAYnPn3?format=jpg&name=4096x4096" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/ExAkDmNWYAQdUi0?format=jpg&name=medium" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/E3sMBZaXMAQT8mf?format=jpg&name=medium" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/E3sMBfNWEAAG4Xb?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/ExK48xJXAAguL-n?format=jpg&name=900x900" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/ExK4-1PWQAs3x40?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/E3s1N6bWYAQ3k2c?format=jpg&name=medium" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2021/2021-03-30-1.png" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2021/2021-03-30-2.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2021/2021-03-24-3.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2021/2021-03-24-1.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2021/2021-03-24-2.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2021/2021-03-23-4.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2021/2021-03-23-3.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2021/2021-03-23-1.jpg" width="85" height="50" /> </td>
   </tr>
   <tr>
-    <td align="center"> <img src="https://pbs.twimg.com/media/E3s1OGIXIAsR_jA?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/EwxMf1DWgAEkW-O?format=jpg&name=900x900" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/EwlPIKOW8AEtPvc?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/EvpQhjVXIAYQnuk?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/Et-qly6XYAAuKGv?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://img.youtube.com/vi/jORr4-PkCDs/maxresdefault.jpg" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/Et8h51LXEAMCTSr?format=jpg&name=medium" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/Et8c8fmXYAkuigk?format=jpg&name=medium" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2021/2021-03-23-2.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2021/2021-03-18-1.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2021/2021-03-15-1.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2021/2021-03-04-1.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2021/2021-02-17-1.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2021/2021-02-13-1.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2021/2021-02-09-2.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2021/2021-02-09-1.jpg" width="85" height="50" /> </td>
   </tr>
   <tr>
-    <td align="center"> <img src="https://pbs.twimg.com/ad_img/1354724809884770305/wJu65e0A?format=png&name=small" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/EsrHaBxXUAA1Rst?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/Es138-MXUAoi6m-?format=png&name=900x900" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/FF85DlkXwAUYU0x?format=jpg&name=4096x4096" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/FF85D0hWUAQL008?format=jpg&name=4096x4096" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/Erig37BXMAANo28?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/EsRnNR-XAAAcEWC?format=jpg&name=large" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2021/2021-01-28-1.png" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2021/2021-01-28-3.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2021/2021-01-28-2.png" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2021/2021-01-28-5.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2021/2021-01-28-4.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2021/2021-01-21-1.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2021/2021-01-21-2.jpg" width="85" height="50" /> </td>
   </tr>
 </table>
 
@@ -809,37 +809,37 @@
 
 <table>
   <tr>
-    <td align="center"> <img src="https://pbs.twimg.com/media/EpcL5WoWMAAO8n7?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/EpcL35PWMAEk769?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/EpcL6e7WMAETBPz?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/EpcJhwyXMAQ70b6?format=jpg&name=4096x4096" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2020/2020-12-17-3.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2020/2020-12-17-2.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2020/2020-12-17-4.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2020/2020-12-17-1.jpg" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/EouHngAVEAARCVe?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/ElVGLf0XYAAa2TP?format=jpg&name=900x900" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/ElVLAb4XIAAqR6V?format=png&name=900x900" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/Ek9FPfYWAAAsRly?format=jpg&name=large" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2020/2020-10-27-1.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2020/2020-10-27-2.png" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2020/2020-10-22-2.jpg" width="85" height="50" /> </td>
   </tr>
   <tr>
-    <td align="center"> <img src="https://pbs.twimg.com/media/Ek9FtgkWkAIAL05?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/Ek9F4-wWAAEQyLF?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/EgwVFLPXYAACzTT?format=jpg&name=medium" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/EhjD4NVWsAALvwY?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/EhjEOXgXYAA87g8?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/EhBDqh5X0AwB79c?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/EZSTXYfX0AEfbHX?format=jpg&name=900x900" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/ESLxXALWAAABuBS?format=jpg&name=large" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2020/2020-10-22-3.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2020/2020-10-22-1.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2020/2020-09-10-1.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2020/2020-09-10-2.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2020/2020-09-10-3.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2020/2020-06-09-1.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2020/2020-04-07-1.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2020/2020-03-03-3.jpg" width="85" height="50" /> </td>
   </tr>
   <tr>
-    <td align="center"> <img src="https://pbs.twimg.com/media/ESL5qn-XsAAzrXy?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/EUxXvvRX0AEXdla?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/EUxXvv1XgAMqksT?format=jpg&name=4096x4096" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/EUxXvv8XkAAm6l2?format=jpg&name=4096x4096" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/ESWayBMXkAAhRQz?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/FAg7BtqXIAMK6UX?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/ENPUroOU8AAZpU2?format=jpg&name=medium" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/EO8sCpbWAAAUAw0?format=jpg&name=4096x4096" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2020/2020-03-03-2.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2020/2020-03-03-7.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2020/2020-03-03-5.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2020/2020-03-03-6.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2020/2020-03-03-4.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2020/2020-03-03-8.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2020/2020-03-03-1.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2020/2020-02-18-1.jpg" width="85" height="50" /> </td>
   </tr>
   <tr>
-    <td align="center"> <img src="https://pbs.twimg.com/media/EOzW_-DUUAE1xYo?format=jpg&name=large" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2020/2020-01-21-1.jpg" width="85" height="50" /> </td>
   </tr>
 </table>
 
@@ -875,157 +875,157 @@
 
 <table>
   <tr>
-    <td align="center"> <img src="https://pbs.twimg.com/media/EMIX4_9W4AAHU1r?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/ELrbDHbXYAAd84x?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/FV5GET3WAAQtc8d?format=jpg&name=4096x4096" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/ELmMReUW4AIPrvr?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/ELmMSBlXkAAjqhd?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/ELmMSjcXsAIAA_V?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/ELmM63uWwAAz1E_?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/ELmORWTXkAABx0k?format=jpg&name=large" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2019/2019-12-19-1.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2019/2019-12-13-1.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2019/2019-12-12-10.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2019/2019-12-12-3.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2019/2019-12-12-4.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2019/2019-12-12-5.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2019/2019-12-12-2.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2019/2019-12-12-6.jpg" width="85" height="50" /> </td>
   </tr>
   <tr>
-    <td align="center"> <img src="https://pbs.twimg.com/media/ELmOn8yWkAISZHq?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://www.flickr.com/photos/linuxfoundation/49239418631/in/album-72157712187942248/" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://www.flickr.com/photos/linuxfoundation/49239635197/in/album-72157712187942248/" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://www.flickr.com/photos/linuxfoundation/49239635197/in/album-72157712187942248/" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://www.flickr.com/photos/linuxfoundation/49239418621/in/album-72157712187942248/" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://www.flickr.com/photos/linuxfoundation/49238935303/in/album-72157712187942248/" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://www.flickr.com/photos/linuxfoundation/49238935293/in/album-72157712187942248/" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://www.flickr.com/photos/linuxfoundation/49213312428/in/album-72157712187942248/" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2019/2019-12-12-7.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2019/2019-12-12-17.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2019/2019-12-12-18.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2019/2019-12-12-18.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2019/2019-12-12-16.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2019/2019-12-12-15.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2019/2019-12-12-14.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2019/2019-12-12-11.jpg" width="85" height="50" /> </td>
   </tr>
   <tr>
-    <td align="center"> <img src="https://www.flickr.com/photos/linuxfoundation/49214024337/in/album-72157712187942248/" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://www.flickr.com/photos/linuxfoundation/49214023707/in/album-72157712187942248/" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/ELmLQKcWsAAB083?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/EMF8DgrWkAQIjmB?format=jpg&name=medium" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/EMF8DgqX0AEwnST?format=jpg&name=900x900" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/EInaA0UXUAAKi6_?format=jpg&name=4096x4096" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/EINzdmoWsAAIvDo?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/EINYbcAXkAAF44s?format=jpg&name=large" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2019/2019-12-12-13.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2019/2019-12-12-12.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2019/2019-12-12-1.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2019/2019-12-12-9.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2019/2019-12-12-8.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2019/2019-11-05-1.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2019/2019-10-31-2.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2019/2019-10-31-1.jpg" width="85" height="50" /> </td>
   </tr>
   <tr>
-    <td align="center"> <img src="https://pbs.twimg.com/media/EIR-JdRW4AIplRV?format=jpg&name=4096x4096" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/EIDOjVkX4AA_n_5?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/EIDNF9zWwAA1n-7?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/EICQMUEWoAEhl8G?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/EIoSHn9XYAADydm?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/EF-CqEsXkAMHUhc?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/EF-Fpu6X0AETxJL?format=jpg&name=large" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2019/2019-10-31-3.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2019/2019-10-29-3.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2019/2019-10-29-2.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2019/2019-10-29-1.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2019/2019-10-10-1.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2019/2019-10-03-1.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2019/2019-10-03-2.jpg" width="85" height="50" /> </td>
     <td align="center"> <img src="https://scontent.ftlv18-1.fna.fbcdn.net/v/t1.6435-9/71471387_10162363849325313_8222921635032727552_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=730e14&_nc_ohc=vnCRcYD6ATkAX9FmZLu&_nc_ht=scontent.ftlv18-1.fna&oh=396eaccb61c033d0f7a73bd2a999df02&oe=6171FFFC" width="85" height="50" /> </td>
   </tr>
   <tr>
     <td align="center"> <img src="https://scontent.ftlv18-1.fna.fbcdn.net/v/t1.6435-9/71711399_10162363849305313_8929317989992366080_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=730e14&_nc_ohc=sqbLUdY983MAX8G15gN&_nc_ht=scontent.ftlv18-1.fna&oh=ca943d4453f05f3fbcefde64b15c87cb&oe=617253C4" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/EFeULhIW4AARwZa?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/EFeUXV_XkAAIYzi?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/EFeUXVkX4AETOZX?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/EFeUXVAXsAAYPtc?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/EFfFUPFWkAAwaMN?format=jpg&name=medium" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/EEnUs_KU8AAHtKc?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/EEnUUODUEAAfR8z?format=jpg&name=large" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2019/2019-09-27-1.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2019/2019-09-27-3.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2019/2019-09-27-4.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2019/2019-09-27-2.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2019/2019-09-27-5.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2019/2019-09-16-2.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2019/2019-09-16-1.jpg" width="85" height="50" /> </td>
   </tr>
   <tr>
-    <td align="center"> <img src="https://pbs.twimg.com/media/EEXo7K-WwAAVvyL?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/EEQPqXlXUAEoafi?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/ECJ2Zv6WsAEPUFF?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/EERvSxYWkAA8s82?format=jpg&name=4096x4096" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/EDd0tvlWsAAxg_U?format=jpg&name=medium" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/EDeNxT9W4AAXyQK?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://secure.meetupstatic.com/photos/event/7/2/8/8/600_483629320.jpeg" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/EAviYtmXYAEOH0E?format=jpg&name=large" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2019/2019-09-13-1.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2019/2019-09-12-2.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2019/2019-09-12-1.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2019/2019-09-12-3.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2019/2019-09-02-1.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2019/2019-09-02-3.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2019/2019-07-30-5.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2019/2019-07-30-1.jpg" width="85" height="50" /> </td>
   </tr>
   <tr>
-    <td align="center"> <img src="https://secure.meetupstatic.com/photos/event/2/f/4/5/600_483612101.jpeg" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/EAvjWCaXYAARmR9?format=jpg&name=medium" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/EAvjWi7XYAEDscM?format=jpg&name=medium" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/D_6_LltXoAAYlhi?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/D6tXC4EXsAAEI3N?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/D_wyQgmWsAI8dQ5?format=jpg&name=medium" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/D_m3cymXUAYOlBY?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/D7z7G5dXsAA3ulw?format=jpg&name=small" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2019/2019-07-30-4.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2019/2019-07-30-2.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2019/2019-07-30-3.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2019/2019-07-20-2.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2019/2019-07-20-1.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2019/2019-07-20-3.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2019/2019-07-16-1.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2019/2019-05-30-14.jpg" width="85" height="50" /> </td>
   </tr>
   <tr>
-    <td align="center"> <img src="https://pbs.twimg.com/media/D7z3FygX4AAYQ8U?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/D7z5G08WsAoKz53?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/D70LfWlXsAAkgK_?format=jpg&name=900x900" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/D7z4tdlW4AEd62L?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/D7z2WNcXYAAO052?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/D8CuonZWkAA-54R?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/D71WLaQXoAEoVj8?format=jpg&name=4096x4096" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/D7z3MOsWsAEUb8W?format=jpg&name=large" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2019/2019-05-30-10.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2019/2019-05-30-13.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2019/2019-05-30-1.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2019/2019-05-30-12.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2019/2019-05-30-9.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2019/2019-05-30-17.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2019/2019-05-30-2.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2019/2019-05-30-11.jpg" width="85" height="50" /> </td>
   </tr>
   <tr>
-    <td align="center"> <img src="https://pbs.twimg.com/media/D7z1nGHXoAA8j-u?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/D7zW8vyXYAEZDjy?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/D7zQ7iMXUAAvH6G?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/D7vzNQ4XoAA244X?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/D7vd-v4W4AEVhgJ?format=jpg&name=medium" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/D7uLYAiX4AAjf-4?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/D7rh6xVX4AEvSW5?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/D7qo1MYW0AASKyH?format=jpg&name=large" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2019/2019-05-30-8.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2019/2019-05-30-16.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2019/2019-05-30-15.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2019/2019-05-30-7.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2019/2019-05-30-6.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2019/2019-05-30-5.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2019/2019-05-30-4.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2019/2019-05-30-3.jpg" width="85" height="50" /> </td>
   </tr>
   <tr>
-    <td align="center"> <img src="https://pbs.twimg.com/media/D7K8ahlXoAAoURn?format=jpg&name=4096x4096" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/D7K82j0XsAAFuo6?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/D7K85UEXsAAti7S?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/D7K88EmW4AMfILa?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/D7K893SWwAAZEU8?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/D4NtqgjW0AEMx6E?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/D7LDBAiWwAI52SE?format=jpg&name=4096x4096" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/D7LDba_X4AArGwA?format=jpg&name=large" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2019/2019-05-21-7.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2019/2019-05-21-3.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2019/2019-05-21-4.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2019/2019-05-21-5.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2019/2019-05-21-6.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2019/2019-05-21-1.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2019/2019-05-21-8.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2019/2019-05-21-9.jpg" width="85" height="50" /> </td>
   </tr>
   <tr>
-    <td align="center"> <img src="https://pbs.twimg.com/media/D6mOfAzW4AAMo2U?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/D7Bp4IIWsAAEB80?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/D7Bp5S5X4AEqoei?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/D7Bp6l_WkAEHbDR?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/D7Bp7oSXoAEMNut?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/profile_banners/1028952774506160130/1555328430/1500x500" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/D8xQTxPW4AAaNzK?format=jpg&name=medium" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/D9RiE46W4AMYRBC?format=jpg&name=large" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2019/2019-05-21-2.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2019/2019-05-20-1.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2019/2019-05-20-2.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2019/2019-05-20-3.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2019/2019-05-20-4.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2019/2019-05-19-10.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2019/2019-05-19-5.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2019/2019-05-19-6.jpg" width="85" height="50" /> </td>
   </tr>
   <tr>
-    <td align="center"> <img src="https://pbs.twimg.com/media/D9RiE5DX4AIWzYr?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/D9RiE4_XkAAV70z?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/D9RiE5BXUAM4671?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/D2Pz71aWwAA6Sst?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/D66FYG6XkAELeI9?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/D62GxGzW0AAvev4?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/D62GyAtX4AA_kZg?format=jpg&name=large" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2019/2019-05-19-9.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2019/2019-05-19-7.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2019/2019-05-19-8.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2019/2019-05-19-1.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2019/2019-05-19-4.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2019/2019-05-19-2.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2019/2019-05-19-3.jpg" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/D6mWVTgWwAMC-DI?format=jpg&name=small" width="85" height="50" /> </td>
   </tr>
   <tr>
-    <td align="center"> <img src="https://pbs.twimg.com/media/D6I45wbXkAU0Nw_?format=jpg&name=4096x4096" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/D3yYoXVWsAADhud?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/D32h6FjW4AASi8c?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/D32pCCnXsAARxzr?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/D33UDzDWAAEtw7O?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/D34Yt4AW0AAYPS0?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/D38Dg2_U0AEfLM7?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/D38aZKKWkAAk96_?format=jpg&name=4096x4096" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2019/2019-05-09-1.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2019/2019-04-10-7.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2019/2019-04-10-1.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2019/2019-04-10-2.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2019/2019-04-10-3.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2019/2019-04-10-4.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2019/2019-04-10-5.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2019/2019-04-10-6.jpg" width="85" height="50" /> </td>
   </tr>
   <tr>
-    <td align="center"> <img src="https://pbs.twimg.com/media/D3uT_rMXkAErMwr?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/D3uVR5WWwAACePN?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/D3uVTElWwAI4Op4?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/D3uVUgrX4AAQgje?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/D3uVV9OXsAYwS4v?format=jpg&name=large" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2019/2019-04-09-3.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2019/2019-04-09-4.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2019/2019-04-09-5.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2019/2019-04-09-6.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2019/2019-04-09-7.jpg" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/D3ulwiuXsAE_gvG?format=jpg&name=large" width="85" height="50" /> </td>
     <td align="center"> <img src="https://pbs.twimg.com/media/D3ulwi7W0Agh6P7?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/D3uOrczXsAE5b95?format=jpg&name=large" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2019/2019-04-09-2.jpg" width="85" height="50" /> </td>
   </tr>
   <tr>
-    <td align="center"> <img src="https://pbs.twimg.com/media/D3uGn9ZWAAAU_N5?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/D2BbyKTXcAA7iLR?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/D2C3XhWW0AAlDaN?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/D2CbV3_XcAA0zyM?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/D2BbyKTXcAA7iLR?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/D1ZjCUdXgAEuZt5?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/DzYg17MXQAknG9M?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/DzYwMUOWsAAabc5?format=jpg&name=large" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2019/2019-04-09-1.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2019/2019-03-19-1.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2019/2019-03-19-2.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2019/2019-03-19-3.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2019/2019-03-19-1.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2019/2019-03-11-1.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2019/2019-02-14-1.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2019/2019-02-14-2.jpg" width="85" height="50" /> </td>
   </tr>
   <tr>
-    <td align="center"> <img src="https://pbs.twimg.com/media/DzZUlrcW0AE0s8X?format=jpg&name=large" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2019/2019-02-14-3.jpg" width="85" height="50" /> </td>
   </tr>
 </table>
 
@@ -1076,59 +1076,59 @@
 
 <table>
   <tr>
-    <td align="center"> <img src="https://pbs.twimg.com/media/DpaEiBmU8AAdW8b?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/DpaEifpU4AAuu3f?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/DpZos-OUUAUfFqH?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/DpUtgk6V4AExlPb?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/DpQrVeaU0AABXhp?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/DpQhJliU0AAZ8dm?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/DpKmO2sU0AA8uFi?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/DpKXY7-UUAAfwrr?format=jpg&name=large" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2018/2018-10-13-7.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2018/2018-10-13-8.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2018/2018-10-13-6.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2018/2018-10-13-5.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2018/2018-10-13-4.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2018/2018-10-13-3.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2018/2018-10-13-2.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2018/2018-10-13-1.jpg" width="85" height="50" /> </td>
   </tr>
   <tr>
-    <td align="center"> <img src="https://pbs.twimg.com/media/DpkRAqGU0AA3EFM?format=jpg&name=4096x4096" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/DpkRAqEUYAIM4RZ?format=jpg&name=4096x4096" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/DpQMRRDVAAANM-R?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/DpPNwakUUAAOTi6?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/Do_2qOKXUAEyOaH?format=jpg&name=medium" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/DpQZvoWUUAAq8-L?format=jpg&name=medium" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/DhwmWBRX4AIyz_j?format=jpg&name=4096x4096" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/DhwmWBZXcAIMjY3?format=jpg&name=4096x4096" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2018/2018-10-10-6.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2018/2018-10-10-5.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2018/2018-10-10-3.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2018/2018-10-10-2.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2018/2018-10-10-1.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2018/2018-10-10-4.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2018/2018-07-10-1.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2018/2018-07-10-2.jpg" width="85" height="50" /> </td>
   </tr>
   <tr>
-    <td align="center"> <img src="https://pbs.twimg.com/media/DdyptWmU8AAX_Yj?format=jpg&name=medium" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/DfK1o9DX0AMfXRl?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/DfKhMdBXkAIXRIv?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/Dd8m2SNV0AAWuMY?format=jpg&name=4096x4096" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/Dd8m83TVAAYVTSM?format=jpg&name=4096x4096" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/Dd8nPPpUwAA3thL?format=jpg&name=4096x4096" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/Dd3992JVAAAxSpQ?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/DdzBRk-VwAUGt16?format=jpg&name=4096x4096" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2018/2018-06-08-1.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2018/2018-06-08-2.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2018/2018-06-08-3.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2018/2018-05-23-2.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2018/2018-05-23-3.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2018/2018-05-23-4.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2018/2018-05-23-1.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2018/2018-05-23-6.jpg" width="85" height="50" /> </td>
   </tr>
   <tr>
-    <td align="center"> <img src="https://pbs.twimg.com/media/DdvkaseV4AAvBH5?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/Dc1JHvQWsAA9zcy?format=jpg&name=medium" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/Dc1JHvRW4AA1gQZ?format=jpg&name=medium" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/DcsWbZDWkAAcTsD?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/DcsMFOMX4AMM_vB?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/DcwlZbsWkAI0nk9?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/Dcwjo1nX0AAzkQL?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/DcwU6gMXcAAdYBR?format=jpg&name=large" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2018/2018-05-23-5.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2018/2018-05-10-1.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2018/2018-05-10-2.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2018/2018-05-10-4.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2018/2018-05-10-3.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2018/2018-05-09-4.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2018/2018-05-09-3.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2018/2018-05-09-2.jpg" width="85" height="50" /> </td>
   </tr>
   <tr>
-    <td align="center"> <img src="https://pbs.twimg.com/media/Dc1J4XyWAAASpg_?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/DbOKkJ7XkAAsdSI?format=jpg&name=medium" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/DbOMrhlX0AAxHg9?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/DbOMrhXX0AIVWEp?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/DcQDL6PXcAAWd88?format=jpg&name=medium" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/DcQDMUoWsAAoUoT?format=jpg&name=medium" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/DcQDNWiX4AAOBa6?format=jpg&name=medium" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/DbNUdcBW0AEUUoK?format=jpg&name=large" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2018/2018-05-09-1.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2018/2018-04-20-5.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2018/2018-04-20-7.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2018/2018-04-20-6.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2018/2018-04-20-8.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2018/2018-04-20-9.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2018/2018-04-20-10.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2018/2018-04-20-4.jpg" width="85" height="50" /> </td>
   </tr>
   <tr>
-    <td align="center"> <img src="https://pbs.twimg.com/media/DbIQ0hCWkAAEYwv?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/DbD55FgWAAAMfye?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/Da_Hlq1W0AE_QIm?format=jpg&name=large" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2018/2018-04-20-3.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2018/2018-04-20-2.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2018/2018-04-20-1.jpg" width="85" height="50" /> </td>
   </tr>
 </table>
 
@@ -1153,30 +1153,30 @@
 
 <table>
   <tr>
-    <td align="center"> <img src="https://pbs.twimg.com/media/DO6RAyHWsAAI-pZ?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/DOlgeLjW4AEknPX?format=jpg&name=4096x4096" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/DOlgeXwW4AA90Jn?format=jpg&name=4096x4096" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/DOWVYaQWsAAra3F?format=jpg&name=medium" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/DOSuS2KUQAA2Aqf?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/DOSuQshUQAATv3a?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/DOSuV76UEAASzI_?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/DB3aiOZVwAEFy4t?format=jpg&name=4096x4096" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2017/2017-11-22-1.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2017/2017-11-14-1.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2017/2017-11-14-2.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2017/2017-11-11-1.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2017/2017-11-10-2.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2017/2017-11-10-1.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2017/2017-11-10-3.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2017/2017-06-09-2.jpg" width="85" height="50" /> </td>
   </tr>
   <tr>
-    <td align="center"> <img src="https://pbs.twimg.com/media/DBvQN7fWAAcDL5C?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/DB3e0DRUwAUB_a5?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/DB3e0DSVYAAFMLT?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/DB3YcfmU0AAEFUX?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/DB3gqn7UAAAcGry?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/DB3mo95UAAAhdKi?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/DB3m5zqU0AARCsr?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/DB3nf87UwAEflv5?format=jpg&name=large" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2017/2017-06-09-10.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2017/2017-06-09-3.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2017/2017-06-09-4.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2017/2017-06-09-1.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2017/2017-06-09-5.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2017/2017-06-09-7.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2017/2017-06-09-6.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2017/2017-06-09-8.jpg" width="85" height="50" /> </td>
   </tr>
   <tr>
-    <td align="center"> <img src="https://pbs.twimg.com/media/DB3nf9AVwAEa8--?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/DB3aiOZVwAEFy4t?format=jpg&name=4096x4096" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/Dyvap_IXgAAL8iu?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/C7S0xCbXQAADAXq?format=jpg&name=large" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2017/2017-06-09-9.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2017/2017-06-09-2.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2017/2017-05-14-1.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2017/2017-03-20-1.jpg" width="85" height="50" /> </td>
   </tr>
 </table>
 
@@ -1202,22 +1202,22 @@
 
 <table>
   <tr>
-    <td align="center"> <img src="https://pbs.twimg.com/media/CstqM_xXEAA_IgI?format=jpg&name=4096x4096" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/CrhD01SUEAA3iXj?format=jpg&name=medium" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/CpBe5ssVIAADt9e?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/CpFkHldWAAA_cC0?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/CmNmNhLWYAAXzT2?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/CmNmRiPWgAAZOcB?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/CldWbvdUYAEWA58?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/Clfay_uXEAEdebl?format=jpg&name=large" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2016/2016-09-19-1.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2016/2016-09-04-1.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2016/2016-08-05-1.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2016/2016-08-05-2.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2016/2016-06-30-1.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2016/2016-06-30-2.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2016/2016-06-21-2.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2016/2016-06-21-4.jpg" width="85" height="50" /> </td>
   </tr>
   <tr>
-    <td align="center"> <img src="https://pbs.twimg.com/media/Clfaz1uWYAALjHq?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/Clfa1CWXIAAQlwD?format=jpg&name=large" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/Ckg2AklUYAIa5_Q?format=jpg&name=900x900" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/CbgOxYzWAAAjvgp?format=jpg&name=4096x4096" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/CbgOy-pXEAE4PVp?format=jpg&name=4096x4096" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/Cbe7q6QWEAAvhuA?format=jpg&name=large" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2016/2016-06-21-5.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2016/2016-06-21-3.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2016/2016-06-21-1.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2016/2016-02-18-2.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2016/2016-02-18-3.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2016/2016-02-18-1.jpg" width="85" height="50" /> </td>
   </tr>
 </table>
 
@@ -1241,8 +1241,8 @@
 
 <table>
   <tr>
-    <td align="center"> <img src="https://pbs.twimg.com/media/BW3WkSyCcAAmCiV?format=jpg&name=900x900" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://pbs.twimg.com/media/BXSgCiMCcAA80jv?format=jpg&name=medium" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2013/2013-10-18-1.jpg" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2013/2013-10-18-2.jpg" width="85" height="50" /> </td>
   </tr>
 </table>
 
@@ -1254,6 +1254,6 @@
 
 
 
-*page updated on 2026-10-17T16:43:33.299Z*
+*page updated on 2026-10-17T17:14:14.901Z*
 
 powered by [gigsboat/cli](https://github.com/gigsboat/cli)
