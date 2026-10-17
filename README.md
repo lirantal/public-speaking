@@ -1,4 +1,4 @@
-<div align='center'><p><img src="https://img.shields.io/badge/total-273-blue?style=flat-square" alt="Total Events"> <img src="https://img.shields.io/badge/meetups-55-violet?style=flat-square" alt="Total Meetups"> <img src="https://img.shields.io/badge/conferences-112-red?style=flat-square" alt="Total Conferences"> <img src="https://img.shields.io/badge/podcasts-44-yellow?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/webinars-41-lightgrey?style=flat-square" alt="Total Webinars"> <img src="https://img.shields.io/badge/articles-3-green?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/workshops-10-orange?style=flat-square" alt="Total Workshops"></p>
+<div align='center'><p><img src="https://img.shields.io/badge/total-273-blue?style=flat-square" alt="Total Events"> <img src="https://img.shields.io/badge/meetups-55-violet?style=flat-square" alt="Total Meetups"> <img src="https://img.shields.io/badge/conferences-120-red?style=flat-square" alt="Total Conferences"> <img src="https://img.shields.io/badge/podcasts-44-yellow?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/webinars-41-lightgrey?style=flat-square" alt="Total Webinars"> <img src="https://img.shields.io/badge/articles-3-green?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/workshops-10-orange?style=flat-square" alt="Total Workshops"></p>
 </div>
   <p align='center'><h1 align='center'>Liran Tal - Public Speaking</h1>
 <p align='center'>I love doing Open Source, Node.js, JavaScript, Web Security & InfoSec, Public Speaking, and Building CLIs.</p></p><p align='center'><a href='liran_tal'><img alt='Twitter Follow' src='https://img.shields.io/twitter/follow/liran_tal?style=social'></a> <a href='https://www.linkedin.com/in/talliran'><img alt='LinkedIn Add Me' src='https://img.shields.io/badge/-Add&nbsp;Me&nbsp;on&nbsp;LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white'></a></p><p align='center'><img src='https://github.com/lirantal/public-speaking/blob/main/static/liran-tal-header-image.png' alt='Liran Tal public speaking profile' /></p>
@@ -60,12 +60,12 @@
 | ---- | ----- | ----- | ------ | --------- | -------- | -------- |
 | 2026-10-23 | AGNTCon + MCPCon North America 2026 | [Your AI Agent Installed Malware Because a SKILL.md Told It To](pages/2026/2026-10-23.md) |  | [Recording](https://www.youtube.com/watch?v=oJGX8GYLWxg) | [🇺🇸](## "United States") | English |
 | 2026-10-15 | AI Security Summit | [Open Source at the Inflection Point: A Fireside Chat with Anthropic on AI-Powered Defense](pages/2026/2026-10-15.md) |  |  | [🇺🇸](## "United States") | English |
-| 2026-9-17 | AGNTCon + MCPCon Europe 2026 | [Giving Your Agentic Coding AI a Security Brain](pages/2026/2026-09-17.md) |  |  | [🇳🇪](## "Niger") | English |
+| 2026-9-17 | AGNTCon + MCPCon Europe 2026 | [Giving Your Agentic Coding AI a Security Brain](pages/2026/2026-09-17.md) |  |  | [🇳🇱](## "Netherlands") | English |
 | 2026-9-16 | AGNTCon Preday Meetup | [Your AI Agent Installed Malware Because a SKILL.md Told It To](pages/2026/2026-09-16_agntcon.md) |  |  | [🇳🇱](## "Netherlands") | English |
 | 2026-9-3 | Codex Demo Night - Tel Aviv | [Boxdown CLI](pages/2026/2026-09-03.md) |  |  | [🇮🇱](## "Israel") | Hebrew |
 | 2026-7-15 | Echo Meetups | [Security tradeoffs in the age of AI adoption](pages/2026/2026-07-15.md) |  |  | [🇮🇱](## "Israel") | Hebrew |
 | 2026-6-29 | Breaking the Myth(os) | [Your AI Agent Installed Malware Because a SKILL.md Told It To](pages/2026/2026-06-29.md) |  |  | [🇮🇱](## "Israel") | Hebrew |
-| 2026-6-1 | AI Native Dev 2026 | [Your AI Agent Installed Malware Because a SKILL.md Told It To](pages/2026/2026-06-01.md) |  | [Recording](https://www.youtube.com/watch?v=oJGX8GYLWxg) | [🇬🇧](## "undefined") | English |
+| 2026-6-1 | AI Native Dev 2026 | [Your AI Agent Installed Malware Because a SKILL.md Told It To](pages/2026/2026-06-01.md) |  | [Recording](https://www.youtube.com/watch?v=oJGX8GYLWxg) | [🇬🇧](## "United Kingdom") | English |
 | 2026-2-26 | The Context | [The Context: Episode 32 ft. Snyk](pages/2026/2026-02-26.md) |  | [Recording](https://www.youtube.com/watch?v=BH8Hs5ABb-8) |  | English |
 | 2026-1-19 | מדברים פתוח | [עונה 4 פרק 6 - הסכנות בפרוטוקול החדש של הבינה המלאכותית - לירן טל](pages/2026/2026-01-19.md) |  | [Recording](https://talkingopen.podbean.com/e/%D7%A2%D7%95%D7%A0%D7%944-%D7%A4%D7%A8%D7%A76%D7%9B%D7%A9%D7%A0%D7%AA%D7%A0%D7%95-%D7%9C-ai-%D7%99%D7%93%D7%99%D7%99%D7%9D-%D7%95%D7%A9) |  | English |
 
@@ -141,7 +141,7 @@
 | 2025-7-31 | TypeScript TV | [Building Secure TypeScript Applications, Liran Tal, Ep 28B](pages/2025/2025-07-31.md) |  | [Recording](https://share.transistor.fm/s/c587816d) |  | English |
 | 2025-7-11 | WeAreDevelopers World Congress 2025 | [Friend or Foe? TypeScript Security Fallacies](pages/2025/2025-07-11.md) |  |  | [🇩🇪](## "Germany") | English |
 | 2025-5-30 | OWASP Global AppSec EU 2025 | [Friend or Foe? TypeScript Security Fallacies](pages/2025/2025-05-30.md) |  |  | [🇪🇸](## "Spain") | English |
-| 2025-4-25 | CityJS London 2025 | [Hacking AI Applications](pages/2025/2025-04-25.md) |  | [Recording](https://www.youtube.com/watch?v=92gkzgLRbg0&list=PLYDCh9vbt8_KlKLaZLWlGaYuyGke1rBBT&index=2) | [🇬🇧](## "undefined") | English |
+| 2025-4-25 | CityJS London 2025 | [Hacking AI Applications](pages/2025/2025-04-25.md) |  | [Recording](https://www.youtube.com/watch?v=92gkzgLRbg0&list=PLYDCh9vbt8_KlKLaZLWlGaYuyGke1rBBT&index=2) | [🇬🇧](## "United Kingdom") | English |
 | 2025-4-14 | Codemotion Rome 2025 | [Adversarial Security Threats in the Open Source Supply Chain](pages/2025/2025-04-14.md) |  |  | [🇮🇹](## "Italy") | English |
 | 2025-3-31 | מדברים פתוח | [בעיות אבטחה ובינה מלאכתית - לירן טל](pages/2025/2025-03-17_2.md) |  | [Recording](https://talkingopen.podbean.com/e/%d7%91%d7%a2%d7%99%d7%95%d7%aa%d7%90%d7%91%d7%98%d7%97%d7%94-%d7%95%d7%91%d7%99%d7%a0%d7%94-%d7%9e%d7%9c%d7%90%d7%9b%d7%aa%d7%99%d7%aa%d7%9c%d7%99/) |  | Hebrew |
 | 2025-3-31 | JavaScript Jabber | [TypeScript Security](pages/2025/2025-03-31.md) |  | [Recording](https://topenddevs.com/podcasts/javascript-jabber/typescript-security-and-type-juggling-with-ariel-shulman-liran-tal-jsj-679) |  | English |
@@ -209,7 +209,7 @@
 | 2024-9-25 | Can Machines Dream of Secure Code? Emerging AI Security Risks in LLM-driven Developer | [WeAreDevelopers LIVE](pages/2024/2024-09-25.md) |  |  |  | English |
 | 2024-9-16 | Panel: Developer Trends and Cybersecurity Challenges in a Rapidly Changing Landscape with GenAI | [Infobip Shift](pages/2024/2024-09-16.md) |  | [Recording](https://www.youtube.com/watch?v=1xGvAICHHi4&list=PLuAItjWV4peEf3Ro3GL69lGtGFOcMKyEp&index=29) | [🇭🇷](## "Croatia") | English |
 | 2024-9-16 | Can Machines Dream of Secure Code? Let’s hack a Node.js and a React app | [Infobip Shift](pages/2024/2024-09-17.md) |  | [Recording](https://www.youtube.com/watch?v=zWZeUVwwOlY) | [🇭🇷](## "Croatia") | English |
-| 2024-9-15 | Hacking AI Applications | [DataStax Developers AI Meetup](pages/2024/2024-09-15.md) |  |  | [🇨🇷](## "Costa Rica") | English |
+| 2024-9-15 | Hacking AI Applications | [DataStax Developers AI Meetup](pages/2024/2024-09-15.md) |  |  | [🇭🇷](## "Croatia") | English |
 | 2024-9-11 | Security for Maintainers | [Eddie](pages/2024/2024-09-11.md) |  | [Recording](https://www.youtube.com/watch?v=SgwBl1IWZ5M) |  | English |
 | 2024-9-10 | AI Security and LLM Insecurity | [AI Native Dev Podcast](pages/2024/2024-09-10.md) |  | [Recording](https://tessl.io/podcast/can-ai-tools-be-trusted-with-security-critical-code-real-world-ai-security-risks-with-liran-tal) |  | English |
 | 2024-8-8 | Capture the Flag 101 | [DEFCON 32](pages/2024/2024-08-08.md) |  |  | [🇺🇸](## "United States") | English |
@@ -344,7 +344,7 @@
 | 2023-5-17 | Security and path traversal with Liran Tal | [PodRocket - A web development podcast from LogRocket](pages/2023/2023-05-17.md) |  | [Recording](https://podcasts.google.com/feed/aHR0cHM6Ly9wb2Ryb2NrZXQubG9ncm9ja2V0LmNvbS9yc3M/episode/ZmZiMmNhYmUtNDQ2YS00Njk1LTg3YTUtZmM3NWY2MmYyZWJk?sa=X&ved=0CAUQkfYCahcKEwjY96SC14v_AhUAAAAAHQAAAAAQAQ) |  | English |
 | 2023-5-9 | Codemotion | [Hack-Proof The Node.js runtime: The Mechanics and Defense of Path Traversal Attacks](pages/2023/2023-05-09.md) |  |  | [🇪🇸](## "Spain") | English |
 | 2023-5-2 | The Secure Developer Podcast | [Ep. #29, The State of Open Source & Docker Security](pages/2023/2023-05-02.md) |  | [Recording](https://www.heavybit.com/library/podcasts/the-secure-developer/ep-29-the-state-of-open-source-docker-security/) |  | English |
-| 2023-3-28 | CityJS London 2023 | [Char Wars: The Path Traversal Strikes Back](pages/2023/2023-03-28.md) |  |  | [🇬🇧](## "undefined") | English |
+| 2023-3-28 | CityJS London 2023 | [Char Wars: The Path Traversal Strikes Back](pages/2023/2023-03-28.md) |  |  | [🇬🇧](## "United Kingdom") | English |
 | 2023-3-27 | DIVX Study Group | [React and Web Security Essentials](pages/2023/2023-03-27.md) |  |  |  | English |
 | 2023-3-24 | Open Source Day 2023 | [The Unexpected Demise of Open Source Libraries](pages/2023/2023-03-24.md) |  | [Recording](https://www.youtube.com/watch?v=ijqCliQQvrY&list=PLdimn0ykJsMgr7XRkttwXuAjO1iLoCMmk) | [🇮🇹](## "Italy") | English |
 | 2023-3-18 | DevOps fwdays'23 | [Master production-grade best practices to build your Node.js Docker images](pages/2023/2023-03-18.md) |  | [Recording](https://www.youtube.com/watch?v=2i3wRkLeJdo) |  | English |
@@ -358,7 +358,7 @@
 # 2022
 
 
-![Total Events](https://img.shields.io/badge/total-47-blue?style=flat-square) ![Total Meetups](https://img.shields.io/badge/meetups-11-violet?style=flat-square) ![Total Conferences](https://img.shields.io/badge/conferences-15-red?style=flat-square) ![Total Podcasts](https://img.shields.io/badge/podcasts-8-yellow?style=flat-square) ![Total Webinars](https://img.shields.io/badge/webinars-8-lightgrey?style=flat-square)  ![Total Workshops](https://img.shields.io/badge/workshops-4-orange?style=flat-square)
+![Total Events](https://img.shields.io/badge/total-47-blue?style=flat-square) ![Total Meetups](https://img.shields.io/badge/meetups-11-violet?style=flat-square) ![Total Conferences](https://img.shields.io/badge/conferences-16-red?style=flat-square) ![Total Podcasts](https://img.shields.io/badge/podcasts-8-yellow?style=flat-square) ![Total Webinars](https://img.shields.io/badge/webinars-8-lightgrey?style=flat-square)  ![Total Workshops](https://img.shields.io/badge/workshops-4-orange?style=flat-square)
 
 
 <table>
@@ -572,8 +572,8 @@
 | ---- | ----- | ----- | ------ | --------- | -------- | -------- |
 | 2022-12-13 | The Secure Developer Podcast | [Malicious Packages And Malicious Intent With Liran Tal](pages/2022/2022-12-13.md) |  | [Recording](https://snyk.io/podcasts/the-secure-developer/malicious-packages-and-malicious-intent-with-liran-tal/) |  | English |
 | 2022-11-27 | GitHub User Group | [Why You Should Care About Open Source Security](pages/2022/2022-11-27.md) |  |  | [🇮🇱](## "Israel") | Hebrew |
-| 2022-11-18 | Modern Frontends Live | [Let me show you how React applications get hacked in the real world](pages/2022/2022-11-18.md) |  |  | [🇬🇧](## "undefined") | English |
-| 2022-11-16 | Modern Frontends Live | [Stranger Danger: Your Node.js Attack Surface Just Got Bigger](pages/2022/2022-11-16.md) |  |  | [🇬🇧](## "undefined") | English |
+| 2022-11-18 | Modern Frontends Live | [Let me show you how React applications get hacked in the real world](pages/2022/2022-11-18.md) |  |  | [🇬🇧](## "United Kingdom") | English |
+| 2022-11-16 | Modern Frontends Live | [Stranger Danger: Your Node.js Attack Surface Just Got Bigger](pages/2022/2022-11-16.md) |  |  | [🇬🇧](## "United Kingdom") | English |
 | 2022-11-14 | TechRadarCon | [Let me show you how React applications get hacked in the real-world](pages/2022/2022-11-14.md) |  | [Recording](https://www.youtube.com/watch?v=M_zYIZVEHR0) | [🇮🇱](## "Israel") | Hebrew |
 | 2022-10-7 | Nordic.js | [Let me show you how React applications get hacked in the real world](pages/2022/2022-10-07.md) |  | [Recording](https://www.youtube.com/watch?v=xR9wjk0Fdb4) | [🇸🇪](## "Sweden") | English |
 | 2022-10-5 | NodeConf EU | [Char Wars: The Path Traversal Strikes Back](pages/2022/2022-10-05.md) |  | [Recording](https://youtu.be/R2RMGQhWyCk?t=2037) | [🇮🇪](## "Ireland") | English |
@@ -583,7 +583,7 @@
 | 2022-9-15 | Open Source Summit Europe | [The Unexpected Demise of Open Source Libraries](pages/2022/2022-09-15.md) |  | [Recording](https://www.youtube.com/watch?v=pRr7fYJJLEI&list=PLbzoR-pLrL6ol1cYgxLWsNKjjxI0rlUqa&index=6) | [🇮🇪](## "Ireland") | English |
 | 2022-9-13 | OpenSSF Day | [OpenSSF and Developer Security Essentials](pages/2022/2022-09-13.md) |  | [Recording](https://www.youtube.com/watch?v=8Xn1pvRMAsQ) | [🇮🇪](## "Ireland") | English |
 | 2022-8-16 | 20minJS Podcast | [Episode 24 - Security in the JavaScript ecosystem with Liran Tal](pages/2022/2022-07-27.md) |  | [Recording](https://podcast.20minjs.com/1952066/11146790-episode-24-security-in-the-javascript-ecosystem-with-liran-tal) |  | English |
-| 2022-7-26 | Node.js Israel meetup | [Security Controls in the JavaScript Supply Chain](pages/2022/2022-07-26.md) |  | [Recording](https://www.youtube.com/watch?v=LGT2DXsYLRs) |  | Hebrew |
+| 2022-7-26 | Node.js Israel meetup | [Security Controls in the JavaScript Supply Chain](pages/2022/2022-07-26.md) |  | [Recording](https://www.youtube.com/watch?v=LGT2DXsYLRs) | [🇮🇱](## "Israel") | Hebrew |
 | 2022-6-30 | Hack in Paris 2022 | [Why React applications get hacked in the real-world](pages/2022/2022-06-30.md) |  | [Recording](https://www.youtube.com/watch?v=eQjbbMXFgbQ) | [🇫🇷](## "France") | English |
 | 2022-6-27 | GitBurger Track: GitHub and Open-Source & Co-Pilot | [GitBurger Track: GitHub and Open-Source & startup story](pages/2022/2022-06-27.md) |  |  | [🇮🇱](## "Israel") | Hebrew |
 | 2022-6-24 | OpenJS Foundation | [Keynote Session: Awards Recognition](pages/2022/2022-06-24.md) |  | [Recording](https://www.youtube.com/watch?v=p26FiZCUKc4) |  | English |
@@ -608,7 +608,7 @@
 | 2022-3-28 | WixEngineering | [Twitter Spaces: Career navigation done right](pages/2022/2022-03-28.md) |  |  |  | English |
 | 2022-3-27 | Weekly Sync | [Twitter Spaces: Weekly Sync](pages/2022/2022-03-27.md) |  |  |  | Hebrew |
 | 2022-3-25 | Voxxed Days Bucharesst | [Let me show you how React applications get hacked in the real-world ](pages/2022/2022-03-25.md) |  |  |  | English |
-| 2022-3-21 | React Israel meetup | [How React Applications Get Hacked in the Real-World](pages/2022/2022-03-21.md) |  |  |  | Hebrew |
+| 2022-3-21 | React Israel meetup | [How React Applications Get Hacked in the Real-World](pages/2022/2022-03-21.md) |  |  | [🇮🇱](## "Israel") | Hebrew |
 | 2022-3-15 | Developer Advocast | [User Zero & Product Feedback Loops](pages/2022/2022-03-15.md) |  | [Recording](https://www.youtube.com/watch?v=LdggfJifBC8&t=1s&ab_channel=DeveloperAdvocast) |  | English |
 | 2022-2-25 | Hacking & Patching Node.js Security Vulnerabilities | [The Big Fix](pages/2022/2022-02-25.md) |  | [Recording](https://www.youtube.com/watch?v=BeLMMnU3KV8) |  | English |
 | 2022-2-16 | This Is Learning | [Node.js Security with Liran Tal](pages/2022/2022-02-16.md) |  | [Recording](https://www.youtube.com/watch?v=x6KMk2q9ZIs&ab_channel=ThisisTechTalks) |  | English |
@@ -622,7 +622,7 @@
 # 2021
 
 
-![Total Events](https://img.shields.io/badge/total-60-blue?style=flat-square) ![Total Meetups](https://img.shields.io/badge/meetups-6-violet?style=flat-square) ![Total Conferences](https://img.shields.io/badge/conferences-24-red?style=flat-square) ![Total Podcasts](https://img.shields.io/badge/podcasts-8-yellow?style=flat-square) ![Total Webinars](https://img.shields.io/badge/webinars-13-lightgrey?style=flat-square) ![Total Podcasts](https://img.shields.io/badge/articles-2-green?style=flat-square) 
+![Total Events](https://img.shields.io/badge/total-60-blue?style=flat-square) ![Total Meetups](https://img.shields.io/badge/meetups-6-violet?style=flat-square) ![Total Conferences](https://img.shields.io/badge/conferences-31-red?style=flat-square) ![Total Podcasts](https://img.shields.io/badge/podcasts-8-yellow?style=flat-square) ![Total Webinars](https://img.shields.io/badge/webinars-13-lightgrey?style=flat-square) ![Total Podcasts](https://img.shields.io/badge/articles-2-green?style=flat-square) 
 
 
 <table>
@@ -748,7 +748,7 @@
 | 2021-11-18 | DevSecCon Lightning | [ARE WE FOREVER DOOMED BY SOFTWARE SUPPLY CHAIN RISKS?](pages/2021/2021-11-18-1.md) |  | [Recording](https://www.youtube.com/watch?v=86lmXA2siOY&list=PLKWDDWZ_ETtAbYZHD6-4D5pRVihW8COIT&index=14&ab_channel=DevSecCon-) |  | English |
 | 2021-11-18 | TestJS Summit | [Are we Forever Doomed to Software Supply Chain Security?](pages/2021/2021-11-18.md) |  |  |  | English |
 | 2021-11-15 | NodeTLV | [Mastering Production-grade Best Practices to Build your Node.js Docker Images](pages/2021/2021-11-15.md) |  | [Recording](https://www.youtube.com/watch?v=VSEx8gV51lY&ab_channel=NodeTLV) | [🇮🇱](## "Israel") | English |
-| 2021-10-25 | React Advanced | [Let me show you how React applications get hacked in the real-world](pages/2021/2021-10-25.md) |  | [Recording](https://portal.gitnation.org/contents/let-me-show-you-how-react-applications-get-hacked-in-the-real-world) | [🇬🇧](## "undefined") | English |
+| 2021-10-25 | React Advanced | [Let me show you how React applications get hacked in the real-world](pages/2021/2021-10-25.md) |  | [Recording](https://portal.gitnation.org/contents/let-me-show-you-how-react-applications-get-hacked-in-the-real-world) | [🇬🇧](## "United Kingdom") | English |
 | 2021-10-18 | NodeConf Remote | [How React Applications Get Hacked in the Real-World](pages/2021/2021-10-18.md) |  | [Recording](https://www.youtube.com/watch?v=3WmkGSiiu2E) |  | English |
 | 2021-10-7 | SnykCon 2021 | [Hacking your infra from the outside by exploiting npm Dependency Confusion attacks](pages/2021/2021-10-07.md) |  | [Recording](https://snyk.io/video/hacking-infra-from-outside-exploiting-npm-dependency-confusion-attacks/) |  | English |
 | 2021-10-4 | Developing Communities: The DevRel Podcast | [Episode 7: Contributing to open-source communities and building developer in DevRel with Liran Tal](pages/2021/2021-10-04.md) |  | [Recording](https://anchor.fm/developingcommunities/episodes/Episode-7-Contributing-to-open-source-communities-and-building-developer-in-DevRel-with-Liran-Tal-e189ids) |  | English |
@@ -1255,6 +1255,6 @@
 
 
 
-*page updated on 2026-10-17T14:51:53.714Z*
+*page updated on 2026-10-17T15:14:25.942Z*
 
 powered by [gigsboat/cli](https://github.com/gigsboat/cli)
