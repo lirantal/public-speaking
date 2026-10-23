@@ -7,7 +7,7 @@
       "url": "https://events.linuxfoundation.org/agntcon-mcpcon-north-america/",
       "type": "conference",
       "title": "Your AI Agent Installed Malware Because a SKILL.md Told It To",
-      "slides_url": null,
+      "slides_url": "https://lirantal.github.io/slides-toxicskills-agent-skills-malware/",
       "recording_url": null,
       "city": "San Jose, California",
       "country": "United States",
@@ -7720,5 +7720,5 @@
     "total_workshop": 10,
     "total_other": 0
   },
-  "generatedAt": "2026-10-18T03:30:08.219Z"
+  "generatedAt": "2026-10-23T23:23:32.549Z"
 }

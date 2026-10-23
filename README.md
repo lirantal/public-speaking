@@ -58,7 +58,7 @@
 
 | Date | Event | Title | Slides | Recording | Location | Language |
 | ---- | ----- | ----- | ------ | --------- | -------- | -------- |
-| 2026-10-23 | AGNTCon + MCPCon North America 2026 | [Your AI Agent Installed Malware Because a SKILL.md Told It To](pages/2026/2026-10-23.md) |  |  | [🇺🇸](## "United States") | English |
+| 2026-10-23 | AGNTCon + MCPCon North America 2026 | [Your AI Agent Installed Malware Because a SKILL.md Told It To](pages/2026/2026-10-23.md) | [Slides](https://lirantal.github.io/slides-toxicskills-agent-skills-malware/) |  | [🇺🇸](## "United States") | English |
 | 2026-10-15 | AI Security Summit | [Open Source at the Inflection Point: A Fireside Chat with Anthropic on AI-Powered Defense](pages/2026/2026-10-15.md) |  |  | [🇺🇸](## "United States") | English |
 | 2026-9-17 | AGNTCon + MCPCon Europe 2026 | [Giving Your Agentic Coding AI a Security Brain](pages/2026/2026-09-17.md) |  |  | [🇳🇱](## "Netherlands") | English |
 | 2026-9-16 | AGNTCon Preday Meetup | [Your AI Agent Installed Malware Because a SKILL.md Told It To](pages/2026/2026-09-16_agntcon.md) |  |  | [🇳🇱](## "Netherlands") | English |
@@ -1242,6 +1242,6 @@
 
 
 
-*page updated on 2026-10-18T03:30:08.231Z*
+*page updated on 2026-10-23T23:23:32.558Z*
 
 powered by [gigsboat/cli](https://github.com/gigsboat/cli)
