@@ -1904,6 +1904,22 @@
       ]
     },
     {
+      "date": "2023-07-02T00:00:00.000Z",
+      "tags": "post",
+      "name": "מפתחים מחוץ לקופסה",
+      "url": "https://outside-the-box.dev/",
+      "type": "podcast",
+      "title": "האם אי איי הוזה, ואיך להתמודד עם זה? עם לירן טל",
+      "slides_url": null,
+      "recording_url": "https://www.youtube.com/watch?v=o-Y4KtwHT4M",
+      "city": null,
+      "country": null,
+      "country_code": null,
+      "language": "Hebrew",
+      "recognitions": null,
+      "images": null
+    },
+    {
       "date": "2023-06-28T00:00:00.000Z",
       "tags": "post",
       "name": "NodeTLV",
@@ -7711,8 +7727,8 @@
     }
   ],
   "stats": {
-    "total": 272,
-    "total_podcast": 44,
+    "total": 273,
+    "total_podcast": 45,
     "total_conference": 119,
     "total_webinar": 41,
     "total_meetup": 55,
@@ -7720,5 +7736,5 @@
     "total_workshop": 10,
     "total_other": 0
   },
-  "generatedAt": "2026-11-01T04:52:43.638Z"
+  "generatedAt": "2026-11-01T19:16:40.627Z"
 }
