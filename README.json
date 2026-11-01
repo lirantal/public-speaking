@@ -2239,38 +2239,6 @@
       ]
     },
     {
-      "date": "2023-05-02T00:00:00.000Z",
-      "tags": "post",
-      "name": "The Secure Developer Podcast",
-      "url": "https://www.thesecuredeveloper.com/",
-      "type": "podcast",
-      "title": "Ep. #29, The State of Open Source & Docker Security",
-      "slides_url": null,
-      "recording_url": "https://www.heavybit.com/library/podcasts/the-secure-developer/ep-29-the-state-of-open-source-docker-security/",
-      "youtube_urls": [
-        "https://www.youtube.com/watch?v=hcPd6ESlFCM"
-      ],
-      "city": null,
-      "country": null,
-      "country_code": null,
-      "language": "English",
-      "recognitions": {
-        "twitter": [
-          null
-        ],
-        "linkedin": [
-          null,
-          null,
-          null
-        ]
-      },
-      "images": [
-        null,
-        null,
-        null
-      ]
-    },
-    {
       "date": "2023-03-28T00:00:00.000Z",
       "tags": "post",
       "name": "CityJS London 2023",
@@ -6843,6 +6811,39 @@
       ]
     },
     {
+      "date": "2019-05-02T00:00:00.000Z",
+      "tags": "post",
+      "name": "The Secure Developer Podcast",
+      "url": "https://www.thesecuredeveloper.com/",
+      "type": "podcast",
+      "title": "Ep. #29, The State Of Open Source And Docker Security With Liran Tal",
+      "slides_url": null,
+      "recording_url": "https://metacast.app/podcast/the-secure-developer/Pcz1HOeI/the-state-of-open-source-and-docker-security-with-liran-tal/73gr1MNx",
+      "alternate_recording_url": "https://www.heavybit.com/library/podcasts/the-secure-developer/ep-29-the-state-of-open-source-docker-security/",
+      "youtube_urls": [
+        "https://www.youtube.com/watch?v=hcPd6ESlFCM"
+      ],
+      "city": null,
+      "country": null,
+      "country_code": null,
+      "language": "English",
+      "recognitions": {
+        "twitter": [
+          null
+        ],
+        "linkedin": [
+          null,
+          null,
+          null
+        ]
+      },
+      "images": [
+        null,
+        null,
+        null
+      ]
+    },
+    {
       "date": "2019-04-10T00:00:00.000Z",
       "tags": "post",
       "name": "JSHeroes",
@@ -7736,5 +7737,5 @@
     "total_workshop": 10,
     "total_other": 0
   },
-  "generatedAt": "2026-11-01T19:19:15.012Z"
+  "generatedAt": "2026-11-01T19:39:29.192Z"
 }

@@ -16,11 +16,11 @@
  - [Year of 2026](#2026) - total events 10
  - [Year of 2025](#2025) - total events 22
  - [Year of 2024](#2024) - total events 24
- - [Year of 2023](#2023) - total events 32
+ - [Year of 2023](#2023) - total events 31
  - [Year of 2022](#2022) - total events 47
  - [Year of 2021](#2021) - total events 60
  - [Year of 2020](#2020) - total events 19
- - [Year of 2019](#2019) - total events 34
+ - [Year of 2019](#2019) - total events 35
  - [Year of 2018](#2018) - total events 8
  - [Year of 2017](#2017) - total events 9
  - [Year of 2016](#2016) - total events 7
@@ -228,7 +228,7 @@
 # 2023
 
 
-![Total Events](https://img.shields.io/badge/total-32-blue?style=flat-square) ![Total Meetups](https://img.shields.io/badge/meetups-8-violet?style=flat-square) ![Total Conferences](https://img.shields.io/badge/conferences-10-red?style=flat-square) ![Total Podcasts](https://img.shields.io/badge/podcasts-7-yellow?style=flat-square) ![Total Webinars](https://img.shields.io/badge/webinars-5-lightgrey?style=flat-square)  ![Total Workshops](https://img.shields.io/badge/workshops-2-orange?style=flat-square)
+![Total Events](https://img.shields.io/badge/total-31-blue?style=flat-square) ![Total Meetups](https://img.shields.io/badge/meetups-8-violet?style=flat-square) ![Total Conferences](https://img.shields.io/badge/conferences-10-red?style=flat-square) ![Total Podcasts](https://img.shields.io/badge/podcasts-6-yellow?style=flat-square) ![Total Webinars](https://img.shields.io/badge/webinars-5-lightgrey?style=flat-square)  ![Total Workshops](https://img.shields.io/badge/workshops-2-orange?style=flat-square)
 
 
 <table>
@@ -344,7 +344,6 @@
 | 2023-5-19 | JSHeroes | [Char Wars: The Path Traversal Strikes Back](pages/2023/2023-05-19.md) |  | [Recording](https://www.youtube.com/watch?v=P1goT5BSFWM&list=PLB9NqTp0uKrR8g9ImDK2HPcpuC7oW8wYe&index=17) | [🇷🇴](## "Romania") | English |
 | 2023-5-17 | PodRocket - A web development podcast from LogRocket | [Security and path traversal with Liran Tal](pages/2023/2023-05-17.md) |  | [Recording](https://podcasts.google.com/feed/aHR0cHM6Ly9wb2Ryb2NrZXQubG9ncm9ja2V0LmNvbS9yc3M/episode/ZmZiMmNhYmUtNDQ2YS00Njk1LTg3YTUtZmM3NWY2MmYyZWJk?sa=X&ved=0CAUQkfYCahcKEwjY96SC14v_AhUAAAAAHQAAAAAQAQ) |  | English |
 | 2023-5-9 | Codemotion | [Hack-Proof The Node.js runtime: The Mechanics and Defense of Path Traversal Attacks](pages/2023/2023-05-09.md) |  |  | [🇪🇸](## "Spain") | English |
-| 2023-5-2 | The Secure Developer Podcast | [Ep. #29, The State of Open Source & Docker Security](pages/2023/2023-05-02.md) |  | [Recording](https://www.heavybit.com/library/podcasts/the-secure-developer/ep-29-the-state-of-open-source-docker-security/) |  | English |
 | 2023-3-28 | CityJS London 2023 | [Char Wars: The Path Traversal Strikes Back](pages/2023/2023-03-28.md) |  |  | [🇬🇧](## "United Kingdom") | English |
 | 2023-3-27 | DIVX Study Group | [React and Web Security Essentials](pages/2023/2023-03-27.md) |  |  |  | English |
 | 2023-3-24 | Open Source Day 2023 | [The Unexpected Demise of Open Source Libraries](pages/2023/2023-03-24.md) |  | [Recording](https://www.youtube.com/watch?v=ijqCliQQvrY&list=PLdimn0ykJsMgr7XRkttwXuAjO1iLoCMmk) | [🇮🇹](## "Italy") | English |
@@ -862,7 +861,7 @@
 # 2019
 
 
-![Total Events](https://img.shields.io/badge/total-34-blue?style=flat-square) ![Total Meetups](https://img.shields.io/badge/meetups-8-violet?style=flat-square) ![Total Conferences](https://img.shields.io/badge/conferences-16-red?style=flat-square) ![Total Podcasts](https://img.shields.io/badge/podcasts-1-yellow?style=flat-square) ![Total Webinars](https://img.shields.io/badge/webinars-7-lightgrey?style=flat-square)  ![Total Workshops](https://img.shields.io/badge/workshops-2-orange?style=flat-square)
+![Total Events](https://img.shields.io/badge/total-35-blue?style=flat-square) ![Total Meetups](https://img.shields.io/badge/meetups-8-violet?style=flat-square) ![Total Conferences](https://img.shields.io/badge/conferences-16-red?style=flat-square) ![Total Podcasts](https://img.shields.io/badge/podcasts-2-yellow?style=flat-square) ![Total Webinars](https://img.shields.io/badge/webinars-7-lightgrey?style=flat-square)  ![Total Workshops](https://img.shields.io/badge/workshops-2-orange?style=flat-square)
 
 
 <table>
@@ -1048,6 +1047,7 @@
 | 2019-5-19 | NodeUkraine - Ukrainian Node.js Conference | [Black Clouds and Silver Linings in Node.js Security](pages/2019/2019-05-19.md) |  | [Recording](https://www.youtube.com/watch?v=XJtslRNIPP8) | [🇺🇦](## "Ukraine") | English |
 | 2019-5-15 | DevDays Europe | [Stranger Danger: Finding Security Vulnerabilities Before They Find You!](pages/2019/2019-05-15.md) |  | [Recording](https://www.youtube.com/watch?v=vUkn-304xnU&list=PLqYhGsQ9iSEqp4vWUhgzQVgWlBaDTrhlf&index=46&t=9s&ab_channel=DATAMINER) | [🇱🇹](## "Lithuania") | English |
 | 2019-5-9 | The Secure Developer | [The Three Faces of DevSecOps](pages/2019/2019-05-09.md) |  |  |  | English |
+| 2019-5-2 | The Secure Developer Podcast | [Ep. #29, The State Of Open Source And Docker Security With Liran Tal](pages/2019/2019-05-02.md) |  | [Recording](https://metacast.app/podcast/the-secure-developer/Pcz1HOeI/the-state-of-open-source-and-docker-security-with-liran-tal/73gr1MNx) |  | English |
 | 2019-4-10 | JSHeroes | [Web Security Workshop for Frontend Engineers](pages/2019/2019-04-10.md) |  |  | [🇷🇴](## "Romania") | English |
 | 2019-4-9 | JSHeroes Meetup | [Let's talk about Open Source Security](pages/2019/2019-04-09.md) |  |  | [🇷🇴](## "Romania") | English |
 | 2019-3-19 | Voxxed Days Zurich | [Black Clouds and Silver Linings in Node.js Security](pages/2019/2019-03-19.md) |  | [Recording](https://www.youtube.com/watch?v=20ymbb8Y19Q&list=PLRsbF2sD7JVrRCnhTo8DoN_9JAMpZThtW) | [🇨🇭](## "Switzerland") | English |
@@ -1243,6 +1243,6 @@
 
 
 
-*page updated on 2026-11-01T19:19:15.020Z*
+*page updated on 2026-11-01T19:39:29.205Z*
 
 powered by [gigsboat/cli](https://github.com/gigsboat/cli)
