@@ -412,7 +412,7 @@
       "name": "AI Native DevCon",
       "url": "https://ainativedev.io/events",
       "type": "conference",
-      "title": "Weaponizing LLMs to Hack JavaScript AI Applications",
+      "title": "These Aren't the Tools You're Looking For: MCP Security Awakens",
       "slides_url": null,
       "recording_url": "https://www.youtube.com/watch?v=McB4Sth3_Ss&list=PLISstAySqk7JtFY2enw8Qp3GvU9mkpHam&index=18",
       "city": "New York",
@@ -657,6 +657,25 @@
         "https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2025/2025-07-11-3.jpg",
         "https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2025/2025-07-11-2.jpg"
       ]
+    },
+    {
+      "date": "2025-07-09T00:00:00.000Z",
+      "tags": "post",
+      "name": "WeAreDevelopers World Congress 2025",
+      "url": "https://www.wearedevelopers.com/world-congress/",
+      "type": "conference",
+      "title": "0Day at Day Zero Security Quiz",
+      "slides_url": null,
+      "recording_url": null,
+      "city": "Berlin",
+      "country": "Germany",
+      "country_code": "DE",
+      "language": "English",
+      "recognitions": {
+        "linkedin": [
+          "https://www.linkedin.com/posts/christianheilmann_the-wearedevelopers-world-congress-is-this-activity-7348245154920624129-eoyF"
+        ]
+      }
     },
     {
       "date": "2025-05-30T00:00:00.000Z",
@@ -7728,14 +7747,14 @@
     }
   ],
   "stats": {
-    "total": 273,
+    "total": 274,
     "total_podcast": 45,
-    "total_conference": 119,
+    "total_conference": 120,
     "total_webinar": 41,
     "total_meetup": 55,
     "total_article": 3,
     "total_workshop": 10,
     "total_other": 0
   },
-  "generatedAt": "2026-11-01T20:08:24.604Z"
+  "generatedAt": "2026-11-03T17:07:35.534Z"
 }

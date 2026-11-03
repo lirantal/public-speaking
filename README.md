@@ -1,4 +1,4 @@
-<div align='center'><p><img src="https://img.shields.io/badge/total-273-blue?style=flat-square" alt="Total Events"> <img src="https://img.shields.io/badge/meetups-55-violet?style=flat-square" alt="Total Meetups"> <img src="https://img.shields.io/badge/conferences-119-red?style=flat-square" alt="Total Conferences"> <img src="https://img.shields.io/badge/podcasts-45-yellow?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/webinars-41-lightgrey?style=flat-square" alt="Total Webinars"> <img src="https://img.shields.io/badge/articles-3-green?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/workshops-10-orange?style=flat-square" alt="Total Workshops"></p>
+<div align='center'><p><img src="https://img.shields.io/badge/total-274-blue?style=flat-square" alt="Total Events"> <img src="https://img.shields.io/badge/meetups-55-violet?style=flat-square" alt="Total Meetups"> <img src="https://img.shields.io/badge/conferences-120-red?style=flat-square" alt="Total Conferences"> <img src="https://img.shields.io/badge/podcasts-45-yellow?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/webinars-41-lightgrey?style=flat-square" alt="Total Webinars"> <img src="https://img.shields.io/badge/articles-3-green?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/workshops-10-orange?style=flat-square" alt="Total Workshops"></p>
 </div>
   <p align='center'><h1 align='center'>Liran Tal - Public Speaking</h1>
 <p align='center'>I love doing Open Source, Node.js, JavaScript, Web Security & InfoSec, Public Speaking, and Building CLIs.</p></p><p align='center'><a href='liran_tal'><img alt='Twitter Follow' src='https://img.shields.io/twitter/follow/liran_tal?style=social'></a> <a href='https://www.linkedin.com/in/talliran'><img alt='LinkedIn Add Me' src='https://img.shields.io/badge/-Add&nbsp;Me&nbsp;on&nbsp;LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white'></a></p><p align='center'><img src='https://github.com/lirantal/public-speaking/blob/main/static/liran-tal-header-image.png' alt='Liran Tal public speaking profile' /></p>
@@ -14,7 +14,7 @@
 
 
  - [Year of 2026](#2026) - total events 10
- - [Year of 2025](#2025) - total events 22
+ - [Year of 2025](#2025) - total events 23
  - [Year of 2024](#2024) - total events 24
  - [Year of 2023](#2023) - total events 31
  - [Year of 2022](#2022) - total events 47
@@ -73,7 +73,7 @@
 # 2025
 
 
-![Total Events](https://img.shields.io/badge/total-22-blue?style=flat-square) ![Total Meetups](https://img.shields.io/badge/meetups-4-violet?style=flat-square) ![Total Conferences](https://img.shields.io/badge/conferences-10-red?style=flat-square) ![Total Podcasts](https://img.shields.io/badge/podcasts-6-yellow?style=flat-square) ![Total Webinars](https://img.shields.io/badge/webinars-2-lightgrey?style=flat-square)  
+![Total Events](https://img.shields.io/badge/total-23-blue?style=flat-square) ![Total Meetups](https://img.shields.io/badge/meetups-4-violet?style=flat-square) ![Total Conferences](https://img.shields.io/badge/conferences-11-red?style=flat-square) ![Total Podcasts](https://img.shields.io/badge/podcasts-6-yellow?style=flat-square) ![Total Webinars](https://img.shields.io/badge/webinars-2-lightgrey?style=flat-square)  
 
 
 <table>
@@ -132,7 +132,7 @@
 | 2025-12-17 | AI DEV TLV | [Weaponizing LLMs to Hack AI Applications](pages/2025/2025-12-17.md) |  |  | [🇮🇱](## "Israel") | English |
 | 2025-12-16 | NodeTLV | [Weaponizing LLMs to Hack Your Node.js Apps](pages/2025/2025-12-16.md) |  |  | [🇮🇱](## "Israel") | English |
 | 2025-12-13 | Señors @ Scale | [Security at Scale with Liran Tal](pages/2025/2025-12-13.md) |  | [Recording](https://www.youtube.com/watch?v=tks03l1E0IQ) |  | English |
-| 2025-11-18 | AI Native DevCon | [Weaponizing LLMs to Hack JavaScript AI Applications](pages/2025/2025-11-18.md) |  | [Recording](https://www.youtube.com/watch?v=McB4Sth3_Ss&list=PLISstAySqk7JtFY2enw8Qp3GvU9mkpHam&index=18) | [🇺🇸](## "United States") | English |
+| 2025-11-18 | AI Native DevCon | [These Aren't the Tools You're Looking For: MCP Security Awakens](pages/2025/2025-11-18.md) |  | [Recording](https://www.youtube.com/watch?v=McB4Sth3_Ss&list=PLISstAySqk7JtFY2enw8Qp3GvU9mkpHam&index=18) | [🇺🇸](## "United States") | English |
 | 2025-11-17 | JSNation US 2025 | [Weaponizing LLMs to Hack JavaScript AI Applications](pages/2025/2025-11-17.md) |  | [Recording](https://gitnation.com/contents/weaponizing-llms-to-hack-javascript-ai-applications) | [🇺🇸](## "United States") | English |
 | 2025-11-13 | Qodo + Snyk Meetup | [Weaponizing LLMs to Hack JavaScript AI Applications](pages/2025/2025-11-13.md) |  |  | [🇺🇸](## "United States") | English |
 | 2025-9-25 | Scalekit Podcast | [LLMs and insecure code: The security gaps in AI-generated code](pages/2025/2025-09-25.md) |  | [Recording](https://www.youtube.com/watch?v=UteWLfVoWqw) |  | English |
@@ -140,6 +140,7 @@
 | 2025-9-15 | Cursor User Group | [Your Lack of Agent Security is Disturbing](pages/2025/2025-09-15.md) |  |  | [🇮🇱](## "Israel") | Hebrew |
 | 2025-7-31 | TypeScript TV | [Building Secure TypeScript Applications, Liran Tal, Ep 28B](pages/2025/2025-07-31.md) |  | [Recording](https://share.transistor.fm/s/c587816d) |  | English |
 | 2025-7-11 | WeAreDevelopers World Congress 2025 | [Friend or Foe? TypeScript Security Fallacies](pages/2025/2025-07-11.md) |  |  | [🇩🇪](## "Germany") | English |
+| 2025-7-9 | WeAreDevelopers World Congress 2025 | [0Day at Day Zero Security Quiz](pages/2025/2025-07-09.md) |  |  | [🇩🇪](## "Germany") | English |
 | 2025-5-30 | OWASP Global AppSec EU 2025 | [Friend or Foe? TypeScript Security Fallacies](pages/2025/2025-05-30.md) |  |  | [🇪🇸](## "Spain") | English |
 | 2025-4-25 | CityJS London 2025 | [Hacking AI Applications](pages/2025/2025-04-25.md) |  | [Recording](https://www.youtube.com/watch?v=92gkzgLRbg0&list=PLYDCh9vbt8_KlKLaZLWlGaYuyGke1rBBT&index=2) | [🇬🇧](## "United Kingdom") | English |
 | 2025-4-14 | Codemotion Rome 2025 | [Adversarial Security Threats in the Open Source Supply Chain](pages/2025/2025-04-14.md) |  |  | [🇮🇹](## "Italy") | English |
@@ -1243,6 +1244,6 @@
 
 
 
-*page updated on 2026-11-01T20:08:24.612Z*
+*page updated on 2026-11-03T17:07:35.544Z*
 
 powered by [gigsboat/cli](https://github.com/gigsboat/cli)
