@@ -1,4 +1,4 @@
-<div align='center'><p><img src="https://img.shields.io/badge/total-273-blue?style=flat-square" alt="Total Events"> <img src="https://img.shields.io/badge/meetups-55-violet?style=flat-square" alt="Total Meetups"> <img src="https://img.shields.io/badge/conferences-119-red?style=flat-square" alt="Total Conferences"> <img src="https://img.shields.io/badge/podcasts-45-yellow?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/webinars-41-lightgrey?style=flat-square" alt="Total Webinars"> <img src="https://img.shields.io/badge/articles-3-green?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/workshops-10-orange?style=flat-square" alt="Total Workshops"></p>
+<div align='center'><p><img src="https://img.shields.io/badge/total-273-blue?style=flat-square" alt="Total Events"> <img src="https://img.shields.io/badge/meetups-54-violet?style=flat-square" alt="Total Meetups"> <img src="https://img.shields.io/badge/conferences-120-red?style=flat-square" alt="Total Conferences"> <img src="https://img.shields.io/badge/podcasts-45-yellow?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/webinars-41-lightgrey?style=flat-square" alt="Total Webinars"> <img src="https://img.shields.io/badge/articles-3-green?style=flat-square" alt="Total Podcasts"> <img src="https://img.shields.io/badge/workshops-10-orange?style=flat-square" alt="Total Workshops"></p>
 </div>
   <p align='center'><h1 align='center'>Liran Tal - Public Speaking</h1>
 <p align='center'>I love doing Open Source, Node.js, JavaScript, Web Security & InfoSec, Public Speaking, and Building CLIs.</p></p><p align='center'><a href='liran_tal'><img alt='Twitter Follow' src='https://img.shields.io/twitter/follow/liran_tal?style=social'></a> <a href='https://www.linkedin.com/in/talliran'><img alt='LinkedIn Add Me' src='https://img.shields.io/badge/-Add&nbsp;Me&nbsp;on&nbsp;LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white'></a></p><p align='center'><img src='https://github.com/lirantal/public-speaking/blob/main/static/liran-tal-header-image.png' alt='Liran Tal public speaking profile' /></p>
@@ -14,11 +14,11 @@
 
 
  - [Year of 2026](#2026) - total events 10
- - [Year of 2025](#2025) - total events 22
+ - [Year of 2025](#2025) - total events 23
  - [Year of 2024](#2024) - total events 24
  - [Year of 2023](#2023) - total events 31
  - [Year of 2022](#2022) - total events 47
- - [Year of 2021](#2021) - total events 60
+ - [Year of 2021](#2021) - total events 59
  - [Year of 2020](#2020) - total events 19
  - [Year of 2019](#2019) - total events 35
  - [Year of 2018](#2018) - total events 8
@@ -73,7 +73,7 @@
 # 2025
 
 
-![Total Events](https://img.shields.io/badge/total-22-blue?style=flat-square) ![Total Meetups](https://img.shields.io/badge/meetups-4-violet?style=flat-square) ![Total Conferences](https://img.shields.io/badge/conferences-10-red?style=flat-square) ![Total Podcasts](https://img.shields.io/badge/podcasts-6-yellow?style=flat-square) ![Total Webinars](https://img.shields.io/badge/webinars-2-lightgrey?style=flat-square)  
+![Total Events](https://img.shields.io/badge/total-23-blue?style=flat-square) ![Total Meetups](https://img.shields.io/badge/meetups-4-violet?style=flat-square) ![Total Conferences](https://img.shields.io/badge/conferences-11-red?style=flat-square) ![Total Podcasts](https://img.shields.io/badge/podcasts-6-yellow?style=flat-square) ![Total Webinars](https://img.shields.io/badge/webinars-2-lightgrey?style=flat-square)  
 
 
 <table>
@@ -132,7 +132,7 @@
 | 2025-12-17 | AI DEV TLV | [Weaponizing LLMs to Hack AI Applications](pages/2025/2025-12-17.md) |  |  | [🇮🇱](## "Israel") | English |
 | 2025-12-16 | NodeTLV | [Weaponizing LLMs to Hack Your Node.js Apps](pages/2025/2025-12-16.md) |  |  | [🇮🇱](## "Israel") | English |
 | 2025-12-13 | Señors @ Scale | [Security at Scale with Liran Tal](pages/2025/2025-12-13.md) |  | [Recording](https://www.youtube.com/watch?v=tks03l1E0IQ) |  | English |
-| 2025-11-18 | AI Native DevCon | [Weaponizing LLMs to Hack JavaScript AI Applications](pages/2025/2025-11-18.md) |  | [Recording](https://www.youtube.com/watch?v=McB4Sth3_Ss&list=PLISstAySqk7JtFY2enw8Qp3GvU9mkpHam&index=18) | [🇺🇸](## "United States") | English |
+| 2025-11-18 | AI Native DevCon | [These Aren't the Tools You're Looking For: MCP Security Awakens](pages/2025/2025-11-18.md) |  | [Recording](https://www.youtube.com/watch?v=McB4Sth3_Ss&list=PLISstAySqk7JtFY2enw8Qp3GvU9mkpHam&index=18) | [🇺🇸](## "United States") | English |
 | 2025-11-17 | JSNation US 2025 | [Weaponizing LLMs to Hack JavaScript AI Applications](pages/2025/2025-11-17.md) |  | [Recording](https://gitnation.com/contents/weaponizing-llms-to-hack-javascript-ai-applications) | [🇺🇸](## "United States") | English |
 | 2025-11-13 | Qodo + Snyk Meetup | [Weaponizing LLMs to Hack JavaScript AI Applications](pages/2025/2025-11-13.md) |  |  | [🇺🇸](## "United States") | English |
 | 2025-9-25 | Scalekit Podcast | [LLMs and insecure code: The security gaps in AI-generated code](pages/2025/2025-09-25.md) |  | [Recording](https://www.youtube.com/watch?v=UteWLfVoWqw) |  | English |
@@ -140,6 +140,7 @@
 | 2025-9-15 | Cursor User Group | [Your Lack of Agent Security is Disturbing](pages/2025/2025-09-15.md) |  |  | [🇮🇱](## "Israel") | Hebrew |
 | 2025-7-31 | TypeScript TV | [Building Secure TypeScript Applications, Liran Tal, Ep 28B](pages/2025/2025-07-31.md) |  | [Recording](https://share.transistor.fm/s/c587816d) |  | English |
 | 2025-7-11 | WeAreDevelopers World Congress 2025 | [Friend or Foe? TypeScript Security Fallacies](pages/2025/2025-07-11.md) |  |  | [🇩🇪](## "Germany") | English |
+| 2025-7-9 | WeAreDevelopers World Congress 2025 | [0Day at Day Zero Security Quiz](pages/2025/2025-07-09.md) |  |  | [🇩🇪](## "Germany") | English |
 | 2025-5-30 | OWASP Global AppSec EU 2025 | [Friend or Foe? TypeScript Security Fallacies](pages/2025/2025-05-30.md) |  |  | [🇪🇸](## "Spain") | English |
 | 2025-4-25 | CityJS London 2025 | [Hacking AI Applications](pages/2025/2025-04-25.md) |  | [Recording](https://www.youtube.com/watch?v=92gkzgLRbg0&list=PLYDCh9vbt8_KlKLaZLWlGaYuyGke1rBBT&index=2) | [🇬🇧](## "United Kingdom") | English |
 | 2025-4-14 | Codemotion Rome 2025 | [Adversarial Security Threats in the Open Source Supply Chain](pages/2025/2025-04-14.md) |  |  | [🇮🇹](## "Italy") | English |
@@ -613,7 +614,7 @@
 # 2021
 
 
-![Total Events](https://img.shields.io/badge/total-60-blue?style=flat-square) ![Total Meetups](https://img.shields.io/badge/meetups-6-violet?style=flat-square) ![Total Conferences](https://img.shields.io/badge/conferences-31-red?style=flat-square) ![Total Podcasts](https://img.shields.io/badge/podcasts-8-yellow?style=flat-square) ![Total Webinars](https://img.shields.io/badge/webinars-13-lightgrey?style=flat-square) ![Total Podcasts](https://img.shields.io/badge/articles-2-green?style=flat-square) 
+![Total Events](https://img.shields.io/badge/total-59-blue?style=flat-square) ![Total Meetups](https://img.shields.io/badge/meetups-5-violet?style=flat-square) ![Total Conferences](https://img.shields.io/badge/conferences-31-red?style=flat-square) ![Total Podcasts](https://img.shields.io/badge/podcasts-8-yellow?style=flat-square) ![Total Webinars](https://img.shields.io/badge/webinars-13-lightgrey?style=flat-square) ![Total Podcasts](https://img.shields.io/badge/articles-2-green?style=flat-square) 
 
 
 <table>
@@ -664,64 +665,60 @@
     <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2021/2021-11-15-2.jpg" width="85" height="50" /> </td>
     <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2021/2021-10-25-2.png" width="85" height="50" /> </td>
     <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2021/2021-10-25-1.jpg" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2021/2021-10-18-1.jpg" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2021/2021-10-18-3.jpg" width="85" height="50" /> </td>
-  </tr>
-  <tr>
-    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2021/2021-10-18-2.jpg" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2021/2021-10-18-4.jpg" width="85" height="50" /> </td>
     <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2021/2021-10-07-1.jpg" width="85" height="50" /> </td>
     <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2021/2021-09-21-4.jpg" width="85" height="50" /> </td>
+  </tr>
+  <tr>
     <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2021/2021-09-21-3.jpg" width="85" height="50" /> </td>
     <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2021/2021-09-21-1.jpg" width="85" height="50" /> </td>
     <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2021/2021-09-21-2.jpg" width="85" height="50" /> </td>
     <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2021/2021-09-03-1.jpg" width="85" height="50" /> </td>
-  </tr>
-  <tr>
     <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2021/2021-09-03-2.jpg" width="85" height="50" /> </td>
     <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2021/2021-08-04-1.jpg" width="85" height="50" /> </td>
     <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2021/2021-07-28-1.jpg" width="85" height="50" /> </td>
     <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2021/2021-07-28-2.jpg" width="85" height="50" /> </td>
+  </tr>
+  <tr>
     <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2021/2021-07-26-1.jpg" width="85" height="50" /> </td>
     <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2021/2021-07-21-1.jpg" width="85" height="50" /> </td>
     <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2021/2021-07-20-1.jpg" width="85" height="50" /> </td>
     <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2021/2021-07-07-1.png" width="85" height="50" /> </td>
-  </tr>
-  <tr>
     <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2021/2021-06-17-1.jpg" width="85" height="50" /> </td>
     <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2021/2021-06-15-1.jpg" width="85" height="50" /> </td>
     <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2021/2021-06-02-1.jpg" width="85" height="50" /> </td>
     <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2021/2021-06-02-2.jpg" width="85" height="50" /> </td>
+  </tr>
+  <tr>
     <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2021/2021-05-27-1.png" width="85" height="50" /> </td>
     <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2021/2021-05-04-1.jpg" width="85" height="50" /> </td>
     <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2021/2021-04-22-1.jpg" width="85" height="50" /> </td>
     <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2021/2021-03-30-1.png" width="85" height="50" /> </td>
-  </tr>
-  <tr>
     <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2021/2021-03-30-2.jpg" width="85" height="50" /> </td>
     <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2021/2021-03-24-3.jpg" width="85" height="50" /> </td>
     <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2021/2021-03-24-1.jpg" width="85" height="50" /> </td>
     <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2021/2021-03-24-2.jpg" width="85" height="50" /> </td>
+  </tr>
+  <tr>
     <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2021/2021-03-23-4.jpg" width="85" height="50" /> </td>
     <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2021/2021-03-23-3.jpg" width="85" height="50" /> </td>
     <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2021/2021-03-23-1.jpg" width="85" height="50" /> </td>
     <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2021/2021-03-23-2.jpg" width="85" height="50" /> </td>
-  </tr>
-  <tr>
     <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2021/2021-03-18-1.jpg" width="85" height="50" /> </td>
     <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2021/2021-03-15-1.jpg" width="85" height="50" /> </td>
     <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2021/2021-03-04-1.jpg" width="85" height="50" /> </td>
     <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2021/2021-02-17-1.jpg" width="85" height="50" /> </td>
+  </tr>
+  <tr>
     <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2021/2021-02-13-1.jpg" width="85" height="50" /> </td>
     <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2021/2021-02-09-2.jpg" width="85" height="50" /> </td>
     <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2021/2021-02-09-1.jpg" width="85" height="50" /> </td>
     <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2021/2021-01-28-1.png" width="85" height="50" /> </td>
-  </tr>
-  <tr>
     <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2021/2021-01-28-3.jpg" width="85" height="50" /> </td>
     <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2021/2021-01-28-2.png" width="85" height="50" /> </td>
     <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2021/2021-01-28-5.jpg" width="85" height="50" /> </td>
     <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2021/2021-01-28-4.jpg" width="85" height="50" /> </td>
+  </tr>
+  <tr>
     <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2021/2021-01-21-1.jpg" width="85" height="50" /> </td>
     <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2021/2021-01-21-2.jpg" width="85" height="50" /> </td>
   </tr>
@@ -739,7 +736,6 @@
 | 2021-11-18 | TestJS Summit | [Are We Forever Doomed to Software Supply Chain Security?](pages/2021/2021-11-18.md) |  |  |  | English |
 | 2021-11-15 | NodeTLV | [Mastering Production-grade Best Practices to Build your Node.js Docker Images](pages/2021/2021-11-15.md) |  | [Recording](https://www.youtube.com/watch?v=VSEx8gV51lY&ab_channel=NodeTLV) | [🇮🇱](## "Israel") | English |
 | 2021-10-25 | React Advanced | [Let me show you how React applications get hacked in the real world](pages/2021/2021-10-25.md) |  | [Recording](https://portal.gitnation.org/contents/let-me-show-you-how-react-applications-get-hacked-in-the-real-world) | [🇬🇧](## "United Kingdom") | English |
-| 2021-10-18 | NodeConf Remote | [How React applications get hacked in the real-world](pages/2021/2021-10-18.md) |  | [Recording](https://www.youtube.com/watch?v=3WmkGSiiu2E) |  | English |
 | 2021-10-7 | SnykCon 2021 | [Hacking your infra from the outside by exploiting npm Dependency Confusion attacks](pages/2021/2021-10-07.md) |  | [Recording](https://snyk.io/video/hacking-infra-from-outside-exploiting-npm-dependency-confusion-attacks/) |  | English |
 | 2021-10-4 | Developing Communities: The DevRel Podcast | [Episode 7: Contributing to open-source communities and building developer in DevRel with Liran Tal](pages/2021/2021-10-04.md) |  | [Recording](https://anchor.fm/developingcommunities/episodes/Episode-7-Contributing-to-open-source-communities-and-building-developer-in-DevRel-with-Liran-Tal-e189ids) |  | English |
 | 2021-9-29 | SecuriTEA with Lewis Arden | [Episode 13 - Liran Tal](pages/2021/2021-09-29-1.md) |  | [Recording](https://www.youtube.com/watch?v=WbM0fkOrzqI&ab_channel=LewisArdern) |  | English |
@@ -1243,6 +1239,6 @@
 
 
 
-*page updated on 2026-11-01T20:08:24.612Z*
+*page updated on 2026-11-03T18:20:49.938Z*
 
 powered by [gigsboat/cli](https://github.com/gigsboat/cli)
