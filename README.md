@@ -29,7 +29,7 @@
 # 2026
 
 
-![Total Events](https://img.shields.io/badge/total-11-blue?style=flat-square) ![Total Meetups](https://img.shields.io/badge/meetups-5-violet?style=flat-square) ![Total Conferences](https://img.shields.io/badge/conferences-4-red?style=flat-square) ![Total Podcasts](https://img.shields.io/badge/podcasts-2-yellow?style=flat-square)
+![Total Events](https://img.shields.io/badge/total-11-blue?style=flat-square) ![Total Meetups](https://img.shields.io/badge/meetups-5-violet?style=flat-square) ![Total Conferences](https://img.shields.io/badge/conferences-4-red?style=flat-square) ![Total Podcasts](https://img.shields.io/badge/podcasts-2-yellow?style=flat-square)   
 
 
 <table>
@@ -1240,6 +1240,6 @@
 
 
 
-*page updated on 2026-11-05T21:42:24.462Z*
+*page updated on 2026-11-05T22:03:06.189Z*
 
 powered by [gigsboat/cli](https://github.com/gigsboat/cli)
