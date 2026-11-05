@@ -3769,6 +3769,28 @@
       ]
     },
     {
+      "date": "2022-03-22T00:00:00.000Z",
+      "tags": "post",
+      "name": "Ready Code Push",
+      "url": "https://hubashdodi.wixsite.com/hub-ashdod",
+      "type": "workshop",
+      "title": "Open Source Workshop",
+      "slides_url": null,
+      "recording_url": null,
+      "city": "Ashdod",
+      "country": "Israel",
+      "country_code": "IL",
+      "language": "Hebrew",
+      "recognitions": {
+        "github": [
+          "https://github.com/ReadyCodePush"
+        ]
+      },
+      "images": [
+        null
+      ]
+    },
+    {
       "date": "2022-03-21T00:00:00.000Z",
       "tags": "post",
       "name": "React Israel meetup",
@@ -7714,14 +7736,14 @@
     }
   ],
   "stats": {
-    "total": 273,
+    "total": 274,
     "total_podcast": 45,
     "total_conference": 120,
     "total_webinar": 41,
     "total_meetup": 54,
     "total_article": 3,
-    "total_workshop": 10,
+    "total_workshop": 11,
     "total_other": 0
   },
-  "generatedAt": "2026-11-05T09:11:48.591Z"
+  "generatedAt": "2026-11-05T21:46:55.326Z"
 }
