@@ -16,10 +16,17 @@
       "recognitions": {
         "twitter": [
           null
+        ],
+        "linkedin": [
+          "https://www.linkedin.com/posts/sharonez_llmday-ugcPost-7528410631926964224-NQH4/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAACIWKAB8ax6sEGr0vZf5_9FprdpN_qAo9A",
+          "https://www.linkedin.com/posts/%F0%9D%97%9B%F0%9D%97%BC%F0%9D%98%84-%F0%9D%97%B1%F0%9D%97%BC-%F0%9D%98%86%F0%9D%97%BC%F0%9D%98%82-%F0%9D%98%81%F0%9D%98%82%F0%9D%97%BF%F0%9D%97%BB-%F0%9D%97%AE%F0%9D%97%BB-%F0%9D%97%94%F0%9D%97%9C-%F0%9D%97%BD%F0%9D%97%BC%F0%9D%98%84%F0%9D%97%B2%F0%9D%97%BF%F0%9D%97%B2%F0%9D%97%B1-ugcPost-7528411502777856001-xZjr/"
         ]
       },
       "images": [
-        null
+        "https://media.licdn.com/dms/image/v2/D4D22AQG42JehPkRMaA/feedshare-image-high-res/B4DaHonI3hJMAU-/0/1794903937209?e=1796256000&v=beta&t=oOrSsSPTM3l2TBtef7yAn_T_pJsLyo-LmpBqT1wP198",
+        "https://media.licdn.com/dms/image/v2/D4D22AQG0AWgvxHGHoA/feedshare-shrink_1280/B4DaHpKXc2HIAI-/0/1794913171541?e=1796256000&v=beta&t=lDU7eNZz6G05IdbNYp5ZNz3couhAUyEwunYPArfJRj0",
+        "https://media.licdn.com/dms/image/v2/D4D22AQF2HaGid6xezg/feedshare-image-high-res/B4DaHpKXVXGYAQ-/0/1794913171157?e=1796256000&v=beta&t=D2-7l33Vxi6ymx3KPfJtTWowNr1ivU1Dij2LXaZdpKI",
+        "https://media.licdn.com/dms/image/v2/D4D22AQHBVWuzrxWE-g/feedshare-image-high-res/B4DaHpKXS6GQAQ-/0/1794913170927?e=1796256000&v=beta&t=JKa0iNK56f4weu1zqKw5cUOovmvL6idq2MX7SuraMHU"
       ]
     },
     {
@@ -7767,5 +7774,5 @@
     "total_workshop": 11,
     "total_other": 0
   },
-  "generatedAt": "2026-11-15T05:19:23.356Z"
+  "generatedAt": "2026-11-17T15:05:02.942Z"
 }

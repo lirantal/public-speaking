@@ -34,20 +34,26 @@
 
 <table>
   <tr>
+    <td align="center"> <img src="https://media.licdn.com/dms/image/v2/D4D22AQG42JehPkRMaA/feedshare-image-high-res/B4DaHonI3hJMAU-/0/1794903937209?e=1796256000&v=beta&t=oOrSsSPTM3l2TBtef7yAn_T_pJsLyo-LmpBqT1wP198" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://media.licdn.com/dms/image/v2/D4D22AQG0AWgvxHGHoA/feedshare-shrink_1280/B4DaHpKXc2HIAI-/0/1794913171541?e=1796256000&v=beta&t=lDU7eNZz6G05IdbNYp5ZNz3couhAUyEwunYPArfJRj0" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://media.licdn.com/dms/image/v2/D4D22AQF2HaGid6xezg/feedshare-image-high-res/B4DaHpKXVXGYAQ-/0/1794913171157?e=1796256000&v=beta&t=D2-7l33Vxi6ymx3KPfJtTWowNr1ivU1Dij2LXaZdpKI" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://media.licdn.com/dms/image/v2/D4D22AQHBVWuzrxWE-g/feedshare-image-high-res/B4DaHpKXS6GQAQ-/0/1794913170927?e=1796256000&v=beta&t=JKa0iNK56f4weu1zqKw5cUOovmvL6idq2MX7SuraMHU" width="85" height="50" /> </td>
     <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2026/2026-09-16-1.jpg" width="85" height="50" /> </td>
     <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2026/2026-09-16-2.jpg" width="85" height="50" /> </td>
     <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2026/2026-07-15-1.jpg" width="85" height="50" /> </td>
     <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2026/2026-07-15-2.jpg" width="85" height="50" /> </td>
+  </tr>
+  <tr>
     <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2026/2026-07-15-3.jpg" width="85" height="50" /> </td>
     <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2026/2026-07-15-4.jpg" width="85" height="50" /> </td>
     <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2026/2026-07-15-5.jpg" width="85" height="50" /> </td>
     <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2026/2026-06-29-1.jpg" width="85" height="50" /> </td>
-  </tr>
-  <tr>
     <td align="center"> <img src="https://media.licdn.com/dms/image/v2/D4E22AQEQo1ufjt4IRQ/feedshare-shrink_800/B4EZ8ex9YhJkAc-/0/1782927841140?e=1784764800&v=beta&t=18K1NJaKoz7KV4yVwnu_DGuVcH9IMqMY6QjKgY5un1w" width="85" height="50" /> </td>
     <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2026/2026-06-01-2.jpg" width="85" height="50" /> </td>
     <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2026/2026-06-01-3.jpg" width="85" height="50" /> </td>
     <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2026/2026-06-01-4.jpg" width="85" height="50" /> </td>
+  </tr>
+  <tr>
     <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2026/2026-06-01-1.jpg" width="85" height="50" /> </td>
     <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2026/2026-06-01-7.jpg" width="85" height="50" /> </td>
     <td align="center"> <img src="https://raw.githubusercontent.com/lirantal/public-speaking/main/images/2026/2026-06-01-6.jpg" width="85" height="50" /> </td>
@@ -1241,6 +1247,6 @@
 
 
 
-*page updated on 2026-11-15T05:19:23.369Z*
+*page updated on 2026-11-17T15:05:02.954Z*
 
 powered by [gigsboat/cli](https://github.com/gigsboat/cli)
